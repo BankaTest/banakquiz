@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "1-Aşağıdakilerden hangisi hizmetin özelliklerinden değildir?",
+  "A": "A) Soyut mallardır",
+  "B": "B) Üreticiden kullanıcıya direkt mübadele edilirler",
+  "C": "C) Taşınabilir ve depo edilebilirler",
+  "D": "D) )Pek çok hizmet mallarla birlikte pazarlanır",
+  "E": "E) Tüketicilerin mülkiyetle ilişkisi olmaksızın satın aldıkları mallardır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Taşınabilir ve depo edilebilirler"
+ },
+ {
+  "Question": "2-Aşağıdakilerden hangisi insan kaynakları yönetiminin işlevlerinden değildir?",
+  "A": "A) Planlama",
+  "B": "B) Kadrolama",
+  "C": "C) Sermaye yönetimi ",
+  "D": "D) Yetiştirme ve geliştirme",
+  "E": "E) Değerleme ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Sermaye yönetimi "
+ },
+ {
+  "Question": "3-İlk yatırım fikrinden,işletme tesisleri bitip faaliyete geçmeye hazır hale gelene kadar geçen sürede yapılan \nharcamalara ………. denir?",
+  "A": "A) Yabancı sermaye(borç)",
+  "B": "B) Sabit sermaye",
+  "C": "C) İşletme sermayesi",
+  "D": "D) Öz sermaye",
+  "E": "E) Entelektüel sermaye ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Sabit sermaye"
+ },
+ {
+  "Question": "4-Aşağıdakilerden hangisi pazarlama fonksiyonlarından değildir?",
+  "A": "A) Ürün",
+  "B": "B) Fiyat",
+  "C": "C) Tutundurma",
+  "D": "D) Doğa",
+  "E": "E) Yatırım",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Doğa"
+ },
+ {
+  "Question": "5-İşletmelerin uygulamaları sonucu en fazla etik çatışma yaşadığı ilişki grubu hangisidir?",
+  "A": "A) Toptancılar",
+  "B": "B) Hükümet",
+  "C": "C) Çalışanlar",
+  "D": "D) Girdi verenler",
+  "E": "E) Müşteriler ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Müşteriler "
+ },
+ {
+  "Question": "6-Üretim için gerekli girdilerin sağlanmasına öncelik veren kuruluş yeri etkeni hangisidir?",
+  "A": "A) Ulaştırma",
+  "B": "B) Hammadde",
+  "C": "C) Özendirme önlemleri",
+  "D": "D) İş gücü",
+  "E": "E) Pazara yakınlık ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Hammadde"
+ },
+ {
+  "Question": "7-Aşağıdakilerden hangisi üretim için hiçbir çaba ve örgütlenme gerektirmeyen doğada hazır bulunan malları \nifade eder?",
+  "A": "A) Dayanıksız mallar",
+  "B": "B) Dayanıklı mallar",
+  "C": "C) Tüketim malları",
+  "D": "D) )Serbest mallar",
+  "E": "E) Üretim malları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) )Serbest mallar"
+ },
+ {
+  "Question": "8-İşletmelerin kullanacağı teknolojinin belirlenmesinde temel olan araştırma hangisidir?",
+  "A": "A) Örgütsel araştırma",
+  "B": "B) Finansal araştırma",
+  "C": "C) Teknik araştırma",
+  "D": "D) Yasal araştırma",
+  "E": "E) Ekonomik araştırma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Teknik araştırma"
+ },
+ {
+  "Question": "9-İşletmelerin kendilerine ilişkin toplumsal görüşleri ılımlı kılarak daha uzun süreli yaşama hedefleri \nbelirlemesi işletme amaçlarından hangisinin kapsamında yer alır?",
+  "A": "A) Çalışanlara uygun ücret verme",
+  "B": "B) Toplumsal sorumluluk",
+  "C": "C) Uzun dönemli büyüme",
+  "D": "D) Topluma hizmet",
+  "E": "E) Nitelikli mal sunma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Toplumsal sorumluluk"
+ },
+ {
+  "Question": "10) İşletmenin üst hiyerarşik kademelerinde gerçekleştirilen planlara ne ad verilir?",
+  "A": "A) Orta vadeli planlar",
+  "B": "B) Kısa vadeli planlar",
+  "C": "C) Uzun vadeli planlar",
+  "D": "D)  Belirsiz planlar",
+  "E": "E) Amaçsız planlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Uzun vadeli planlar"
+ },
+ {
+  "Question": "11) Gelecekteki işgücünün tahmininde dikkate alınması gereken faktörler arasında aşağıdakilerden hangisi yer \nalmaz?",
+  "A": "A) Yasal değişiklikler",
+  "B": "B) İşgücü piyasasındaki değişiklikler",
+  "C": "C) Rekabet koşullarındaki değişiklikler",
+  "D": "D) Ekonomik değişiklikler",
+  "E": "E)  Kültürel değişiklikler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E)  Kültürel değişiklikler"
+ },
+ {
+  "Question": "12) Bir faaliyet dönemi içinde kullanılacak, tüketilecek, satılacak, tahsil edilecek unsurlar ile paranın kendisinden oluşan varlıklara ne denmektedir?",
+  "A": "A) Dönen varlıklar",
+  "B": "B) Duran varlıklar",
+  "C": "C) Finansal varlıklar",
+  "D": "D) Mali varlıklar",
+  "E": "E) Maddi duran varlıklar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Dönen varlıklar"
+ },
+ {
+  "Question": "13) Aşağıdakilerden hangisi denetim sürecinin ilk aşamasını ifade eder?",
+  "A": "A) Faaliyete geçilmesi",
+  "B": "B) Yetki ve sorumlulukların düzenlenmesi",
+  "C": "C) Standartların oluşturulması",
+  "D": "D) Performansın ölçümü",
+  "E": "E)  Performans ile standartların karşılaştırılması ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Standartların oluşturulması"
+ },
+ {
+  "Question": "14) Aşağıdakilerden hangisi krize neden olan ekonomik faktörlerden biri değildir?",
+  "A": "A) Ülkedeki ödemeler dengesindeki bozulmalar",
+  "B": "B) Tüketici gelirlerindeki değişmeler",
+  "C": "C) Hükümetlerin işletmelerin standartlara uygun mal satmaları ile ilgili tedbirler alması",
+  "D": "D) Yabancı işletmelerin ülkeye girişleri ",
+  "E": "E) Devlet harcamalarının azaltılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Hükümetlerin işletmelerin standartlara uygun mal satmaları ile ilgili tedbirler alması"
+ },
+ {
+  "Question": "15- Aşağıdakilerden hangisi orta kademe yöneticinin görevi değildir?",
+  "A": "A) Denge unsuru oluşturur",
+  "B": "B) Kurumların bütününü ilgilendiren kararlar alır",
+  "C": "C) Alt kademe yöneticileri denetler",
+  "D": "D) Köprü görevini yapar",
+  "E": "E) Üst yönetimin ele aldığı stratejileri uygulamaya geçirir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kurumların bütününü ilgilendiren kararlar alır"
+ },
+ {
+  "Question": "16-Aşağıdakilerden hangisi üst kademe yöneticisinin görevi değildir?",
+  "A": "A) Kurumun amaçlarını ortaya koymak",
+  "B": "B) Bu amaçlara ulaşmada izlenecek stratejileri belirlemek",
+  "C": "C) Kurumun dış çevresini gözden geçirmek",
+  "D": "D) Kurumun bütününü ilgilendiren kararlar almak ve bunları uygulamaya koymaktır",
+  "E": "E) Denge unsuru yöneticidir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Denge unsuru yöneticidir"
+ },
+ {
+  "Question": "17.Aşağıdakilerden hangisi insan kaynakları yönetiminin ana konusunu oluşturur?",
+  "A": "A) Sermaye",
+  "B": "B) Müteşebbis",
+  "C": "C) Emek",
+  "D": "D) Girişim",
+  "E": "E) Doğal kaynaklar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Emek"
+ },
+ {
+  "Question": "18- Kâr ve risk başkalarına ait olmak üzere ekonomik mal veya hizmet üretmek veya pazarlamak için üretim \nfaktörlerini ele geçirip düzenli bir biçimde bir araya getiren ve böylece, kurulan ya da çalışmakta olan işletmeyi\namacına uygun çalıştırma sorumluluğunu üstlenen kişiye ne ad verilir?",
+  "A": "A) Girişimci",
+  "B": "B) Yönetici",
+  "C": "C)  Tefeci",
+  "D": "D) Tüccar",
+  "E": "E) Vekilharç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Yönetici"
+ },
+ {
+  "Question": "19-Aşağıdakilerden hangisi, işletmenin fonksiyonlarından biri değildir?",
+  "A": "A) Muhasebe-finansman",
+  "B": "B) Üretim",
+  "C": "C) Pazarlama",
+  "D": "D) İnsan kaynaklan",
+  "E": "E) Planlama",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Planlama"
+ },
+ {
+  "Question": "20-Yatırım projeleri hazırlanırken, kesin yatırım kararı alınabilmesi için yapılan, yatırıma yönelik bazı ekonomik, \nmali, teknik ve yasal ön bilgileri elde etme olasılığı sağlayan çalışmalara ne ad verilir?",
+  "A": "A) Ön hazırlık raporu",
+  "B": "B) Faaliyet raporu",
+  "C": "C) Analitik etüt",
+  "D": "D) Fizibilite etüdü ",
+  "E": "E) Yatırım analizi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Fizibilite etüdü "
+ }
+]
