@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Üzerinde anlaşma sağlanan bir işlemin,\nfiilen yerine getirileceği örneğin, karşılıklı\nolarak hesaplara alacak ve borç\nkaydedileceği tarih aşağıdakilerden\nhangisidir?",
+  "A": "A) Kredi",
+  "B": "B) Mevduat",
+  "C": "C) Faiz",
+  "D": "D) Plasman",
+  "E": "E) Valör",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Valör"
+ },
+ {
+  "Question": "Anaparaya ödenen faize ilave edilmeden\nhesaplanan faize ne ad verilir?",
+  "A": "A) Basit faiz",
+  "B": "B) Bileşik faiz",
+  "C": "C) Ortalama faiz",
+  "D": "D) Reeskont faizi",
+  "E": "E) Avans faizi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Basit faiz"
+ },
+ {
+  "Question": "Reel faiz ne demektir?",
+  "A": "A) Fiyat hareketlerinden arındırılmış olan\nfaiz oranıdır",
+  "B": "B) Ödünç verene ödenen faiz oranıdır",
+  "C": "C) Piyasa koşullarının faiz oranıdır",
+  "D": "D) Kıymetin üzerinde yazılı faiz oranıdır",
+  "E": "E) Avans işlemlerinde uygulanan faiz\noranıdır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Fiyat hareketlerinden arındırılmış olan\nfaiz oranıdır"
+ },
+ {
+  "Question": "Bir malın yatırımcı tarafından satın\nalınması yerine, bir kiralama şirketi\ntarafından alınıp, yatırımcıya belirli bir\ndönem kiralanmasıyla sağlanan finansal\nkolaylığa ne ad verilir?",
+  "A": "A) Peşin alım",
+  "B": "B) Opsiyon",
+  "C": "C) Faktöring",
+  "D": "D) Leasing",
+  "E": "E) Akreditif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Leasing"
+ },
+ {
+  "Question": "Firmalar tarafından yurtdışındaki\nsatıcılardan veya uluslararası piyasalardan\nsağlanan, ithalatı finanse etmek amacını\ngüden ve bir banka aracılığıyla\nkullandırılan gayrinakdi kredi türü\naşağıdakilerden hangisidir?",
+  "A": "A) Banka kabulü",
+  "B": "B) Post finansman",
+  "C": "C) Teminat mektubu",
+  "D": "D) Kontrgaranti",
+  "E": "E) Prefinansman",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Post finansman"
+ },
+ {
+  "Question": "Bir poliçe veya senetten doğan hakların geri\ndönülemez bir şekilde devri anlamına gelen\nve genelde ihracat işlemlerinde kullanılan\nbir finansman yöntemi olan ihracatçının\nvadeli mal veya hizmet satışından doğan\nalacak haklarını iskonto karşılığında bu\nkonuda uzman bir kuruluş veya bankaya\ndevrettiği işleme ne ad verilir?",
+  "A": "A) Forfaiting",
+  "B": "B) Factoring",
+  "C": "C) Factoring",
+  "D": "D) Futures",
+  "E": "E) Leasing",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Forfaiting"
+ },
+ {
+  "Question": "Cumhuriyet ilan edildikten sonra kurulan\nilk banka aşağıdakilerden hangisidir?",
+  "A": "A) Afyon Terakki Servet Bankası",
+  "B": "B) Türkiye Sınai ve Maadin Bankası",
+  "C": "C) Türkiye İş Bankası",
+  "D": "D) Emlak ve Eytam Bankası",
+  "E": "E) Umumi Ticareti Hariciye Bankası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Türkiye İş Bankası"
+ },
+ {
+  "Question": "Bankaların yönetim kurulları, genel müdür dâhil en az kaç kişiden oluşmak zorundadır?",
+  "A": "A) 9",
+  "B": "B) 8",
+  "C": "C) 7",
+  "D": "D) 6",
+  "E": "E) 5",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) 5"
+ },
+ {
+  "Question": "Toplumun her kesimine daha geniş hizmet\nseçeneklerinin ulaşabilmesini sağlayacak\nfinansal hizmetlerin artmasına ne ad\nverilir?",
+  "A": "A) Finansal bulaşıcılık",
+  "B": "B) Finansal derinleşme",
+  "C": "C) Finansal entegrasyon",
+  "D": "D) Finansal kaldıraç",
+  "E": "E) Finansal yapı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Finansal derinleşme"
+ },
+ {
+  "Question": "Bir banka bilânçosundaki sabit faizli\nkredilerin ortalama vadesi sabit faizli\nkaynağın ortalama vadesinden daha uzun ise\nBanka bu durumda nasıl bir risk\ntaşımaktadır?",
+  "A": "A) Risk taşımamaktadır",
+  "B": "B) Faizlerin düşme riski",
+  "C": "C) Faizlerin artma riski",
+  "D": "D) Sorunlu kredilerde artış riski",
+  "E": "E) Hem faiz düşüşü hem de faiz artışı banka\niçin risk oluşturur",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Faizlerin artma riski"
+ },
+ {
+  "Question": "Zorunlu karşılıklar nedir?",
+  "A": "A) Bankaların kullandırdığı krediler için\nödediği vergi ve fonlar",
+  "B": "B) Bankaların karından ödemekle yü-\nkümlü olduğu vergi",
+  "C": "C) Bankaların Krediler üzerinden ayırdıkları karşılıklar",
+  "D": "D) Bankaların topladığı TL ve YP mevduat\niçin ayırdıkları karşılıklar",
+  "E": "E) Bankaların Hazine Bonosu veya Devlet\nTahvili için ayırması gereken karşılık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Bankaların topladığı TL ve YP mevduat\niçin ayırdıkları karşılıklar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Türkiye\nCumhuriyeti Merkez Bankası’nın para\npolitikasında kullandığı araçlardan biri\ndeğildir?",
+  "A": "A) Faiz ve reeskont işlemleri",
+  "B": "B) Emisyon işlemleri",
+  "C": "C) Karşılık oranları",
+  "D": "D) Açık piyasa işlemleri",
+  "E": "E) Serbest piyasa işlemleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Serbest piyasa işlemleri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Türkiye\nCumhuriyet Merkez Bankası’nın görevidir?",
+  "A": "A) Bankaların kuruluş ve faaliyetlerini\ndüzenlemek",
+  "B": "B) Bankaların mevduat vade ve türlerini\nbelirlemek",
+  "C": "C) Tasarruf sahiplerinin haklarını ve\nbankaların düzenli ve emin bir şekilde\nçalışmasını tehlikeye sokabilecek ve\nekonomide önemli zararlar doğurabilecek\nher türlü işlem ve uygulamaları önlemek",
+  "D": "D) Faaliyet izni kaldırılan veya Fona\ndevredilen bankada mevduat ve katılım\nfonu sahipleri ile diğer alacaklıların\nhaklarını korumaya yönelik\nolarak gerekli görülen her türlü tedbiri\nalmak",
+  "E": "E) Kredi kuruluşları nezdindeki tasarruf\nmevduatı ve gerçek kişilere ait katılım\nfonlarını sigorta etmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Bankaların mevduat vade ve türlerini\nbelirlemek"
+ },
+ {
+  "Question": "Zorunlu Karşılıklarla ilgili aşağıdakilerden\nhangisi yanlıştır?",
+  "A": "A) Zorunlu karşılık oranları vadelere göre\nfarklıdır",
+  "B": "B) Kısa vadelerde zorunlu karşılık oranları\ndaha yüksek, uzun vadelerde zorunlu\nkarşılık oranları daha düşüktür",
+  "C": "C) TCMB zorunlu karşılıklar yoluyla piyasadaki likidite miktarını kontrol ederek,\nfaiz seviyesini belirler",
+  "D": "D) TCMB Bankaların tutmak zorunda\noldukları zorunlu karşılıklarla ilgili olarak\nBankalara politika faizi üzerinden faiz\nöder",
+  "E": "E) Zorunlu karşılık oranları TCMB tarafından belirlenir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) TCMB Bankaların tutmak zorunda\noldukları zorunlu karşılıklarla ilgili olarak\nBankalara politika faizi üzerinden faiz\nöder"
+ },
+ {
+  "Question": "Finansal sistemin temel fonksiyonu aşa-\nğıdakilerden hangisidir?",
+  "A": "A) Mal ve hizmet üretmek",
+  "B": "B) Fon akımına aracılık etmek",
+  "C": "C) Faiz oranlarını yükseltmek",
+  "D": "D) Mal ve hizmet takasını sağlamak",
+  "E": "E) Gelir düzeyini belirlemek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Fon akımına aracılık etmek"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi T.C. Merkez\nBankası’nın görevlerinden biri değildir?",
+  "A": "A) Devletin veznedarlık görevini yapmak",
+  "B": "B) Sermaye piyasalarının işleyiş ve\nkurallarını belirlemek",
+  "C": "C) Banknot ihraç etmek",
+  "D": "D) Mali ve iktisadi konularda devletin\ndanışmanlığını yapmak",
+  "E": "E) Krediyi düzenlemek ve denetlemek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Sermaye piyasalarının işleyiş ve\nkurallarını belirlemek"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların\npazarlama faaliyetlerinden biridir?",
+  "A": "A) Ürün fiyatlandırması",
+  "B": "B) Kredilerin operasyonel işlemleri",
+  "C": "C) Şube nakit akışlarının yürütülmesi",
+  "D": "D) Şube banko hizmetleri",
+  "E": "E) Muhasebe işlemleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Ürün fiyatlandırması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Türkiye Bankalar\nBirliği tarafından hazırlanmış olan\nbankacılık etik ilkelerinden biri değildir?",
+  "A": "A) Rekabet",
+  "B": "B) Tarafsızlık",
+  "C": "C) Dürüstlük",
+  "D": "D) Sağlamlık",
+  "E": "E) Güvenilirlik",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Sağlamlık"
+ },
+ {
+  "Question": "1694 yılında kurulan dünyanın ilk merkez\nbankası aşağıdakilerden hangisidir?",
+  "A": "A) İngiltere Merkez Bankası",
+  "B": "B) Japonya Merkez Bankası",
+  "C": "C) İtalya Merkez Bankası",
+  "D": "D) Kanada Merkez Bankası",
+  "E": "E) ABD Merkez Bankası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İngiltere Merkez Bankası"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi dış ticarette\nkullanılan ödeme şekillerinden değildir?",
+  "A": "A) EFT ile ödeme",
+  "B": "B) Peşin ödeme",
+  "C": "C) Vesaik Mukabili ödeme",
+  "D": "D) Mal Mukabili ödeme",
+  "E": "E) Akreditifli ödeme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) EFT ile ödeme"
+ }
+]

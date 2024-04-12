@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Kredi kartlarında daha güvenli bir kullanım için CHİP and PIN uygulaması hangi tarihte zorunlu olmuştur?",
+  "A": "A) 2006",
+  "B": "B) 2007",
+  "C": "C) 2008",
+  "D": "D) 2009",
+  "E": "E) 2010",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 2007"
+ },
+ {
+  "Question": "Ülkemizde kullanılan ilk kredi kartı hangisidir?",
+  "A": "A) Setur diners club",
+  "B": "B) Paraf",
+  "C": "C) Bonus",
+  "D": "D) Maximum",
+  "E": "E) Word",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Setur diners club"
+ },
+ {
+  "Question": "Tüm dünya bankalarının para transferinde kullandığı merkezi Brüksel’de olan para transfer işlemine ne ad verilir?",
+  "A": "A) Eft",
+  "B": "B) Havale",
+  "C": "C) Swift",
+  "D": "D) Virman",
+  "E": "E) Fast",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Swift"
+ },
+ {
+  "Question": "Bir kişinin bir bankadan başka bir bankadaki hesabına gönderdiği para transfer işlemine ne ad verilir?",
+  "A": "A) Havale",
+  "B": "B) Eft",
+  "C": "C) Virman",
+  "D": "D) Swift",
+  "E": "E) Bloke",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Eft"
+ },
+ {
+  "Question": "Bir kişinin aynı bankadaki bir hesabından başka bir hesabına para transferine ne ad verilir?",
+  "A": "A) Havale",
+  "B": "B) Eft",
+  "C": "C) Virman",
+  "D": "D) Swift",
+  "E": "E) Bloke",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Virman"
+ },
+ {
+  "Question": "TL hangi tarihte IMF tarafından konvertibel kabul edilmiştir?",
+  "A": "A) 1987",
+  "B": "B) 1988",
+  "C": "C) 1989",
+  "D": "D) 1990",
+  "E": "E)1991",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 1989"
+ },
+ {
+  "Question": "Bankacılıkta artan riskleri azaltmak amacı ile yapılan ve bankalarda sermaye yeterliliğinin %8 asgari düzeyde olmasını öngören Basel Anlaşması hangi tarihte imzalandı?",
+  "A": "A) 1988",
+  "B": "B) 1989",
+  "C": "C) 2000",
+  "D": "D) 2001",
+  "E": "E) 2002",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 1988"
+ },
+ {
+  "Question": "Ülke dışından sağlanan fonları yine ülke dışında kullanılmasını amaçlayan ve sektörlerle ilgili her türlü yasa ve yönetmeliklerin dışında kalan serbest bankacılığı ne ad verilir?",
+  "A": "A)Katılım Bankaları",
+  "B": "B)  Yatırım Bankaları",
+  "C": "C) Merkez Bankaları",
+  "D": "D) Kıyı Bankacılığı",
+  "E": "E) Deniz Bankacılığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kıyı Bankacılığı"
+ },
+ {
+  "Question": "Ekonomik kalkınmayı desteklemek amacıyla yurt içi ve yurt dışı fonları kullanarak kredi vermek için kurulmuş mevduat toplama yetkisi olmayan bankalara ne ad verilir?",
+  "A": "A) Kalkınma Bankaları",
+  "B": "B) Katılım  Bankaları",
+  "C": "C) Mevduat  Bankaları",
+  "D": "D) Özel Bankalar",
+  "E": "E) Kamu Bankalar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kalkınma Bankaları"
+ },
+ {
+  "Question": "Eski adı özel finans kuruluşları olan cari ve katılma hesapları yoluyla fon toplamak ve kredi kullandırmak esas olmak üzere faizsiz bankacılık prensiplerine göre faaliyetlerde bulunan bankalara ne ad verilir?",
+  "A": "A) Kalkınma Bankaları",
+  "B": "B) Katılım  Bankaları",
+  "C": "C) Mevduat  Bankaları",
+  "D": "D) Özel Bankalar",
+  "E": "E) Kamu Bankalar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Katılım  Bankaları"
+ },
+ {
+  "Question": " Şirketlere orta ve uzun vadeli finansman sağlamak sermaye piyasalarında aracılık halka arzlarda aracılık şirket birleşme ve satın almalara aracılık portföy yönetimi konularında faaliyet gösterip mevduat toplayamayan bankalara ne ad verilir?",
+  "A": "A) Mevduat Bankalar",
+  "B": "B) Katılım  Bankaları",
+  "C": "C) Kurumsal Bankalar",
+  "D": "D) Kamu Bankalar",
+  "E": "E) Yatırım Bankalar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yatırım Bankalar"
+ },
+ {
+  "Question": "Hane halkı, firmalar veya devlet tarafından harcanmayarak tasarrufa aktarılan fonları kabul ederek fon ihtiyacı olan kişi, kurum veya kuruluşlara kredi olarak aktaran kurumlara ne ad verilir?",
+  "A": "A) Bankalar",
+  "B": "B) Faktöring Şirketler",
+  "C": "C) Sigorta Şirketleri",
+  "D": "D) Emeklilik Şirketleri ",
+  "E": "E) Özel Şirketler ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Bankalar"
+ },
+ {
+  "Question": "Bankalar en önemli mali tabloları olan gelir tablosu ve bilançolar hangi periyotta yayımlanır?",
+  "A": "A) 1 Ay",
+  "B": "B) 3 Ay",
+  "C": "C) 6 Ay",
+  "D": "D) 8 Ay",
+  "E": "E) 12 Ay",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 3 Ay"
+ },
+ {
+  "Question": "Bankaların mevduat çekilişi veya günlük işlemlere ilişkin ödemelerini karşılayabilmeleri amacıyla kasalarında hazır bulundurdukları paraya ne ad verilir? ",
+  "A": "A) Zorunlu Karşılık",
+  "B": "B) Disponibilite ",
+  "C": "C) Munzam",
+  "D": "D) Ankes",
+  "E": "E) Banka Parası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ankes"
+ },
+ {
+  "Question": "İşlem yapılan andaki kur üzerinden dövizin alış ve satışının iki iş günü sonrasına ait valör ile gerçekleştiği işlemlere ne ad verilir?",
+  "A": "A) Spot İşlem",
+  "B": "B) Forawrd ",
+  "C": "C) Swap",
+  "D": "D) Futures",
+  "E": "E) Günlük İşlem ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Forawrd "
+ },
+ {
+  "Question": "TCMB nezdinde piyasada işlem yapmak isteyen bankalara tanımlanmış olan limitlere ne ad verilir?",
+  "A": "A) Spread",
+  "B": "B) Line",
+  "C": "C) Tranş",
+  "D": "D) Konvertibilite",
+  "E": "E) Forwad",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Tranş"
+ },
+ {
+  "Question": "Menkul kıymetlerin ucuz olduğu piyasadan alınarak daha pahalı olduğu piyasa- da\nsatılması işlemine ne denir?",
+  "A": "A) Arbitraj",
+  "B": "B) Swap",
+  "C": "C) Varant",
+  "D": "D) Hedging",
+  "E": "E) Forfaiting",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Arbitraj"
+ },
+ {
+  "Question": "Dövizin ülke parası cinsinden günlük\ndeğerine ne denir?",
+  "A": "A) Dalgalı kur",
+  "B": "B) Çapraz kur",
+  "C": "C) Sabit kur",
+  "D": "D) Cari kur",
+  "E": "E) Parite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Cari kur"
+ },
+ {
+  "Question": "Bankanın döviz pozisyonunun fazla olması (long pozisyon) halinde, döviz kurlarının düzenli yükselmesinden banka\nbilançosu nasıl etkilenir?",
+  "A": "A) Etkilenmez",
+  "B": "B) Zarar eder",
+  "C": "C) Kar eder",
+  "D": "D) Pozisyon ile döviz kuru arasında bir\nilişki bulunmamaktadır",
+  "E": "E) Kısa vadede kar edilirken uzun vadede\nzarara neden olur",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kar eder"
+ },
+ {
+  "Question": "Avrupa Birliği düzenlemeleri çerçevesinde,\nülkeler arasında gerçekleştirilen para\ntransferlerinin hızı ile kalitesini artırmak\nve maliyetlerini düşürmek amacıyla\nInternational Bank Account Number adı\nverilen uluslararası banka hesap numarası\nstandardının kullanımdaki adı\naşağıdakilerden hangisidir?",
+  "A": "A) SWIFT",
+  "B": "B) MOBİL POS",
+  "C": "C) DAİL-UP",
+  "D": "D)  EFT",
+  "E": "E) IBAN",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) IBAN"
+ }
+]

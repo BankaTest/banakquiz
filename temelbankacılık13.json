@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi seyahat çeklerinde\nbulunması gerekli unsurlardan biri\ndeğildir?",
+  "A": "A) Döviz cinsi ve miktarı",
+  "B": "B) Yabancı dilde yazılmış şahıs çeki ibaresi",
+  "C": "C) Tatbik imza (signature)",
+  "D": "D) Çeki çıkaran kuruluşun başkan veya\ngenel müdürünün faksimile imzası",
+  "E": "E) Seri numarası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Yabancı dilde yazılmış şahıs çeki ibaresi"
+ },
+ {
+  "Question": "Yabancı para borçların yabancı para\nalacaklardan fazla olduğu döviz\npozisyonuna ne ad verilir?",
+  "A": "A) Short pozisyon",
+  "B": "B) Long pozisyon",
+  "C": "C) Başabaş pozisyon",
+  "D": "D) Net pozisyon",
+  "E": "E) Volatilite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Short pozisyon"
+ },
+ {
+  "Question": "Posta idareleri veya bankalar tarafından\nbelli bir kişi emrine tanzim edilen; keşide\nçeki niteliği taşıyan; ilk sahipleri\ntarafından ibraz edilmesi gereken yabancı\npara çek türü aşağıdakilerden hangisidir?",
+  "A": "A) IFO",
+  "B": "B) IOU",
+  "C": "C) IMO",
+  "D": "D) ISO",
+  "E": "E) IMM",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) IMO"
+ },
+ {
+  "Question": "Sendikasyon türü kredilerde kredi almak\nisteyen kurum ile lider banka arasında\nimzalanan ön sözleşmeye ne ad verilir?",
+  "A": "A) Mandate",
+  "B": "B) Spread",
+  "C": "C) Road Show",
+  "D": "D) Street Show",
+  "E": "E) Syndicate",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Mandate"
+ },
+ {
+  "Question": "Uluslararası döviz piyasalarında, bütün\nparaların ABD dolarına olan\nkarşılıklarına ne ad verilir?",
+  "A": "A) TCMB kuru",
+  "B": "B) Cari kur",
+  "C": "C) Serbest kur",
+  "D": "D) Parite",
+  "E": "E) Döviz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Parite"
+ },
+ {
+  "Question": "Yerel para biriminin sabit bir kur\nüzerinden güçlü bir yabancı rezerv paraya\nveya yabancı paralardan oluşan bir sepete\nendekslendiği ve parasal tabanın sadece\nyabancı para karşılığında yapılan\nişlemlerde değişmesine izin verildiği döviz\nkuru rejimine ne ad verilir?",
+  "A": "A) Para İkamesi",
+  "B": "B) Para Sahası",
+  "C": "C) Sürünen Pariteler",
+  "D": "D) Para Kurulu",
+  "E": "E) Para Çoğaltanı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Para Kurulu"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yabancı paralar\nüzerinden düzenlenen çek türleri arasında\nyer almaz?",
+  "A": "A) Çizgili çekler",
+  "B": "B) Seyahat çekleri",
+  "C": "C) IMO - International Money Order",
+  "D": "D) ABD Hazine çekleri",
+  "E": "E) Banka çekleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Çizgili çekler"
+ },
+ {
+  "Question": "Alacaklı tarafından borçlu taraf üzerine\ndüzenlenen, onun belirli bir miktar parayı\nüçüncü bir şahsa veya emrine ödenmesini\nemreden kıymetli evrak aşağıdakilerden\nhangisidir?",
+  "A": "A) Emre muharrer senet",
+  "B": "B) Esham",
+  "C": "C) Poliçe",
+  "D": "D)  Bono",
+  "E": "E) Pay senedi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Poliçe"
+ },
+ {
+  "Question": "Kredi kullandırımından önce, lehine kredi\ntespit edilen bütün gerçek ve tüzel kişilerden\ntüm kredilerini kapsayacak şekilde alınan\nimzalı belgeye ne ad verilir?",
+  "A": "A) GYO",
+  "B": "B) KDR",
+  "C": "C) GDR",
+  "D": "D) KÇS",
+  "E": "E) KGF",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) KÇS"
+ },
+ {
+  "Question": "“Gelirlerinden zorunlu harcamalar düşüldükten sonra elinde fon fazlası olanlara………denir.”ifadesinin doğru olması için boşluğun yerine aşağıdakilerden hangisi\ngetirilmelidir?",
+  "A": "A) Üretici",
+  "B": "B) Tüketici",
+  "C": "C) Yatırımcı",
+  "D": "D) Tasarruf sahibi",
+  "E": "E) Fon açığı olanlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Tasarruf sahibi"
+ },
+ {
+  "Question": "EFT sistemi için aşağıdaki tanımlardan\nhangisi doğrudur?",
+  "A": "A) EFT sistemi Bankalararası TL fon akı-\nşının düzenlenmesi amacıyla kullanılan\nbir ulusal ödeme ağıdır",
+  "B": "B) EFTsistemi Bankalararası YP fon akı-\nşının düzenlenmesi amacıyla kullanılan\nbir ulusal ödeme ağıdır",
+  "C": "C) EFT sistemi Bankalararası TL fon akı-\nşının düzenlenmesi amacıyla kullanılan\nbir uluslararası ödeme ağıdır",
+  "D": "D) EFT sisteminde, Bankalararası TL-YP fon\nakışı sağlanır",
+  "E": "E) EFT sistemi Tasarruf Mevduatı Sigorta\nFonu tarafından kurulmuştur",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) EFT sistemi Bankalararası TL fon akı-\nşının düzenlenmesi amacıyla kullanılan\nbir ulusal ödeme ağıdır"
+ },
+ {
+  "Question": "5411 sayılı Bankacılık Kanunu’na göre\nzamanaşımına uğrayan kıymetler hangi\nkuruma devredilir?",
+  "A": "A) Hazine Müsteşarlığı",
+  "B": "B) Türkiye Bankalar Birliği",
+  "C": "C) Bankacılık Düzenleme ve Denetleme\nKurumu",
+  "D": "D) Türkiye Cumhuriyet Merkez Bankası",
+  "E": "E) Tasarruf Mevduatı Sigorta Fonu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Tasarruf Mevduatı Sigorta Fonu"
+ },
+ {
+  "Question": "Sadece alacağın temliki yoluyla devredilebilen ve ciro edilme özelliği olmayan çek türüne ne ad verilir?",
+  "A": "A) Nama yazılı çek",
+  "B": "B) Emre yazılı çek",
+  "C": "C) Blokeli çek",
+  "D": "D) Hamiline yazılı çek",
+  "E": "E) Seyahat çeki",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Nama yazılı çek"
+ },
+ {
+  "Question": "Bir kimsenin kendi adına diğer bir kimseye\nbir miktar para, değerli kağıtlar veya benzeri\nşeyleri vermeye üçüncü bir kişiyi yetkili\nkılmasına ne ad verilir?",
+  "A": "A) Virman",
+  "B": "B) Akit",
+  "C": "C) Gabin",
+  "D": "D) Ciro",
+  "E": "E) Havale",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Havale"
+ },
+ {
+  "Question": "Vadeli veya vadesiz olabilen, birden çok\ngerçek ya da tüzel kişinin birlikte açtırdığı ve\nyapılan anlaşmaya göre ayrı ayrı veya\nbirlikte para çekebildiği hesap türüne ne ad\nverilir?",
+  "A": "A) Müteselsil Hesap",
+  "B": "B) Müsteşrik Hesap",
+  "C": "C) Müşterek Hesap",
+  "D": "D) Müştak Hesap",
+  "E": "E) Birikimli Mevduat Hesabı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Müşterek Hesap"
+ },
+ {
+  "Question": "Borç verip rehin alacaklısı haline gelen kişiyi\nifade eden kavram aşağıdakilerden hangisidir?",
+  "A": "A) Devir ve birleşme",
+  "B": "B) Kredi kefili",
+  "C": "C) Dain ve mürtehin",
+  "D": "D) Sigorta şirketi",
+  "E": "E) Atıf",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Dain ve mürtehin"
+ },
+ {
+  "Question": "Aşağıdaki mevduatlardan hangisi mevduat\nsigortası kapsamındadır?",
+  "A": "A) X Bankasının Amsterdam \/\nHollanda şubesinde bulunan Euro hesabı",
+  "B": "B) Samet Parasıbol’un A Bankası\n…Şubesinde bulunan 3 ay vadeli TL\nhesabı",
+  "C": "C) Y Bankası hakim ortaklarından Mahmut\nCan’a ait Y Bankası ….Şubesindeki\nvadesiz hesap",
+  "D": "D) Samet Parasıbol’un A Bankası\nKKTC Lefkoşe Şubesindeki offshore\nUSD hesabı",
+  "E": "E) X Bankası Yönetim Kurulu üyesi Rafet\nAydın’nın X Bankası….Şubesindeki 1 ay\nvadeli TL hesabı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Samet Parasıbol’un A Bankası\n…Şubesinde bulunan 3 ay vadeli TL\nhesabı"
+ },
+ {
+  "Question": "A Bankası yurtdışı piyasalardan 50 milyon\nUSD sendikasyon kredisi almıştır. Bu kredi A\nBankasının bilançosunun hangi tarafında,\nhangi başlık altında yer alır?",
+  "A": "A) Aktif, Krediler",
+  "B": "B) Pasif, Faktoring Borçları",
+  "C": "C) Pasif, Alınan Krediler",
+  "D": "D) Aktif, Bankalar ve Diğer Mali Kuruluşlar",
+  "E": "E) Pasif, Muhtelif Borçla",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Pasif, Faktoring Borçları"
+ },
+ {
+  "Question": "Aşağıdaki bankacılık işlemlerinden hangisi\nticari bankalar tarafından yapılamaz?",
+  "A": "A) Kiralık kasalar",
+  "B": "B) Havale işlemleri",
+  "C": "C) Mevduat toplama",
+  "D": "D) Akreditif işlemleri",
+  "E": "E) Finansal Kiralama İşlemleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Finansal Kiralama İşlemleri"
+ },
+ {
+  "Question": "Aşağıdaki çek türlerinden hangisi ciro ve\nteslim yoluyla devredilebilir?",
+  "A": "A) Nama yazılı çek",
+  "B": "B) Emre yazılı çek",
+  "C": "C) Teyitli çek",
+  "D": "D) Bloke çek",
+  "E": "E) Çizgili çek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Emre yazılı çek"
+ }
+]

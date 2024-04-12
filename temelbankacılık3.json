@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Hammadde veya temel ürünlerin değiş tokuşunun yapıldığı piyasaya ne denir?",
+  "A": "A)  Hedding",
+  "B": "B) Emtia piyasaları",
+  "C": "C) Swap",
+  "D": "D) Para piyasaları",
+  "E": "E) Sermaye piyasaları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Emtia piyasaları"
+ },
+ {
+  "Question": "Bir tarafa belirli bir kredinin geri ödenmemesi riskine karsı koruma sağlayan iki taraflı bir anlaşma\nseklindeki kredi türevine ne denir?\n",
+  "A": "A)  Swap",
+  "B": "B) CDS",
+  "C": "C) DCD",
+  "D": "D) R-DCD",
+  "E": "E) Futures",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) CDS"
+ },
+ {
+  "Question": "İki tarafın bir varlık ya da yükümlülüğe bağlı olan nakit akısını aralarında değiştirdikleri işleme ne denir? ",
+  "A": "A)  Forward",
+  "B": "B) Opsiyon",
+  "C": "C) Swap",
+  "D": "D) Forfaiting",
+  "E": "E) Hedding",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Swap"
+ },
+ {
+  "Question": "Piyasadaki oyuncuların faizi düşük paradan borçlanarak elde ettikleri fonları yüksek faizle başka bir para cinsinden aktiflere yatırmaları ve bu faiz farklılığından para kazanmalarına ne denir?\n",
+  "A": "A)  CDS",
+  "B": "B) DCD",
+  "C": "C) Futures",
+  "D": "D) Carry Trade",
+  "E": "E) Swap",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Carry Trade"
+ },
+ {
+  "Question": "Bir kıymetin belli bir tarihte belli bir orandan geri alım vaadi ile satımına ne denir?",
+  "A": "A)  Varant",
+  "B": "B) Kupon faizi",
+  "C": "C) Ters repo",
+  "D": "D) Faiz",
+  "E": "E) Repo",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Repo"
+ },
+ {
+  "Question": "Fiyatların düştüğü piyasalara ne denir?",
+  "A": "A)  Boğa piyasası",
+  "B": "B) Ayı piyasası",
+  "C": "C) Azalan piyasa",
+  "D": "D) Riskli piyasa",
+  "E": "E) Zarar piyasası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ayı piyasası"
+ },
+ {
+  "Question": "Bir menkul kıymetin tanımlanarak resmi borsa listesine kabul edilmesine ne denir?",
+  "A": "A)  Halka Az",
+  "B": "B) Strip",
+  "C": "C) Varant",
+  "D": "D) Kotasyon",
+  "E": "E) DCD",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kotasyon"
+ },
+ {
+  "Question": "Kredi kartı çıkaran bankaların sadece kendi müşterilerine hizmet vererek yalnız kendi işyerlerinde nakit ödemede mal ve hizmet vermesine olanak sağlar? ",
+  "A": "A)  Tek taraflı kart sistemi",
+  "B": "B)  Çift taraflı kart sistemi",
+  "C": "C)c. Çok taraflı kart sistemi",
+  "D": "D) Üç taraflı kart sistemi ",
+  "E": "E) Dört taraflı kart sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B)  Çift taraflı kart sistemi"
+ },
+ {
+  "Question": "Bir kıymetin belli bir tarihte belli bir orandan geri satım vaadi ile satımına ne denir?",
+  "A": "A)  Varant",
+  "B": "B) Kupon faizi",
+  "C": "C) Repo",
+  "D": "D) Ters repo",
+  "E": "E) Faiz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ters repo"
+ },
+ {
+  "Question": "Piyasada işlem gören herhangi bir finansal ürünün alış ve satış arasındaki farka ne denir?",
+  "A": "A)  Spread",
+  "B": "B) Kur Farkı",
+  "C": "C) Bid",
+  "D": "D) Ask\/offer",
+  "E": "E) Varant",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)  Spread"
+ },
+ {
+  "Question": "Mevduatta zaman asımı süresi ve uygulamalarını hangi kurum tarafından belirlenir?",
+  "A": "A)  CMB",
+  "B": "B) BDDK",
+  "C": "C) TMSF",
+  "D": "D) SPK",
+  "E": "E) TBB",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) BDDK"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kambiyo senedi değildir?",
+  "A": "A)  Bono",
+  "B": "B) Poliçe",
+  "C": "C) Çek",
+  "D": "D) Senet",
+  "E": "E) Aval",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Aval"
+ },
+ {
+  "Question": "Belli bir finansal ürünü önceden belli bir vade ve fiyattan alma satma hakkı veren kontrata ne denir?",
+  "A": "A)  Repo",
+  "B": "B) Varant",
+  "C": "C) Opsiyon",
+  "D": "D) DCD",
+  "E": "E) R-DCD",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Opsiyon"
+ },
+ {
+  "Question": "\nŞekil şartları TTK tarafından belirlenen belli bir alacağın belirli bir süre sonunda 3.bir sahsa veya emrine ödenmesini sağlamak amacı ile düzenlenen kıymetli evrak hangisidir?\n\n\n",
+  "A": "A)  Bono",
+  "B": "B) Poliçe",
+  "C": "C) Çek",
+  "D": "D) Senet",
+  "E": "E) Aval",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Poliçe"
+ },
+ {
+  "Question": "Kuponlu bir menkul kıymetin anaparası ve kuponlarının ayrı ayrı işlem görebilmesi amacı ile ayrıştırılmasına ne denir?\n",
+  "A": "A)  Opsiyon",
+  "B": "B) Varant",
+  "C": "C) CDS",
+  "D": "D) STRIP",
+  "E": "E) DCD",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) STRIP"
+ },
+ {
+  "Question": "Çekte zaman asımı ne kadardır?",
+  "A": "A) İbraz süresi bitiminden itibaren 1 yıl",
+  "B": "B) Keside tarihinden itibaren 3 yıl",
+  "C": "C) İbraz süresi bitiminden itibaren 3 yıl",
+  "D": "D) Keşide tarihinden itibaren 6 ay",
+  "E": "E) İbraz süresi bitiminden itibaren 6 ay",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İbraz süresi bitiminden itibaren 3 yıl"
+ },
+ {
+  "Question": "Kredi kullandırırken alınan güvence ile karşılığında ödenecek kredi arasındaki farka ne denir?",
+  "A": "A) Plasman",
+  "B": "B) Depasman",
+  "C": "C) Limit",
+  "D": "D) Teminat",
+  "E": "E) Marj",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Marj"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kredilendirme ilkelerinden değildir?",
+  "A": "A) Objektiflik",
+  "B": "B) İşleklik",
+  "C": "C) Verimlilik",
+  "D": "D) Seyyaliyet",
+  "E": "E) Sağlamlık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Objektiflik"
+ },
+ {
+  "Question": "Bir ülke parasının diğer ülke paraları ile serbestçe değiştirilebilmesine ne denir?",
+  "A": "A) Cari Kur",
+  "B": "B) Döviz kuru",
+  "C": "C) Çapraz kur",
+  "D": "D) Parite",
+  "E": "E) Konvertibilite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Konvertibilite"
+ },
+ {
+  "Question": "Dünya Bankalar arası Finansal Telekomünikasyon Birliği olan ve Uluslararası bankacılık işlemlerinin \nhızlı ve güvenilir bir şekilde yapılmasını sağlayan bir elektronik bilgi iletişim örgütüne ne denir?.\n",
+  "A": "A) ICC",
+  "B": "B) SWIFT",
+  "C": "C) IFC",
+  "D": "D) BIS",
+  "E": "E) IBRD",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) SWIFT"
+ }
+]

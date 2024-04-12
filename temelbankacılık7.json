@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Bir Japon ev hanımı kendi ülkesindeki bir\nbankadan çok düşük faizle Japon Yeni\ncinsinden kredi almıştır. Daha sonra, bu\nkrediyi ABD dolarına çevirterek ABD\nHazinesinin çıkardığı tahvillere yatırım\nyapmıştır. Sonuçta belli bir süre sonunda\naldığı kağıtları satarak tekrar Japon Yeni\nalmış ve kredi borcunu kapatmıştır. ABD\ntahvillerinden elde ettiği getiri kredinin faiz\nmaliyetini karşıladığı gibi bu işten oldukça\niyi kâr elde etmiştir. Bu Japon ev hanımının\nyaptığı işleme ne ad verilir?",
+  "A": "A) Carrying charge",
+  "B": "B) Taşıma ticareti",
+  "C": "C) Spekülasyon",
+  "D": "D) Taşıma senedi",
+  "E": "E) Spot işlem",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Taşıma ticareti"
+ },
+ {
+  "Question": "İhraçcıların kendi ticari işlemlerinden\ndoğmuş alacakların veya devir edecekleri\nalacakların teminat gösterilmesi suretiyle\nihraç edilen menkul kıymetlere ne ad\nverilir?",
+  "A": "A) Poliçe",
+  "B": "B) DİBS",
+  "C": "C) Warrant",
+  "D": "D) VDMK",
+  "E": "E) Sabit Getirili Menkul Kıymet",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) VDMK"
+ },
+ {
+  "Question": "Bir banka üzerine çekilmiş (keşide edilmiş)\nbir poliçenin bedelinin vadesinde\nödeneceğinin o banka tarafından garanti\nedilmesi şeklinde işleyen bankacılık\nişlemine ne ad verilir?",
+  "A": "A) Kontrgaranti",
+  "B": "B) Teminat akreditifi",
+  "C": "C) Opsiyon",
+  "D": "D) Banka Kabulü",
+  "E": "E) Banka Bonosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Banka Kabulü"
+ },
+ {
+  "Question": "Menkul kıymet ihraç eden kurumlara nakit\ngirişi sağlayan piyasa aşağıdakilerden\nhangisidir?",
+  "A": "A) Dördüncül piyasa",
+  "B": "B) Serbest piyasa",
+  "C": "C) Birincil piyasa",
+  "D": "D) Üçüncül piyasa",
+  "E": "E) İkincil piyasa",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Birincil piyasa"
+ },
+ {
+  "Question": "İhracatın finansmanı için TL veya döviz\nolarak kullandırılan kredilerde KKDF\noranı yüzde kaçtır?",
+  "A": "A) 0",
+  "B": "B) 3 ",
+  "C": "C) 5 ",
+  "D": "D) 10 ",
+  "E": "E) 11 ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 0"
+ },
+ {
+  "Question": "Serbest bölgelerle ilgili aşağıdakilerden\nhangisi yanlıştır?",
+  "A": "A) Serbest bölgeler gümrük bölgesi dışında\nsayılır",
+  "B": "B) Serbest bölgeler ülke siyasi sınırları dı-\nşında kalan ekonomik bölgelerdir",
+  "C": "C) Serbest bölgeler ile Türkiye’nin diğer\nyerleri arasında yapılan ticaret dış ticaret\nrejimine tabidir",
+  "D": "D) Serbest bölge ile diğer ülkeler ve serbest\nbölgeler arasında dış ticaret rejimi\nuygulanmaz",
+  "E": "E) Serbest bölgede gerçekleştirilen dış ticaret işlemleri uluslar arası ticari kurallara tabidir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Serbest bölgeler ülke siyasi sınırları dı-\nşında kalan ekonomik bölgelerdir"
+ },
+ {
+  "Question": "İhraç amacıyla gümrük muafiyetli ithalata ve\/veya yurt içi alımlara imkân sağlayan Ekonomi Bakanlığı’nca düzenlenen belgeye ne ad verilir?",
+  "A": "A) Yatırım teşvik belgesi",
+  "B": "B) Dahilde işleme izin belgesi",
+  "C": "C) Vergi resim harç istisna belgesi",
+  "D": "D) Gümrük beyannamesi",
+  "E": "E) Nakit beyan formu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Dahilde işleme izin belgesi"
+ },
+ {
+  "Question": "Serbest bölgede gerçekleştirilen dış ticaret\nişlemleri hangi mevzuata tabidir?",
+  "A": "A) Serbest bölge mevzuatına",
+  "B": "B) Türk kambiyo mevzuatına",
+  "C": "C) Dış ticaret rejimine",
+  "D": "D) Uluslararası ticaret kurallarına",
+  "E": "E) İlgili ülke kambiyo mevzuatına",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Uluslararası ticaret kurallarına"
+ },
+ {
+  "Question": "Döviz kurlarındaki değişmelerden\nkaynaklanan risklerden korunmak için\ntürev ürünler başlığı altında toplanabilecek\nbirçok finans tekniği kullanılmaktadır.\nBuna göre aşağıdakilerden hangisi bu\ntürev ürünlerden biri değildir?",
+  "A": "A) Opsiyon",
+  "B": "B) Leasing",
+  "C": "C) Futures",
+  "D": "D) Swap",
+  "E": "E) Forward",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Leasing"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Eurobond’un\nözelliklerinden biri değildir?",
+  "A": "A) Hazine Müsteşarlığı tarafından çıkarılması",
+  "B": "B) Satışların fiziki teslim veya emanet\nmakbuzu ile yapılması",
+  "C": "C) Satış aracılığını T.C. Merkez Bankası’nın\nyapması",
+  "D": "D) Hamiline ihraç edilmesi",
+  "E": "E) Türk Parası cinsinden kuponlu olarak\nihraç edilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Türk Parası cinsinden kuponlu olarak\nihraç edilmesi"
+ },
+ {
+  "Question": "Piyasa hareketlerine göre beklentiler\ndoğrultusunda TCMB piyasaya döviz satışı\ngerçekleştirdiğinde aşağıdakilerden\nhangisinin oluşması beklenir?",
+  "A": "A) Döviz kurları yükselir",
+  "B": "B) TL faiz oranları yükselir",
+  "C": "C) Repo faiz oranları düşer",
+  "D": "D) Tahvil yükselir",
+  "E": "E) Altın fiyatları yükselir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) TL faiz oranları yükselir"
+ },
+ {
+  "Question": "Piyasadaki döviz arz ve talebine göre ulusal\nparaların değerlerinin belirlendiği ve\nherhangi bir kamu müdahalesinin olmadığı\nkur sistemi aşağıdakilerden hangisidir?",
+  "A": "A) Sabit Kur Sistemi",
+  "B": "B) Para Kurulu",
+  "C": "C) Sürünen Pariteler Sistemi",
+  "D": "D) Ayarlanabilir Kur Sistemi",
+  "E": "E) Dalgalı Kur Sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Dalgalı Kur Sistemi"
+ },
+ {
+  "Question": "Finansal piyasalarda gelecekte olabilecek\ndalgalanmalardan kaynaklanan kayıpların\noluşturabileceği riskleri minimize etmek\niçin alınan korunma yöntemleri anlamına\ngelen kavram aşağıdakilerden hangisidir?",
+  "A": "A) Heading",
+  "B": "B) Hedging",
+  "C": "C) Phishing",
+  "D": "D) Hedgehog",
+  "E": "E) Fortfaiting",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Hedging"
+ },
+ {
+  "Question": "Yabancı parada açık pozisyon alan bir\nbanka için aşağıdaki yorumlardan hangisi\nyapılabilir?",
+  "A": "A) Banka dövize yatırım yapmıştır, kısa\nvadede kurda artış beklemektedir",
+  "B": "B) Banka likidite riski almıştır",
+  "C": "C) Banka vade riski almıştır",
+  "D": "D) Banka kurlarda düşüş beklentisindedir",
+  "E": "E) Banka için bir risk bulunmamaktadır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Banka kurlarda düşüş beklentisindedir"
+ },
+ {
+  "Question": "Devletin elinde tuttuğu para yaratma\nyetkisini kullanarak, para basma yoluyla\nsağladığı gelire ne ad verilir?",
+  "A": "A) Darphane Paritesi",
+  "B": "B) Sendikasyon",
+  "C": "C) Senyoraj",
+  "D": "D) Segmentasyon",
+  "E": "E) Arbitraj",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Senyoraj"
+ },
+ {
+  "Question": "Bir ülke ekonomisinde işgücünün çoğalması,\nüretim araçları ve GSMH’nin artması vb.\ngenel verilerin yükselmesi şeklinde ifade\nedilen kavram aşağıdakilerden hangisidir?",
+  "A": "A) Deflatör",
+  "B": "B) Kapasite Kullanımı",
+  "C": "C) Deflasyon",
+  "D": "D) Büyüme Hızı",
+  "E": "E) Tam İstihdam",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Büyüme Hızı"
+ },
+ {
+  "Question": "Akreditif işlemlerinde ithalatçının bankası\ntarafından düzenlenen ve akreditifli ödeme\nile ilgili bilgilerin yer aldığı metne ne ad\nverilir?",
+  "A": "A) Garanti mektubu",
+  "B": "B) Niyet mektubu",
+  "C": "C) Küşat mektubu",
+  "D": "D) Referans mektubu",
+  "E": "E) Kefalet mektubu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Küşat mektubu"
+ },
+ {
+  "Question": "Bir ülkeye ait, coğrafi alan olarak ülke\nsınırları içinde bulunmakla birlikte, dış\nticaret, vergi ve gümrük mevzuatı\nuygulanması açısından gümrük hattı\ndışında tutulan, ilgili mevzuatın\nuygulanmadığı yerlere ne ad verilir?",
+  "A": "A) Gümrük Hattı",
+  "B": "B) Açık Pazar",
+  "C": "C) Serbest Piyasa",
+  "D": "D) Serbest Bölge",
+  "E": "E) Ticaret Merkezi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Serbest Bölge"
+ },
+ {
+  "Question": "Türkiye Bankalar Birliği tarafından günlük\nbelirlenen ve TL üzerinden verilen değişken\nfaizli kredilerde kullanılan temel\nreferans oranı aşağıdakilerden hangisidir?",
+  "A": "A) TRLIBOR",
+  "B": "B) ISTIBOR",
+  "C": "C) TIBOR",
+  "D": "D) SIBOR",
+  "E": "E) LIBOR",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) TRLIBOR"
+ },
+ {
+  "Question": "Bir kıymetin belirli bir tarihte, belirli bir\norandan geri alım vaadi ile satımı işlemine ne ad verilir?",
+  "A": "A) Bono",
+  "B": "B) Özel sektör tahvili",
+  "C": "C) Hisse senedi",
+  "D": "D) Repo",
+  "E": "E) İhtiyaç kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Repo"
+ }
+]

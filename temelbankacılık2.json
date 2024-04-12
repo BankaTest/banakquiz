@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Belli bir dönemde üretilmiş toplam nihai mal ve hizmertlerin piyasa fiyatları ile toplamıne ne denir?",
+  "A": "A)  Ekonomik büyüme oranı",
+  "B": "B) Gayri safi milli hasıla",
+  "C": "C) Gayri safi yurt içi hasıla",
+  "D": "D) Nominal milli gelir",
+  "E": "E) Reel milli gelir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Gayri safi milli hasıla"
+ },
+ {
+  "Question": "Belli bir istikrarlı yılın temel alınması ile düzenlenmiş sabit fiyatlarla hesaplanan gelire ne denir?",
+  "A": "A)  Ekonomik büyüme oranı",
+  "B": "B) Gayri safi milli hasıla",
+  "C": "C) Gayri safi yurt içi hasıla",
+  "D": "D) Nominal milli gelir",
+  "E": "E) Reel milli gelir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Reel milli gelir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi enflasyonun baslıca nedenlerinden biri değildir?",
+  "A": "A)  Tüketici gelir artışlarının talebi artırması",
+  "B": "B) Tassarrufların yatırımlardan az olması",
+  "C": "C) Pahalı ve sıkı bir kredi kullanımı ",
+  "D": "D) İthal deilen malların fiyatlarındaki yükselmeler",
+  "E": "E) Dolasımdaki paranın hızla artması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Pahalı ve sıkı bir kredi kullanımı "
+ },
+ {
+  "Question": "Talep enflasyonunun önlemek için hangi politikalar izlenir?",
+  "A": "A)  Maliyet Politikası",
+  "B": "B) Fiyat azaltma politikası",
+  "C": "C) Harcamalar dengesi politikası",
+  "D": "D) Bütçe-Para-Kredi Politikaları",
+  "E": "E) Deflatör Politikası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Bütçe-Para-Kredi Politikaları"
+ },
+ {
+  "Question": "Enflasyonun ölçülmesinde hangi endeks kullanılmaz?",
+  "A": "A)  ÜFE",
+  "B": "B) TÜFE",
+  "C": "C) TEFE",
+  "D": "D) Deflatör",
+  "E": "E) Özel sektör kuruluşları tarafından hazırlanan fiyat endeksleri\n\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) TEFE"
+ },
+ {
+  "Question": "Parasal terimlerle ifade edilmiş olan bir iktisadi büyüklüğün değerinin gercek değere cevrilmesinde\nkullanılan endekse ne denir?\n",
+  "A": "A)  ÜFE",
+  "B": "B) TÜFE",
+  "C": "C) TEFE",
+  "D": "D) Deflatör",
+  "E": "E) Özel sektör kuruluşları tarafından hazırlanan fiyat endeksleri\n\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Deflatör"
+ },
+ {
+  "Question": "Genel fiyat düzeyi düşerken ulusal gelir üretim ve istihdamında düşmesine ne denir?",
+  "A": "A)  Enflasyon",
+  "B": "B) Deflasyon",
+  "C": "C) Dezenflasyon",
+  "D": "D) Çekirdek enflasyon",
+  "E": "E) Stagflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Deflasyon"
+ },
+ {
+  "Question": "Yüksek enflasyondan düşük enflasyona geciş sırasında yasanan düsen enflasyon sürecine \nne denir?\n",
+  "A": "A)  Enflasyon",
+  "B": "B) Deflasyon",
+  "C": "C) Dezenflasyon",
+  "D": "D) Çekirdek enflasyon",
+  "E": "E) Stagflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Dezenflasyon"
+ },
+ {
+  "Question": "Bir ekonomide üretimin düştügü yada en azından artmadığı bir ortamda enflasyon yükseldiği\nzaman meydana gelen duruma ne denir?\n",
+  "A": "A)  Enflasyon",
+  "B": "B) Deflasyon",
+  "C": "C) Dezenflasyon",
+  "D": "D) Çekirdek enflasyon",
+  "E": "E) Stagflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Stagflasyon"
+ },
+ {
+  "Question": "Aşağıdakilerden hangici cari işlemler dengesini oluşturan faktörlerden değildir?",
+  "A": "A)  Dış Ticaret Dengesi",
+  "B": "B) Hizmetler dengesi",
+  "C": "C) Bütçe dengesi",
+  "D": "D) Gelir Dengesi",
+  "E": "E) Cari transferler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Bütçe dengesi"
+ },
+ {
+  "Question": "Ulusal paranın yabancı paralar karşısında değerinin artmasına ne denir?",
+  "A": "A)  Devalüasyon",
+  "B": "B) Revalüasyon",
+  "C": "C) Resesyon",
+  "D": "D) Stagflasyon",
+  "E": "E) Enflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Revalüasyon"
+ },
+ {
+  "Question": "Bütçe dengesi;kamu harcamaları,kamu borçlanması,vergilendirme gibi bir mali göstergeye özel \nbir limit koyan maliye politikası üzerindeki yasal sınırlamaya ne denir?\n",
+  "A": "A)  Bütçe Dengesi",
+  "B": "B) Yasal Sınır",
+  "C": "C) Mali Kural",
+  "D": "D) Para Politikası",
+  "E": "E) Maliye politikası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Mali Kural"
+ },
+ {
+  "Question": "Devletin finansal piyasalardan giderek daha fazla borçlanmaya gitmesi durumunda piyasalardaki \nfonların kamu sektörüne kayması nedeni ile özel sektörün fon sıkıntısına düşmesine ne denir?\n",
+  "A": "A)  Mali kural",
+  "B": "B) Para Politikası",
+  "C": "C) Selektif etkisi",
+  "D": "D) Dışlama etkisi",
+  "E": "E) Piyasa etkisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Dışlama etkisi"
+ },
+ {
+  "Question": "TCMB açık piyasa işlemlerini gerçekleştirirken aşağıdakilerden hangi yöntemi izlemez?",
+  "A": "A)  Kesin alış veya doğrudan alım",
+  "B": "B) Geri satım vaadi ile satım",
+  "C": "C) Kesin satış veya doğrudan satış",
+  "D": "D) Geri satım vaadi ile alım",
+  "E": "E) Geri alım vaadi ile satım",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Geri satım vaadi ile satım"
+ },
+ {
+  "Question": "Para Politikası Kurulu hangi kurmun bünyesinde oluşturulmuştur?",
+  "A": "A)  BDDK",
+  "B": "B) Hazine Müştesarlığı",
+  "C": "C) TMSF",
+  "D": "D) TCMB",
+  "E": "E) Basbakanlık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) TCMB"
+ },
+ {
+  "Question": "Kısa ve orta vadeli krediler vererek üye ülkelerin ödemeler dengelerindeki güçlüklerini gidermek \nüzere çalışan kuruluş hangisidir? \n",
+  "A": "A)  Dünya Bankası",
+  "B": "B) IMF",
+  "C": "C) Uluslararası İmar ve Kalkınma Bankası ",
+  "D": "D) Asya Kalkınma Bankası ",
+  "E": "E) Uluslararası Finansman Kurumu ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) IMF"
+ },
+ {
+  "Question": "Dünya Bankasının üye ülkelerin yatırım projelerinin ne kadarını finanse eder?",
+  "A": "A)  %30-%50 kısmı",
+  "B": "B) %50 kısmı",
+  "C": "C) %45-%60 kısmı",
+  "D": "D) %25-%50 kısmı",
+  "E": "E) %40-%60 kısmı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) %40-%60 kısmı"
+ },
+ {
+  "Question": "Uluslararsı ödemeler Bankasının kısaltması-merkezi neresidir?",
+  "A": "A)  IFC - 1945",
+  "B": "B) BIS - 1930",
+  "C": "C) IDA - 1944",
+  "D": "D) IBRD - 1956",
+  "E": "E) FED - 1929",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) BIS - 1930"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi MB görevlerinden değildir?",
+  "A": "A)  Ödemeler için yöntem ve arac belirlemek",
+  "B": "B) Reeskont ve avans işlemleri yapmak",
+  "C": "C) Mali piyasaları izlemek için istatistiki veriler düzenlemek",
+  "D": "D) Açık piyasa işlemleri yapmak",
+  "E": "E) Bankaların mevduat vade ve türlerini belirlemek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Mali piyasaları izlemek için istatistiki veriler düzenlemek"
+ },
+ {
+  "Question": "MB’larının çeşitli nedenlerle ortaya çıkan para arzı artışlarının etkilerini dengelemek için yaptıkları\naçık piyasa işlemlerine ne denir?\n",
+  "A": "A)  Senyoraj",
+  "B": "B) Subprime",
+  "C": "C) Sterilizasyon",
+  "D": "D) Dolarizasyon",
+  "E": "E) Trlibor",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Sterilizasyon"
+ }
+]
