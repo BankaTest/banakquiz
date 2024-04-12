@@ -1,6 +1,6 @@
 [
  {
-  "Question": "1) Arz esnekliğinin sıfır olması ne ifade eder?",
+  "Question": "Arz esnekliğinin sıfır olması ne ifade eder?",
   "A": "A) İnelastik arz",
   "B": "B) Tam inelastik arz",
   "C": "C) Birim inelastik arz",
@@ -11,7 +11,7 @@
   "Answer": "B) Tam inelastik arz"
  },
  {
-  "Question": "2) Tercih yapmak veya karar almak durumunda olan bir iktisadi birimin kendi hedefine uygun biçimde hareket etmesine ne ad verilir?",
+  "Question": "Tercih yapmak veya karar almak durumunda olan bir iktisadi birimin kendi hedefine uygun biçimde hareket etmesine ne ad verilir?",
   "A": "A) Rasyonel davranış",
   "B": "B) Pasif davranış",
   "C": "C) Saldırgan davranış",
@@ -22,7 +22,7 @@
   "Answer": "A) Rasyonel davranış"
  },
  {
-  "Question": "3) İhtiyaçlarımızı karşılayacak mal ve hizmetlerin üretilmesinde kullanılan şeylere ne denir?",
+  "Question": "İhtiyaçlarımızı karşılayacak mal ve hizmetlerin üretilmesinde kullanılan şeylere ne denir?",
   "A": "A) Kıtlık",
   "B": "B) Kaynak",
   "C": "C) Sermaye",
@@ -33,7 +33,7 @@
   "Answer": "B) Kaynak"
  },
  {
-  "Question": "4) Tüketicilerin ve üreticilerin arasında gercekleşen ekonomik işlemleri yani birbirleriyle mal ve hizmet için alışverişte bulunduklarını ve karşılıklı bilgi edinmelerini kolaylaştırıcı düzenlemelere ne ad verilir?",
+  "Question": "Tüketicilerin ve üreticilerin arasında gercekleşen ekonomik işlemleri yani birbirleriyle mal ve hizmet için alışverişte bulunduklarını ve karşılıklı bilgi edinmelerini kolaylaştırıcı düzenlemelere ne ad verilir?",
   "A": "A) Pazar",
   "B": "B) Piyasa",
   "C": "C) Denge",
@@ -44,7 +44,7 @@
   "Answer": "B) Piyasa"
  },
  {
-  "Question": "5) Piyasa dengedeyken, arz eğrisinin sağa doğru kayması durumunda denge fiyatı ve miktarı ilk duruma göre nasıl değişir?\n",
+  "Question": "Piyasa dengedeyken, arz eğrisinin sağa doğru kayması durumunda denge fiyatı ve miktarı ilk duruma göre nasıl değişir?\n",
   "A": "A) Denge fiyatı ve miktarı artar",
   "B": "B) Denge fiyatı ve miktarı azalır",
   "C": "C) Denge fiyatı artar, denge miktarı değişmez",
@@ -55,7 +55,7 @@
   "Answer": "D) Denge fiyatı düşer, denge miktarı artar"
  },
  {
-  "Question": "6) Bir malın talebinin fiyat esnekliği 1’den küçük iken fiyattaki düşüşün ve artışın hasılat üzerindeki etkisi sırasıyla nasıl gerçekleşir?",
+  "Question": "Bir malın talebinin fiyat esnekliği 1’den küçük iken fiyattaki  düşüşün ve artışın hasılat üzerindeki etkisi sırasıyla nasıl gerçekleşir?",
   "A": "A) Hasılat düşer – hasılat artar",
   "B": "B) Hasılat artar – hasılat düşer",
   "C": "C) Hasılat değişmez – hasılat düşer",
@@ -66,7 +66,7 @@
   "Answer": "A) Hasılat düşer – hasılat artar"
  },
  {
-  "Question": "7) En çok karşılaşılan esneklik hesaplamaları hangisidir?",
+  "Question": "En çok karşılaşılan esneklik hesaplamaları hangisidir?",
   "A": "A) Arz Esnekliği",
   "B": "B) Talep ve Arz Esnekliği",
   "C": "C) Fiyat Esnekliği",
@@ -77,7 +77,7 @@
   "Answer": "C) Fiyat Esnekliği"
  },
  {
-  "Question": "8) Aşağıdakilerden hangisi talebi etkileyen faktörlerden birisi değildir?",
+  "Question": "Aşağıdakilerden hangisi talebi etkileyen faktörlerden birisi değildir?",
   "A": "A) Fiyat",
   "B": "B) Beklentiler",
   "C": "C) Tüketici sayısı",
@@ -88,7 +88,7 @@
   "Answer": "D) Teknoloji"
  },
  {
-  "Question": "9) Özel mülkiyetin yanında kamu mülkiyetini de kabul eden, piyasa mekanizmasının yanında müdahaleyi de içine sindirebilen, fiyat mekanizmasının yanında merkezi planları da uygulama çabası içinde olan iktisadi sistem aşağıdakilerden hangisidir?",
+  "Question": "Özel mülkiyetin yanında kamu mülkiyetini de kabul eden,\npiyasa mekanizmasının yanında müdahaleyi de içine sindirebilen,fiyat mekanizmasının yanında merkezi planları da uygulama çabası içinde olan iktisadi sistem aşağıdakilerden hangisidir?",
   "A": "A) Kapitalist sistem",
   "B": "B) Liberal iktisat sistemi",
   "C": "C) Serbest piyasa sistemi",
@@ -99,7 +99,7 @@
   "Answer": "E) Karma ekonomik sistem"
  },
  {
-  "Question": "10) İhtiyaçları tatmin etmede kullanılan kaynakların arzulanan miktarı karşılamakta yetersiz kaldığı duruma ne ad verilir?",
+  "Question": "İhtiyaçları tatmin etmede kullanılan kaynakların arzulanan miktarı karşılamakta yetersiz kaldığı duruma ne ad verilir?",
   "A": "A) Denge",
   "B": "B) Kıtlık",
   "C": "C) Fayda",
@@ -110,7 +110,7 @@
   "Answer": "B) Kıtlık"
  },
  {
-  "Question": "11) A malının fiyatı 30 liradan 60 liraya çıktığında B malından talep edilen miktar 20 birimden 10 birime düşmektedir. Buna göre A ve B malları ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+  "Question": "A malının fiyatı 30 liradan 60 liraya çıktığında B malından talep edilen miktar 20 birimden 10 birime düşmektedir.\nBuna göre A ve B malları ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
   "A": "A) A ve B ikame mallardır",
   "B": "B) A ve B tamamlayıcı mallardır",
   "C": "C) A ve B alakasız mallardır",
@@ -121,7 +121,7 @@
   "Answer": "B) A ve B tamamlayıcı mallardır"
  },
  {
-  "Question": "12) Bir malın fiyatı %10 azaldığında talebi %15 artıyorsa, bu malın talebinin fiyat esnekliği kaçtır?",
+  "Question": "Bir malın fiyatı %10 azaldığında talebi %15 artıyorsa,\nbu malın talebinin fiyat esnekliği kaçtır?",
   "A": "A) 0,5",
   "B": "B) 1,25",
   "C": "C) 1,5",
@@ -132,7 +132,7 @@
   "Answer": "C) 1,5"
  },
  {
-  "Question": "13) Aşağıdakilerden hangisi veri fiyat düzeyinde talep edilen miktarın arz edilen miktardan fazla olma durumudur",
+  "Question": " Aşağıdakilerden hangisi veri fiyat düzeyinde talep edilen\nmiktarın arz edilen miktardan fazla olma durumudur?",
   "A": "A) Fayda",
   "B": "B) Kıtlık",
   "C": "C) Değer",
@@ -143,7 +143,7 @@
   "Answer": "B) Kıtlık"
  },
  {
-  "Question": "14) Bir malın talep edilen miktarının bu malın fiyatına karşı duyarlılığının ölçüsünü belirten ifade aşağıdakilerden hangisini tanımlamaktadır?",
+  "Question": "Bir malın talep edilen miktarının bu malın fiyatına karşı duyarlılığının ölçüsünü belirten ifade aşağıdakilerden hangisini tanımlamaktadır?",
   "A": "A) Arz esnekliği",
   "B": "B) Fiyat esnekliği",
   "C": "C) Talebin fiyat esnekliği",
@@ -154,7 +154,7 @@
   "Answer": "C) Talebin fiyat esnekliği"
  },
  {
-  "Question": "15) Bir iktisadi olguyu etkileyen çok sayıda faktörden sadece bir tanesinin değiştiği, diğer faktörlerin ise değişmediğini ifade eden kavram aşağıdakilerden hangisidir?",
+  "Question": "Bir iktisadi olguyu etkileyen çok sayıda faktörden sadece bir tanesinin değiştiği, diğer faktörlerin ise değişmediğini ifade eden  kavram aşağıdakilerden hangisidir?",
   "A": "A) Rasyonel davranış varsayımı",
   "B": "B) Ceteris Paribus",
   "C": "C) Nedensellik",
@@ -165,7 +165,7 @@
   "Answer": "B) Ceteris Paribus"
  },
  {
-  "Question": "16) Bir tüketicinin geliri 10,000 TL'den 15,000'e yükseldiğinde kırmızı et tüketimi 30 kğ'dan 45 kilograma yükseliyorsa gelir esnekliği kaçtır?",
+  "Question": "Bir tüketicinin geliri 10,000 TL'den 15,000'e yükseldiğinde kırmızı et tüketimi 30 kğ'dan 45 kilograma yükseliyorsa gelir esnekliği kaçtır?",
   "A": "A) -1\/2",
   "B": "B) -1",
   "C": "C) 1\/2",
@@ -176,7 +176,7 @@
   "Answer": "C) 1\/2"
  },
  {
-  "Question": "17) Gelir arttıkça talebi artan ve gelir azaldıkça talebi azalan mallara ne ad verilmektedir?",
+  "Question": "Gelir arttıkça talebi artan ve gelir azaldıkça talebi azalan mallara ne ad verilmektedir?",
   "A": "A) Düşük Mallar",
   "B": "B) Lüks Mallar",
   "C": "C) İkame Mallar",
@@ -187,7 +187,7 @@
   "Answer": "D) Normal Mallar"
  },
  {
-  "Question": "18) Talebin fiyat esnekliğinin 1 'den küçük olması durumunda fiyattaki düşüşün toplam hasılat üzerinde yaratacağı etki aşağıdakilerden hangisidir?",
+  "Question": "Talebin fiyat esnekliğinin 1 'den küçük olması durumunda fiyattaki düşüşün toplam hasılat üzerinde yaratacağı etki aşağıdakilerden hangisidir?",
   "A": "A) Toplam hasılat değişmez",
   "B": "B) Toplam hasılat düşer",
   "C": "C) Toplam hasılat artar",
@@ -198,7 +198,7 @@
   "Answer": "B) Toplam hasılat düşer"
  },
  {
-  "Question": "19) Talep kayması ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+  "Question": "Talep kayması ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
   "A": "A) Fiyatta meydana gelen değişme talep edilen mal miktarı bakımından bir etki yaratır",
   "B": "B) Talep eğrisinin bir bütün olarak eski konumuna göre sağa kayması talebin azalmasını göstermektedir",
   "C": "C) Talep eğrisinin bir bütün olarak eski konumuna göre sağa kayması talebin artması anlamına gelmektedir",
@@ -209,7 +209,7 @@
   "Answer": "B) Talep eğrisinin bir bütün olarak eski konumuna göre sağa kayması talebin azalmasını göstermektedir"
  },
  {
-  "Question": "20) Verilenlerden hangisi makro iktisadın araştırma konuları arasında yer alır?",
+  "Question": "Verilenlerden hangisi makro iktisadın araştırma konuları arasında yer alır?",
   "A": "A) Gelir Dağılımı",
   "B": "B) Ekonomik Büyüme",
   "C": "C) Üretim",

@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Paranın dolaşım hızı ile ilgili aşağıdaki bilgi-lerden hangisi\nyanlıştır?",
+  "A": "A) Belli bir dönemdeki nominal GSMH’nin para arzına\nbölünmesiyle bulunur",
+  "B": "B) Akım değişkendir",
+  "C": "C) Klasik miktar teorisine göre kısa dönemde sabittir",
+  "D": "D) Fiyat artış beklentisi, paranın dolaşım hızını azaltır",
+  "E": "E) Faiz oranlarında düşme, paranın dolaşım hızını azaltır",
+  "Image": 1,
+  "Explaination": "Fiyatların artış beklentisi paranın dolaşım hızını azaltmaz tam\ntersine arttırır. Ayrıca gelirin artış beklentisi uzun dönemde\nparanın dolaşım hızını arttıracaktır. Doğru yanıt D dir",
+  "Answer": "D) Fiyat artış beklentisi, paranın dolaşım hızını azaltır"
+ },
+ {
+  "Question": "Keynesgil görüşe göre faiz aşağıdakilerden hangisi tarafından belirlenir?",
+  "A": "A) Tasarruf ve yatırım",
+  "B": "B) Toplam talep ve toplam arz",
+  "C": "C) Emek arzı ve emek talebi",
+  "D": "D) Para arzı ve para talebi",
+  "E": "E) Fon arzı",
+  "Image": 1,
+  "Explaination": "Keynesgil görüşe göre piyasa faiz oranı, para arzı ve para talebinin\neşitlendiği noktada ger-çekleşir. Doğru yanıt D dir",
+  "Answer": "D) Para arzı ve para talebi"
+ },
+ {
+  "Question": "Keynesgil yaklaşıma göre aşağıdakilerden hangisi yanlıştır?",
+  "A": "A) Para talebi fonksiyonu istikrarlıdır",
+  "B": "B) Faiz oranı para arzı ve talebince belirlenir",
+  "C": "C) Para mal değil aktif bir varlıktır",
+  "D": "D) Dolaşım hızı istikrarsızdır ve faizden etkilenir",
+  "E": "E) Faiz oranı arttıkça, spekülasyon amaçlı para talebi azalır",
+  "Image": 1,
+  "Explaination": "Keynesgil yaklaşımda, para talebi fonksiyonu istikrarsızdır. Çünkü\nfaizden etkilenir. Doğru yanıt A dır",
+  "Answer": "A) Para talebi fonksiyonu istikrarlıdır"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların fon kullanımı arasında yer almaz?",
+  "A": "A) Krediler",
+  "B": "B) İştirakler",
+  "C": "C) Merkez Bankası krediler",
+  "D": "D) Menkul kıymet plasmanları",
+  "E": "E) Rezervler",
+  "Image": 1,
+  "Explaination": "Banka bilançosunun aktif kısmını oluşturan fon kullanımı arasında\nMerkez Bankası kredileri yer almaz. MB kredileri bankanın fon\nkaynağı arasın-da (pasifte) yer alır. Doğru yanıt C dir",
+  "Answer": "C) Merkez Bankası krediler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Friedman’ın sürekli gelir hipotezinin fonksiyonlarından biri değildir?",
+  "A": "A) Tüketim",
+  "B": "B) Para arzı",
+  "C": "C) Yatırım",
+  "D": "D) Para talebi",
+  "E": "E) Dolaşım hızı",
+  "Image": 1,
+  "Explaination": "Sürekli gelir, uzun dönemde beklenen ortalama gelirdir. Tüketim,\nyatırım, para talebi ve dolaşım hızı sürekli gelirin fonksiyonlarıdır\nve bunlar istikrarlıdır. Para arzı sürekli gelirin fonksiyonu değildir.\nDoğru yanıt B dir",
+  "Answer": "B) Para arzı"
+ },
+ {
+  "Question": "Ekonomideki fiyat düzeyinin düşmesi sonucunda reel servetin artması, bunun ise tüketim harcamalarını arttırmasına ne denir?",
+  "A": "A) Keynes etkisi",
+  "B": "B) Fisher etkisi",
+  "C": "C) Cambridge etkisi",
+  "D": "D) Para çarpanı",
+  "E": "E) Pigou etkisi",
+  "Image": 1,
+  "Explaination": "Pigou’nun bu etkisine reel ankes etkisi de denir. Doğru yanıt E dir",
+  "Answer": "E) Pigou etkisi"
+ },
+ {
+  "Question": "Tobin’in q teorisine göre; firmanın piyasa değeri, firmanın yenilenme maliyetinden yüksek ise q değeri ve yatırım ilişkisi için ne söylenebilir?",
+  "A": "A) q değeri birden küçük olur ve yatırım azalır",
+  "B": "B) q değeri birden büyük olur ve yatırım azalır",
+  "C": "C) q değeri birden büyük olur ve yatırım artar",
+  "D": "D) q değeri değişmez ve yatırım azalır",
+  "E": "E) q değeri birden küçük olur ve yatırım artar",
+  "Image": 1,
+  "Explaination": "Tobin’e göre her firmanın bir q’su vardır ve yatırıma buna göre\nkarar verilir.\nfirmanın piyasa değeri, firmanın yenilenme maliyetinden büyükse\n(q>1), firma yatırımlarını arttıracaktır. Tam tersi durumunda ise\nazaltacaktır. Para arzının artması durumunda hisse senedi fiyatları\nartacak ve firmanın piyasa değeri yükselecektir, q artacaktır ve\nfirma yatırımını arttıracaktır. Bu, hisse senetleri kanalı yoluyla\nekonomiyi etkileme biçimidir. Doğru yanıt C dir",
+  "Answer": "C) q değeri birden büyük olur ve yatırım artar"
+ },
+ {
+  "Question": "Kötü para iyi parayı piyasadan kovar görüşü kime aittir?",
+  "A": "A) Keynes",
+  "B": "B) Pigou",
+  "C": "C) Gresham",
+  "D": "D) Baumal",
+  "E": "E) Fisher",
+  "Image": 1,
+  "Explaination": "Gresham yasası denilen kötü para iyi parayı piya-sadan kovar\nolgusu, mal para zamanında bimetalizm denilen altın ve gümüşten\noluşan çift para sisteminin uygulandığı dönemde görülmüştür Zamanla daha değerli olan altının piyasadan silineceği görüşüdür.\nDoğru yanıt C dir",
+  "Answer": "C) Gresham"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi para piyasasının özelliklerinden değildir?",
+  "A": "A) İşletmelerin ve bireylerin kısa vadeli fi-nansman ihtiyaçları\nkarşılanır",
+  "B": "B) Kredi ve borçların geri ödenme riski düşüktür",
+  "C": "C) Kredi araçları hisse senedi ve tahvildir",
+  "D": "D) Vadeleri bir yıldan azdır",
+  "E": "E) İşletmelerin döner sermaye ihtiyaçları karşılanır",
+  "Image": 1,
+  "Explaination": "Hisse senedi ve tahvil (uzun vadeli) sermaye piyasası\naraçlarındandır. Para piyasasında, kısa vadeli finansman ihtiyaçları\nkarşılanır, vadeleri kısadır, işletmelerin döner sermaye ihtiyaçları\nkarşılanır. Sermaye piyasasında ise işletmelerin sabit sermaye\nihtiyacını karşılamaya yönelik krediler alınır. Doğru yanıt C dir",
+  "Answer": "C) Kredi araçları hisse senedi ve tahvildir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların fon kullanımı arasında yer almaz?",
+  "A": "A) Krediler",
+  "B": "B) İştirakler",
+  "C": "C) Merkez Bankası krediler",
+  "D": "D) Menkul kıymet plasmanları",
+  "E": "E) Rezervler",
+  "Image": 1,
+  "Explaination": "Banka bilançosunun aktif kısmını oluşturan fon kullanımı arasında\nMerkez Bankası kredileri yer almaz. MB kredileri bankanın fon\nkaynağı arasın-da (pasifte) yer alır. Doğru yanıt C dir",
+  "Answer": "C) Merkez Bankası krediler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi T.C. Merkez Banka-sı’nın yetkilerinden değildir?",
+  "A": "A) Banknot ihraç etmek",
+  "B": "B) Vadeli mevduat toplamak",
+  "C": "C) Faiz oranlarını belirlemek",
+  "D": "D) Banka kredi işlemlerine uygulanacak reeskont ve iskonto\noranlarını belirlemek",
+  "E": "E) Para ve kredi konularında karar almak, hükümete önerilerde\nbulunmak",
+  "Image": 1,
+  "Explaination": ".C. Merkez Bankası vadeli ve vadesiz mevduat toplamaz. Bu işlemi\nbankalar yapar. Doğru yanıt B dir",
+  "Answer": "B) Vadeli mevduat toplamak"
+ },
+ {
+  "Question": "Aşırı rezerv oranı (ER) ile piyasa faiz oranı arasındaki ilişki nasıldır?",
+  "A": "A) Faiz oranı yükseldiğinde aşırı rezerv azalır",
+  "B": "B) Aralarında ilişki yoktur",
+  "C": "C) Faiz oranı düştüğünde aşırı rezerv oranı azalır",
+  "D": "D) Faiz oranı yükseldiğinde aşırı rezerv oranı artar",
+  "E": "E) Aşırı rezerv faiz oranını etkiler",
+  "Image": 1,
+  "Explaination": "Aşırı rezervi etkileyen iki temel faktör piyasa fa-iz oranı ve\nreeskont oranıdır. Faiz oranları yük-selince aşırı rezervler azalır,\naşırı rezervlerdeki azalma ise para arzını arttırır. Reeskont oranı-\nnın düşmesi ise, ticari bankaların aşırı rezervle-rini azaltır. Çünkü\nbankaların rezerv tutma maliyeti azalır, bu da para arzının\nartmasına neden olur. Doğru yanıt A dır",
+  "Answer": "A) Faiz oranı yükseldiğinde aşırı rezerv azalır"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi para politikasının göstergeleri arasında yer almaz?",
+  "A": "A) Parasal taban",
+  "B": "B) Para arzı",
+  "C": "C) Para talebinin faiz esnekliği",
+  "D": "D) Bankalardaki rezervler",
+  "E": "E) Faiz oranı",
+  "Image": 1,
+  "Explaination": "Para otoritelerinin para talebinin faiz esnekliği ekonomik\nfaaliyetler üzerinde uygun bir gösterge değildir. Para politikasında\nuygun göstergeler, parasal taban, para arzı, bankalardaki rezervler\nve faiz oranıdır. Doğru yanıt C dir",
+  "Answer": "C) Para talebinin faiz esnekliği"
+ },
+ {
+  "Question": "Para arzının dışsal olarak belirlendiği bir durumda para arz eğrisi nasıldır?",
+  "A": "A) Yatay eksene paralel",
+  "B": "B) Orijinden çıkan bir doğrudur",
+  "C": "C) Negatif eğimlidir",
+  "D": "D) Yatay eksene dik bir doğrudur",
+  "E": "E) Hiperboliktir",
+  "Image": 1,
+  "Explaination": "Para arzının dışsal olarak belirlenmesi, para arzının para\notoritelerinin kararıyla belirlenmesi demektir. Merkez Bankası’nın\npara arzı üzerindeki kontrolü yüksektir. Bu durumda para\nçarpanında yer alan parametrelerin faizden etkilenmediği\nvarsayımı ile dışsal para arzı eğrisi yatay eksene dik olarak çizilir.\nDoğru yanıt D dir",
+  "Answer": "D) Yatay eksene dik bir doğrudur"
+ },
+ {
+  "Question": "Yatırımların faize duyarlılığı 0 ise aşağıdakilerden hangisi söylenebilir?",
+  "A": "A) LM eğrisi diktir",
+  "B": "B) IS eğrisi yatıktır",
+  "C": "C) IS eğrisi diktir",
+  "D": "D) LM eğrisi yatıktır",
+  "E": "E) LM eğrisinin eğimi IS eğrisinin eğiminden daha büyüktür",
+  "Image": 1,
+  "Explaination": "Yatırımların faize duyarlılığı -0- olması IS eğri-sinin eğiminin sonsuz\nolması anlamına gelir. Bu da yatay eksene dik bir doğru oluşturur.\nIS’nin eğimi ‘dir. Burada ke harcama çarpanı ve b ise yatırımların\nfaize duyarlılığıdır. Buna göre b parametresinin 0 olması eğimi\nsonsuz yapacağından IS eğrisi dik olacaktır. Ke ve b değeri ne kadar\ndüşük olursa IS eğrisinin eğimi o kadar artacak ve eğri\ndikleşecektir. Keynesyenler b’nin düşük bir değerde olacağını\nsavunurlar, klasikler ise bunun tersini iddia ederler. Doğru yanıt C\ndir.",
+  "Answer": "C) IS eğrisi diktir"
+ },
+ {
+  "Question": "Para ve üretim ilişkisi çerçevesinde klasik iktisatçılara göre kısa dönemde toplam arz eğrisi nasıldır?",
+  "A": "A) Sonsuz eğimlidir",
+  "B": "B) Eğimi önce artar sonra azalır",
+  "C": "C) Eğimi sıfırdır",
+  "D": "D) Eğim sıfır ile bir arasındadır",
+  "E": "E) Eğim birden büyüktür",
+  "Image": 1,
+  "Explaination": "lasiklere göre, Say kanunu gereğince ekonomi daima tam\nistihdamdır. Bu yüzden toplam arz eğrisi kısa dönemde diktir yani\neğim sonsuzdur. O halde para arzı artışları sadece fiyatları arttırır,\nekonomi tam istihdamda olduğundan üretimi etkilemez.\nMV=PY\nP SAS\nY\nDoğru yanıt A dır.",
+  "Answer": "A) Sonsuz eğimlidir"
+ },
+ {
+  "Question": "Para talebi aşağıdakilerden hangisine bağlıdır?",
+  "A": "A) Faiz oranına",
+  "B": "B) Nominal gelire",
+  "C": "C) Reel gelir ve reel faiz oranına",
+  "D": "D) Servete",
+  "E": "E) Nominal gelir ve reel faiz oranına",
+  "Image": 1,
+  "Explaination": "ara talebi denklemi Buna göre, k; reel para talebinin gelire\nduyarlılığı, h; reel para talebinin faize duyarlılığını ölçer. H’yi işlem\nve ihtiyat amaçlı para talebi, h’yi ise spekülatif amaçlı para talebi\nolarak da ifade edebiliriz. LM eğirsinin eğimi k\/h’dir. Buna göre k\ndeğeri ne kadar yüksek ve h değeri ne kadar düşük olursa LM eğrisi\no kadar dik olacaktır. Doğru yanıt C dir.",
+  "Answer": "C) Reel gelir ve reel faiz oranına"
+ },
+ {
+  "Question": "Merkez Bankası’nın para arzını arttırması durumunda aşağıdakilerden hangisi gerçekleşir?",
+  "A": "A) LM eğrisi sağa kayar, faiz oranı artar toplam üretim artar",
+  "B": "B) LM eğrisi sola kayar, faiz oranı artar, toplam üretim azalır",
+  "C": "C) LM eğrisi sola kayar, faiz oranları düşer, toplam üretim artar",
+  "D": "D) LM eğrisi sağa kayar, faiz oranı düşer, toplam üretim artar",
+  "E": "E) LM eğrisi sağa kayar, faiz oranı düşer, toplam üretim düşer",
+  "Image": 1,
+  "Explaination": "MB’nin para arzını arttırması durumunda LM eğrisi sağa kayar, faiz\noranları düşer ve toplam üretim artar. Doğru yanıt D dir",
+  "Answer": "D) LM eğrisi sağa kayar, faiz oranı düşer, toplam üretim artar"
+ },
+ {
+  "Question": "IS-LM modeli çerçevesinde yatırımların faize karşı duyarlı olması sonucunda aşağıdakilerden hangisi söz konusudur?",
+  "A": "A) Para politikası çarpanı yüksektir",
+  "B": "B) Maliye politikası çarpanı yüksektir",
+  "C": "C) Maliye politikası çarpanı düşüktür",
+  "D": "D) Para politikası çarpanı sonsuzdur",
+  "E": "E) Maliye politikası çarpanı sıfırdır",
+  "Image": 1,
+  "Explaination": "Yatırımın faize duyarlılığı para politikasını değil, maliye politikasını\netkiler. Buna göre IS’nin eği-mi olan 1\/ke.b formülünde,\nyatırımların faize duyarlılığı olan b katsayısı büyüdükçe IS’nin eğimi\nazalır ve IS yatıklaşır. Dolayısıyla maliye politikası çarpanı yüksek\nolur. Doğru yanıt B dir",
+  "Answer": "B) Maliye politikası çarpanı yüksektir"
+ },
+ {
+  "Question": "IS-LM modeli çerçevesinde daraltıcı bir maliye politikası üretim ve faiz oranını nasıl etkiler?",
+  "A": "A) Üretim artar, faiz oranları artar",
+  "B": "B) Üretim değişmez, faiz oranları yükselir",
+  "C": "C) Üretim düşer, faiz oranları yükselir",
+  "D": "D) Üretim artar, faiz oranları düşer",
+  "E": "E) Üretim düşer, faiz oranları düşer",
+  "Image": 1,
+  "Explaination": "Negatif eğimli bir IS ve pozitif eğilimli bir LM durumunda daraltıcı\nbir maliye politikası IS eğrisini sola kaydırır. Bu durumda faiz\noranları düşer ve üretim azalır. Doğru yanıt E dir",
+  "Answer": "E) Üretim düşer, faiz oranları düşer"
+ }
+]

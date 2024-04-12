@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdaki gelir kavramlarından hangisi Friedman’a aittir?",
+  "A": "A) Nisbi gelir",
+  "B": "B) Sürekli gelir",
+  "C": "C) Mutlak gelir",
+  "D": "D) Harcanabilir gelir",
+  "E": "E) Cari gelir",
+  "Image": 1,
+  "Explaination": "Friedman’ın sürekli geliri, gelecekte beklenen gelirin bugünkü\nortalama değeridir. Sürekli gelir arttıkça para talebi artar. Sürekli\ngelirin fonksiyonları tüketim, yatırım, para talebi ve dolaşım hızıdır.\nDoğru yanıt B dir",
+  "Answer": "B) Sürekli gelir"
+ },
+ {
+  "Question": "Portföy seçimi teorisi hangi iktisatçıya aittir?",
+  "A": "A) Keynes",
+  "B": "B) Pigou",
+  "C": "C) Hicks",
+  "D": "D) Friedman",
+  "E": "E) Tobin",
+  "Image": 1,
+  "Explaination": "Portföy seçimi teorisi Tobin’e aittir. Kişilerin elerinde tuttukları\naktiflerle ilgilidir.\nDoğru yanıt E dir",
+  "Answer": "E) Tobin"
+ },
+ {
+  "Question": "Friedman’a göre sürekli gelir aşağıdakilerden hangisine\nbağlıdır?",
+  "A": "A) Para arzına",
+  "B": "B) Para talebine",
+  "C": "C) Servete",
+  "D": "D) Fiyatlara",
+  "E": "E) Faiz oranına",
+  "Image": 1,
+  "Explaination": "Friedman’a göre servetin ölçüsü sürekli gelirdir. Doğru yanıt C dir",
+  "Answer": "C) Servete"
+ },
+ {
+  "Question": "Atıl ankes talebini oluşturan para talebi aşağıdakilerden\nhangisidir?",
+  "A": "A) İşlem amaçlı para talebi",
+  "B": "B) Spekülasyon amaçlı para talebi",
+  "C": "C) İhtiyat amaçlı para talebi",
+  "D": "D) Yatırım amaçlı para talebi",
+  "E": "E) Kar amaçlı para talebi",
+  "Image": 1,
+  "Explaination": "Atıl ankes talebini (atıl para balansları), spekü-lasyon güdüsüyle\ntalep edilen para oluşturur. Doğru yanıt B dir.",
+  "Answer": "B) Spekülasyon amaçlı para talebi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi para politikasının bir aracı değildir?",
+  "A": "A) Faiz oranı",
+  "B": "B) Açık piyasa işlemleri",
+  "C": "C) Zorunlu karşılıklar",
+  "D": " D) Disponibilite",
+  "E": "E) Parasal taban",
+  "Image": 1,
+  "Explaination": "Parasal taban bir para politikası aracı değil, amacıdır. Doğru yanıt E\ndir",
+  "Answer": "E) Parasal taban"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi para piyasası araçlarından biri\ndeğildir?",
+  "A": "A) Mevduat zorunlu karşılık oranı",
+  "B": "B) Hazine Bonosu",
+  "C": "C) Bankaları ikna yolu",
+  "D": "D) Repo",
+  "E": "E) Banka kabulü",
+  "Image": 1,
+  "Explaination": "• Mevduat zorunlu karşılık oranı\n• Disponibilite oran ve kompozisyonu\n• Açık piyasa işlemleri\n• Reeskont oranı\n• Faiz oranı\n• Bankaları ikna yolu (moral suasion)\n• İthalat teminat oranı ve\/veya süresi\n• Asgari ödeme oranı (magrin requirement)\n• Selektif kredi kontrolü\nDoğru yanıt B dir.",
+  "Answer": "B) Hazine Bonosu"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Rezerv Para + APİ Yükümlülüklerini\ngösterir?",
+  "A": "A) Rezerv Para",
+  "B": "B) Emisyon",
+  "C": "C) Parasal Taban",
+  "D": "D) MB Parası",
+  "E": "E) Disponibilite",
+  "Image": 1,
+  "Explaination": "Rezerv Para = Emisyon + Özel Bankalara Borçlar\nParasal Taban= Rezerv Para + APİ Yükümlü-lükleri\nMB Parası = Parasal taban + Kamu Mevduatları\nDoğru yanıt C dir",
+  "Answer": "C) Parasal Taban"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Parasal taban + Kamu Mevduatlarını\ngösterir?",
+  "A": "A) Rezerv Para",
+  "B": "B) Emisyon",
+  "C": "C) Parasal Taban",
+  "D": "D) MB Parası",
+  "E": "E) Disponibilite",
+  "Image": 1,
+  "Explaination": "Rezerv Para = Emisyon + Özel Bankalara Borçlar\nParasal Taban= Rezerv Para + APİ Yükümlü-lükleri\nMB Parası = Parasal taban + Kamu Mev-duatları\nDoğru yanıt D dir",
+  "Answer": "D) MB Parası"
+ },
+ {
+  "Question": "Bir zaman boyutuna bağlı olan değişkenler için ne\nsöylenebilir?",
+  "A": "A) Stok değişken",
+  "B": "B) Akım değişken",
+  "C": "C) Sabit değişken",
+  "D": "D) Bağımlı değişken",
+  "E": "E) Bağımsız değişken",
+  "Image": 1,
+  "Explaination": "Akım değişkenler bir zaman boyutuna bağlı olan stok değişkenler\nise zaman boyutuna bağlı olmadan ifade edilebilen değişkenlerdir.\nÖrneğin üretim, miktar\/zaman (ton\/ay gibi) birimleriyle ifade\nedilen bir akım değişken iken, bir firmanın mal stoku yalnızca\nmiktar birimleriyle ifade edilen bir stok değişkendir. Doğru yanıt B\ndir",
+  "Answer": "B) Akım değişken"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi para piyasası araçlarından biri\ndeğildir?",
+  "A": "A) Hazine Bonosu",
+  "B": "B) Devlet tahvili",
+  "C": "C) Finansman bonosu",
+  "D": "D) Repo",
+  "E": "E) Banka kabulü",
+  "Image": 1,
+  "Explaination": "• Mevduat zorunlu karşılık oranı\n• Disponibilite oran ve kompozisyonu\n• Açık piyasa işlemleri\n• Reeskont oranı\n• Faiz oranı\n• Bankaları ikna yolu (moral suasion)\n• İthalat teminat oranı ve\/veya süresi\n• Asgari ödeme oranı (magrin requirement)\n• Selektif kredi kontrolü\nDoğru yanıt B dir",
+  "Answer": "B) Devlet tahvili"
+ },
+ {
+  "Question": "Menkul kıymetlerin anapara ve kuponlarının ayrıştırılarak ayrı\nayrı alınıp satılması işlemine ne ad verilir?",
+  "A": "A) Kupür",
+  "B": "B) Strip",
+  "C": "C) Bono",
+  "D": "D) Bond",
+  "E": "E) Bill",
+  "Image": 1,
+  "Explaination": "Menkul kıymetlerin anapara ve kuponlarının ayrıştırılarak ayrı ayrı\nalınıp satılması işlemine strip adı verilir. Doğru yanıt B dir",
+  "Answer": "B) Strip"
+ },
+ {
+  "Question": "Kambiyo işlemleri yapanların kur riskinden korunmak için;\ndövizin gelecekteki kur üzerinden alınıp satılması konusunda yapılan anlaşmaya ne denir?",
+  "A": "A) Akseptans",
+  "B": "B) Forfaiting",
+  "C": "C) Hedging",
+  "D": "D) Opsiyon",
+  "E": "E) Factoring",
+  "Image": 1,
+  "Explaination": "Kambiyo işlemleri yapanların kur riskinden ko-runmak için; dövizin\ngelecekteki kur üzerinden alınıp satılması konusunda yapılan\nanlaşmaya hedging denir. Doğru yanıt C dir",
+  "Answer": "C) Hedging"
+ },
+ {
+  "Question": "Bankaların “Kabul edildi” kaşesini taşıyan, yurtiçi ödemelerde kullanılan bonoya ne ad verilir?",
+  "A": "A) Banka Kabulü",
+  "B": "B) Hedging",
+  "C": "C) Poliçe",
+  "D": "D) Bono",
+  "E": "E) Bill",
+  "Image": 1,
+  "Explaination": "Bankaların “Kabul edildi” kaşesini taşıyan, yurtiçi ödemelerde\nkullanılan bonoya poliçe adı verilir. Doğru yanıt C dir",
+  "Answer": "C) Poliçe"
+ },
+ {
+  "Question": "Banka, ithalatçı firmanın talimatı üzerine, ihraç eden\nfirmanın bankasına bir kredi mektubu göndererek malın\nteslimatını müteakip karşılığını ödemeyi taahhüt ettiğini bildirir.Bu taahhüdün yapıldığı belgeye aşağıdaki unsurlardan hangisi uygun olabilir?",
+  "A": "A) Hedging",
+  "B": "B) Forfaiting",
+  "C": "C) Akreditif",
+  "D": "D) Factoring",
+  "E": "E) Swap",
+  "Image": 1,
+  "Explaination": "Banka, ithalatçı firmanın talimatı üzerine, ihraç eden firmanın\nbankasına bir kredi mektubu göndererek malın teslimatını\nmüteakip karşılı-ğını ödemeyi taahhüt ettiğini bildirir. Bu\ntaahhüdün yapıldığı belgeye Akreditif denir. Doğru yanıt C dir",
+  "Answer": "C) Akreditif"
+ },
+ {
+  "Question": "İlerideki bir tarihte teslimatı veya nakit uzlaşması yapılmak üzere herhangi bir malın veya finansal aracın bugünden alım satımının yapıldığı piyasalar aşağıdakilerden hangisidir?",
+  "A": "A) Tam rekabet",
+  "B": "B) Finansal piyasalar",
+  "C": "C) Mali piyasalar",
+  "D": "D) Türev piyasalar",
+  "E": "E) Futures piyasalar",
+  "Image": 1,
+  "Explaination": "İlerideki bir tarihte teslimatı veya nakit uzlaşması yapılmak üzere\nherhangi bir malın veya finansal aracın bugünden alım satımının\nyapıldığı piyasalardır. Türev piyasaların tanımı forward, futures ve\nopsiyon işlemlerinin tama-mını içermektedir. Doğru yanıt D dir",
+  "Answer": "D) Türev piyasalar"
+ },
+ {
+  "Question": "Rezerv para büyüklüğü aşağıdaki toplamlardan hangisine\neşittir?",
+  "A": "A) Emisyon + Bankalardaki zorunlu karşılıklar + Bankalar serbest\nmevduatı + Fon hesapları + Banka dışı kesim mevduatı",
+  "B": "B) Emisyon + Bankalardaki zorunlu olmayan karşılıklar + Bankalar\natıl mevduatı + Ban-ka içi kesim mevduatı",
+  "C": "C) Dolaşımdaki nakit para + Bankaların zo-runlu olmayan karşılıkları\n+ Bankalar ser-best mevduatı + Fon hesapları + Banka dışı kesim\nmevduatı + Resmi mevduat",
+  "D": "D) Dolaşımdaki nakit para+ Banka dışı kesim mevduatı + Bankalar\nserbest mevduatı + Bankaların zorunlu karşılıkları + Merkez Bankası\nzorunlu yükümlülükleri",
+  "E": "E) Parasal taban + Bankaların zorunlu karşı-lıkları + Bankalar\nserbest mevduatı + Ban-ka dışı kesim mevduatı",
+  "Image": 1,
+  "Explaination": "Emisyon + Bankalardaki zorunlu karşılıklar + Ban-kalar serbest\nmevduatı + Fon hesapları + Banka dışı kesim mevduatına Rezerv\npara büyüklüğü denir. Doğru yanıt A dır.",
+  "Answer": "A) Emisyon + Bankalardaki zorunlu karşılıklar + Bankalar serbest\nmevduatı + Fon hesapları + Banka dışı kesim mevduatı"
+ },
+ {
+  "Question": "Yeni Keynesyenler varsayımlarının geçerli olabilmesi için\npiyasanın nasıl olması gerektiğini savunmuşlardır?",
+  "A": "A) Tam rekabet",
+  "B": "B) Eksik rekabet",
+  "C": "C) Monopol",
+  "D": "D) Monopolcü rekabet",
+  "E": "E) Oligopol",
+  "Image": 1,
+  "Explaination": "Yeni Keynesyenler varsayımlarının geçerli olabil-mesi için piyasanın\nTekelci rekabet olması gerek-tiğini savunmuşlardır. Doğru yanıt D\ndir.",
+  "Answer": "D) Monopolcü rekabet"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir ticari banka bilançosunun aktif\nkısmında yer almaz?",
+  "A": "A) Ticari Krediler",
+  "B": "B) İştirakler",
+  "C": "C) Rezervler",
+  "D": "D) Yüzen fonlar",
+  "E": "E) Menkul kıymet plasmanları",
+  "Image": 1,
+  "Explaination": "Yüzen fonlar bir ticari banka bilançosunun Pasif kısmında yer alır.\nDoğru yanıt D dir",
+  "Answer": "D) Yüzen fonlar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Genel bütçeli kuruluşlara, Özel\nbütçeli kuruluşlara, Düzenleyici ve Denetleyici Kurumlara, yerel\nyönetimlere ve icra iflas dairelerine ait mevduatı ifade eder?",
+  "A": "A) Resmi mevduat",
+  "B": "B) Ticari mevduat",
+  "C": "C) Meşru mevduat",
+  "D": "D) Gayri resmi mevduat",
+  "E": "E) Bankalar mevduatı",
+  "Image": 1,
+  "Explaination": "Resmi mevduat, Genel bütçeli kuruluşlara, Özel bütçeli kuruluşlara,\nDüzenleyici ve denetleyici kurumlara, yerel yönetimlere ve icra iflas\ndairelerine ait mevduatı ifade eder.\nDoğru yanıt A dır.",
+  "Answer": "A) Resmi mevduat"
+ },
+ {
+  "Question": "Klasik yaklaşıma göre aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Para arzı ile fiyat düzeyi aynı oranlı ve doğru yönlüdür",
+  "B": "B) Reel ücretler fiyattaki değişmelere bağlı değildir",
+  "C": "C) Faiz oranı ile para talebi arasında ilişki yoktur",
+  "D": "D) Spekülatif para talebi sonsuz yapıdadır",
+  "E": "E) Miktar kuramı geçerlidir",
+  "Image": 1,
+  "Explaination": "Klasiklere göre Ekonomide tam rekabet ve üc-ret-fiyat esnekliği\ntam istihdamı kendiliğinden gerçekleştirir. Bu durumda toplam arz\ndüşey eksene paralel olur. Ve kamu harcamalarında bir artış\ntoplam talebi sağa kaydıracağından fi-yatlar artarken gelir\ndeğişmemektedir. Paranın miktar kuramı ile parasal\nbüyüklüklerdeki artış-ların fiyatlar genel düzeyini artıracağını, reel\nbüyüklülerle parasal büyüklükler arasında hiçbir bağlantının\nolmadığı varsayılır. Buna DİKOTOMİ varsayımı adı verilir.\nDoğru yanıt D dir.",
+  "Answer": "D) Spekülatif para talebi sonsuz yapıdadır"
+ }
+]

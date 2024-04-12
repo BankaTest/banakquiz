@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdaki durumların hangisinde LM eğrisi sola kayar?",
+  "A": "A) Zorunlu karşılık oranının artması",
+  "B": "B) Merkez Bankası’nın APİ yoluyla tahvil satın alması",
+  "C": "C) Merkez Bankası’nın genişletici bir para politikası uygulaması",
+  "D": "D) Üretimim artması",
+  "E": "E) Reeskont oranının düşmesi",
+  "Image": 1,
+  "Explaination": "Merkez Bankası’nın zorunlu karşılık oranını art-tırması, para arzını\nazaltır ve LM eğrisi sola ka-yar, bu durumda faiz oranları yükselir\nve üretim azalır. Doğru yanıt A dır",
+  "Answer": "A) Zorunlu karşılık oranının artması"
+ },
+ {
+  "Question": "Monetarist iktisatçılara göre para arzının artması aşağıdakilerden hangisine neden olur?",
+  "A": "A) Toplam arz eğrisi sağa kayar",
+  "B": "B) Toplam arz eğrisi sola kayar",
+  "C": "C) Toplam talep eğrisi sağa kayar",
+  "D": "D) Toplam talep ve toplam arz eğrisi değişmez",
+  "E": "E) Toplam talep eğrisi sola kayar",
+  "Image": 1,
+  "Explaination": "Monetaristlere göre para arzı artışları, beklenen enflasyonu\nyükseltir. Bu durumda ilerde mal fiyatlarına zam gelmesi\nbeklendiği için, mal talebi artar ve toplam talep eğrisi sağa kayar.\nDoğru yanıt C dir",
+  "Answer": "C) Toplam talep eğrisi sağa kayar"
+ },
+ {
+  "Question": "Keynesgil görüşe göre aşağıdakilerden hangisi durumunda para politikası etkisiz olur?",
+  "A": "A)Ekonomi tam istihdamda ise",
+  "B": "B)Ekonomi likidite tuzağında ise ",
+  "C": "C) Maliye politikası çarpanı yükse ise",
+  "D": "D) Ücretlerin esnek olmaması durumunda",
+  "E": "E) Ekonomi eksik istihdamda ise",
+  "Image": 1,
+  "Explaination": "Likidite tuzağında faiz oranları minimumdur. Bu durumda para arzı\nartışı faiz oranlarını daha fazla düşüremez. Dolayısıyla yatırım ve\nmilli gelir üzerinde etkili olamaz. Para politikası etkili olamaz. Doğru\nyanıt B dir",
+  "Answer": "B)Ekonomi likidite tuzağında ise "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların kaydi para yaratma miktarını azaltmaz?",
+  "A": "A) Vadeli mevduat zorunlu rezerv oranının artması",
+  "B": "B) Vadeli mevduat faiz oranının artması",
+  "C": "C) Nakit tercih oranının azalması",
+  "D": "D) Bankaların serbest rezerv oranının artması",
+  "E": "E) Munzam karşılık oranının artması",
+  "Image": 1,
+  "Explaination": "Halkın nakit tercih oranının azalması kaydi para yaratma miktarını\narttırır. Eğer nakit tercih oranında bir artış olursa, bankaların\nkullandırdığı kredilerin daha azı bankacılık sistemine geri döner ve\nkaydi para miktarı azalır. Doğru yanıt C dir",
+  "Answer": "C) Nakit tercih oranının azalması"
+ },
+ {
+  "Question": "Toplam talepteki gerçekleşen artışın, beklenen artıştan fazla olması halinde üretim düzeyi ve işsizlik hakkında ne söylenebilir?",
+  "A": "A) Reel gelir azalır, işsizlik oranı düşer",
+  "B": "B) Reel gelir değişmez, işsizlik oranı düşer",
+  "C": "C) Reel gelir artar, işsizlik oranı düşer",
+  "D": "D) Reel gelir artar, işsizlik oranı azalır",
+  "E": "E) Reel gelir azalır, işsizlik oranı değişmez",
+  "Image": 1,
+  "Explaination": "Toplam talepteki artış (gerçekleşen enflasyo-nun) halkın beklediği\ndüzeyin üzerinde olursa ücretler reel olarak düşer, firmalar daha\nçok işçi istihdam ederler ve daha fazla üretim yaparlar. Bunun\nsonucunda reel gelir artar ve istihdam arttığı için de işsizlik azalır.\nDoğru yanıt C dir",
+  "Answer": "C) Reel gelir artar, işsizlik oranı düşer"
+ },
+ {
+  "Question": "Klasik faiz teorisine göre aşağıdakilerden hangisi denge faiz oranının artmasına yol açar?",
+  "A": "A) Tasarrufların artması",
+  "B": "B) Para talebinin artması",
+  "C": "C) Yatırımların artması",
+  "D": "D) İstihdamın artması",
+  "E": "E) Para arzının artması",
+  "Image": 1,
+  "Explaination": "Klasik faiz teorisine göre denge faiz haddi yatı-rımların tasarruflara\neşitlendiği noktada belirle-nir. Buna göre negatif eğimli bir yatırım\neğrisin-de, yatırımların artması denge faiz oranını arttı-rır.\nTasarrufların artması ise faiz oranlarını dü-şürür. Doğru yanıt C dir",
+  "Answer": "C) Yatırımların artması"
+ },
+ {
+  "Question": "Klasik miktar teorisine göre para talebi ve faiz oranı arasındaki ilişki hakkında ne söylenebilir?",
+  "A": "A) Para talebi artınca, faiz oranı artar",
+  "B": "B) Para talebi ile faiz oranı arasında bir ilişki yoktur",
+  "C": "C) Para talebi artınca faiz oranı düşer",
+  "D": "D) Faiz oranı artınca, para talebi artar",
+  "E": "E) Faiz oranı artınca para talebi azalır",
+  "Image": 1,
+  "Explaination": "Klasik miktar teorisinde para talebi ve faiz oranı arasında bir ilişki\nyoktur. eşit-liğinde V ve Y sabittir, faiz oranlarının para talebi\nüzerinde etkisi yoktur. Doğru yanıt B dir.",
+  "Answer": "B) Para talebi ile faiz oranı arasında bir ilişki yoktur"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir bankanın aktifteki kalemlerinden biri değildir?",
+  "A": "A) MB bankasındaki mevduatları",
+  "B": "B) Krediler",
+  "C": "C) Kasa",
+  "D": "D) Plasmanlar",
+  "E": "E) Tasarruf mevduatları",
+  "Image": 1,
+  "Explaination": "Tasarruf mevduatları banka mevduatlarının içinde olan pasif\nkalemlerinde yer alır. Tasarruf mevduatı, gerçek kişilerin,\nderneklerin, vakıfların, ticari nitelikli olmayan kişi veya kurumların\nbankaya yatırdıkları paralardır. Doğru yanıt E dir.",
+  "Answer": "E) Tasarruf mevduatları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların pasif kalemindeki mevduatları arasında yer almaz?",
+  "A": "A) Tasarruf mevduatları",
+  "B": "B) Ticari mevduatlar",
+  "C": "C) Merkez Bankası mevduatları",
+  "D": "D) Resmi mevduatlar",
+  "E": "E) Bankalar mevduatı",
+  "Image": 1,
+  "Explaination": "Merkez Bankası mevduatları bankaların aktif kaleminde yer alır.\nBunlar bankaların Merkez Bankasına yatırdıkları zorunlu ve serbest\nre-zervlerdir. Doğru yanıt C dir",
+  "Answer": "C) Merkez Bankası mevduatları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ticari mevduat arasında yer almaz?",
+  "A": "A) Kooperatiflere ait mevduat",
+  "B": "B) Bankalar mevduatı",
+  "C": "C) Derneklere ait mevduatlar",
+  "D": "D) Vakıflar ait mevduat",
+  "E": "E) Gerçek kişilerin mevduatları",
+  "Image": 1,
+  "Explaination": "Bankalar mevduatı, bankaların birbirleri nezdinde yatırdıkları\nmevduatlardır. Ticari mevduatlar içinde değildir. Bankaların\nmevduat sınıflandırmasını; ticari mevduat, ta-sarruf mevduatı,\nresmi mevduat, bankalar mevduatı ve diğer mevduatlar olarak\nsıralayabiliriz. Doğru yanıt B dir",
+  "Answer": "B) Bankalar mevduatı"
+ },
+ {
+  "Question": "Ekonomi likidite tuzağında ise aşağıdakilerden hangisi etkili olur?",
+  "A": "A) Devlet harcamalarının arttırılması",
+  "B": "B) Devlet harcamalarının düşürülmesi",
+  "C": "C) Para arzının arttırılması",
+  "D": "D) Para arzının düşürülmesi",
+  "E": "E) Herhangi bir etki söz konusu olamaz",
+  "Image": 1,
+  "Explaination": "ikidite tuzağında para politikası uygulaması etkili değildir. Para\npolitikası çarpanı sıfırdır. Likidite tuzağında maliye politikası\netkindir. Buna göre devlet harcamalarının artması IS yi sağa\nkaydıracak, böylece milli gelir artacaktır. Doğru yanıt A dır",
+  "Answer": "A) Devlet harcamalarının arttırılması"
+ },
+ {
+  "Question": "Fon talebi ile fon arz edenlerin bir araya geldiği piyasaya ne ad verilir?",
+  "A": "A) Döviz piyasas",
+  "B": "B) Tahvil piyasası",
+  "C": "C) Borsa",
+  "D": "D) Finansal piyasa",
+  "E": "E) Bono piyasası",
+  "Image": 1,
+  "Explaination": "Fon talebi ile fon arz edenlerin bir araya geldiği piyasalara finansal piyasadır doğru cevap D",
+  "Answer": "D) Finansal piyasa"
+ },
+ {
+  "Question": "Keynes likidite tuzağında para talebinin faize esnekliği (h) hakkında ne söylenebilir?",
+  "A": "A) 0",
+  "B": "B) 1> h",
+  "C": "C) 1< h",
+  "D": "D) 0<h<1",
+  "E": "E) Sonsuz",
+  "Image": 1,
+  "Explaination": "Keynes likidite tuzağında para talebinin faize duyarlılığı sonsuzdur.\nLikidite tuzağında faizler minimumdur, tahvil fiyatları ise\nmaksimumdur, bu durumda para talebi sonsuzdur. Para politi-kası\netkili değildir Çünkü faizler minimum olduğundan para arzının\narttırılıp faizlerin daha fazla düşürülmesi söz konusu değildir.\nDoğru yanıt E dir",
+  "Answer": "E) Sonsuz"
+ },
+ {
+  "Question": "Bir ülkede enflasyonun olması paranın hangi özelliğiyle ilgilidir?",
+  "A": "A) Değişim aracı olma",
+  "B": "B) Likidite olma",
+  "C": "C) Hesap birimi olma",
+  "D": "D) Standart olma",
+  "E": "E) Değer saklama aracı olma",
+  "Image": 1,
+  "Explaination": "Bir ülkede enflasyonun olması paranın iyi bir değer saklama aracı\nolmadığını gösterir. Enf-lasyonun yüksek olduğu dönemlerde nakit ika-mesi vardır. Yani bireyler ulusal para yerine yabancı parayı\ntercih ederler. Doğru yanıt E dir",
+  "Answer": "E) Değer saklama aracı olma"
+ },
+ {
+  "Question": "Yeni Klasik görüşe göre enflasyonun nedeni aşağıdakilerden hangisidir?",
+  "A": "A) Ücretlerin artması",
+  "B": "B) Maliyetlerin artması",
+  "C": "C) Para talebinin artması",
+  "D": "D) Fiyatlar genel düzeyinin sürekli artması",
+  "E": "E) Faizlerin artması",
+  "Image": 1,
+  "Explaination": "Yeni klasik görüşe göre enflasyonun nedeni fi-yatlar genel\ndüzeyinin artmasıdır. Bu artışın bir defalık değil sürekli olması\nhalinde enflasyondan söz edilebilir. Doğru yanıt D dir",
+  "Answer": "D) Fiyatlar genel düzeyinin sürekli artması"
+ },
+ {
+  "Question": "Para arzındaki ani, beklenmedik değişikliklerin, iktisadi\ndalgalanmaların nedeni olarak kabul eden görüş aşağıdakilerden hangisidir?",
+  "A": "A) Yeni Keynesyenler",
+  "B": "B) Reel konjonktür teorisi",
+  "C": "C) Friedman",
+  "D": "D) Keynesyenler",
+  "E": "E) Neoklasikler",
+  "Image": 1,
+  "Explaination": "Neoklasiklerin rasyonel beklentiler kuramına göre para arzındaki\ndeğişiklikler, halkça bek-lendiği sürece, para nötr’dür. Ancak para\narzın-daki değişiklikler halk tarafından beklenmiyorsa para nötr\ndeğildir ve üretimi etkiler. Doğru yanıt E dir",
+  "Answer": "E) Neoklasikler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi uygulanan bir ekonomi politikası sonucunda ortaya çıkabilecek gecikme türlerinden biri değildir?",
+  "A": "A) Veri gecikmesi",
+  "B": "B) Planlama gecikmesi",
+  "C": "C) Yürütme gecikmesi",
+  "D": "D) Etkinlik gecikmesi",
+  "E": "E) Düzenleme gecikmesi",
+  "Image": 1,
+  "Explaination": "Uygulanan bir para ve maliye politikası sonu-cunda ortaya çıkan\ngecikme türleri: Veri gecik-mesi, teşhis-tanı gecikmesi, düzenleme\ngecik-mesi, yürütme gecikmesi ve etkinlik gecikmesidir. Planlama\ngecikmesi diye bir gecikme türü yoktur. Doğru yanıt B dir",
+  "Answer": "B) Planlama gecikmesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangi durumda bir ülkedeki para arzı artmaz?",
+  "A": "A) Piyasa faiz oranının yükselmesi",
+  "B": "B) Reeskont oranının düşmesi",
+  "C": "C) APİ yoluyla tahvil satın alınması",
+  "D": "D) Zorunlu karşılık oranının düşmesi",
+  "E": "E) Parasal tabanın azalması",
+  "Image": 1,
+  "Explaination": "Bir ülkedeki para arzı parasal tabana ve para çarpanına bağlıdır.\nHer ikisinin de artması, para arzını arttırır. Piyasa faiz oranının\nyükselmesi (halkın nakit tercih oranını ve bankaların serbest rezerv\noranını azaltır), reeskont oranının düşmesi ve zorunlu karşılık\noranının düşmesi para çarpanını arttırır. APİ yoluyla tahvil satın\nalınması ise parasal tabanı arttıracağı için yine para arzını arttırır.\nParasal tabanın azalması, para arzını azaltır. Doğru yanıt E dir",
+  "Answer": "E) Parasal tabanın azalması"
+ },
+ {
+  "Question": "Reel konjonktür teorisine göre, üretim artışındaki artışın\ntemel nedeni aşağıdakilerden hangisidir?",
+  "A": "A) Para arzının artması",
+  "B": "B) Para talebinin artması",
+  "C": "C) Faiz oranının düşmesi",
+  "D": "D) Teknoloji sonucunda verimlilik artışı",
+  "E": "E) Para arzının azalması",
+  "Image": 1,
+  "Explaination": "Reel konjonktür teorisine göre üretimi etkileyen temel neden,teknolojinin gelişmesi sonucunda ortaya çıkan verimlilik artışıdır.\nPara ile üretimin etkilenmesi söz konusu değildir. Para nötr’dür.\nDoğru yanıt D dir.",
+  "Answer": "D) Teknoloji sonucunda verimlilik artışı"
+ },
+ {
+  "Question": "Bireylerin günlük ihtiyaçlarını gerçekleştirmek amacıyla ellerinde tuttukları para miktarına ne ad verilir?",
+  "A": "A) İşlem amacıyla para talebi",
+  "B": "B) Spekülasyon amacıyla para talebi",
+  "C": "C) İhtiyat amaçlı para talebi",
+  "D": "D) Yatırım amaçlı para talebi",
+  "E": "E) Gömüleme amaçlı para talebi",
+  "Image": 1,
+  "Explaination": "İşlem (muamele) amaçlı para talebi, bireylerin günlük ihtiyaçlarını\nkarşılamak için talep ettikleri para miktarıdır. Doğru yanıt A dır",
+  "Answer": "A) İşlem amacıyla para talebi"
+ }
+]
