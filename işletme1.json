@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Girdilerin fayda yaratacak şekilde mamül veya hizmete dönüştürülmesine ne denir ?",
+  "A": "A) Üretim",
+  "B": "B) Pazarlama",
+  "C": "C) Finansman",
+  "D": "D) Muhasebe ",
+  "E": "E) İşletme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Üretim"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi üretim faktörlerinden değildir?",
+  "A": "A) Emek",
+  "B": "B) Girişim",
+  "C": "C) Girişimci",
+  "D": "D) Sermaye",
+  "E": "E) Bilgi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Girişim"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi miktarına göre üretim çeşididir?",
+  "A": "A) İmal yerinde üretim",
+  "B": "B) Atölye sistemi",
+  "C": "C) Hizmet üretim",
+  "D": "D) Hareket halinde üretim",
+  "E": "E) Kitle Üretim",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kitle Üretim"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi izlenen yola göre üretim çeşidi değildir?",
+  "A": "A) İmal yerinde üretim",
+  "B": "B) Hareket halinde üretim",
+  "C": "C) Fiziksel Mal üretimi",
+  "D": "D) Atölye sistemi",
+  "E": "E) Grup sistem",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Fiziksel Mal üretimi"
+ },
+ {
+  "Question": "Üretim devamlıdır, aynı mamulden çok miktarda üretilir,birbirinin aynı olan mamuller üretilir.imalat öncesi hazırlık fazladır,bu maliyet arttırır. Tanımı verilen üretim hangisidir?",
+  "A": "A) Atölye sistemi ",
+  "B": "B) Hizmet üretimi",
+  "C": "C) Hareket halinde üretim",
+  "D": "D) Kitle üretimi",
+  "E": "E) Seri üretim",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kitle üretimi"
+ },
+ {
+  "Question": "İnsan ihtiyaçlarını ve isteklerini karşılamaya yönelik mübadele işlemine ne denir?",
+  "A": "A) Finansman",
+  "B": "B) Pazarlama",
+  "C": "C) Üretim",
+  "D": "D) Emek",
+  "E": "E) Muhasebe",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Pazarlama"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi pazarlama fonksiyonlarından değildir?",
+  "A": "A) Ürün",
+  "B": "B) Müşteri",
+  "C": "C) Tutundurma",
+  "D": "D) Dağıtım ",
+  "E": "E) Fiyatlama",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Müşteri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi endüstriyel mal çeşidi değildir?",
+  "A": "A) Kolayda Mal",
+  "B": "B) Ham maddeler",
+  "C": "C) Ana ekipman",
+  "D": "D) Hazır parçalar",
+  "E": "E) Endüstriyel hizmet",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kolayda Mal"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tutundurma yöntemlerinden biri değildir?",
+  "A": "A) Reklam",
+  "B": "B) Marka",
+  "C": "C) Halkla ilişkiler",
+  "D": "D) Promosyon",
+  "E": "E) Yüz yüze satış",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yüz yüze satış"
+ },
+ {
+  "Question": "Kullanılan maddelerin doğayı kirletmemesi çevreyle uyumlu olduğu pazarlama hangisidir?",
+  "A": "A) Doğrudan pazarlama",
+  "B": "B) B2B pazarlama",
+  "C": "C) B2C pazarlama ",
+  "D": "D) Kitlesel pazarlama",
+  "E": "E) Yeşil Pazarlama",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yeşil Pazarlama"
+ },
+ {
+  "Question": "E-alışveriş gibi kolaylıkla ürün ve hizmet alınan pazarlama hangisidir?",
+  "A": "A) Doğrudan pazarlama",
+  "B": "B) B2B pazarlama",
+  "C": "C) B2C pazarlama ",
+  "D": "D) Yeşil pazarlama",
+  "E": "E) Kitlesel pazarlama ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) B2B pazarlama"
+ },
+ {
+  "Question": "İşletmenin amaçlarına ulaşabilmek için gerek duydukları fonun sağlanması ve bunun yönetimine ne denir?",
+  "A": "A) Pazarlama ",
+  "B": "B) Finans",
+  "C": "C) İşletme ",
+  "D": "D) Muhasebe",
+  "E": "E) Üretim",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Finans"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi toplum nezdinde oluşan değerin ifadesini anlatan sermaye çeşidir?",
+  "A": "A) Sabit sermaye",
+  "B": "B) İşletme sermaye",
+  "C": "C) Öz sermaye",
+  "D": "D) Yabancı sermaye",
+  "E": "E) Entellektüel Sermaye",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Entellektüel Sermaye"
+ },
+ {
+  "Question": "işletmenin amacına ve üretim çabalarına uygun olarak toplanmış maddi manevi varlığına ne denir?",
+  "A": "A) Muhasebe",
+  "B": "B) Finans",
+  "C": "C) İşletme",
+  "D": "D) Sermaye",
+  "E": "E) Girişim",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Sermaye"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi İşletmenin kurucusunun koyduğu sermaye çeşididir?",
+  "A": "A) Yabancı Sermaye",
+  "B": "B) Öz Sermaye",
+  "C": "C) Sabit sermaye",
+  "D": "D) işletme sermaye",
+  "E": "E) Entellektüel sermaye",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Öz Sermaye"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi etkin bir yönetim sisteminin şartlarından biri değildir?",
+  "A": "A) Yöneticinin benliği ve kişiliği ile örnek olması",
+  "B": "B) Görev ve sorumlulukları yüklenecek nitelikte olmayan personelin işletmeden uzaklaştırılması",
+  "C": "C) Yöneticinin bireysel başarıyı ön planda tutması",
+  "D": "D) Yöneticinin personeli sürekli denetim altında tutması",
+  "E": "E) Takım ruhunun oluşturulması, liderliğin tek elden yürütülmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Yöneticinin bireysel başarıyı ön planda tutması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi açık bir sistem olan sağlık kuruluşlarını etkileyen dış faktörlerden değildir?",
+  "A": "A) Yeni çıkarılan yasalar",
+  "B": "B)  Ekonomik krizler",
+  "C": "C)  Teknolojik gelişmeler",
+  "D": "D)  Doğal çevre koşulları",
+  "E": "E) Kurumların bilgi belge ve prosedürleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kurumların bilgi belge ve prosedürleri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi iyi bir planlamanın özelliklerinden değildir?",
+  "A": "A) Çok kısa sürede girişimci tarafından hazırlanılmalıdır",
+  "B": "B) iyi bir plan uzun sürede hazırlanılmalıdır hemen uygulanmalıdır",
+  "C": "C) Çevre koşulları dikkate alınan planlar iyi planlar değildir",
+  "D": "D) Maliyeti fazla olan planlar daha çok uygulanabilir iyi planlardır",
+  "E": "E) İyi bir plan önceki kararlarla çelişebilir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) İyi bir plan önceki kararlarla çelişebilir"
+ },
+ {
+  "Question": "Üst kademe yöneticileriyle ilgili hangisi yanlış bir bilgidir?",
+  "A": "A) Farklı grup ve mesleklerle çalışmalıdır",
+  "B": "B) Stratejik planlama yapılan kademedir",
+  "C": "C) Kurumlar arası ilişkileri düzenleyen kademedir",
+  "D": "D) )Günlük işlevsel faaliyetleri düzenli bir şekilde yönetmelidir",
+  "E": "E) Kurumla ilgili uzun vadede vizyon belirleyen kademedir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) )Günlük işlevsel faaliyetleri düzenli bir şekilde yönetmelidir"
+ },
+ {
+  "Question": "Birey veya grubun davranışlarının doğruluğu ya da yanlışlığı hakkında hüküm vermeyi sağlayan ahlaki ilkeler ve değerler toplamı tanımı aşağıdaki kavramlardan hangisidir?",
+  "A": "A) Etik",
+  "B": "B) İstek",
+  "C": "C) Sistem",
+  "D": "D) Üretim",
+  "E": "E) İnovasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Etik"
+ }
+]

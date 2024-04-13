@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi yönetimin işlevlerinden biri değildir?",
+  "A": "A) Planlama",
+  "B": " B) Örgütleme",
+  "C": " C) Pazarlama",
+  "D": "D) Yöneltme",
+  "E": "E) Kontrol",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": " C) Pazarlama"
+ },
+ {
+  "Question": "Mamul üretimi ve hizmet üretimi ile ilgili aşağıdaki karşılaştırmalardan hangisi yanlıştır?",
+  "A": "A) Hizmet üretiminde kalite daha kolaylıkla ölçülebilir",
+  "B": "B) Mamul üretiminde verimliliğin ölçülmesi daha kolaydır",
+  "C": "C) Hizmet üretiminde, çalışanların müşteri ile birebir ilişkide olma noktaları çok daha. Fazladır",
+  "D": "D) Mamul üreten birimler, nihai ürün stoklarım artırma-azaltma politikalarını çok daha kolaylıkla uygulayabilir",
+  "E": "E) Pazarlara yakın olma, hizmet üreten birimlerde çok daha önemlidir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Hizmet üretiminde kalite daha kolaylıkla ölçülebilir"
+ },
+ {
+  "Question": "İnsanların gereksinme ve isteklerini gidermeye yarayan somut araçlara ne ad verilir?",
+  "A": "A) Serbest mallar",
+  "B": "B) Tüketim malları\n",
+  "C": "C) Ekonomik mallar",
+  "D": "D) Yatırım malları",
+  "E": "E) Üretim malları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Serbest mallar"
+ },
+ {
+  "Question": "Muhasebe sürecinde yer alan “envanter işlemleri” aşamasından sonra gelen işlem aşağıdakilerden hangisidir?",
+  "A": "A) Kesin mizan",
+  "B": "B) Büyük defter",
+  "C": "C) Finansal tablolar",
+  "D": "D) Genel geçici mizan",
+  "E": "E) Yevmiye defteri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kesin mizan"
+ },
+ {
+  "Question": "Hizmetleri mallardan ayıran temel özellik aşağıdakilerden hangisidir?",
+  "A": "A) Somut olması",
+  "B": "B)  İnsan gereksinmelerini karşılamaya yönelik olması",
+  "C": "C) Elle tutulma özelliğinin olmaması",
+  "D": "D) Üretiminin, herhangi bir çabayı gerektirmemesi",
+  "E": "E) Gereksinmeleri giderme özelliğinin olmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Elle tutulma özelliğinin olmaması"
+ },
+ {
+  "Question": "Bir organizasyonda bağımsız bir insan kaynakları bölümü ne zaman kurulmalıdır?",
+  "A": "A) Üst yönetim güçlendiğinde",
+  "B": "B) İnsan kaynakları işlevleri bölüm yöneticilerinin çok zamanını almaya başladığında",
+  "C": "C) Çok iyi insan kaynakları yöneticisi bulunduğunda",
+  "D": "D) Çalışanlar sendikalı olup kendi haklarını koruyabildiğinde",
+  "E": "E) İşletmenin pazar payı küçüldüğünde ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İnsan kaynakları işlevleri bölüm yöneticilerinin çok zamanını almaya başladığında"
+ },
+ {
+  "Question": "İşletmelerin üretimden sonra en temel fonksiyonu aşağıdakilerden hangisidir?",
+  "A": "A) Muhasebe",
+  "B": "B) Persone",
+  "C": "C) Finansman",
+  "D": "D) Pazarlama",
+  "E": "E) İnsan Kaynakları Yönetimi ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Pazarlama"
+ },
+ {
+  "Question": "Ekmek, sabun gibi bir ya da birkaç kez kullanım sonucu tüketilen mallar aşağıdakilerden hangisinin \nkapsamındadır?",
+  "A": "A) Dayanıksız Mallar",
+  "B": "B) Dayanıklı Mallar",
+  "C": "C) Kolayda Mallar",
+  "D": "D) Beğenmeli Mallar",
+  "E": "E) Özelliği Olan Mallar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Dayanıksız Mallar"
+ },
+ {
+  "Question": "Bir işletmedeki hiyerarşik yönetim basamakları aşağıdakilerden hangisiyle ifade edilmektedir?",
+  "A": " A) Üst Yönetim",
+  "B": "B) Orta Yönetim",
+  "C": "C) Alt Yönetim",
+  "D": "D) Yönetim Piramidi ",
+  "E": "E) Yönetim Süreci",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Yönetim Piramidi "
+ },
+ {
+  "Question": "Kısa ve vadeli kredili satışlardan doğan alacak haklarının devredilmesi aşağıdakilerden hangisiyle ifade \nedilmektedir?",
+  "A": "A) Leasing",
+  "B": "B) Factoring",
+  "C": "C) Sigorta",
+  "D": "D) Kollektif Yatırım",
+  "E": "E) Özel Plasman",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Factoring"
+ },
+ {
+  "Question": "İşletmenin gereksinimini duyduğu fonların belirlenmesiyle bu fonların nereden,nasıl ve ne zaman \nkarşılanacağına ilişkin fonksiyona ne ad verilir?",
+  "A": "A) Leasing",
+  "B": "B) Factoring",
+  "C": "C) Finansman",
+  "D": "D) Yatırım",
+  "E": "E) Sınırlı sermaye",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Finansman"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi işletme türü sınıflandırılmasından biri değildir?",
+  "A": "A) Ekonomik yapısına göre",
+  "B": "B) Sermaye mülkiyeti açısından",
+  "C": "C) Hukuki şekil bakımından",
+  "D": "D) Kar-zarar politikaları açısından",
+  "E": "E) Faaliyet konularına göre",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kar-zarar politikaları açısından"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi hizmetlerin karakteristik özelliklerinden değildir?",
+  "A": "A) Depo edilememesi",
+  "B": "B) Hizmet verene bağlı olması",
+  "C": "C) Hizmet kalitesinin değişkenliği",
+  "D": "D) Hizmetlerin somutluluğu",
+  "E": "E) Dokunulmaz özelliği ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Hizmetlerin somutluluğu"
+ },
+ {
+  "Question": "Gerçek veya tüzel olsun özel kişiler ile kamu tüzel kişilerin birlikte kurdukları işletme türü hangisidir?",
+  "A": "A) Kamu işletmeleri",
+  "B": "B) Yabancı sermaye işletmeleri",
+  "C": "C) Karma işletmeler",
+  "D": "D) Çoktan çıkarlı kamu sermaye işletmeler",
+  "E": "E) Tek şahıs işletmeleri ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Karma işletmeler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tek şahıs işletmelerinin olumsuz denilebilecek özeliklerinden değildir?",
+  "A": "A) Büyümeleri sınırlı denilebilecek işletmelerdir",
+  "B": "B) Gelişmiş örgütsel yapıdan mahrum olmaları",
+  "C": "C) İşletmelerin tüm borçlarına karşı sorumsuz olması",
+  "D": "D) işletmelerin devamı ve geleceğinin belirsiz olması",
+  "E": "E) Farklı işlevlerin yer aldığı departmanların bulunmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İşletmelerin tüm borçlarına karşı sorumsuz olması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kooperatiflerin özelliklerinden biri değildir?",
+  "A": "A) Tüzel kişilerin ortak olabilmesi",
+  "B": "B) En fazla 7 ortak tarafından imzalanması",
+  "C": "C) )Denetçi mekanizmanın bulunması",
+  "D": "D) Belediyelerin kooperatifte yönetim kurulunda bulunabilmesi",
+  "E": "E) Yönetim kurulu üyelerinin en çok 4 yıllığına seçilmesi ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) En fazla 7 ortak tarafından imzalanması"
+ },
+ {
+  "Question": "İnsan kaynakları yönetiminin ulaşmak istediği temel yaklaşım nedir?",
+  "A": "A) Verimlilik-sorumluluk",
+  "B": "B) Çalışma süresi-verimlilik",
+  "C": "C) Hizmet kalitesi –sorumsuzluk",
+  "D": "D) Kalite-verimlilik",
+  "E": "E) Kar-zarar ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kalite-verimlilik"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi insan kaynakları yönetimi işlevinin işletmelerdeki yerini belirleyen temel \ndeğişkenlerden değildir?",
+  "A": "A) Endüstrinin özellikler",
+  "B": "B) Sendikalaşmanın düzeyi",
+  "C": "C) Örgütün büyüklüğü",
+  "D": "D) Kar-zarar dengesi",
+  "E": "E) Konunun örgüt içindeki düzeyi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kar-zarar dengesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi personel seçim süreci aşamalarından biri değildir?",
+  "A": "A) Mülakat",
+  "B": "B) Referans denetimi",
+  "C": "C) Yöneticiyle görüşme",
+  "D": "D) Ücret ayarlanması",
+  "E": "E) Bedensel yeteneklerin ölçülmesi ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ücret ayarlanması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi leasing’in avantajlarından değildir?",
+  "A": "A) Kira taksitlerinde vergi muafiyeti ",
+  "B": "B) Öz sermayenin yetmediği durumlarda uygulanabilmesi",
+  "C": "C) ilk yatırım maliyetinin maalesef yüksek olması",
+  "D": "D) Sigorta gibi güvence harcamasına gerek olmaması",
+  "E": "E) Kira maliyetlerinin alternatif finans kaynaklarına göre düşük olması ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) ilk yatırım maliyetinin maalesef yüksek olması"
+ }
+]

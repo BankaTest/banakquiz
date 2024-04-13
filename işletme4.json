@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "İlk yatırım fikrinden işletme kurulup hazır olana kadar yapılan harcamalar nedir?",
+  "A": "A) Sabit Sermaye",
+  "B": "B) Yabancı sermaye ",
+  "C": "C) Öz sermaye",
+  "D": "D) İşletme sermayesi",
+  "E": "E) Entellektüel sermaye",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Sabit Sermaye"
+ },
+ {
+  "Question": "Hangisi Leasing'in avantajlarından değildir?",
+  "A": "A) Kira maliyetinin alternatif finans kaynaklarına göre yüksek olması",
+  "B": "B) .İlk yatırım maliyetinin düşük olması",
+  "C": "C) Öz sermaye yetmese bile yatırımın yapılabilmesi",
+  "D": "D) Kira taksitlerinin vergiden muaf olması ",
+  "E": "E) Sigortaya gerek olmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kira maliyetinin alternatif finans kaynaklarına göre yüksek olması"
+ },
+ {
+  "Question": "Kaynak oluşturmak için ticari alacakların satılmasına ne denir?",
+  "A": "A) Kâr",
+  "B": "B) Fon",
+  "C": "C) Leasing",
+  "D": "D) Finansman",
+  "E": "E) Factoring",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Factoring"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi muhasebe görevlerinden değildir?",
+  "A": "A) işletmenin finansal kayıtlarını tutmak",
+  "B": "B) İşletmenin finansal kayıtlarını değiştirmek",
+  "C": "C) işletmenin finansal olaylarını sınıflandırmak",
+  "D": "D) işletmenin finansal olaylarını özetlemek ",
+  "E": "E) işletmenin finansal olaylarını raporlamak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İşletmenin finansal kayıtlarını değiştirmek"
+ },
+ {
+  "Question": "Bilanço eşitlik esası aşağıdakilerden hangisidir?",
+  "A": "A) Varlıklar=borçlar+öz sermaye",
+  "B": "B) Sermaye+borçlar=varlıklar",
+  "C": "C) Varlıklar=borçlar",
+  "D": "D) Öz sermaye=varlıklar",
+  "E": "E) Varlıklar=öz sermaye+stoklar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Varlıklar=borçlar+öz sermaye"
+ },
+ {
+  "Question": "İnsan kaynaklarını etkileyen faktörlerden hangisi iç çevre faktörü değildir?",
+  "A": "A) Bireysel nitelikler",
+  "B": "B) İş nitelikleri ",
+  "C": "C) Bireyler arası ilişkiler",
+  "D": "D)Örgütsel ilişkiler",
+  "E": "E) Rakipler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Rakipler"
+ },
+ {
+  "Question": "insan kaynaklarını etkileyen faktörlerden hangisi dış çevre faktörüdür?",
+  "A": "A) Yasalar",
+  "B": "B) Bireysel nitelikler",
+  "C": "C) İş nitelikleri",
+  "D": "D) Bireyler arası ilişkiler",
+  "E": "E) Örgütsel ilişkiler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Yasalar"
+ },
+ {
+  "Question": "Bir işletmenin var olmasını, bu işletmenin işletilmesini sağlayan ve bu işletmeyi kısmen de olsa işleten kişi \nkimdir?",
+  "A": "A) Esnaf",
+  "B": "B) Tüccar",
+  "C": "C) Leasing",
+  "D": "D) Factoring",
+  "E": "E) Tacir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Tacir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi sermaye mülkiyeti bakımından sınıflandırmaya girmez?",
+  "A": "A) Düz işletmeler",
+  "B": "B) Karma işletmeler",
+  "C": "C) Kamu işletmeleri",
+  "D": "D) Özel işletmeler",
+  "E": "E) Yabancı sermayeli işletmeler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Düz işletmeler"
+ },
+ {
+  "Question": "Devletin pay çokluğu olduğu Trakya Teknopark hangi işletme türüne girer? ",
+  "A": "A) Özel işletme",
+  "B": "B) Kamu işletmesi",
+  "C": "C) Karma işletme",
+  "D": "D) Yabancı sermayeli işletme",
+  "E": "E) Düz işletme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Karma işletme"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tek şahıs hizmetlerinin avantajı değildir ?",
+  "A": "A) İşletmenin tüm borçlarına karşı sorumluluk söz konusudur",
+  "B": "B) İşletme örgütü esnek bir yapıya sahiptir",
+  "C": "C) Faaliyetlerde gizlilik vardır",
+  "D": "D) Kurulması kolaydır",
+  "E": "E) Kâr tek elde toplanır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İşletmenin tüm borçlarına karşı sorumluluk söz konusudur"
+ },
+ {
+  "Question": "2 veya daha fazla kişinin müşterek bir amaca ulaşmak için malları ve sermayelerini birleştirmeyi kabul ettiği \nsözleşme hangi şirkettir ?",
+  "A": "A) Kollektif şirket",
+  "B": "B) Komandit şirket",
+  "C": "C) Adi şirket",
+  "D": "D) Karma şirket",
+  "E": "E) Özel şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Adi şirket"
+ },
+ {
+  "Question": "Aşağıdakilerden Hangisi ticaret şirketlerinden değildir ?",
+  "A": "A) Limited şirket",
+  "B": "B) Kollektif şirket",
+  "C": "C) Komandit şirket",
+  "D": "D) Komandite şirket ",
+  "E": "E) Adi şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Limited şirket"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi sermaye şirketidir ?",
+  "A": "A) Kollektif şirket",
+  "B": "B) Adi şirket",
+  "C": "C) Anonim şirket",
+  "D": "D) Komandit şirket",
+  "E": "E)  Komandite şirket ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Anonim şirket"
+ },
+ {
+  "Question": "En az 7 ortak tarafından kurulur. Gerçek kişi ya da tüzel kişiler ortak olabilir bu şirket türü aşağıdakilerden \nhangisidir?",
+  "A": "A) Kollektif şirket",
+  "B": "B) Kooperatif",
+  "C": "C) Limited şirket ",
+  "D": "D) Anonim şirket",
+  "E": "E) Adi şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kooperatif"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi pazarlama fonksiyonlarından değildir?",
+  "A": "A) Ürün",
+  "B": "B) Fiyat",
+  "C": "C) Tutundurma",
+  "D": "D) Finansal Analiz",
+  "E": "E) Dağıtım",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Finansal Analiz"
+ },
+ {
+  "Question": "Stok durumu, tutundurma karması unsurlarının hangisiyle ilgilidir?",
+  "A": "A) Ürün",
+  "B": "B) Fiyat",
+  "C": "C) Tutundurma",
+  "D": "D) Finansal Analiz",
+  "E": "E) Dağıtım",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Tutundurma"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi iş değerlendirme yöntemlerinden biri değildir?\n",
+  "A": "A) İş öğelerinin Karşılaştırma Yöntemi",
+  "B": "B) Planlama Yöntemi",
+  "C": "C) Dengeli Ücret Yöntemi",
+  "D": "D) Sınıflandırma Yöntemi",
+  "E": "E) Sıralama Yöntemi ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Dengeli Ücret Yöntemi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi insan kaynakları bölümünün örgütteki görevlerinden değildir?",
+  "A": "A) Danışmanlık",
+  "B": "B) Denetim",
+  "C": "C) Personel Bulma",
+  "D": "D) Politika Yaratma ve Oluşturma",
+  "E": "E) Hizmet",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Personel Bulma"
+ },
+ {
+  "Question": "İnsan kaynakları yönetimini etkileyen faktörlerden hangisi dış çevre faktörleridir?",
+  "A": "A) bireysel Nitelikler",
+  "B": "B) İş Nitelikleri",
+  "C": "C) Örgütsel Nitelikler",
+  "D": "D)  Yasalar",
+  "E": "E)  Bireylerarası İlişkiler ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D)  Yasalar"
+ }
+]
