@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Anonim şirketle ilgili aşağıdaki ifadelerden hangisi Yanlıştır",
+  "A": "A) Anonim şirket, üçüncü kişilere karşı kendi mal varlığıyla sorumludur",
+  "B": "B) Ortakların sorumluluğu, koymayı taahhüt ettikleri sermaye miktarıyla sınırlıdır",
+  "C": "C) Anonim şirket, tüzel kişiliğini ana sözleşmenin ticaret siciline tesciliyle kazanır",
+  "D": "D) Kanunen yasak olmayan her türlü iktisadi amaç ve konu için kurulabilir",
+  "E": "E) Ticaret unvanında ortaklardan birinin ad ve soyadıyla anonim şirket ibaresinin bulunması zorunludur",
+  "Image": 1,
+  "Explaination": "Anonim şirketin ticaret unvanında ortaklardan birinin ismi kullanılabileceği gibi zahiri bir isim dahi kullanılabilir.",
+  "Answer": "E) Ticaret unvanında ortaklardan birinin ad ve soyadıyla anonim şirket ibaresinin bulunması zorunludur."
+ },
+ {
+  "Question": "Anonim şirkette ibrayla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Anonim şirketlerde ibra kararı alınabilmesi için Kanun'da ağırlaştırılmış nisap aranır",
+  "B": "B) Anonim şirketlerde denetçilerin ibrası söz konusu olabilir",
+  "C": "C) İbra kararı, sadece onaylanan hesap yılına ait iş ve faaliyetlere ilişkindir",
+  "D": "D) Yıllık bilançonun onaylanması, aynı zamanda zımni ibra anlamına da gelir",
+  "E": "E) Anonim şirketlerde yönetim kurulu üyelerinin ibrası söz konusu olabilir",
+  "Image": 1,
+  "Explaination": "Anonim şirkette yönetim kurulunun ibrası yetkisi genel kurula aittir. Türk Ticaret Kanunu'na göre ibraya ilişkin genel kurulun karar alabilmesi için basit çoğunluk getirilmiştir.",
+  "Answer": "A) Anonim şirketlerde ibra kararı alınabilmesi için Kanun'da ağırlaştırılmış nisap aranır"
+ },
+ {
+  "Question": "Üzerinde \"Lütfü LİBASÇI veya hamiline ödeyiniz\" ibaresini bulunduran bir çekle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Böyle bir kayıt, çeki geçersiz kılar",
+  "B": "B) Böyle bir çek, nama yazılı çek hükmündedir",
+  "C": "C) Bu kayıt, çeki geçersiz kılmaz ancak kayıt yazılmamış sayılır",
+  "D": "D) Böyle bir çek, emre yazılı çek hükmündedir",
+  "E": "E) Böyle bir çek, hamile yazılı çek hükmündedir",
+  "Image": 1,
+  "Explaination": "\"Lütfü LİBASÇI veya hamiline ödeyiniz\" şeklinde düzenlenmiş çek eksik nama yazılı çek olup, nama yazılı çek hükmündedir",
+  "Answer": "B) Böyle bir çek, nama yazılı çek hükmündedir,"
+ },
+ {
+  "Question": "İbraz süresi dolduktan sonra muhatap bankaya ibraz edilen çekle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Çekten cayılmamışsa muhatap banka ödeme yapıp yapmamakta serbesttir",
+  "B": "B) Çekten cayılmış olsun ya da olmasın muhatap banka çeki ödeyemez",
+  "C": "C) Çekten cayılmışsa muhatap banka çek bedelini ödeyebilir",
+  "D": "D) Çekten cayılmamışsa muhatap banka çek bedelini ödemek zorundadır",
+  "E": "E) Muhatap banka, çekten cayılmış olup olmadığına bakmaksızın çeki ödemek zorundadır",
+  "Image": 1,
+  "Explaination": "İbraz süresi dolduktan sonra çekten keşidecinin cayması mümkündür. Çekten cayılmamışsa muhatap banka ödeme yapıp yapmamakta serbesttir.",
+  "Answer": "A) Çekten cayılmamışsa muhatap banka ödeme yapıp yapmamakta serbesttir"
+ },
+ {
+  "Question": "İcra ve İflas Kanunu'na göre, aşağıdakilerden hangisi ipotek tabiri içine girmez?",
+  "A": "A) İpotekli borç senedi",
+  "B": "B) İrat senedi",
+  "C": "C) Hapis hakkı",
+  "D": "D) Gemi ipoteği",
+  "E": "E) Taşınmaz mükellefiyeti",
+  "Image": 1,
+  "Explaination": "İcra İflas Kanunu'na göre ipotek (taşınmaz rehni) kavramına hapis hakkı girmez. Hapis hakkı kanuni bir taşınır rehnidir.",
+  "Answer": "C) Hapis hakkı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin işlemlerine karşı şikayet yoluna başvurulamaz?",
+  "A": "A) İflas idaresi",
+  "B": "B) İflas bürosu",
+  "C": "C) Konkordato komiseri",
+  "D": "D) İflasın ertelenmesi sürecinde görev alan kayyım",
+  "E": "E) İflastaki birinci alacaklılar toplanması",
+  "Image": 1,
+  "Explaination": "E) İflastaki birinci alacaklılar toplanması\nÇözüm: iflasın ertelenmesi sürecinde görev alan kayyımın işlemlerine karşı icra mahkemesine şikayet yoluna gidilemez.\n",
+  "Answer": "D) İflasın ertelenmesi sürecinde görev alan kayyım"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi şikayet yoluyla icra mahkemesinden ihalenin feshini isteyemez?",
+  "A": "A) Satış isteyen alacaklı",
+  "B": "B) Borçlu",
+  "C": "C) Tapu sicilindeki ilgililer",
+  "D": "D) Anonim şirket pay defterindeki ortak",
+  "E": "E) Pey sürmek suretiyle ihaleye katılan ",
+  "Image": 1,
+  "Explaination": "İhalenin feshini, alacaklı, borçlu, ilgililer ve ihaleye pey sürerek katılanlar talep edebilir.",
+  "Answer": "D) Anonim şirket pay defterindeki ortak"
+ },
+ {
+  "Question": "Aşağıdaki müeccel borçlardan hangisi iflasın açılmasıyla muaccel hale gelmez?",
+  "A": "A) Müflisin, vadeli olarak satın alıp rehnettiği araba borcu",
+  "B": "B) Müflisin, vadeli olarak aldığı banka kredisi borcu",
+  "C": "C) Müflisin, 3 yıl sonra arkadaşına ödeyeceği borç",
+  "D": "D) Müflisin arkadaşının, 3 yıl sonra müflise ödeyeceği borç",
+  "E": "E) Müflisin, 5 yıl sonra babasına ödeyeceği borç ",
+  "Image": 1,
+  "Explaination": "Müflisin borçları iflasın açılması ile muaccel hale gelirken, müflisin alacakları muaccel hale gelmez.",
+  "Answer": "D) Müflisin arkadaşının, 3 yıl sonra müflise ödeyeceği borç"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, talik halleri arasında yer almaz?",
+  "A": "A) Borçlunun kendisine bir vekil tayin edemeyecek derecede ağır hasta olması",
+  "B": "B) Borçlunun kardeşinin ölümü",
+  "C": "C) Borçlunun askerlik hizmetini yapmakta olması",
+  "D": "D) Borçluya konkordato mühleti verilmiş olması",
+  "E": "E) Borçlu hakkında iflasın ertelenmesine karar verilmiş olması",
+  "Image": 1,
+  "Explaination": "Talik (Erteleme) Halleri:\na- Borçlunun yakınlarından birinin ölümü (usul fürudan biri veya eşin ölümü halinde icra takibi ölüm günü dahil 3 gün ertelenir).\nb- Borçlunun ölümü: Mirasçı açıkça mirası derhal kabul etmişse icra takibi 3 gün ertelenir daha sonra terekeye veya mirasçılara karşı devam olunur. Mirasçı açık bir irade beyanı ile mirası kabul veya reddetmemişse MK' nen koyduğu süreler (üç ay) geçinceye kadar icra takibi geri kalır.\nc- Borçlunun tutuklu veya hükümlü olması: Borçlu 1 yıl veya daha fazla ceza almışsa, icra müdürü vasi tayini için sulh hakimine başvurur, vasi tayinine kadar icra takibi ertelenir. 1 yıldan az ceza almışsa, icra müdürünün verdiği süre içinde kendisine vasi tayin edene kadar icra takibini ertelenir.\nd- Borçlunun asker olması: Kendisine temsilci atayana kadar, icra müdürü uygun bir süre verir.\ne- Borçlunun ağır hastalığı: Kendisine temsilci atayana kadar.\nf- Özel talik Halleri: Kanunun tatil ve talik halleri bölümünde düzenlemediği diğer haller;\nBorçlunun kendisinde doğan olağanüstü hallerde erteleme (talik) nedenleri doğmaktadır.\n",
+  "Answer": "B) Borçlunun kardeşinin ölümü"
+ },
+ {
+  "Question": "Sendikalarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Kamu işveren sendikalarının, aynı işkolundaki kamu işverenleri tarafından kurulması gerekmez",
+  "B": "B) İşçi sendikaları işkolu esasına göre kurulur",
+  "C": "C) Bir işkolunda birden fazla sendika kurulabilir",
+  "D": "D)  Meslek esasına göre işveren sendikası kurulabilir",
+  "E": "E) işveren sendikaları, Türkiye çapında faaliyette bulunmak amacıyla kurulur",
+  "Image": 1,
+  "Explaination": "Sendikalar işkolu esasına göre kurulurlar",
+  "Answer": "D) Meslek esasına göre işveren sendikası kurulabilir."
+ },
+ {
+  "Question": "Toplu Sözleşme Grev ve Lokavt Kanunu'na göre, toplu iş sözleşmesinden yararlanmayla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Toplu iş sözleşmesinin imzalanması tarihinde taraf sendikaya üye olanlar, yürürlük tarihinden itibaren bu sözleşmeden yararlanırlar",
+  "B": "B) Toplu iş sözleşmesinin imzası sırasında taraf işçi sendikasına üye bulunmayanlar, dayanışma aidatı ödeyerek toplu iş sözleşmesinden yararlanabilirler",
+  "C": "C) Dayanışma aidatı ödemek suretiyle toplu iş sözleşmesinden yararlanma talep tarihinden geçerlidir",
+  "D": "D) Toplu iş sözleşmesinin imza tarihinden sonra sendikaya üye olanlar, bu sözleşmeden üyeliklerinin taraf işçi sendikasınca işverene bildirildiği tarihten itibaren yararlanırlar",
+  "E": "E) Toplu iş sözleşmesinden dayanışma aidatı ödemek suretiyle yararlanabilmek, işçi sendikasının muvafakatine bağlıdır",
+  "Image": 1,
+  "Explaination": "Toplu iş sözleşmesinin imzası sırasında taraf işçi sendikasına üye bulunmayanlar, dayanışma aidatı ödeyerek toplu iş sözleşmesinden yararlanabilirler.",
+  "Answer": "E) Toplu iş sözleşmesinden dayanışma aidatı ödemek suretiyle yararlanabilmek, işçi sendikasının muvafakatine bağlıdır."
+ },
+ {
+  "Question": "Berfin, oğlu İbrahim'i yanına alarak balık tutmak için denize açılmışlar ve fırtınaya yakalanmışlardır. Aradan 2 yıl geçmesine rağmen kendilerinden haber alınamamıştır.\nBu durumun hukuki sonucu aşağıdakilerden hangisidir?\n",
+  "A": "A) Birlikte ölüm karinesi",
+  "B": "B) Tehlike karinesi",
+  "C": "C) Kesinlik karinesi",
+  "D": "D) Gaiplik",
+  "E": "E) Ölüm karinesi",
+  "Image": 1,
+  "Explaination": "Ölüm tehlikesi içerisinde kaybolan ve cesetleri bulunmayan kişilerin ölüm karinesi kapsamında öldükleri kabul edilir.",
+  "Answer": "E) Ölüm karinesi"
+ },
+ {
+  "Question": "Ticaret unvanının tescili ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Her tacir, ticari işletmenin açıldığı tarihten itibaren onbeş gün içinde ticari işletmesini, işletme merkezinin bulunduğu yer ticaret siciline tescil ve ilan ettirmeye mecburdur",
+  "B": "B) Merkezi Türkiye'de bulunan ticari işletmelerin şubeleri de bulundukları erin ticaret siciline tescil ve ilan olunur",
+  "C": "C) Tacir, hükmi şahıs ise unvanla birlikte, onun namına imzaya selahiyetli kimselerin imzaları da notere tasdik ettirilerek sicil memuruna verilir",
+  "D": "D) Merkezleri Türkiye dışında bulunan ticari işletmelerin Türkiye'deki şubeleri, kendi memleket kanunlarının ticaret unvanı hakkındaki hükümleri mahfuz kalmak şartıyla, yerli ticari işletmeler gibi tescil olunur",
+  "E": "E) Sicil memurunun istemesi halinde tescil ilan olunur",
+  "Image": 1,
+  "Explaination": "Ticaret unvanı bir işletmeyi diğer işletmelerden ayırmaya yarayan addır. Ticaret unvanının asli unsurunu tacirin hukuki yapısına göre farklılık gösteren çekirdek kısmı oluşturur. Ek kullanılması ise zorunlu değildir ancak bir ticaret unvanı daha önce tescil edilmişse ona ayırt edici eklerin eklenmesi zorunludur.\nTicaret Kanunu uyarınca, her tacir unvanını işletme merkezinin bulunduğu yer siciline tescil ve ilan ettirmekle yükümlüdür.\nTicaret siciline yapılan tescil, akabinde ilan edilir.\n",
+  "Answer": "E) Sicil memurunun istemesi halinde tescil ilan olunur."
+ },
+ {
+  "Question": "Sözleşmelerde imza ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Borç altına giren kimsenin el yazısı ile atılmalıdır",
+  "B": "B) Metinde yapılan ilave ve çıkıntılar ayrıca imza edilmelidir",
+  "C": "C) Metin yazılmadan önce, tamamen veya kısmen boş kağıda atılmış ise geçersizdir",
+  "D": "D) Bütün metnin benimsendiğini gösterecek şekilde, metnin altına atılmalıdır",
+  "E": "E) İmza edecek olan kimse, okuma yazma bilmiyorsa, usulen tasdik edilmiş ve el ile yapılmış işaret koymak zorundadır",
+  "Image": 1,
+  "Explaination": "Metin yazılmadan önce, tamamen veya kısmen boş kağıda atılmış imza açığa imza olarak tanımlanır. Açığa imza geçerlidir",
+  "Answer": "E) İmza edecek olan kimse, okuma yazma bilmiyorsa, usulen tasdik edilmiş ve el ile yapılmış işaret koymak zorundadır."
+ },
+ {
+  "Question": "Sınırlı ehliyetsiz bir kimsenin yasal temsilcisinden, önceden izin almaksızın yaptığı bir borçlandırıcı işlem aşağıdaki yaptırım türlerinden hangisine tabidir?",
+  "A": "A) Kısmi hükümsüzlük ",
+  "B": "B) Askıda hükümsüzlük",
+  "C": "C) iptal edilebilirlik ",
+  "D": "D) Kesin hükümsüzlük",
+  "E": "E) Yokluk",
+  "Image": 1,
+  "Explaination": "Sınırlı ehliyetsiz bir kimsenin yasal temsilcisinden, önceden izin almaksızın yaptığı bir borçlandırıcı işlem askıda hükümsüzlüktür. Askıda hükümsüzlük, yasal temsilcinin icazetine kadar işlemin geçersiz olduğu, icazet verilirse işlemin baştan itibaren geçerli olduğu anlamına gelmektedir",
+  "Answer": "B) Askıda hükümsüzlük"
+ },
+ {
+  "Question": "Borçlar Kanunu'na göre, karşılıklı taahhütleri havi olan bir akitte iki taraftan biri mütemerrit olduğu takdirde, diğeri borcun ifa edilmesi için münasip bir mehil tayin veya münasip bir mehilin tayinini hakimden isteyebilir. Ancak, bazı hallerde bir mehil tayinine lüzum yoktur. Aşağıdakilerden hangisi bu hallerden biri değildir?",
+  "A": "A) Borçlunun hal ve vaziyetinden bu tedbirin yararsız olacağı anlaşılırsa",
+  "B": "B) Borçlunun temerrüdü sonucu olarak borcun ifası alacaklı için yararsız kalmış ise",
+  "C": "C) Akdin hükümlerine göre borcun belirlenen bir zamanda iflası gerekiyorsa",
+  "D": "D) Akdin hükümlerine göre borcun belirli bir süre içinde iflası gerekiyorsa",
+  "E": "E) Borca kefil olan kişi ödeme güçlüğü içine düşmüşse",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Borca kefil olan kişi ödeme güçlüğü içine düşmüşse"
+ },
+ {
+  "Question": "Bankacılık Kanunu'na göre, Türkiye'de bir bankanın kurulabilmesi için aşağıdaki koşullardan hangisi gereklidir?",
+  "A": "A) Hisse senetlerinin tamamı nakit karşılığı çıkmalı ve hamiline yazılı olmalıdır",
+  "B": "B) Ticaret mahkemesinden kuruluş izni alınmalıdır",
+  "C": "C) Ödenmiş sermayesi 5 milyon TL olmalıdır",
+  "D": "D) Kurulacak banka bir anonim ortaklık şeklinde olmalıdır",
+  "E": "E) En az 10 kurucu ortaklığı olmalıdır",
+  "Image": 1,
+  "Explaination": "5411 sayılı Bankacılık Kanuna göre bankalar anonim şirket hükmünde kurulmak zorundadır.",
+  "Answer": "D) Kurulacak banka bir anonim ortaklık şeklinde olmalıdır."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, hayvanat bahçesinden kaçan timsahın, beraberinde bulunan arkadaşına saldırması üzerine timsahı öldüren kimse bakımından söz konusu olabilecek hukuka uygunluk nedenidir?",
+  "A": "A) Yasa hükmünü yerine getirme",
+  "B": "B) Üçüncü kişi lehinde yasal savunma",
+  "C": "C) İlgilinin rızası",
+  "D": "D) Yasal savunma",
+  "E": "E) Zorda kalma",
+  "Image": 1,
+  "Explaination": " Bir hayvan saldırısı halinde savunmak için hayvanı öldürme, zorda kalma halini ifade eder.",
+  "Answer": "E) Zorda kalma"
+ },
+ {
+  "Question": "Ölüm karinesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Ölüm karinesinin geçerliliği için ölüm tehlikesi içinde kaybolmak yeterlidir",
+  "B": "B) Ölüm karinesine şartlar mevcutsa sulh hakimi karar verir",
+  "C": "C) Ölüm karinesine hükmedilmesini savcılık talep eder",
+  "D": "D) Ölüm karinesi talebi beş yıllık zamanaşımına bağlıdır",
+  "E": "E) Ölümüne kesin gözüyle bakılmasını gerektirecek koşullarda kaybolan ve cesedi bulunamayan kimsenin öldüğü kabul edilir",
+  "Image": 1,
+  "Explaination": "Ölümüne kesin gözüyle bakılmasını gerektirecek koşullarda kaybolan ve cesedi bulunamayan kimsenin öldüğü kabul edilmesine ölüm karinesi denir.",
+  "Answer": "E) Ölümüne kesin gözüyle bakılmasını gerektirecek koşullarda kaybolan ve cesedi bulunamayan kimsenin öldüğü kabul edilir."
+ },
+ {
+  "Question": "Selin, elektronik eşya dükkanı olan Berkaydan 01.10.2015 tarihinde bir dizüstü bilgisayar satın almıştır. Berkay bilgisayarın teslimini ayın ikisinde yapacağını söylemiş fakat aradan on gün geçtiği halde hala dizüstü bilgisayarı teslim etmemiştir. 11.10.2015 tarihinde Berkay Selin'i arayarak dükkanında 10.10.2015 tarihinde yangın çıktığını ve bütün malların zayi olduğunu söyleyip Selin'den\ndizüstü bilgisayarın parasını istemiştir. Verilen bilgilere göre aşağıdaki ifadelerden hangisi doğrudur?\n",
+  "A": "A) Selin bilgisayarın bedelini ödemek zorundadır",
+  "B": "B) Mülkiyet Selin'e geçmiştir",
+  "C": "C) Hasar sözleşmesinin yapılmasından sonra ortaya çıktığı için hasara katlanacak olan taraf alıcı, yani Selin'dir",
+  "D": "D) Berkay, Selin'den malın bedelini talep edemez",
+  "E": "E) Satım sözleşmesi ile birlikte satılan şeyin mülkiyeti de geçer",
+  "Image": 1,
+  "Explaination": "Borcun kusursuz olarak imkansız hale gelmesi borcu sona erdirir. Ancak bundan yararlanabilmek için borcun müeccel olması yani vadesinin gelmemiş olması gereklidir. Olayda teslim günü geçmesine karşın malın teslim edilmemesi nedeniyle borçlu kusursuz imkansızlıktan yararlanamaz.",
+  "Answer": "D) Berkay, Selin'den malın bedelini talep edemez."
+ }
+]

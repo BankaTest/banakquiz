@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Kendisine yetki verilen temsilcinin, hukuki işlemi yaparken onu başkasının adına yapmakta olduğunu karşısındaki kişilere söylemediği ve bundan dolayı üçüncü kişinin karşısındakinin temsilci olduğunu bilmeden kendisi adına yaptığını sandığı temsil türü aşağıdakilerden hangisidir?",
+  "A": "A) Yetkili temsil ",
+  "B": "B) Yetkisiz temsil",
+  "C": "C) Gizli temsil",
+  "D": "D) Doğrudan doğruya temsil",
+  "E": "E) Dolaylı temsil",
+  "Image": 1,
+  "Explaination": "Dolaylı temsilde kendisine yetki verilmiş olan temsilci (mümessil), hukuki işlemi yaparken onu başkasının adına yapmakta olduğunu karşısındaki üçüncü kişiye söylemez. Bu yüzden üçüncü kişi karşısındaki kimsenin bir başkasının temsilcisi olduğunu bilmez, onun bu işlemi bizzat kendisi için yaptığını zanneder. Bu tür temsilde yetkili temsilci hukuki işlemi başkası hesabına, fakat kendi adına yaptığı içindir ki, bu işlemden doğan bütün hak ve borçlar doğrudan doğruya temsilciye ait olur. Temsilci bunları sonradan alacağın temliki ve borcun nakli işlemleriyle temsil olunana geçirir.",
+  "Answer": "E) Dolaylı temsil"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi 1982 Anayasasında düzenlenen sosyal ve ekonomik hak ve ödevlerden biri değildir?",
+  "A": "A) Konut hakkı",
+  "B": "B) Çalışma ve sözleşme hürriyeti",
+  "C": "C) Kamu hizmetlerine girme hakkı",
+  "D": "D) Eğitim ve öğrenim hakkı ve ödevi",
+  "E": "E) Toplu iş sözleşmesi ve toplu sözleşme hakkı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kamu hizmetlerine girme hakkı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, yargısal erginlik için gerekli şartlardan biri değildir?",
+  "A": "A) Bedensel gelişim ",
+  "B": "B) Velinin izni",
+  "C": "C) Küçüğün talebi",
+  "D": "D) Mahkeme kararı",
+  "E": "E) Onbeş yaşın tamamlanmış olması",
+  "Image": 1,
+  "Explaination": " Yargısal erginlik için kişinin 15 yaşını doldurmuş olması, kendi talebi ve velisinin rızası ile mahkeme kararı bulunması gereklidir.",
+  "Answer": "A) Bedensel gelişim "
+ },
+ {
+  "Question": "1982 Anayasasına göre aşağıdakilerden hangisi, milletvekili olmak için aranan şartlardan biri değildir?",
+  "A": "A) En az ilkokul mezunu olmak",
+  "B": "B) Herhangi bir taksirli suçtan dolayı hüküm giymiş olmamak",
+  "C": "C) Kamu hizmetinden yasaklı olmamak",
+  "D": "D) Yirmi beş yaşını doldurmuş Türk vatandaşı olmak",
+  "E": "E) Yükümlü olduğu askerlik hizmetini yapmış olmak",
+  "Image": 1,
+  "Explaination": "Herhangi bir taksirli suçtan dolayı hüküm giymiş olmamak milletvekili için aranan şartlardan değildir.",
+  "Answer": "B) Herhangi bir taksirli suçtan dolayı hüküm giymiş olmamak"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kişiliği sona erdiren nedenlerden biridir?",
+  "A": "A) Gaiplik",
+  "B": "B) Kısıtlılık hali",
+  "C": "C) Tutukluluk hali",
+  "D": "D) Dava ehliyetinin kaybı",
+  "E": "E) Ayırt etme gücünün kaybı",
+  "Image": 1,
+  "Explaination": "Kişiliği sona erdiren neden ölüm veya hukuken ölmüş sayılan hallerdir. Bunlardan birisi de gaipliktir.",
+  "Answer": "A) Gaiplik"
+ },
+ {
+  "Question": "Haksız fiilde, zarar görenin de zarara sebebiyet veren yanında ortak kusurunun bulunması aşağıdakilerden hangisi ile ifade edilir?",
+  "A": "A) İhmali kusur",
+  "B": "B) Munzam kusur",
+  "C": "C) Kastı aşan kusur",
+  "D": "D) Müterafik kusur",
+  "E": "E) Takdiri kusur",
+  "Image": 1,
+  "Explaination": "Haksız fiilde, zarar görenin de zarara sebebiyet veren yanında ortak kusurunun bulunması halinde paylaşılan (müterafik) kusur bulunmaktadır.",
+  "Answer": "D) Müterafik kusur"
+ },
+ {
+  "Question": "Borçlar Kanununa göre, sözleşmede aksi belirtilmediği sürece bir para borcu ödeme zamanında nerede ifa edilir?",
+  "A": "A) Sözleşmenin yapıldığı sırada o şeyin übulunduğu yerde”",
+  "B": "B) Sözleşmenin yapıldığı yerde",
+  "C": "C) Mahkemenin belirlediği yerde",
+  "D": "D) Borçlunun yerleşim yerinde",
+  "E": "E) Alacaklının yerleşim yerinde",
+  "Image": 1,
+  "Explaination": "Türk Borçlar Kanunu'na göre para borçları alacaklının ödeme zamanındaki yerleşim yerinde ödenir.",
+  "Answer": "E) Alacaklının yerleşim yerinde"
+ },
+ {
+  "Question": "Siyasi partilere ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Siyasî partiler, demokratik siyasî hayatın vazgeçilmez unsurlarıdır",
+  "B": "B) Siyasî partiler önceden izin almadan kurulurlar",
+  "C": "C)Yükseköğretim öğrencileri siyasî partilere üye olamazlar.",
+  "D": "D) Siyasî partiler, ticarî faaliyetlere girişemezler.",
+  "E": "E) Siyasî partilerin gelir ve giderlerinin amaçlarına uygun olması gereklidir",
+  "Image": 1,
+  "Explaination": "Yükseköğretim öğrencileri siyasî partilere üye olabilirler.",
+  "Answer": "C) Yükseköğretim öğrencileri siyasî partilere üye olamazlar."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, yetkisiz temsilcinin düzenlediği senetten dolayı bizzat sorumlu olabilmesi için gerekli şartlardan biri değildir?",
+  "A": "A) Temsil olunanın onay vermiş olması",
+  "B": "B) Senet düzenleme yetkisinin bulunmaması veya yetkinin sınırlarının aşılması",
+  "C": "C) Yetkisiz temsilcinin fiil ehliyetine sahip olması",
+  "D": "D) Yetkisiz temsilcinin senedi imzalamış olması",
+  "E": "E) Senet alacaklısının iyiniyetli olması",
+  "Image": 1,
+  "Explaination": " Yetkisiz temsilcinin düzenlediği senetten dolayı bizzat sorumlu olabilmesi için temsil olunanın onay vermiş olması şartı aranmaz.",
+  "Answer": "A) Temsil olunanın onay vermiş olması"
+ },
+ {
+  "Question": "Aşağıdaki kusursuz sorumluluk hallerinden hangisi, hakkaniyet sorumluluğu olarak ifade edilir?",
+  "A": "A) Temyiz kudreti bulunmayanın sorumluluğu",
+  "B": "B) Adam çalıştıranın sorumluluğu",
+  "C": "\nC) Hayvan idare edenin sorumluluğu ",
+  "D": "D) Yapı eseri malikinin sorumluluğu",
+  "E": "E) Çevreyi kirletenlerin sorumluluğu",
+  "Image": 1,
+  "Explaination": "Türk Borçlar Kanunu'na göre temyiz kudreti bulunmayanın sorumluluğu hakkaniyet sorumluluğudur",
+  "Answer": "A) Temyiz kudreti bulunmayanın sorumluluğu"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, kişilik hakları saldırıya uğrayan kişinin açabileceği davalardan biri değildir?",
+  "A": "A) Tazminat davası",
+  "B": "B) Eski hale getirme davası",
+  "C": "C) Saldırıya son verilmesi davası",
+  "D": "D) Hukuka aykırılığın tespiti davası",
+  "E": "E) Saldırı tehlikesinin önlenmesi davası",
+  "Image": 1,
+  "Explaination": "Eski hale getirme davası kişilik hakları saldırıya uğrayan kişinin açabileceği davalardan biri değildir.",
+  "Answer": "B) Eski hale getirme davası"
+ },
+ {
+  "Question": "Normlar Hiyerarşisinde aşağıdakilerden hangisi diğerlerine göre daha üsttedir?",
+  "A": "A) Yönetmelik",
+  "B": "B) Genelge",
+  "C": "C) Tüzük",
+  "D": "D) Yönerge",
+  "E": "E) Dilekçe",
+  "Image": 1,
+  "Explaination": "Normlar Hiyerarşisi;\nAnayasa Kanun Tüzük Yönetmelik Genelge Yönerge şeklinde oluşmaktadır.\n(Milletler arası antlaşmalar, Kanun hükmünde kararnameler ve Meclis içtüzüğü kanunlara eş metin olarak sayılmaktadır.)\nBu durumda seçeneklerden \"Tüzük” en üsttedir.\n",
+  "Answer": "C) Tüzük"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi medeni hukukun alt dallarından biri değildir?",
+  "A": "A) Aile Hukuku",
+  "B": "B) Miras Hukuku",
+  "C": "C) Eşya Hukuku",
+  "D": "D) Eşya Hukuku",
+  "E": "E) Sigorta Hukuku",
+  "Image": 1,
+  "Explaination": "Medeni Hukuk, kişilerin birbiriyle ya da belirli ölçülerde kişilerle devletin doğrudan veya -E dolaylı özel ilişkilerinin kamu hukûku gibi başka bir\n3 hukuk dalının konusuna girmeyen hukuk dalına 3 verilen addır.\nMedeni Hukuk; Kişiler Hukuku, Aile Hukuku, Miras Hukuku, Eşya Hukuku, Borçlar Hukuku dallarına ayrılır. Sigorta Hukuku, Medeni Hukuk'un alt dallarından biri değildir.\n",
+  "Answer": "E) Sigorta Hukuku"
+ },
+ {
+  "Question": "Aşağıdaki işlemlerden hangisi, sınırlı ehliyetsizin bizzat yapabileceği işlemlerden biri değildir?",
+  "A": "A) Kendi serbest mallarıyla ilgili işlemler",
+  "B": "B) Karşılık olmaksızın kendilerini yükümlülükten kurtaran sözleşmeler",
+  "C": "C) Trampa sözleşmesi",
+  "D": "D) Alacaklı sıfatıyla kefalet sözleşmesi",
+  "E": "E) Soy bağının reddi davası açma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Trampa sözleşmesi"
+ },
+ {
+  "Question": "Kanunlar aşağıdakilerden hangisinin aksini yargı organlarından biri değildir?\n",
+  "A": "A)  Anayasa",
+  "B": "B) Yönetmelik",
+  "C": "C)  Tüzük",
+  "D": "D)  İçtihad",
+  "E": "E) Tebliğ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)  Anayasa"
+ },
+ {
+  "Question": "Kozaklı Kasabası'nda aşırı yağış sonucunda doğal felaket meydana gelmiştir. Erdem Bey yolda yürürken yolun yukarısından gelen seli görerek, kaçacak yer arar. Tam bu sırada yüksek girişi olan çok yakında bir ev görür. Can havliyle evin kapısını çalmadan kırarak kendisini evden içeri atar. Bu olay hukukta aşağıdaki tanımlardan hangisi ile ifade edilmektedir?",
+  "A": "A) Mücbir sebep",
+  "B": "B) İztirar hali",
+  "C": "C) Meşru müdafaa",
+  "D": "D) Haksız fiil",
+  "E": "E) Kusurluluk",
+  "Image": 1,
+  "Explaination": "jztirar hali, kişinin kendisinin ya da bir başkasının mal ya da kişi varlığına yönelik ciddi bir tehdidi önlemek amacıyla üçüncü bir şahsın mal varlığına tecavüz etmek zorunda kalması halidir. Örneğin peşindeki saldırganlardan kaçan kişi ilk gördüğü eve kapısını kırıp saklanabilir. ",
+  "Answer": "B) İztirar hali"
+ },
+ {
+  "Question": "Bir TC vatandaşı 15 yaşında başka birisine kefil olmuştur. Bu durum hukukta aşağıdakilerden hangisi ile ifade edilmektedir?",
+  "A": "A) Hamil",
+  "B": "B) İbraz",
+  "C": "C) Keşide",
+  "D": "D) Ciranta",
+  "E": "E) Ciro",
+  "Image": 1,
+  "Explaination": "Çek bir bankaya hitaben yazılmış ve TTK da belirtilen hükümlere göre düzenlenmiş, ödeme emri niteliğinde olan kıymetli bir evraktır. Ciro, çeki elinde bulunduran tarafından yapılır ve çeki devralana çek bedelini tahsil, çeki ödeyecek bankaya da ödeme yetkisi verir. Ciro çekteki alacak hakkının bir başkasına devridir.",
+  "Answer": "E) Ciro"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin kamu tüzel kişiliği bulunmamaktadır?",
+  "A": "A) Belediyeler",
+  "B": "B) İl özel idareleri",
+  "C": "C) Vakıflar ",
+  "D": "D) TRT",
+  "E": "E) Devlet üniversiteleri",
+  "Image": 1,
+  "Explaination": "Vakıfların kamu tüzel kişiliği bulunmamaktadır",
+  "Answer": "C) Vakıflar "
+ },
+ {
+  "Question": "Bay Mehmet bir ay sonra ödemek üzere kitap satın almıştır. Bir ay geçtikten sonra borcunu ödememiştir. Hukuken aşağıdaki durumlardan hangisi söz konusudur?",
+  "A": "A) Gecikmeden kaynaklanan yükümlülük",
+  "B": "B) Dar anlamda sorumluluk",
+  "C": "C) İcaba aykırı hareket",
+  "D": "D) Temerrütten doğan sorumluluk",
+  "E": "E) Kabule uygun davranmama",
+  "Image": 1,
+  "Explaination": "Borcun zamanında ödenmemesi temerrüt hali oluşturmakta olup, bundan kaynaklanan sorumluluk bulunmaktadır.",
+  "Answer": "D) Temerrütten doğan sorumluluk"
+ },
+ {
+  "Question": "Bir hukuk düzeninde mevcut olan, anayasa, kanun, tüzük, yönetmelik gibi düzenlemeler, dağınık halde ve rastgele değil, alt-alta, üst-üste bulunur. Bu düzenlemeler arasında altlık-üstlük ilişkisi vardır. Bu durum aşağıdakilerden hangisi ile ifade edilmektedir?",
+  "A": "A) Düzenlemelerin sıralaması",
+  "B": "B) Normlar hiyerarşisi",
+  "C": "C) Yasal kademelendirme",
+  "D": "D) Mevzuat düzeni",
+  "E": "E) Yasal organizasyon",
+  "Image": 1,
+  "Explaination": "Bir hukuk düzeninde mevcut olan, anayasa, kanun, tüzük, yönetmelik gibi düzenlemeler, dağınık halde ve rastgele değil, alt-alta, üst-üste bulunur. Bu düzenlemeler arasında altlık-üstlük ilişkisi vardır. Bu durum hukukta Normlar hiyerarşisi olarak adlandırılmaktadır.",
+  "Answer": "B) Normlar hiyerarşisi"
+ }
+]

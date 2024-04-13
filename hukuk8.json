@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Karşılıksız çeke ilişkin aşağıdaki durumlardan hangisi doğrudur?",
+  "A": "A) Bankanın sorumluluğu yoktur",
+  "B": "B) Bankanın sorumluluk tutarı vardır",
+  "C": "C) Karşılıksız çeklerin arkasının yazılması konusunda bankanın insiyatifi bulunmaktadır",
+  "D": "D) Karşılıksız çek cezaları arasında hapis cezası bulunmaktadır",
+  "E": "E) Karşılıksız çekte soruşturma veya kovuşturmanın durması halinde dahi davaya ilişkin zamanaşımı işlemeye devam eder",
+  "Image": 1,
+  "Explaination": "Karşılıksız çeke ilişkin Bankanın herbir çek yaprağı için ödemekle sorumlu olduğu tutar bulunmaktadır.",
+  "Answer": "B) Bankanın sorumluluk tutarı vardır."
+ },
+ {
+  "Question": "Hukuken aşağıdakilerden hangisi mutlak haklar arasında yer almaz?",
+  "A": "A) Mülkiyet hakkı",
+  "B": "B) İrtifak hakları",
+  "C": "C) Kişi dokunulmazlığı ",
+  "D": "D) Rehin hakları",
+  "E": "E) Gayrimenkul mükellefiyeti",
+  "Image": 1,
+  "Explaination": "şıklarında yer alan haklar mallar üzerindeki mutlak haklar arasında yer almakta olup, kişi dokunulmazlığı bunlar arasında yer almaz.",
+  "Answer": "C) Kişi dokunulmazlığı"
+ },
+ {
+  "Question": "Konkordato hükümlerinden yararlanmak isteyen herhangi bir borçlu konkordato teklifini nereye yapmalıdır?",
+  "A": "A) İcra Mahkemesine",
+  "B": "B) Borçlu olduğu kişi ve kuruluşlara",
+  "C": "C) İlgili Bakanlığa",
+  "D": "D) Asliye Mahkemesine",
+  "E": "E) Maliye Bakanlığına",
+  "Image": 1,
+  "Explaination": "Konkordato, herhangi bir dürüst borçlunun ödeme teklifinin konkordatoya tabi alacaklarının belirli bir çoğunluğu tarafından kabulü ve mahkemenin onayı ile gerçekleşen ve borçlunun, borçlarının bir kısmından kurtulmasını veya ödeme şeklinin borçlu yararına değişmesini sağlayan, iflasa nazaran yumuşatılmış, alacaklıların eşit olarak tatminine yarayan kolektif bir cebri icra kurumudur. Mali durumu bozularak ödeme gücünü kaybetmiş ve konkordato hükümlerinden faydalanmak isteyen borçlu, İcra Tetkik Mercii Hakimliği'ne başvurur.",
+  "Answer": "A) İcra Mahkemesine"
+ },
+ {
+  "Question": "İhalenin feshine yönelik şikayet nereye yapılır?",
+  "A": "A) İlgili bakanlık",
+  "B": "B) Ticaret Odası",
+  "C": "C) Tapu müdürlükleri ",
+  "D": "D) İcra Mahkemeleri",
+  "E": "E) Asliye hukuk mahkemeleri",
+  "Image": 1,
+  "Explaination": "İhalenin feshi davaları, istisnai durumlar hariç, ihaleye konu satışı yapan İcra Müdürlüğü'nün bağlı bulunduğu icra Mahkemelerinde şikayet yolu ile görülen davalardır.",
+  "Answer": "D) İcra Mahkemeleri"
+ },
+ {
+  "Question": "Bir davada davacı ya da davalı olarak yer alabilme ehliyeti yani davada taraf olabilme yeteneği aşağıdaki kavramlardan hangisi ile ifade edilmektedir?",
+  "A": "A) Dava hakkı",
+  "B": "B) Medeni hak",
+  "C": "C) Hukuk ehliyeti",
+  "D": "D) Taraf ehliyeti",
+  "E": "E) Şahıs ehliyeti",
+  "Image": 1,
+  "Explaination": "Taraf ehliyeti, davada taraf olabilme yeteneğidir. Taraf ehliyeti, medeni hukuktaki (maddi) hak (medeni haklardan istifade) ehliyetinin medeni usul hukukunda büründüğü şekildir. Kimlerin taraf ehliyetine sahip bulunduğu Medeni Kanun'a göre belirlenir. Buna göre hak ehliyetine sahip her gerçek ve tüzel kişi, davada taraf olabilme ehliyetine de sahiptir.",
+  "Answer": "D) Taraf ehliyeti"
+ },
+ {
+  "Question": "Kendisine yasal danışman atanan kişiler ehliyetler bazında hangi gruba girer?",
+  "A": "A) Tam ehliyetliler ",
+  "B": "B) Sınırlı ehliyetsizler",
+  "C": "C) Tam ehliyetsizler",
+  "D": "D) Tüm gruplar",
+  "E": "E) Sınırlı ehliyetliler",
+  "Image": 1,
+  "Explaination": "Sınırlı ehliyetliler, aslında tam ehliyetli oldukları halde bazı sebeplerden dolayı ehliyetleri belli konularda sınırlandırılmış bulunan kişilerdir. Gerçekten, bu kategoriye giren kişiler ergin ve ayırt etme gücüne sahip oldukları gibi, kısıtlı da değillerdir. Fakat kanun koyucu bu kişilerin ehliyetlerini onları veya bir başkasını korumak amacıyla sayıca az fakat çok önemli bazı hukuki işlemler bakımından sınırlamıştır; bu kişilerde ehliyetlilik asıl, ehliyetsizlik ise istisnadır.\nSınırlı ehliyetler kategorisine\na) evli kişiler\nb) kendilerine yasal danışman atanmış olanlar girer. Kendilerine yasal danışman atanmış olanlar, kısıtlanmaları için yeterli bir sebep bulunmamakla beraber, korunması bakımından fiil ehliyetinin sınırlandırılması gerekli görülen ergin kişilerdir.\n",
+  "Answer": "E) Sınırlı ehliyetliler"
+ },
+ {
+  "Question": "Sınırlı ehliyetsizler aşağıdaki işlemlerden hangisini yapabilirler?",
+  "A": "A) Kefil olma",
+  "B": "B) Evlenme",
+  "C": "C) Bağış kabul etme ",
+  "D": "D) Vakıf kurma",
+  "E": "E) Kredi alma",
+  "Image": 1,
+  "Explaination": "Sınırlı ehliyetsizler, kendilerini borç altına sokmayan ve sadece menfaat sağlayan işlemleri, örneğin karşılıksız kazanmaları yasal temsilcilerinin rızasına gerek olmadan, bizzat yapabilirler. Karşılıksız kazanmalar, hiçbir borç veya yükümlülük doğurmayan, bir karşılığı olmaksızın sadece hak ve menfaatler sağlayan kazanmalardır. Sınırlı ehliyetsiz, örneğin bağışlama yoluyla ve bağışlanan sıfatıyla karşılıksız bir kazanmada bulunabilir;",
+  "Answer": "C) Bağış kabul etme "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kambiyo senetlerinin özelliklerinden biri değildir?",
+  "A": "A) Bir alacak hakkını içerir",
+  "B": "B) Herhangi bir şekil şartı olmaksızın serbestçe düzenlenebilir",
+  "C": "C) Ödenmesi için senedin ibrazı gereklidir",
+  "D": "D) Emre yazılı senetlerdir",
+  "E": "E) Senedi imzalayanlar, kefil sıfatı ile imzalamış olsalar dahi müteselsil borçlu durumundadır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Herhangi bir şekil şartı olmaksızın serbestçe düzenlenebilir"
+ },
+ {
+  "Question": "Hukuki hiyerarşi ve normlar göz önüne alındığında en üstte aşağıdakilerden hangisi yer alır?",
+  "A": "A) Tüzük",
+  "B": "B) Kanun",
+  "C": "C) Yönetmelik ",
+  "D": "D) Anayasa",
+  "E": "E) Kanun Hükmünde Kararname",
+  "Image": 1,
+  "Explaination": "Hukuki hiyerarşi ve normlar göz önüne alındığında en üstte temel düzenleyici kuralları içeren anayasa yer alır.",
+  "Answer": "D) Anayasa"
+ },
+ {
+  "Question": "Genel hatlarıyla, detaysız sade bir çerçeve çizen, dolayısıyla genel ilkeleri düzenleyen ve bunların uygulanma biçimlerini kanunlara bırakan anayasa tipi aşağıdakilerden hangisidir?",
+  "A": "A) Çerçeve anayasa",
+  "B": "B) Geleneksel anayasa",
+  "C": "C) Katı (Sert) anayasa ",
+  "D": "D) Yumuşak anayasa",
+  "E": "E) Kazuistik anayasa",
+  "Image": 1,
+  "Explaination": "Başlıca anayasa çeşitleri şunlardır;\nGeleneksel anayasa: Yazılı olmayan, sürekli uygulama sonucu ortaya çıkan anayasadır.\nYumuşak anayasa: Maddelerinin değiştirilme usullerinin herhangi bir kanunun değiştirilme usulünden farklı olmadığı anayasalardır.\nKatı (Sert) anayasa: Bu anayasalar için özel, değiştirilmesi zor yöntemler benimsenmiştir. Bir anayasanın 'sert' olduğunu gösteren özellikler; değiştirilemeyecek maddeler içermesi, değiştirilmesi için nitelikli çoğunluk aranması (2\/3 gibi), halkoylaması usulüne yer vermesidir.\nÇerçeve anayasa: Kısa ve öz hükümlerden oluşur. Soyut mahiyettedir. Genel bir çerçeve çizer ve içinin doldurulmasını yasama organına bırakır. Örneğin; 1787 Amerikan Anayasası çerçeve bir anayasadır. Toplam 7 temel madde ve bunlara ek olarak sonradan çıkarılmış 27 ek maddeden oluşmaktadır.\nKazuistik anayasa: Uzun ve ayrıntılı kurallardan oluşan, kesin hükümlerin belirlendiği anayasadır.\n",
+  "Answer": "A) Çerçeve anayasa"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi haksız fiilin unsurlarından biri değildir?",
+  "A": "A) Hukuka aykırı fiil",
+  "B": "B) Zarar",
+  "C": "C) Kanıt",
+  "D": "D) Kusur",
+  "E": "E) İlliyet bağı",
+  "Image": 1,
+  "Explaination": "Borçlar kanununa göre haksız fiillerden sorumlulukta dört unsur söz konusudur. Bunlar;\no Hukuka aykırı fiil Zarar o Kusur\no illiyet bağıdır.\n",
+  "Answer": "C) Kanıt"
+ },
+ {
+  "Question": "Ödemezlik def'ine ilişkin aşağıdakilerden hangisi yanlıştır?",
+  "A": "A) Ödemezlik def'i ileri sürecek tarafın önce ifa yükümlüsü olması gerekir",
+  "B": "B) Ödemezlik Def'inin ileri sürülebilmesi için karşılıklı borç yükleyen bir sözleşme olmalıdır",
+  "C": "C) ifa isteğinde bulunan taraf kendi ifasını hiç veya gereği gibi yerine getirmemiş olmalıdır",
+  "D": "D) ifa isteğinde bulunan tarafın borcu ödenmiş olmalıdır",
+  "E": "E) Ödemezlik def'ine konu olan borç aynı sözleşmeden doğmalıdır",
+  "Image": 1,
+  "Explaination": "Karşılıklı borç yükleyen sözleşmelerde borçlu kendi borcunu ifa etmemiş olmasına rağmen alacağını talep ediyorsa diğer borçlunun borcunu ifa etmekten kaçınabilmesine ödemezlik def'i denir.\nÖdemezlik Def'inin ileri sürülebilmesi için; * Karşılıklı borç yükleyen bir sözleşme olmalıdır.\n* ifa isteğinde bulunan taraf kendi ifasını hiç veya gereği gibi yerine getirmemiş olmalıdır.\n* ifa isteğinde bulunan tarafın borcu halen mevcut olmalıdır. Yani borç imkansızlık vb. yollarla sona ermiş olmamalıdır.\n* Ödemezlik def'ine konu olan borç aynı sözleşmeden doğmalıdır.\n* Ödemezlik def'i ileri sürecek tarafın önce ifa yükümlüsü olması gerekir.\n",
+  "Answer": "D) ifa isteğinde bulunan tarafın borcu ödenmiş olmalıdır."
+ },
+ {
+  "Question": "Anonim şirketlerde kurucuların, yönetim kurulu üyelerinin, denetçilerin, şirketin kuruluşundan ve sermaye artırımından doğan sorumlulukları, şirketin tescili tarihinden itibaren ne kadar süre geçmedikçe ibra yoluyla kaldırılamaz?",
+  "A": "A) 3 yıl",
+  "B": "B) 4 yıl",
+  "C": "C) 2 yıl",
+  "D": "D) 1 yıl",
+  "E": "E) 5 yıl",
+  "Image": 1,
+  "Explaination": "Kurucuların, yönetim kurulu üyelerinin, denetçilerin, şirketin kuruluşundan ve sermaye artırımından doğan sorumlulukları, şirketin tescili tarihinden itibaren dört yıl geçmedikçe sulh ve ibra yoluyla kaldırılamaz. Bu sürenin geçmesinden sonra da sulh ve ibra ancak genel kurulun onayıyla geçerlilik kazanır.",
+  "Answer": "B) 4 yıl"
+ },
+ {
+  "Question": "İcra İflas Kanununa göre hacizli taşınmaz mal satış talebi için maksimum süre ne kadardır?",
+  "A": "A) 6 ay",
+  "B": "B) 2 yıl ",
+  "C": "C) 1 yıl",
+  "D": "D) 18 ay ",
+  "E": "E) 3 yıl",
+  "Image": 1,
+  "Explaination": "2004 sayılı İcra İflas Kanununun 106' ncı maddesinin birinci fıkrasına göre; alacaklı, haciz\nolunan mal taşınır ise hacizden itibaren altı ay,\ntaşınmaz ise hacizden itibaren bir yıl içinde\nsatılmasını isteyebilir.\n",
+  "Answer": "C) 1 yıl"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi limited şirket müdürünün yapamayacağı işlemlere ilişkin doğru değildir?",
+  "A": "A) Kar payı dağıtımına gidilmesi kararı alabilir",
+  "B": "B) Şirket sözleşmesinin değiştirilmesi kararı alamaz",
+  "C": "C) Üretilecek mal miktarına ilişkin karar alabilir",
+  "D": "D) Pay devirlerinin onaylanması kararı alamaz",
+  "E": "E) Şirketin feshi yönünde karar alamaz",
+  "Image": 1,
+  "Explaination": "Türk Ticaret Kanunu'nda limited şirket genel kurulu ile yönetim organı arasındaki işlev ayrılığı belirginleştirilmiştir. Buna göre, limited şirket müdürü veya müdürler kurulu, TTK ve şirket sözleşmesi ile genel kurula bırakılan konularda karar alamaz. Bu çerçevede kar payı dağıtımına gidilmesi kararı almak genel kurula ait olduğundan bu yetkisi bulunmamaktadır.",
+  "Answer": "A) Kar payı dağıtımına gidilmesi kararı alabilir"
+ },
+ {
+  "Question": "Aşağıda yer alan şıklardan hangisinde şahıs şirket türleri doğru olarak sayılmıştır?",
+  "A": "A) Kollektif Şirketler-Komandit Şirketler",
+  "B": "B) Anonim Şirketler -Komandit Şirketler",
+  "C": "C) Limited Şirketler -Komandit Şirketler",
+  "D": "D) Kollektif Şirketler- Limited Şirketler",
+  "E": "E) Limited Şirketler - Sermayesi Paylara Bölünmüş Komandit Şirketler",
+  "Image": 1,
+  "Explaination": "Kollektif şirketler ve komandit şirketler şahıs şirketleri anonim şirketler, limited şirketler ve sermayesi paylara bölünmüş komandit şirketler sermaye şirketleridir.",
+  "Answer": "A) Kollektif Şirketler-Komandit Şirketler"
+ },
+ {
+  "Question": "Komşunun evin kırık camını izinsiz yaptırması aşağıdaki hukuki durumlardan hangisine girmektedir?",
+  "A": "A) Mücbir sebep",
+  "B": "B) Vekaletsiz iş görme",
+  "C": "C) Menfaat hakkı",
+  "D": "D) Kamu yararı",
+  "E": "E) Yakınlık yükümlülüğü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yakınlık yükümlülüğü"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi aile hukuku ilkelerinden biri değildir?",
+  "A": "A) Birlik İlkesi",
+  "B": "B) Zayıfların Korunması İlkesi",
+  "C": "C) Sorumluluk ilkesi",
+  "D": "D) Düzenleme Serbestliğinin Olmaması İlkesi",
+  "E": "E) Devletin Müdahale İlkesi",
+  "Image": 1,
+  "Explaination": "Aile hukukuna ilişkin ilkeler şunlardır;\nBirlik İlkesi; Evlilik ile yapılan birliktelik geçici birliktelik değildir ve çevreye bildirilmesi istenir. Bu yeni birlikteliğin üçüncü şahıslara yeni bir isimle duyurulması gerekir. Eş ve çocukların kocanın soy ismini almasının nedeni bu ilkedir.\nSüreklilik ilkesi; Bu ilkeye göre asıl evlilik ölümle sona erer. Ancak boşanma ile bu süreklilik sona erdirilebilir.\nZayıfların Korunması İlkesi; Kadın ve çocukların korunması demektir.\nDüzenleme Serbestliğinin Olmaması İlkesi; Bu ilkeye göre eşler kendi kafalarına göre bir neden ile boşanma gerçekleştiremezler. Boşanma nedenlerinin muhakkak kanunda belirlenmiş olması gerekir. Ya da tam tersi evlenirken de yasalar dışına çıkamazlar. Örneğin kadın kocasının soyadını alabilir ya da kendi soyadını kullanabilir ancak kocası kadının soyadını alamaz. Yasalar buna izin vermez.\nDevletin Müdahale İlkesi; Evlendirme işlemi muhakkak resmi memur önünde boşanma ise hakimin kararıyla olmalıdır. Son olarak\nEşitlik İlkesi; Kadın ve erkek kanunlar önünde her zaman eşittir.\n",
+  "Answer": "C) Sorumluluk ilkesi"
+ },
+ {
+  "Question": "Fiil ehliyeti koşullarının tamamına sahip olmayan kişilerin ehliyet durumu aşağıdakilerden hangisi ile isimlendirilmektedir?",
+  "A": "A) Sınırlı ehliyetsizler",
+  "B": "B) Sınırlı ehliyetliler",
+  "C": "C) Tam ehliyetliler",
+  "D": "D) Kısmi ehliyetliler",
+  "E": "E) Tam ehliyetsizler",
+  "Image": 1,
+  "Explaination": "Sınırlı ehliyetsizler, fiil ehliyetinin koşullarının tamamına sahip olmayan kişilerdir. Bu itibarla da kural olarak bunların fiil ehliyetleri yoktur. Fakat; kanun koyucu bu kişileri tam anlamıyla ehliyetsiz saymayı uygun görmeyerek onları bazı bakımlardan kısmen ehliyetli addetmiştir. Sınırlı ehliyetsizler kategorisine giren kişiler, ayırt etme gücüne sahip küçükler ile ayırt etme gücüne sahip kısıtlılardır. Sınırlı ehliyetliler, aslında tam ehliyetli oldukları halde bazı sebeplerden dolayı ehliyetleri belli konularda sınırlandırılmış bulunan kişilerdir. Bu kategoriye giren kişiler ergin ve ayırt etme gücüne sahip oldukları gibi, kısıtlı da değillerdir. Fakat kanun koyucu bu kişilerin ehliyetlerini onları veya bir başkasını korumak amacıyla sayıca az fakat önemli bazı hukuki işlemler bakımından sınırlamıştır; bu kişilerde ehliyetlilik asıl, ehliyetsizlik ise istisnadır. Sınırlı ehliyetler kategorisine evli kişiler ile kendilerine yasal danışman atanmış olanlar girer. Tam ehliyetliler kategorisine giren gerçek kişiler, fiil ehliyetinin bütün koşullarına sahip bulunan kimselerdir. Diğer bir deyişle ayırt etme gücüne sahip ve ergin olan, aynı zamanda kısıtlı bulunmayan bütün gerçek kişiler, fiil ehliyetine tam anlamıyla sahiptirler. Tam ehliyetsizler kategorisine giren kişilerin fiil ehliyetleri hiç yoktur; çünkü bunlar, fiil ehliyetinin en önemli koşulu olan ayırt etme gücünden yoksun kişilerdir.",
+  "Answer": "A) Sınırlı ehliyetsizler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi poliçede bulunması gereken şartlardan biri değildir?",
+  "A": "A) Kefil imzası",
+  "B": "B) Poliçe kelimesi",
+  "C": "C) Düzenlenme tarihi ",
+  "D": "D) Düzenlenme yeri",
+  "E": "E) Ödenecek kişinin adı",
+  "Image": 1,
+  "Explaination": "Poliçede bulunması gereken unsurlar şunlardır:\na) Senet metninde \"poliçe” kelimesini, senet Türkçe'den başka bir dille yazılmışsa, o dilde poliçe karşılığı olarak kullanılan kelime,\nb) Belirli bir bedelin ödenmesi hususunda kayıtsız ve şartsız havale,\nc) Ödeyecek olan kişinin, \"muhatabın” adı,\nd) Vade,\ne) Ödeme yeri,\nf) Kime veya kimin emrine ödenecek ise onun adı,\ng) Düzenlenme tarihini ve yeri,\nh) Düzenleyenin imzası.\n",
+  "Answer": "A) Kefil imzası"
+ }
+]

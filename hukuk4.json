@@ -1,0 +1,221 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi Borçlar Kanunu'nda öngörülen esaslı hata hallerinden biri değildir?",
+  "A": "A) Sözleşmenin niteliğinde hata",
+  "B": "B) Şahısta hata",
+  "C": "C) Miktarda hata",
+  "D": "D) Sözleşmenin konusunu oluşturan şey'de hata",
+  "E": "E) Saikte hata",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Alacağın temliki ile ilgili aşağıda verilenlerden hangisi yanıştır?",
+  "A": "A) Alacağa bağlı fer'i hakların da temliğe konu olması",
+  "B": "B) Bir sözleşme niteliği taşıması",
+  "C": "C) Şekle tabi olmaması",
+  "D": "D) Tasarruf işlemi niteliği taşıması",
+  "E": "E) Temliğin borçlunun rızası olmaksızın yapılabilmesi",
+  "Image": 1,
+  "Explaination": "Türk Borçlar Kanunu'na göre alacağın temliki sözleşmesi yazılı  olarak yapılmak zorundadır. Aksi halde sözleşme geçersizdir",
+  "Answer": "C) Şekle tabi olmaması"
+ },
+ {
+  "Question": "Kanunun düzenlediği çeşitli sözleşme tiplerine ait unsurların, kanunun öngörmediği tarzda bir araya gelmesiyle kurulan sözleşmelere ne ad verilir?",
+  "A": "A) Muhafaza sözleşmeleri",
+  "B": "B) irat sözleşmeleri",
+  "C": "C) Şirket sözleşmeleri",
+  "D": "D) Karma sözleşmeler",
+  "E": "E) Bileşik sözleşmeler",
+  "Image": 1,
+  "Explaination": "Kanunun düzenlediği çeşitli sözleşme tiplerine ait unsurların, kanunun öngörmediği tarzda bir araya gelmesiyle kurulan sözleşmelere karma sözleşme denir.",
+  "Answer": "D) Karma sözleşmeler"
+ },
+ {
+  "Question": "İtirazın iptali davası sonucunda hükmedilen icra inkar tazminatı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Mahkeme kendiliğinden icra inkar tazminatına hükmedebilir",
+  "B": "B) İcra inkar tazminatı itirazın iptali davası dışında ayrı bir dava ile talep edilemez",
+  "C": "C) İnkar tazminatı hükmolunan alacağın % 40'ından aşağı olamaz",
+  "D": "D) İnkar tazminatı hükmedilebilmesi için, itirazın iptali davasının açıldığı tarih itibariyle değil, icra takibinin yapıldığı tarih itibariyle borçlunun ödeme emrine itirazının haksız olması gerekir",
+  "E": "E) İcra inkar tazminatına hükmedilebilmesi için, borçlunun itirazının haksız olması yeterli olup, ayrıca kötü niyetli olması aranmaz",
+  "Image": 1,
+  "Explaination": "Haksız yere yapılan itiraz şayet mahkeme tarafından iptal edilirse icra inkar tazminatına hükmedilebilir. Bu tazminata hükmedilebilmesi için mutlaka talep şarttır. Mahkeme re'sen bu tazminata hükmedemez. Ayrıca, İcra iflas Kanunu'nda yapılan son değişiklik ile icra inkar tazminatı %20 olarak belirlenmiştir.",
+  "Answer": "A) Mahkeme kendiliğinden icra inkar tazminatına hükmedebilir."
+ },
+ {
+  "Question": "Somut olayda, taraflar arasındaki alacak davası nedeniyle bir kısım alacağa hükmedilmesi üzerine, ilamın icraya konulduğunu, cebri icra nedeniyle borçlunun maaşından bir kısım kesintilerin yapıldığını ve otomobilinin haczedildiğini, sonrasında takibe dayanarak kararın temyiz üzerine Yargıtay' ca alacağa ilişkin talebin tümüyle reddi gerektiği belirtilmek suretiyle yerel mahkeme kararının bozulduğunu ve yerel mahkemelerce bozmaya uyularak istemin tümüyle reddine karar verildiğini kabul edelim. Bu olayla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Borçlunun maaşından yapılan kesintilerin borçluya iade edilebilmesi için yerel mahkemenin",
+  "B": "B) Hacze iştirak halinde satılan malın bedeli alacakları karşılamaya yetmezse, icra dairesi aynı ",
+  "C": "C) İlk haciz ilamsız takibe müstenitse, takip talebinden önce yapılmış bir takip üzerine alınan aciz vesikasına sahip olan alacaklı hacze adi iştirakten yararlanabilir",
+  "D": "D) İcra takibi neticesinde satılan malın bedeli vezneye girinceye kadar hacze iştirak edilebilir",
+  "E": "E) İlk haciz ilamlı takibe müstenitse, dava açılmasından önce alınmış, tarih ve imzası noter tarafından tasdik edilmiş belgelere dayanarak hacze iştirak mümkündür",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Hacze iştirak halinde satılan malın bedeli alacakları karşılamaya yetmezse, icra dairesi aynı "
+ },
+ {
+  "Question": "Üçüncü kişilerdeki hak ve alacakların haczi ile ilgili aşağıdaki ifadelerden hangisi Yanlıştır?",
+  "A": "A) Bankaya haciz ihbarnamesi gönderilmesi, bankadaki mevduatın borçluya ödenmesini önleyen bir muhafaza tedbiridir",
+  "B": "B) Borçlunun üçüncü kişideki alacağının haczinde, üçüncü kişi gönderilen haciz ihbarnamesine süresinde itiraz ederse, alacaklı, üçüncü kişinin itirazının gerçeğe aykırı olduğundan bahisle üçüncü kişi aleyhine icra mahkemesinde tazminat davası açılabilir",
+  "C": "C) Adi ortaklıklarda, her ortak şirketin karına iştirak hakkına sahip olduğundan, ortağın kişisel alacaklıları, borçlu ortağın şirketteki kar payına icra İflas Kanunu'nun 89. maddesine göre haciz koydurabilir",
+  "D": "D) Borçlunun bankadaki mevduatının haczinde, haczin tekemmülü için bankaya İcra İflas Kanunu m. 89 gereğince haciz ihbarnamesinin tebliğ edilmiş olması şarttır",
+  "E": "E) Borçlunun üçüncü kişideki alacağı İcra İflas Kanunu m. 106'ya II gereğince menkul hükmünde olduğundan, bankadaki mevduatın haczi gibi yapılır. Ancak, bankadaki mevduat hakkında haciz tutanağı düzenlenmesi için mahalline, yani bankaya gidilmesine gerek yoktur",
+  "Image": 1,
+  "Explaination": "İcra İflas Kanunu'na göre borçlunun bankadaki mevduatının haczinde, haczin tekemmülü için bankaya İcra İflas Kanunu m. 89 gereğince haciz ihbarnamesinin tebliğ edilmiş olması şart değildir.",
+  "Answer": "D) Borçlunun bankadaki mevduatının haczinde, haczin tekemmülü için bankaya İcra İflas Kanunu m. 89 gereğince haciz ihbarnamesinin tebliğ edilmiş olması şarttır."
+ },
+ {
+  "Question": "Türk Ceza Kanunu'na göre, ceza ehliyetiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Yirmi bir yaşını dolduran sağır ve dilsizlere tam ceza verilir",
+  "B": "B) On iki yaşını doldurmuş 15 yaşını doldurmamış çocuklara ceza verilmez, tedbir uygulanır",
+  "C": "C) On beş yaşını doldurmuş 18 yaşını doldurmamış çocuklara tam ceza verilir",
+  "D": "D) On beş yaşını doldurmamış sağır ve dilsizlere azaltılmış ceza verilir",
+  "E": "E) On iki yaşını doldurmamış çocuklara ceza verilmez ve tedbir uygulanmaz",
+  "Image": 1,
+  "Explaination": "Ceza ehliyetine ilişkin yaş sınırı 12 olup, 18 yaşını doldurmuş kişilerin tam ceza ehliyeti bulunmaktadır.",
+  "Answer": "A) Yirmi bir yaşını dolduran sağır ve dilsizlere tam ceza verilir."
+ },
+ {
+  "Question": "Türk Ceza Kanunu'na göre, amirin emrini yerine getirmeyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Şirket sahibinin emrini uygulayan işçi sorumlu olmaz",
+  "B": "B) Emrin görevle ilgili bir emir olması yeterlidir",
+  "C": "C) Emrin görev gereği zorunlu bir emir olması gerekir",
+  "D": "D) Emrin konusunun suç teşkil etmesi fiilin hukuka uygunluğunu etkilemez",
+  "E": "E) Emrin hukuka uygunluğunun denetlenmesi hiçbir şekilde engellenemez",
+  "Image": 1,
+  "Explaination": "Türk Ceza Kanunu'na göre emrin amir tarafından verilmesi ve görev gereği zorunlu nitelik taşıması gerekmektedir",
+  "Answer": "C) Emrin görev gereği zorunlu bir emir olması gerekir."
+ },
+ {
+  "Question": "Türk Ceza Kanunu'na göre, kamu görevlisinin resmî belgede sahtecilik suçunu işlemesiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Resmî belgenin sahte olarak düzenlenmesiyle işlenir",
+  "B": "B) Gerçek bir belgenin değiştirilmesiyle işlenir",
+  "C": "C) Sahte resmî belgenin kabul edilmesiyle işlenir",
+  "D": "D) Gerçeğe aykırı düzenlemeyle işlenir",
+  "E": "E) Sahte resmî belgenin kullanılmasıyla işlenir",
+  "Image": 1,
+  "Explaination": "Türk Ceza Kanunu'na göre resmi evrakta sahtecilik suçu, evrakta değişiklik yapıldığı anda işlenmiştir.",
+  "Answer": "C) Sahte resmî belgenin kabul edilmesiyle işlenir."
+ },
+ {
+  "Question": "Zimmet suçuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Zimmet suçu, kamu idaresinin güvenilirliğine ve işleyişine karşı suçlardandır",
+  "B": "B) Kamu görevlisine, sadece kendisine duyulan kişisel güven sonucu zilyetliği devredilen mal üzerinde, zimmet suçu işlenemez",
+  "C": "C) Zimmet suçunun maddi konusunu oluşturan mal veya paranın devlete ait olması şart değildir",
+  "D": "D) Malın zilyetliğinin devri, kamu görevlisinin zorlaması veya ikna etmesi sonucu gerçekleşmişse zimmet suçu oluşmaz",
+  "E": "E) Zimmet suçunun maddi konusunu oluşturacak malın resmen teslimi gerekir",
+  "Image": 1,
+  "Explaination": "Zimmet suçunda kamu görevlisinin, suçun maddi unsurunu uhdesine geçirmesi anında işlenmiş olup, malın resmen teslimi aranmaz.",
+  "Answer": "E) Zimmet suçunun maddi konusunu oluşturacak malın resmen teslimi gerekir."
+ },
+ {
+  "Question": "Türk Ceza Kanunu'na göre, zorunluluk haliyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Failin bilerek neden olmadığı bir tehlike olmalıdır",
+  "B": "B) Tehlike ağır bir tehlike olmalıdır",
+  "C": "C) Tehlike mutlaka faile yönelik olmalıdır",
+  "D": "D) Tehlike mal varlığı hakkına yönelik olabilir",
+  "E": "E) Tehlike muhakkak bir tehlike olmalıdır",
+  "Image": 1,
+  "Explaination": "Zorunluluk hali, kişinin davranışlarını hukukun icaplarına göre yönlendirme yeteneğini azaltan ve hatta ortadan kaldıran bir etki meydana getirdiği için, kusurluluğu etkileyen bir nedendir. Çaresiz kalma, bir şeye mecbur olma anlamına gelen zorunluluk hali, failin bilerek meydana getirmediği bir tehlikeden kendisini veya başkasını kurtarmak zorunluluğu nedeniyle tehlikeyi uzaklaştırmaya yetecek ölçüde bir eylemi gerçekleştirmesi halidir.",
+  "Answer": "C) Tehlike mutlaka faile yönelik olmalıdır."
+ },
+ {
+  "Question": "Aşağıdakilerin hangisinde dürüstlük kuralı uygulanmaz?",
+  "A": "A) Sözleşme öncesi bir sorumluluğun (culpa in contrahendo) söz konusu olması halinde",
+  "B": "B) Bir hukuki işlemin tahvilinde",
+  "C": "C) Bir hukuki işlemin yorumunda güven prensibinin uygulanması halinde",
+  "D": "D) Vasiyetnamenin yorumunda",
+  "E": "E) Hukuki işlemlerde boşlukların doldurulmasında",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Sözleşme öncesi bir sorumluluğun (culpa in contrahendo) söz konusu olması halinde"
+ },
+ {
+  "Question": "Tam ehliyetsizin sorumlu tutulmasıyla ilgili aşağıdaki ifadelerden hangisi Yanlıştır?",
+  "A": "A) Tam ehliyetsiz, haksız fiilinden dolayı hakkaniyet sorumluluğuyla sorumludur",
+  "B": "B) Tam ehliyetsiz, haksız fiilinden sebep sorumluluğuna göre sorumlu tutulamaz",
+  "C": "C) Tam ehliyetsiz, kusursuz sorumluluk hallerinde ortaya çıkan zarardan sorumlu olur",
+  "D": "D) Tam ehliyetsiz, lehine yapılan vekaletsiz iş görmeden dolayı, vekaletsiz iş görene karşı sorumlu olur",
+  "E": "E) Tam ehliyetsiz, sebepsiz zenginleşme hükümlerine göre sorumlu tutulamaz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Tam ehliyetsiz, sebepsiz zenginleşme hükümlerine göre sorumlu tutulamaz."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tacir olmanın sonuçları arasında yer almaz?",
+  "A": "A) Fatura kullanmak zorundadır",
+  "B": "B) Bir ticaret unvanı seçmek ve kullanmak zorundadır",
+  "C": "C) İşletmelerini ticaret siciline kaydettirmek zorundadır",
+  "D": "D) Ticari defter tutmak zorundadır",
+  "E": "E) Borçlarından dolayı iflasa tabi olma zorunluluğu ortadan kalkmaktadır",
+  "Image": 1,
+  "Explaination": "Tacir olmanın sonuçları şunlardır:\n- Borçlarından dolayı iflasa tabidir.\nBir ticaret unvanı seçmek ve kullanmak zorundadır.\nİşletmelerini ticaret siciline kaydettirmek zorundadır.\n- Ticari defter tutmak zorundadır.\n- Ticari faaliyetlerinde basiretli (işin sonunu gören, anlayan) bir iş adamı gibi hareket etmek zorundadır.\n- Ücret ve faiz istemek,\n- Fatura ve teyit mektubu kullanmak,\n- Ücret ve cezai şartın azaltılmasını isteyememek.\n",
+  "Answer": "E) Borçlarından dolayı iflasa tabi olma zorunluluğu ortadan kalkmaktadır."
+ },
+ {
+  "Question": "Bir taşınmaz üzerinde kurulan rehnin kapsamına aşağıdakilerden hangisi dahil değildir?",
+  "A": "A) Ana taşınmaz",
+  "B": "B) Taşınmazda üçüncü kişilerin hak sahibi olmadığı eklentiler",
+  "C": "C) Taşınmazın bütünleyici parçaları",
+  "D": "D) Taşınmaz üzerinde rehnin kurulmasından önce işleyen kiralar",
+  "E": "E) Muaccel olmuş sigorta tazminatı",
+  "Image": 1,
+  "Explaination": "Türk Medeni Kanunu hükümleri uyarınca, taşınmaz üzerinde rehnin kurulmasından önce işleyen kiralar şahsi haklar olduğundan rehin kapsamına dahil değildir.",
+  "Answer": "D) Taşınmaz üzerinde rehnin kurulmasından önce işleyen kiralar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi sebepsiz zenginleşmenin şartlarından bir değildir?",
+  "A": "A) Zenginleşme",
+  "B": "B) Zenginleşenin iyi niyetli olmaması",
+  "C": "C) Fakirleşme",
+  "D": "D) İlliyet bağı",
+  "E": "E) Haklı bir sebebin bulunmaması",
+  "Image": 1,
+  "Explaination": "Türk Borçlar Kanunu'na göre sebepsiz zenginleşme için hukuken geçerli olmayan bir durum nedeniyle bir tarafın fakirleşmesi diğer tarafın zenginleşmesi ve zenginleşmenin bu geçersiz hukuki durum nedeniyle olması yani illiyet bağının bulunması halinde mümkündür.",
+  "Answer": "B) Zenginleşenin iyi niyetli olmaması"
+ },
+ {
+  "Question": "Para borçları nerede ifa edilir?",
+  "A": "A) Alacaklının ifa zamanındaki ikametgahının bulunduğu yerde",
+  "B": "B) Borçlunun borcunun doğduğu yerde",
+  "C": "C) Borçlunun ikametgahının bulunduğu yerde",
+  "D": "D) Borçlunun işyerinin bulunduğu yerde",
+  "E": "E) Borçlunun istediği yerde",
+  "Image": 1,
+  "Explaination": "Türk Borçlar Kanunu'na göre para borçları alacaklının ifa zamanındaki ikametgahının bulunduğu yerde ifa edilir.",
+  "Answer": "A) Alacaklının ifa zamanındaki ikametgahının bulunduğu yerde"
+ },
+ {
+  "Question": "Tarafların, üçüncü kişileri aldatmak amacıyla gerçek iradelerine uymayan bir işlem yapmalarına ve görünürdeki bu işlemin kendi aralarında geçerli olmayacağı hususunda anlaşmalarına ne denir?",
+  "A": "A) Muvazaa",
+  "B": "B) İnançlı muamele",
+  "C": "C) Namı müstear ",
+  "D": "D) Kanuna karşı hile ",
+  "E": "E) Gabin",
+  "Image": 1,
+  "Explaination": "Tarafların, üçüncü kişileri aldatmak amacıyla gerçek iradelerine uymayan bir işlem yapmalarına ve görünürdeki bu işlemin kendi aralarında geçerli olmayacağı hususunda anlaşmalarına yani bir hukuki işlemi, diğer bir hukuki işlem ile saklamalarına muvazaa denir.",
+  "Answer": "A) Muvazaa"
+ },
+ {
+  "Question": "S, arkadaşı Ü'ye ait buzdolabını kendi adına A'ya satmıştır. Taraflar buzdolabının 2 gün sonra teslimi konusunda anlaşmışlardır.\nBuna göre, sözleşmenin geçerliliğiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?\n",
+  "A": "A) Sözleşmenin konusu imkansız olduğundan, S ile A arasındaki satım sözleşmesi batıldır",
+  "B": "B) A ile S arasındaki sözleşme geçerlidir, ancak S ifada bulunmazsa, A'nın zararlarını ödemek zorundadır",
+  "C": "C) S ile A arasındaki sözleşme Ü'nün icazet vermesiyle geçerli olur",
+  "D": "D) S ile A arasındaki sözleşmede hile olduğundan sözleşme geçerli değildir",
+  "E": "E) Sözleşme geçerlidir ancak S'nin ifada bulunması mümkün olmazsa borcu sona erer",
+  "Image": 1,
+  "Explaination": "A, kendi adına S'nin hesabına buzdolabını satmıştır. A ile S arasındaki anlaşma kapsamında buzdolabını S teslim etmezse A'nın zararlarını ödemekle mükellef olacaktır.",
+  "Answer": "B) A ile S arasındaki sözleşme geçerlidir, ancak S ifada bulunmazsa, A'nın zararlarını ödemek zorundadır."
+ },
+ {
+  "Question": "Cari hesapla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Aksi kararlaştırılmış olmadıkça cari hesaba zimmet veya matlup kaydı, bunları doğuran muamelelerle ilgili dava haklarını etkilemez",
+  "B": "B) Cari hesap sözleşmesinin yapılmasından önce mevcut bir alacak, cari hesaba kaydedilirse aksi kararlaştırılmış olmadıkça yenilenmiş (tecdit) olmaz",
+  "C": "C) Ticari senetler, bedellerinin tahsil edilmesi halinde geçerli olmak şartıyla cari hesaba kaydedilebilir",
+  "D": "D) Cari hesaba kaydedilen alacaklar için vadelerinden itibaren faiz işletilir",
+  "E": "E) Hesap devresi sonundaki zimmet ve matlup arasındaki farktan doğan bakiye tanındıktan sonra yeni hesap devresine ait kalem olarak hesaba geçirilir",
+  "Image": 1,
+  "Explaination": "Türk Ticaret Kanunu'na göre cari hesaba işlenmiş alacaklarda faiz, hesap dönemi sonundan itibaren işletilir.",
+  "Answer": "D) Cari hesaba kaydedilen alacaklar için vadelerinden itibaren faiz işletilir."
+ }
+]

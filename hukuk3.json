@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi takasın şartlarından biri değildir?",
+  "A": "A) Takastan feragat edilmemiş olması",
+  "B": "B) Muacceliyetten itibaren 1 yıl içinde kullanılması",
+  "C": "C) Karşılıklı alacaklılık",
+  "D": "D) Her iki borcun muaccel olması",
+  "E": "E) Alacakların konusunun aynı tür olması",
+  "Image": 1,
+  "Explaination": "Türk Borçlar Kanunu'na göre karşılıklı, muaccel ve aynı türde olan borçlar takas edilebilir. Takas bir borcun sona erme halidir. Takas için \"muacceliyetten itibaren 1 yıl içinde kullanılması\" şeklinde bir şart yoktur.",
+  "Answer": "B) Muacceliyetten itibaren 1 yıl içinde kullanılması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kefalet sözleşmesinde kefilin sorumluluğunun kapsamına dahil değildir?",
+  "A": "A) Dava ve takip masrafları",
+  "B": "B) Asıl borç",
+  "C": "C) Sözleşmeden doğan faiz",
+  "D": "D) Borçlunun kusursuz sorumluluğundan kaynaklanan yasal sonuçlar",
+  "E": "E) Borçlunun temerrütünden kaynaklanan yasal sonuçlar",
+  "Image": 1,
+  "Explaination": "Türk Borçlar Kanunu'na göre kefil asıl borcun fer' ilerinden de sorumludur. Borçlunun kusursuz sorumluluğundan kaynaklanan yasal sonuçlar kefili bağlamaz.",
+  "Answer": "D) Borçlunun kusursuz sorumluluğundan kaynaklanan yasal sonuçlar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir tasarruf işlemi alacaklı, hangi süre içinde, nerede, hangi yola başvurabilir?",
+  "A": "A) İşlemi öğrendiği tarihten itibaren süresiz olarak, Eskişehir İcra Mahkemesi'ne şikayet yoluna başvurmalıdır.",
+  "B": "B) İşlemi öğrendiği tarihten itibaren 5 gün içinde, Eskişehir İcra Mahkemesi'ne şikayet yoluna başvurmalıdır.",
+  "C": "C) İşlemi öğrendiği tarihten itibaren 7 gün içinde, Eskişehir 3. icra Dairesinde, itiraz yoluna başvurmalıdır",
+  "D": "D) İşlemi öğrendiği tarihten itibaren, 7 gün içinde, genel mahkemelerde menfi tespit davası açmalıdır.",
+  "E": "E) İşlemi öğrendiği tarihten itibaren, süresiz olarak, Eskişehir 3. İcra Dairesinde gecikmiş itiraz yoluna başvurmalıdır.",
+  "Image": 1,
+  "Explaination": "İcra ve iflas Kanunu hükümleri uyarınca icra müdürlüklerinin hukuka aykırı işlemlerine karşı icra mahkemesine şikayet yoluna gidilebilir. Bir hakkın yerine getirilmemesi halinde şikayet süresiz olarak yapılabilir.",
+  "Answer": "A) İşlemi öğrendiği tarihten itibaren süresiz olarak, Eskişehir İcra Mahkemesi'ne şikayet yoluna başvurmalıdır."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ilamlı takibe dayanarak olabilecek ilam niteliğindeki belgelerden biri değildir?",
+  "A": "A) İcra kefaletnameleri",
+  "B": "B) Temyiz kefaletnameleri",
+  "C": "C) Mahkeme huzurunda yapılan kabuller",
+  "D": "D) İcra Dairesinde yapılan sulhler",
+  "E": "E) Kayıtsız şartsız para borcu ikrarını içeren re'sen tanzim edilen noter senetleri",
+  "Image": 1,
+  "Explaination": "icra iflas Kanunu'na göre mahkemeler önünde yapılan sulhler ilam niteliğinde belgedir",
+  "Answer": "D) İcra Dairesinde yapılan sulhler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, ilamsız icra takiplerindeki \"önce  rehne  başvurulması zorunluluğunun” istisnalarından biri",
+  "A": "A) Kambiyo senedine bağlanmış alacaklar",
+  "B": "B) İpotekle temin edilmiş faiz ve senelik taksit alacakları",
+  "C": "C) Sermaye Piyasası Kanunu'nda tanımlanan konut finansmanından kaynaklanan rehince temin edilmiş alacaklar",
+  "D": "D) Toplu Konut İdaresi Başkanlığının rehinle temin edilmiş alacakları",
+  "E": "E) Para borcu ikrarını içeren reysen tanzim edilen noter senedine bağlanmış alacaklar",
+  "Image": 1,
+  "Explaination": "İcra İflas Kanunu hükümleri uyarınca para borcu ikrarı içeren alacaklar ayrıca rehin ile teminat altına alınmışsa öncelikle rehnin paraya çevrilmesi yoluna gidilmelidir.",
+  "Answer": "E) Para borcu ikrarını içeren reysen tanzim edilen noter senedine bağlanmış alacaklar"
+ },
+ {
+  "Question": "Taşınır ve taşınmaz mallar bakımından haczin etkisi konusunda aşağıdaki ifadelerden hangisi söylenemez?",
+  "A": "A) Borçlu, alacaklının muvafakati ve icra dairesinin izni olmadan haczedilen taşınır malları üzerinde tasarrufta bulunamaz.",
+  "B": "B) Haczedilen taşnmaz üzerinde üçüncü kişilerin hak kazanması halinde, alacaklı, taşınmazın bu haklardan ari olarak satılmasını isteyebilir.",
+  "C": "C) Borçlunun haczedilen taşınmaz malları üzerinde yaptığı tasarruflar, sadece takip alacaklısının haciz dolayısıyla kazandığı hakları ihlal ettiği ölçüde değil, aynı zamanda borçlunun tüm alacaklılarına karşı da geçersizdir.",
+  "D": "D) Borçlu, haczedilen taşınır mallar için borçlandırıcı sözleşmeler yapabilir.",
+  "E": "E) Taşınmaz hacizlerinde, haczin tapuya şerh verilmesinden sonra taşınmaz üzerinde iyi niyetli olarak hak kazanması mümkün değildir.",
+  "Image": 1,
+  "Explaination": "Taşınmaz mallar üzerine konulan haciz, tapuya haciz şerhi vermek suretiyle yapılır. Haciz şerhi taşınmaz üzerindeki tasarrufu engellemez.",
+  "Answer": "C) Borçlunun haczedilen taşınmaz malları üzerinde yaptığı tasarruflar, sadece takip alacaklısının haciz dolayısıyla kazandığı hakları ihlal ettiği ölçüde değil, aynı zamanda borçlunun tüm alacaklılarına karşı da geçersizdir."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tacir olabilecek tüzel kişiler arasında yer almaz?",
+  "A": "A) Ticaret şirketleri",
+  "B": "B) Amacına ulaşmak için ticari işletme işleten dernekler",
+  "C": "C) Kendi kuruluş kanunları gereğince özel hukuk hükümlerine göre idare edilmek veya ticari şekilde işletilmek üzere devlet tarafından kurulan teşekkül ve müesseseler",
+  "D": "D) Ticari işletme işleten varlıklar",
+  "E": "E) Adi şirketler",
+  "Image": 1,
+  "Explaination": "Adi şirketler Türk Borçlar Kanunu 620 vd. maddelerinde düzenlenen bir şirket türü olup, hukukumuzdaki tek tüzel kişiliği olmayan şirket türüdür. Bu nedenle adi şirketler, tüzel kişi tacir olamazlar.",
+  "Answer": "E) Adi şirketler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bağımsız tacir yardımcılarından biridir?",
+  "A": "A) Ticari işler tellalı",
+  "B": "B) Ticari vekil",
+  "C": "C) İşletme sahibi tarafından işletmesini idare etmek ve kendisi adına hukuki işlemlere vekaleten imza yetkisi verilen kişi",
+  "D": "D) Seyyar tüccar memuru",
+  "E": "E) Ticari mümessil",
+  "Image": 1,
+  "Explaination": "6102 sayılı Türk Ticaret Kanunu hükümleri çerçevesinde tacirden bağımsız olarak çalışan ve tacir ile yaptığı sözleşme kapsamında tacirin işlerine yardımcı olan ve bu işi meslek haline getiren kişiye bağımsız tacir yardımcısı (tellal) denir. Acente, komisyoncu, simsar, eşya taşıma komisyoncusu bağımsız tacir yardımcısıdır.\nTicaret tellalı, Ticaret Kanununa tabidir. Ticari işler tellalının sadece ticari işlerde aracılık yapması gerekir. Esnaflar arasındaki aracı olan tellal, ticari tellal sayılmaz. Geçici olarak aracılık yapan kimse de tellal değildir. Tellalın yaptığı iş için ücret alması esastır. Tellalın ücret alabilmesi için, sözleşmeyle tellalın faaliyeti arasında bir illiyet bağı olmalıdır.\nSözleşme tellalın gayretiyle kurulmalıdır. Ücreti taraflar tespit eder. Bir hüküm yoksa, ücret, ticari teamüle göre ödenir.\n",
+  "Answer": "A) Ticari işler tellalı"
+ },
+ {
+  "Question": "Çekle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Ödeme araçlarından biridir.",
+  "B": "B) Hukuki niteliği itibarıyla havaledir.",
+  "C": "C) Menfi emre kaydı içerebilir.",
+  "D": "D) Vade kaydı, yazılmamış hükmündedir.",
+  "E": "E) Nama düzenlenemez.",
+  "Image": 1,
+  "Explaination": "Çek eksik olarak yani nama yazılı düzenlenebilir. Örneğin çekin, \"Ahmet Lehtar' a veya hamiline ödeyiniz” şeklinde düzenlenmesi mümkündür.",
+  "Answer": "E) Nama düzenlenemez."
+ },
+ {
+  "Question": "Bonoda keşideci, aşağıdakilerden hangisinin varlığı halinde borcu ödemekten kaçınabilir?",
+  "A": "A) Lehtarın adresi yoksa",
+  "B": "B) Bono ilk cirantaya yeni bir ciro ile devredilmişse",
+  "C": "C) Lehtar gösterilmemişse",
+  "D": "D) Faiz şartı konulmuşsa",
+  "E": "E) Vade yazılmamışsa",
+  "Image": 1,
+  "Explaination": "Bonoda lehtarın adı soyadı veya ticaret unvanı zorunlu unsurdur. Bu unsur noksansa keşideci bonoyu ödemekten kaçınabilir.",
+  "Answer": "C) Lehtar gösterilmemişse"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi anonim ortaklıklara sermaye olarak getirilemez?",
+  "A": "A) Tahvil",
+  "B": "B) Şahsi emel ",
+  "C": "C) Kıymetli Evrak",
+  "D": "D) Taşınır ",
+  "E": "E) Taşınmaz  ",
+  "Image": 1,
+  "Explaination": "Anonim şirketlere nakit karşılığı (likit olan) her maddi veya gayri maddi mal sermaye olarak getirilebilirken, ticari itibar, emek, şahsi amaç gibi nakit karşılığı olmayan şeyler sermaye olarak getirilemez.",
+  "Answer": "B) Şahsi emel "
+ },
+ {
+  "Question": "Anonim ortaklıklarda kendisine yönetim yetkisi devredilmiş olan yönetim kurulu üyesine ne ad verilir?",
+  "A": "A) Genel müdür",
+  "B": "B) Yönetici üye",
+  "C": "C) Sorumlu üye",
+  "D": "D) Murahhas üye",
+  "E": "E) Murahhas müdür",
+  "Image": 1,
+  "Explaination": "Bir işletmeyi bir bütün olarak veya belli konularda temsil edebilen, işletmenin yönetiminde daha aktif rol oynayan yönetim kurulu üyesi, murahhas üye olarak tanımlanmaktadır. Anonim şirketlerde yönetim kurulu en az bir kişiden oluşur. Şayet kurul halinde oluşmuşsa yönetim yetkisi bu kurulda sadece bir üyeye devredilebilir. Bu durumda, Bu üyeye murahhas üye denir.",
+  "Answer": "D) Murahhas üye"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi anonim ortaklık yönetim kurulu üyesi olabilmek için aranan şartlardan değildir?",
+  "A": "A) Pay sahibi olmak",
+  "B": "B) Gerçek kişi olmak",
+  "C": "C) İflas etmemiş olmak",
+  "D": "D) Yüz kızartıcı suçtan mahkûm olmamak",
+  "E": "E) En az lise mezunu olmak",
+  "Image": 1,
+  "Explaination": "6102 sayılı Türk Ticaret Kanunu hükümlerine göre yönetim kurulu üyesi olmak için yöneticiler gerçek veya tüzel kişi olabilir. Bu yöneticilerin pay sahibi olmaları zorunlu değildir. Bu kişilerin iflas etmemiş olmaları ve yüz kızartıcı suçtan mahkûm olmamaları şartı bulunmaktadır.",
+  "Answer": "E) En az lise mezunu olmak"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Limited ortaklıkların yapamayacakları işlerdendir?",
+  "A": "A) Reklamcılık",
+  "B": "B) Lokantacılık",
+  "C": "C)  Sigortacılık",
+  "D": "D) Taşımacılık",
+  "E": "E) Otelcilik",
+  "Image": 1,
+  "Explaination": "Sigorta Kanunu uyarınca sigorta şirketleri mutlaka Anonim Şirket hükmünde olmalıdırlar.",
+  "Answer": "C)  Sigortacılık"
+ },
+ {
+  "Question": "Aşağıdaki ortaklıklardan hangisinin ortakları tacir sıfatına sahiptir?",
+  "A": "A) Anonim ortaklık",
+  "B": "B) Adi ortaklık",
+  "C": "C) Komandit ortaklık ",
+  "D": "D) Kollektif ortaklık",
+  "E": "E) Limited ortaklık",
+  "Image": 1,
+  "Explaination": "Adi şirket tüzel kişiliğe sahip olmadığından ancak ortakları tacir sıfatına sahip olabilirler.",
+  "Answer": "B) Adi ortaklık"
+ },
+ {
+  "Question": "Bir hakkın kazanılmasına yol açan aşağıdaki işlemlerden hangisi nitelik olarak diğerlerinden farklıdır?",
+  "A": "A) Tescil",
+  "B": "B) Sahiplenme",
+  "C": "C) Temlik",
+  "D": "D) Teslim ",
+  "E": "E) Miras Yoluyla Kazanma",
+  "Image": 1,
+  "Explaination": "Tescil, miras, temlik, teslim devren kazanma iken, sahiplenme aslen kazanmadır.",
+  "Answer": "B) Sahiplenme"
+ },
+ {
+  "Question": "16 yaşında ve ayırt etme gücüne sahip olan biri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Dava ehliyeti tamdır.",
+  "B": "B) Kural olarak velayet altındadır.",
+  "C": "C) Ergin değildir.",
+  "D": "D) Haksız fiil ehliyeti vardır.",
+  "E": "E) Sınırlı ehliyetsizdir.",
+  "Image": 1,
+  "Explaination": "Dava ehliyeti, dava açabilmek ve davayı yürütebilmek anlamında olup, fiil ehliyetine sahip 2 olan kişilerin dava ehliyetinin bulunduğu kabul edilir. Sınırlı ehliyetsizlerin dava ehliyeti\nbulunmamaktadır.\n",
+  "Answer": "A) Dava ehliyeti tamdır."
+ },
+ {
+  "Question": "Haksız fiil sorumluluğu ile ilgili aşağıdaki ifadelerden hangisi",
+  "A": "A) Sınırlı ehliyetsiz haksız fiillerinden sorumludur",
+  "B": "B) Kusursuz sorumluluk hallerinde tam ehliyetsiz, bu yolla vermiş olduğu zarardan sorumlu değildir.",
+  "C": "C) Ayırt etme gücünü geçici olarak kaybeden kimse kural olarak bu durumdayken verdiği zarardan sorumludur.",
+  "D": "D) Kendisine yasal danışman atanmış bir kişi haksız fiillerinden sorumludur.",
+  "E": "E) Hakkaniyet gerektiriyorsa tam ehliyetsiz verdiği zarardan sorumlu tutulabilir.",
+  "Image": 1,
+  "Explaination": "Türk Borçlar Kanunu'na göre tam ehliyetsizlerin vermiş oldukları zararlardan dolayı bir hakkaniyet sorumluluğu olduğu kabul edilmiştir.",
+  "Answer": "B) Kusursuz sorumluluk hallerinde tam ehliyetsiz, bu yolla vermiş olduğu zarardan sorumlu değildir."
+ },
+ {
+  "Question": "Vakıf yönetim kurulunun hukuki işlem ve fiillerinden doğan sorumluluk kime aittir?",
+  "A": "A) Yönetim Kurulu başkanına",
+  "B": "B) Denetleme kuruluna",
+  "C": "C) Yönetim kuruluna",
+  "D": "D) Vakfa",
+  "E": "E) Genel kurula",
+  "Image": 1,
+  "Explaination": "Vakıf yönetim kurulunun yapmış olduğu işlem ve fiillerden doğan sorumluluktan vakıf tüzel kişiliği sorumludur.",
+  "Answer": "D) Vakfa"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi küçüğün ergin kılınmasını gerektiren nedenlerden biridir?",
+  "A": "A) Nişanlanma",
+  "B": "B) Kısıtlılık",
+  "C": "C) Evlenme",
+  "D": "D) Boşanma",
+  "E": "E) Gaiplik ",
+  "Image": 1,
+  "Explaination": "Türk Medeni Kanunu hükümlerine göre 18 yaşından önce yapılan evlilik hali kişiyi ergin kılar.",
+  "Answer": "C) Evlenme"
+ }
+]

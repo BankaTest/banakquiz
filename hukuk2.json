@@ -1,0 +1,221 @@
+[
+ {
+  "Question": "Haczedilebilir hiçbir mal bulunmadığını tespit\neden haciz tutanağının hukuki niteliği nedir?\n",
+  "A": "A) Müflislik",
+  "B": "B) Aciz belgesi",
+  "C": "C) Borca batıklık",
+  "D": "D) İhtiyati haciz nedeni",
+  "E": "E) Ödemelerin tatiline dayalı iflas",
+  "Image": 1,
+  "Explaination": "Hacze kabil malın bulunmadığını gösteren\nbelgeye aciz belgesi denir.\n",
+  "Answer": "B) Aciz belgesi"
+ },
+ {
+  "Question": "Borçtan kurtulma davası, geçici kaldırma kararının tebliği veya tefhiminden itibaren ne\nkadar süre içinde açılır?\n",
+  "A": "A) 7 gün",
+  "B": "B) 15 gün ",
+  "C": "C) 30 gün",
+  "D": "D) 1 ay",
+  "E": "E) a yıl ",
+  "Image": 1,
+  "Explaination": "Çözüm: Borçtan kurtulma davasının genel mahkemelerde, geçici kaldırmanın tebliği veya\ntefhiminden itibaren 7 gün içerisinde açılması\ngerekir.\n",
+  "Answer": "A) 7 gün"
+ },
+ {
+  "Question": "Aşağıdaki borçlulardan hangisi, İcra ve İflas\nKanunu'nda düzenlenen uzlaşma yoluyla yeniden\nyapılandırma yoluna başvuramaz?\n",
+  "A": "A) Paraçok Bankası AŞ",
+  "B": "B) Deniz İthalat ve İhracat AŞ ",
+  "C": "C) Güven Temizlik Ltd. Şti.",
+  "D": "D) Emin Leasing Ltd. Şti.",
+  "E": "E) Kocaman Balıkçılık Kooperatifi",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "İş Kanunu'na göre ücret kesme cezasıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) İşveren toplu sözleşme veya iş sözleşmelerinde\ngösterilmiş olan sebepler dışında işçiye ücret kesme cezası veremez",
+  "B": "B) İşçi ücretlerinden ceza olarak yapılacak\nkesintilerin işçiye derhal sebepleriyle beraber\nbildirilmesi gerekir.\n",
+  "C": "C) işçi ücretlerinden ceza olarak yapılacak kesintiler\n1 ayda 2 gündelikten fazla olamaz.\n",
+  "D": "D) Her işveren işyerinde bu paraların ayrı bir hesabını tutmaya mecburdur.",
+  "E": "E) Ceza olarak toplanan bu paralar, bizzat işveren tarafından işçilere yönelik hizmetler için harcanır.",
+  "Image": 1,
+  "Explaination": "Ücret kesme cezası işvereni zenginleştiremez. Bu şekilde kesilen cezalar mutlaka işçilere yönelik hizmetler için harcanır.\n4857 sayılı İş Kanunu 38\/3 uyarınca \"Bu paralar işçilerin eğitimi ve sosyal hizmetleri için kullanılıp harcanmak üzere Çalışma ve Sosyal Güvenlik\nBakanlığı hesabına Bakanlıkça belirtilecek Türkiye'de kurulu bulunan ve mevduat kabul etme yetkisini haiz bankalardan birine, kesildiği tarihten itibaren bir ay içinde yatırılır. Her işveren işyerinde bu paraların ayrı bir hesabını tutmaya mecburdur. Birikmiş bulunan ceza paralarının nerelere ve ne kadar verileceği Çalışma ve Sosyal Güvenlik Bakanının başkanlık edeceği ve işçi temsilcilerinin de katılacağı bir kurul tarafından karara bağlanır. Bu kurulun kimlerden teşekkül edeceği, nasıl ve hangi esaslara göre çalışacağı çıkarılacak bir yönetmelikte gösterilir”.\nSoruda kastedilen bizzat işveren tarafından harcanması ifadesi yanlış olup, bir kurul bu paraların harcanma yerine karar verebilir.\n",
+  "Answer": "E) Ceza olarak toplanan bu paralar, bizzat işveren tarafından işçilere yönelik hizmetler için harcanır."
+ },
+ {
+  "Question": "Sendikalar Kanunu'na göre aşağıdakilerden hangisi, sendika ve konfederasyonların zorunlu organı değildir?",
+  "A": "A) Disiplin Kurulu",
+  "B": "B) Danışma Kurulu",
+  "C": "C) Yönetim Kurulu",
+  "D": "D) Denetleme Kurulu",
+  "E": "E) Genel Kurul",
+  "Image": 1,
+  "Explaination": "Sendikalar Kanunu uyarınca sendikaların zorunlu organları yönetim kurulu, genel kurul, denetleme kurulu ve disiplin kuruludur.",
+  "Answer": "B) Danışma Kurulu"
+ },
+ {
+  "Question": "Türk toplu iş hukuku sistemiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A)7 sendika bir araya gelerek federasyon kurabilir.",
+  "B": "B) Toplu iş sözleşmesi ve grev hakkı sadece işçi kuruluşlarına değil, işçilere de tanınmış bir haktır.",
+  "C": "C) Deniz İş Kanunu'na göre çalışan işçiler sendika üyesi olamazlar.",
+  "D": "D) İşyeri esasına göre sendika kurulamaz.",
+  "E": "E) Sendikalara üye olabilmek için hizmet akdiyle çalışmak zorunludur.",
+  "Image": 1,
+  "Explaination": "Sendikalar iş kolu esasına göre kurulurlar",
+  "Answer": "D) İşyeri esasına göre sendika kurulamaz."
+ },
+ {
+  "Question": "Faizle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Kapital faizi ve temerrüt faizi şeklinde olabilir",
+  "B": "B) Kapital faizinin ödenmesinde temerrüde düşülmesi halinde, kural olarak, mahkemeye başvuru tarihinden itibaren, ayrıca kapital faizi için de temerrüt faizi talep edilebilir.",
+  "C": "C) Temerrüt faizinin ödenmesinde gecikme halinde, temerrüt faizi talep edilemez.",
+  "D": "D) Asıl alacağa bağlı bir haktır. Bu nedenle fer' i bir borç oluşturur.",
+  "E": "E) Asıl borç ödeme suretiyle sona ermişse, kural olarak faiz borcu da sona erer. Ancak, asıl borç zaman aşımına uğramış ise, faiz borcu zaman aşımına uğramaz",
+  "Image": 1,
+  "Explaination": "6098 sayılı Türk Borçlar Kanunu 152.maddesi uyarınca asıl alacak zamanaşımına uğrayınca, ona bağlı faiz ve diğer alacaklar da zamanaşımına uğramış olur.",
+  "Answer": "E) Asıl borç ödeme suretiyle sona ermişse, kural olarak faiz borcu da sona erer. Ancak, asıl borç zaman aşımına uğramış ise, faiz borcu zaman aşımına uğramaz."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir davada ticari defterlerin sahibi lehine delil olarak kullanılabilmesinin şartlarından biri değildir?",
+  "A": "A) Kanıt olarak gösterilen defterlerin kanuna uygun olarak tutulması gerekir.",
+  "B": "B) Defter kayıtlarının dayandırıldığı belgeler de ibraz edilmelidir.",
+  "C": "C) Dava konusu uyuşmazlık, her iki taraf için de defterlere kaydedilmesi gereken hususlardan olmalıdır.",
+  "D": "D) Karşı taraf, ileri sürülen ve tacirin kendi defter kayıtları ile doğrulanan iddiaları, kendi defterleri ile veya diğer geçerli kanıtlarla çürütmemiş olmalıdır.",
+  "E": "E) Davanın her iki tarafı da ticari defter tutmakla yükümlü kişilerden oluşmalıdır.",
+  "Image": 1,
+  "Explaination": "Ticari defterler yalnız başna tacirler arasındaki uyuşmazlıklarda delil olarak kullanılabilirler. Defterler ibraz edildiğinde ayrıca defterdeki kayıtlara dayanak belgelerin ibrazına gerek yoktur.",
+  "Answer": "B) Defter kayıtlarının dayandırıldığı belgeler de ibraz edilmelidir."
+ },
+ {
+  "Question": "Kıymetli evraktaki bir taahhüdün geçersizliğine ilişkin aşağıdaki defilerden hangisi mutlak defi olarak kabul edilmez?",
+  "A": "A) İmzanın fiziki bir baskı ve doğrudan cebirle attırılmış olması",
+  "B": "B) İmza sahteliği",
+  "C": "C) Temsil yetkisinin var olmaması",
+  "D": "D) İmzanın hileyle attırılmış olması",
+  "E": "E) İmza edenin ehliyetsizliği",
+  "Image": 1,
+  "Explaination": "Kıymetli evrakta mutlak defiler şöyle sıralanabilir. Senet metninden anlaşılan def'iler ile imza atanın ehliyetsizliği, imzanın sahteliği, imzanın cebirle attırılması, temsil yetkisinin bulunmamasıdır.",
+  "Answer": "D) İmzanın hileyle attırılmış olması"
+ },
+ {
+  "Question": "Anonim ortaklıklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Sadece nakdi sermaye ile kurulabilirler.",
+  "B": "B) Halka açık olmak zorunda değildirler",
+  "C": "C) Sermayeleri belirli vepaylara bölünmüştür.",
+  "D": "D) Çoğunluk ilkesi geçerlidir.",
+  "E": "E) Her türlü iktisadi amaç için kurulabilirler. ",
+  "Image": 1,
+  "Explaination": "Anonim şirketlere sermaye olarak likit değeri olan her şey sermaye olarak getirilebilir. Maddi mallar veya gayri maddi mallar da sermaye olarak getirilebilir.",
+  "Answer": "A) Sadece nakdi sermaye ile kurulabilirler."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir kimsenin gerçek kişi taciri sayılması için gerekli şartlardan biri değildir?\n",
+  "A": "A) Ticari işletmenin işletilmesi",
+  "B": "B) Ticari işletmenin kısmen de olsa kendi adına işletilmesi",
+  "C": "C) Ticari işletmenin tacir sayılacak kişinin bizzat kendisi tarafından işletilmesi",
+  "D": "D) Ticari işletmenin gerçek kişi tarafından işletilmesi",
+  "E": "E) Bir ticari işletmenin varlığı",
+  "Image": 1,
+  "Explaination": "6102 sayılı Türk Ticaret Kanunu'na göre bir ticari işletmeyi kısmen dahi kendi adına işleten kişi tacirdir. Bu ticari işletmenin bizzat kendisi tarafından işletilmesi şart değildir. Bu kişinin adına işletilmesi yeterlidir.",
+  "Answer": "C) Ticari işletmenin tacir sayılacak kişinin bizzat kendisi tarafından işletilmesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi vasi olarak atanamaz?",
+  "A": "A) Üzerinde vasilik görevi olanlar",
+  "B": "B) Altmış yaşını doldurmuş olanlar",
+  "C": "C) İlgili vesayet daireleri hakimleri",
+  "D": "D) Dörtten çok çocuğun velisi olanlar",
+  "E": "E) Bedensel özürleri veya sürekli hastalıkları sebebiyle bu görevi güçlükle yapabilecek olanlar ",
+  "Image": 1,
+  "Explaination": "Türk Medeni Kanunu'na göre ilgili vesayet daireleri hakimleri vasi olarak atanamazlar.",
+  "Answer": "C) İlgili vesayet daireleri hakimleri"
+ },
+ {
+  "Question": "Anonim Ortaklıkların nominal değerden yüksek bedelle çıkardıkları paylara ne ad verilir?",
+  "A": "A) Artık pay",
+  "B": "B) Agiolu pay",
+  "C": "C) Munzam pay",
+  "D": "D) Ekstralı pay",
+  "E": "E) Pay kuponu",
+  "Image": 1,
+  "Explaination": "Nominal değerden yüksek bedelle çıkarılan paylara agiolu pay denir.",
+  "Answer": "B) Agiolu pay"
+ },
+ {
+  "Question": "Halka açık anonim ortaklıklarla ilgili aşağıdaki ifadelerden hangisi",
+  "A": "A) Sermaye artırımında kural olarak Sermaye Piyasası Kanununa tabidirler.",
+  "B": "B) Kayıtlı sermaye sistemini benimseyebilirler",
+  "C": "C) Hisse senetlerimin en az %10'unun kurucular tarafından taahhüt edilmesi gerekir",
+  "D": "D) Sanayi ve Ticaret Bakanlığı'nın izni ile kurulurlar",
+  "E": "E) Sadece ani kuruluş usulü ile kurulurlar. ",
+  "Image": 1,
+  "Explaination": " Bu zorunluluk yeni Türk Ticaret Kanunu ile kalkmıştır.",
+  "Answer": "C) Hisse senetlerimin en az %10'unun kurucular tarafından taahhüt edilmesi gerekir."
+ },
+ {
+  "Question": "Komandit Ortaklığın ortağı olan komanditer ortaklarla ilgili aşağıdaki ifadelerden hangisi",
+  "A": "A) Sorumluluğu sınırlıdır.",
+  "B": "B) Rekabet yasağına tabi değildir",
+  "C": "C) Tüzel kişi olabilir.",
+  "D": "D) Denetim hakkına sahiptir",
+  "E": "E) İtiraz hakkına sahiptir.",
+  "Image": 1,
+  "Explaination": "Komanditer ortak sınırlı sorumlu olup, yönetim hakkı ve itiraz hakkı yoktur.",
+  "Answer": "E) İtiraz hakkına sahiptir."
+ },
+ {
+  "Question": "Ehliyet ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Henüz ergin olmamış bir kişiye karşı dava açılamaz",
+  "B": "B) B) Hak ehliyeti haklara ve borçlara sahip olabilme ehliyetidir.",
+  "C": "C) Her insanın hak ehliyeti vardır.",
+  "D": "D) Vasiyetname yapabilmek için 15 yaşını doldurmak gerekir.",
+  "E": "E) Vasi olarak atanabilmek için 18 yaşını doldurmak gerekir.",
+  "Image": 1,
+  "Explaination": "Bir kişiye dava açılabilmesi için o kişinin hak ehliyetine sahip olması gerekmektedir. Buna taraf ehliyeti denir.",
+  "Answer": "A) Henüz ergin olmamış bir kişiye karşı dava açılamaz"
+ },
+ {
+  "Question": "Sınırlı ehliyetsiz aşağıdaki işlemlerden hangisini kendi başına yapamaz?",
+  "A": "A) Ayıp ihbarı",
+  "B": "B) Bağışlanan sıfatıyla yer aldığı bağışlama sözleşmesi",
+  "C": "C) Ad değişikliği",
+  "D": "D) Başkaları için doğrudan temsilci olma",
+  "E": "E) Nişanlanma",
+  "Image": 1,
+  "Explaination": "Sınırlı ehliyetsiz, küçükler ve kısıtlılardır. Bu kişiler şahsi haklarını tek başlarına kullanabilir, bağışlanan sıfatıyla bağı kabul edebilirken, tek başına nişanlanamazlar.",
+  "Answer": "E) Nişanlanma"
+ },
+ {
+  "Question": "Vesayet dairelerinde görevli olanların hukuka aykırı davranışlarından kim sorumludur?",
+  "A": "A) Vasi",
+  "B": "B) Devlet",
+  "C": "C) Sulh hukuk mahkemesi hakimi",
+  "D": "D) Kayyum",
+  "E": "E) Asliye hukuk mahkemesi hakimi",
+  "Image": 1,
+  "Explaination": "Vesayet daireleri Asliye Hukuk Mahkemesi'dir. Bu mahkemelerin hukuka aykırı davranışlarından devlet sorumludur.",
+  "Answer": "B) Devlet"
+ },
+ {
+  "Question": "Gaiplik ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Gaiplik kararı için savcı mahkemeye başvurmaya yetkilidir.",
+  "B": "B) Gaiplik kararı evliliğe kendiliğinden son veremez",
+  "C": "C) Gaiplik kararıile gaibin terekesi mirasçılarına geçer.",
+  "D": "D) Ölüm tehlikesi içinde kaybolma sebebiyle gaiplik ğ kararı almak için ölüm tehlikesinden itibaren 1 yıl 3 geçtikten sonra başvurulur.",
+  "E": "E) Gaip kişinin hayatta mı ölü mü olduğu kuşkuludur. ",
+  "Image": 1,
+  "Explaination": "Kişinin hayati tehlike dışında kaybolması haline gaiplik denir. Kişinin gaiplik kararı için mahkemeye savcının başvurma yetkisi yoktur.",
+  "Answer": "A) Gaiplik kararı için savcı mahkemeye başvurmaya yetkilidir"
+ },
+ {
+  "Question": "Kanunda öngörülen koşullarla bir zamanın geçmesi ile mülkiyet hakkının kazanılması ne şekilde ifade edilir?",
+  "A": "A) İşgal",
+  "B": "B) Cüzzihalefiyet",
+  "C": "C) Kazandırıcı zamanaşımı",
+  "D": "D) Külli halefiyet",
+  "E": "E) Hakkın hak düşürücü süreye tabi olması ",
+  "Image": 1,
+  "Explaination": "Türk Medeni Kanunu hükümleri uyarınca zamanaşımı ile mülkiyetin kazanılmasına kazandırıcı zamanaşımı denir. İkiye ayrılır, olağan ve olağanüstü zamanaşımıdır.",
+  "Answer": "C) Kazandırıcı zamanaşımı"
+ }
+]
