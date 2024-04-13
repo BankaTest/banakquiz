@@ -1,0 +1,220 @@
+[
+ {
+  "Question": "Gelecekteki bir tarihte ve bir oranda taahhüt edilen iki para biriminin değişimini öngören bir\nkur riski önleme yöntemi aşağıdakilerden hangisidir?",
+  "A": "A) Option vadesi",
+  "B": "B) Vadeli Karşılık",
+  "C": "C) Faktöring İşlemleri",
+  "D": "D) Swap",
+  "E": "E) Arz Edilen Dövizin Borçlanılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Vadeli Karşılık"
+ },
+ {
+  "Question": "Savaş iç savaş ihtilal grev halk hareketleri ve ya ithalatçının sevk ettiği mal bedelinin hükümetçe gönderilmesinin engellenmesi aşağıdaki risklerden hangisine aittir?",
+  "A": "A) Satıcı Riski",
+  "B": "B) Alıcı Riski",
+  "C": "C) Taşıma Riski",
+  "D": "D) Kur Riski",
+  "E": "E) Ülke Riski",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Ülke Riski"
+ },
+ {
+  "Question": "Bir ihracat işleminde Gümrük Beyannamesi kapatılmadan önce yapılan işlemler arasında aşağıdakilerden hangisi yer almaz?",
+  "A": "A) Taşıyacak aracın kalkış tarihinin\ngümrük tarafından beyannameye\nyazılması",
+  "B": "B) Malın muayenesinin yapılması",
+  "C": "C) Malın yüklenip mühürlenmesi",
+  "D": "D) Beyannamesinin tescil edilmesi",
+  "E": "E) Gümrük Beyannamesinin\ndoldurulması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Taşıyacak aracın kalkış tarihinin\ngümrük tarafından beyannameye\nyazılması"
+ },
+ {
+  "Question": "İhracat işleminin akreditişi yapılması durumunda kaç farklı şekil ortaya çıkar?",
+  "A": "A) 2",
+  "B": "B) 3",
+  "C": "C) 4",
+  "D": "D) 5",
+  "E": "E) 6",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 2"
+ },
+ {
+  "Question": "Kabul kredili ödeme yöntemiyle yapılan ithalat işlemlerinde kaç farklı şekil vardır?",
+  "A": "A) 2",
+  "B": "B) 3",
+  "C": "C) 4",
+  "D": "D) 5",
+  "E": "E) 6",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 2"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ihracat işlemlerinde yaptırım uygulanmasını gerektiren sebepler arasında yer almaz?",
+  "A": "A) İhracat bedeli olarak getirilen dövizi TC Merkez Bankasına devretmemek",
+  "B": "B) İhracat mevzuatı çerçevesinde\nistenilecek bilgi ve belgeleri vermekten\nkaçınmak",
+  "C": "C) Alıcılarına karşı taahhütlerini haksız\nolarak yerine getirmemek",
+  "D": "D) İhracat işlemleri dolayısıyla gerçeğe\naykırı beyanname doldurmak",
+  "E": "E) İhracatla ilgili belgelerde tahrifat\nyapmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İhracat bedeli olarak getirilen dövizi TC Merkez Bankasına devretmemek"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir ülkedeki yerli üreticilerin ürettiği ürünlerin ithalinde ani bir artışın gerçekleştiğinin iddia edildiği ürün ya da ürünlerin benzer veya birbirine doğrudan rakip ürünler olup olmadığının belirlenmesinde dikkate alınacak unsurlardan biri değildir?",
+  "A": "A) Fiziksel özellikleri ve son kullanım\nyerleri",
+  "B": "B) Dağıtım kanalları",
+  "C": "C) Birbirlerinin yerine ikame\nedilebilirliği",
+  "D": "D) Kullanıcı tercihleri",
+  "E": "E) Üretim metodları benzerlik gösterme\ndurumu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kullanıcı tercihleri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ihracat sonrası işlemler arasında yer almaz?",
+  "A": "A) Gümrük beyannamesinin ihracatçı\nbirliği onayı",
+  "B": "B) Vesaik İskontosu",
+  "C": "C) Katma Değer Vergisi iadesi\nmüracaatı",
+  "D": "D) İhracat bedelinin getirilmesi ve\ntaahhüdün kapatılması",
+  "E": "E) Kredilerin ödenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Gümrük beyannamesinin ihracatçı\nbirliği onayı"
+ },
+ {
+  "Question": "İthalatçının tek sorumluluğunun malın bedelini ihracatçıya ödemek ve belirlenen malı teslim almak olduğu teslim şekli aşağıdakilerden hangisidir?",
+  "A": "A) DDP",
+  "B": "B) CIF",
+  "C": "C) EXM",
+  "D": "D) CIP",
+  "E": "E) FOB",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) DDP"
+ },
+ {
+  "Question": "Alıcının ülkesinde adı belirtilen varış noktasına kadar navlun ödenmiş olarak teslim şeklini ifade eden kısaltma aşağıdakilerden hangisidir?",
+  "A": "A) CFR",
+  "B": "B) CIF",
+  "C": "C) CIP",
+  "D": "D) DEQ",
+  "E": "E) CPT",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) CPT"
+ },
+ {
+  "Question": "Koruma önleminin süresi üçüncü fıkra çerçevesinde uzatılmadıkça geçici önlemler de dahil olmak üzere kaç yılı aşamaz?",
+  "A": "A) 2",
+  "B": "B) 3",
+  "C": "C) 4",
+  "D": "D) 5",
+  "E": "E) 6",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 4"
+ },
+ {
+  "Question": "Çoğunlukla çok uluslu firmaların ucuz emek ve hammaddelerden yararlanmak için yatırım yaptıkları bölgelere ne ad verilir?",
+  "A": "A) Yatırım bölgeleri",
+  "B": "B) Serbest Ticaret Bölgesi",
+  "C": "C) Endüstriyel Serbest Bölgesi",
+  "D": "D) Maquiladora",
+  "E": "E) Serbest çevre",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Endüstriyel Serbest Bölgesi"
+ },
+ {
+  "Question": "Gümrük beyannamesinin fiili ihracattan önce ihracatçı birliklerince kayda alındığı ihracat şekli aşağıdakilerden hangisidir?",
+  "A": "A) Bedelsiz ihracat",
+  "B": "B) Konsinye İhracat",
+  "C": "C) Kayda bağlı ihracat",
+  "D": "D) Kredili ihracat",
+  "E": "E) Transit ticaret",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kayda bağlı ihracat"
+ },
+ {
+  "Question": "Serbest bölgeler kurulurken en yüksek verimin sağlanabilmesi için kurulacak yerin seçilmesinde aşağıdakilerden hangisi önem taşımaktadır?",
+  "A": "A) Deniz su yolu gibi bölgesel\nözelliklerin olup olmaması",
+  "B": "B) Ulaşım imkanları",
+  "C": "C) Ülkenin dışa kapalı bir ekonomisinin\nolmaması",
+  "D": "D) Verilecek rasyonel karar",
+  "E": "E) Yasal düzenlemelerin uygunluğu",
+  "Answer": "D) Verilecek rasyonel karar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi işlev ve anlam olarak işaret ettiği tanım serbest bölge olmakla birlikte yerine kullanılan terimlerden biri değildir?",
+  "A": "A) Serbest Bölge (Free Zone)",
+  "B": "B) Takas bölgesi (Barter zone)",
+  "C": "C) Vergisiz Ticaret Bölgesi (Tax Free\nTrade Zone)",
+  "D": "D) Serbest Ekonomik Bölge (Free\nEconomic Zone)",
+  "E": "E) Endüstriyel Serbest Bölge (Industrial\nFree Zone)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Takas bölgesi (Barter zone)"
+ },
+ {
+  "Question": "Gerektiğinde ihracatı müsaadeye veya kayda bağlamaya ihracatta miktar kısıtlaması\nuygulamaya yetkili merci aşağıdakilerden hangisidir?",
+  "A": "A) Başbakanlık",
+  "B": "B) Maliye Bakanlığı",
+  "C": "C) Dış Ticaret Müsteşarlığı",
+  "D": "D) Dış Ticaret Müsteşarlığının bağlı\nolduğu bakanlık",
+  "E": "E) Merkez Bankası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Dış Ticaret Müsteşarlığının bağlı\nolduğu bakanlık"
+ },
+ {
+  "Question": "FAS teslim şekli aşağıdakilerden hangisini ifade etmektedir?",
+  "A": "A) Gemi bordosunda teslim",
+  "B": "B) Taşıyıcıya teslim",
+  "C": "C) Güvertede teslim",
+  "D": "D) Mal bedeli ve navlun",
+  "E": "E) Taşıma ücreti ödenmiş olarak teslim",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Gemi bordosunda teslim"
+ },
+ {
+  "Question": "Tüm üye ülkeler tarafından 1 Temmuz 1968 tarihinden itibaren AB üçüncü ülkelerden gerçekleştirdiği ithalata aşağıdakilerden hangisini uygulamaktadır?",
+  "A": "A) Ortak Gümrük Tarifesi",
+  "B": "B) Ortak Ticaret Politikası",
+  "C": "C) Gümrük Birliği Anlaşması",
+  "D": "D) Serbest Ticaret Anlaşması",
+  "E": "E) Gümrük Vergilerinde Uyumlaştırma\nAnlaşması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Ortak Gümrük Tarifesi"
+ },
+ {
+  "Question": "İthal şahadetnameleri taşıdıkları tarihten itibaren kaç ay süre ile geçerlidirler?",
+  "A": "A) 1",
+  "B": "B) 2",
+  "C": "C) 3",
+  "D": "D) 4",
+  "E": "E) 5",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 3"
+ },
+ {
+  "Question": "İbrazında ödemeli akreditişi ihracat işleminde akreditif teyitli ise banka ödemeyi ne zaman yapar?",
+  "A": "A) Malın gümrük işlemleri bittikten sonra",
+  "B": "B) Amir bankanın kendisini\nalacaklandırmasından sonra",
+  "C": "C) Akreditifte belirtilen vade dolduktan\nsonra",
+  "D": "D) Küşat mektubu düzenlendikten\nsonra",
+  "E": "E) Akreditif Şartlarında istenen belgeler\nbankaya verildikten sonra",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Akreditif Şartlarında istenen belgeler\nbankaya verildikten sonra"
+ }
+]

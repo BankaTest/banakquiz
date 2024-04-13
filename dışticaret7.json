@@ -1,0 +1,220 @@
+[
+ {
+  "Question": "Uluslararası Ticaret işlemlerinde kullanılan belgeler kaç gruba ayrılır?",
+  "A": "A) 2",
+  "B": "B) 3",
+  "C": "C) 4",
+  "D": "D) 5",
+  "E": "E) 6",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 4"
+ },
+ {
+  "Question": "Ticari kiralama yoluyla yapılacak ihracatta kira süresi sonunu izleyen kaç ay içinde malın ya da karşılığı dövizin yurda getirilmesi zorunludur?",
+  "A": "A) 1",
+  "B": "B) 2",
+  "C": "C) 3",
+  "D": "D) 6",
+  "E": "E) 12",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 1"
+ },
+ {
+  "Question": "Gümrük Beyannamesinin düzenlenmesine esas teşkil eden faturada yazılı olan değer ve miktar, gümrükçe tespit ve kabul edilen değer ve miktardan eksik veya fazla ise, bu işlemler aşağıdakilerden hangisince sonuçlandırılır?",
+  "A": "A) ithalat Genel Müdürlüğünce",
+  "B": "B) Merkez Bankasınca",
+  "C": "C) Gümrük idaresince",
+  "D": "D) Kambiyo Müdürlüğünce",
+  "E": "E) Dış Ticaret Müsteşarlığınca",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Gümrük idaresince"
+ },
+ {
+  "Question": "Aşağıdaki illerden hangisi 3218 Sayılı Serbest Bölgeler Kanunun 15.06.1985’te yürürlüğe girdikten sonra açılan ilk serbest bölgelerden biridir?",
+  "A": "A) İstanbul",
+  "B": "B) Trabzon",
+  "C": "C) Antalya",
+  "D": "D) Kayseri",
+  "E": "E) Mardin",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Antalya"
+ },
+ {
+  "Question": "Türkiye’de ithalatta haksız rekabetin önlenmesi amacıyla aşağıdaki kanunlardan hangisi yürürlüğe konmuştur?",
+  "A": "A) Yabancı Sermaye Kanunu",
+  "B": "B) Haksız Rekabetin Önlenmesi Hakkında Kanun",
+  "C": "C) Gümrük Kanunu",
+  "D": "D) Ortak Tarife Kanunu",
+  "E": "E) Kaçakçılıkla Mücadele Kanunu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Haksız Rekabetin Önlenmesi Hakkında Kanun"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi devletin ihracatı özendirmek için kullandığı müdahale araçlarından biri değildir?",
+  "A": "A) ihracatçılara dolaysız prim ödemesi",
+  "B": "B) Vergi iadesi alınması",
+  "C": "C) ihraç kesimine düşük faizli kredi sağlanması",
+  "D": "D) ihraç kesimine ucuz girdi sağlanması",
+  "E": "E) ihracat vergisi uygulaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) ihracat vergisi uygulaması"
+ },
+ {
+  "Question": "Bir ülkenin ürettiği malını yerel piyasa fiyatının altında belirlediği fiyattan satarak ya da ulusal piyasada satamayacağı malı yerel fiyatın altında yabancı ülkeye\nsatmasına uluslararası piyasada ne ad verilir?",
+  "A": "A) Arbitraj",
+  "B": "B) Sübvansiyon",
+  "C": "C) Devalüasyon",
+  "D": "D) Konkordato",
+  "E": "E) Damping",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Damping"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ithalatta kesin koruma önlemlerinden biri değildir?",
+  "A": "A) Miktar ve değer kısıtlaması",
+  "B": "B) Tarife kontenjanı uygulaması",
+  "C": "C) Gümrük vergisinde artış yapılması",
+  "D": "D) ihracatın gözetime tabi tutulması",
+  "E": "E) Ek mali mükellefiyet getirilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) ihracatın gözetime tabi tutulması"
+ },
+ {
+  "Question": "Satıcı ile alıcı arasında yapılacak bir anlaşma ile ithal edilecek mal bedelinin ödenmesinin, malın gönderilmesinden belli bir süre sonraya bırakıldığı ödeme yöntemi aşağıdakilerden hangisidir?",
+  "A": "A) Akreditifli",
+  "B": "B) Kabul kredisi",
+  "C": "C) Peşin",
+  "D": "D) Konsinye",
+  "E": "E) Vesaik mukabili",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kabul kredisi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi dış ticarette mal bedellerinin ödeme şekilleri arasında yer almaz?",
+  "A": "A) Mal mukabili ödeme",
+  "B": "B) Vesaik mukabili ödeme",
+  "C": "C) Peşin ödeme",
+  "D": "D) Dampingli ödeme",
+  "E": "E) Akreditifli ödeme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Dampingli ödeme"
+ },
+ {
+  "Question": "Yabancı alıcının aldığı malın finansmanı için kredi temin etme zorunluluğundan kurtulduğu ve malı sattıktan sonra ödeme yaptığı ödeme yöntemi aşağıdakilerden\nhangisidir?",
+  "A": "A) Akreditifli",
+  "B": "B) Mal mukabili",
+  "C": "C) Konsinye",
+  "D": "D) Peşin",
+  "E": "E) Vesaik mukabili",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Mal mukabili"
+ },
+ {
+  "Question": "Alıcı ve satıcıya yüksek düzeyde güvence sağlayan ödeme yöntemi aşağıdakilerden hangisidir?",
+  "A": "A) Peşin ödeme",
+  "B": "B) Vesaik Mukabili",
+  "C": "C) Akreditifli",
+  "D": "D) Kabul kredili",
+  "E": "E) Mal Mukabili",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Akreditifli"
+ },
+ {
+  "Question": "İhracat sürecinin hazırlık aşamasında potansiyel müşterinin bulunması sonrası hazırlık aşamasının en son işlemi aşağıdakilerden hangisidir?",
+  "A": "A) Teklif aşaması ve proforma fatura işlemlerinin\ngerçekleştirilmesi",
+  "B": "B) Gümrük beyannamesinin hazırlanması",
+  "C": "C) ihracatçı birliğine kayıt olunması",
+  "D": "D) Vesaik hazırlığı yapılması",
+  "E": "E) Gümrük işlemlerinin yapılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Teklif aşaması ve proforma fatura işlemlerinin\ngerçekleştirilmesi"
+ },
+ {
+  "Question": "İhracat yapan firma, ihracat beyannamesi ile birlikte FOB değer üzerinden nispi aidatı aşağıdakilerden hangisine yatırdıktan sonra gümrüğe başvurur?",
+  "A": "A) ihracatçılar Birliği",
+  "B": "B) Milletlerarası Ticaret Odası",
+  "C": "C) Gözetim Şirketi",
+  "D": "D) Ticaret Odası",
+  "E": "E) Gümrük Müdürlüğü",
+  "Answer": "A) ihracatçılar Birliği"
+ },
+ {
+  "Question": "İhracat şekli vadeli akreditif ve akreditif şartlarındaki belgeler bankaya verildikten sonra ödeme aşağıdaki aşamaların hangisinde gerçekleşir?",
+  "A": "A) Amir bankanın kendisini alacalandırmasından\nsonra ödeme gerçekleşir",
+  "B": "B) Banka firmaya malın bedelini hemen öder",
+  "C": "C) Mal satıcının işyerinde teslim alındığında\nödeme gerçekleşir",
+  "D": "D) Mal gümrükten çıkmadan önce ödeme\ngerçekleşir",
+  "E": "E) Akreditifte belirtilmiş vadeye göre ödeme\ngerçekleşir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Akreditifte belirtilmiş vadeye göre ödeme\ngerçekleşir"
+ },
+ {
+  "Question": "İbrazında ödemeli akreditifli ihracat işleminde akreditif teyitli ise, bankanın ödemeyi yaptığı aşama aşağıdakilerden hangisidir?",
+  "A": "A) Malın gümrük işlemleri bittikten sonra",
+  "B": "B) Amir bankanın kendisini alacalandırmasından\nsonra",
+  "C": "C) Küşat mektubu düzenlendikten sonra",
+  "D": "D) Akreditif şartlarında istenen belgeler bankaya\nverildikten sonra",
+  "E": "E) Nakliyeci, ihracatçıya konşimento verdikten\nsonra",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Akreditif şartlarında istenen belgeler bankaya\nverildikten sonra"
+ },
+ {
+  "Question": "Aşağıdaki işlemlerden hangisi ithalat işlemi aşamasında yapılan çalışmalardan biri değildir?",
+  "A": "A) ithalat ile ilgili bilgilerin edinilmesi",
+  "B": "B) Mal bedelinin ödenmesi ve taahhüt kapama\nişleminin gerçekleştirilmesi",
+  "C": "C) Gümrük işlemleri yapılması",
+  "D": "D) ithalatçı sıfatının kazanılması",
+  "E": "E) Vesaik hazırlığı yapılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) ithalat ile ilgili bilgilerin edinilmesi"
+ },
+ {
+  "Question": "İthalatçı bir firma açısından çoğu zaman akreditif açtırma aracı olan belge aşağıdakilerden hangisidir?",
+  "A": "A) Ticari fatura",
+  "B": "B) Konşimento",
+  "C": "C) Gümrük beyannamesi",
+  "D": "D) Proforma fatura",
+  "E": "E) Konsolosluk faturası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Proforma fatura"
+ },
+ {
+  "Question": "Mal gümrüğe geldikten sonra, ithalatçı firma liman gümrüklerinden kaç gün içinde malını gümrükten çekmek durumundadır?",
+  "A": "A) 7",
+  "B": "B) 10",
+  "C": "C) 20",
+  "D": "D) 35",
+  "E": "E) 45",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) 45"
+ },
+ {
+  "Question": "ithalatçı ihracatçının proforma faturasını alıp, talimatıyla ihracatçı firmaya döviz transferini gerçekleştirdiği ödeme\nyöntemi aşağıdakilerden hangisidir?",
+  "A": "A) Mal mukabili",
+  "B": "B) Peşin",
+  "C": "C) Vadeli",
+  "D": "D) Akreditifli",
+  "E": "E) Vesaik mukabili",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Peşin"
+ }
+]

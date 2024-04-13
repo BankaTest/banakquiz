@@ -1,0 +1,220 @@
+[
+ {
+  "Question": "İthalat işlemlerinde sözleşmeninyapılması ve garantinin kontrolü ithalatta iş akışının yapıldığı aşama aşağıdakilerden hangisidir?",
+  "A": "A) Teklif aşaması",
+  "B": "B) Kur riskinin önlenmesi",
+  "C": "C) ihracatın finansmanı",
+  "D": "D) Müşteri temini",
+  "E": "C) Alıcının iflas etmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Alıcının iflas etmesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ülke riskleri arasında yer almaz?",
+  "A": "A)  ihtilal",
+  "B": "B) iç savaş",
+  "C": "C) Alıcının iflas etmesi",
+  "D": "D) Grev",
+  "E": "E) Halk hareketleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Alıcının iflas etmesi"
+ },
+ {
+  "Question": "Belirli ve önceden tespit edilmiş bir zaman içerisinde mal ve hizmetlerin ticari amaçla sergilendiği, satıcılarla potansiyel alıcıların karşı karşıya geldikleri fiziksel mekânlara ne ad verilir?",
+  "A": "A) internet",
+  "B": "B) Alışveriş merkezi",
+  "C": "C) Fabrika",
+  "D": "D) Fuar",
+  "E": "E) Gösteri merkezi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Fuar"
+ },
+ {
+  "Question": "Kesin satışı daha sonra yapılmak üzere dış alıcılara, komisyonculara, ihracatçının yurt dışındaki şube veya temsilcilerine mal gönderilmesini ifade eden kavram aşağıdakilerden hangisidir?",
+  "A": "A) Bağlı muamele",
+  "B": "B) Konsinye ihracat",
+  "C": "C) Ticari kiralama",
+  "D": "D) Kayda bağlı ihracat",
+  "E": "E) Dolaylı offset",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Konsinye ihracat"
+ },
+ {
+  "Question": "Ticari kiralama yoluyla yapılacak ihracat sözleşmesinde aşağıdaki bilgilerin hangisi gerekli değildir?",
+  "A": "A) Kiralama Süres",
+  "B": "B) Malın Miktarı",
+  "C": "C) Teslim Yeri",
+  "D": "D) Aracı Banka ve Şubesi",
+  "E": "E) Malın Cinsi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Aracı Banka ve Şubesi"
+ },
+ {
+  "Question": "Ülke ekonomisinin ihtiyaçları, iç ve dış piyasa arz ve talep koşulları gibi hususlar göz önünde tutularak. Dış Ticaret Müsteşarlığınca verilen ihraç izni aşağıdakilerden hangisidir?",
+  "A": "A) Kayda Bağlı ihracat",
+  "B": "B) Serbest ihraç",
+  "C": "C) Fiili ihracat",
+  "D": "D) ihracat Müsaadesi",
+  "E": "E) Konsinye ihracat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) ihracat Müsaadesi"
+ },
+ {
+  "Question": "Aşağıdaki ithalat türlerinden hangisinde Türkiye’den resmi bir döviz transferi söz konusu değildir?",
+  "A": "A) Özelliği olan ithalat",
+  "B": "B) Libere ithalat",
+  "C": "C) Bedelsiz ithalat",
+  "D": "D) Kesin ithalat",
+  "E": "E) Özel anlaşmalara dayanan ithalat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Bedelsiz ithalat"
+ },
+ {
+  "Question": "Gümrük Beyannamesinin düzenlenmesine esas teşkil eden faturada yazılı olan değer ve miktar, gümrükçe tespit ve kabul edilen değer ve miktardan eksik veya fazla ise, bu işlemler aşağıdakilerden hangisince sonuçlandırılır?",
+  "A": "A) Merkez Bankasınca",
+  "B": "B) Kambiyo Müdürlüğünce",
+  "C": "C) Gümrük idaresince",
+  "D": "D) ithalat Genel Müdürlüğünce",
+  "E": "E) Dış Ticaret Müsteşarlığınca",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Gümrük idaresince"
+ },
+ {
+  "Question": "Sınır ticareti yapılacak iller ve gümrük kapılarının ticarete açılması ve kapatılması kararı verilirken komisyonda aşağıdaki kuruluşlardan hangisinin temsilcisi yer almaz?",
+  "A": "A) Gümrük Müsteşarlığı",
+  "B": "B) içişleri Bakanlığı",
+  "C": "C) Milli Savunma Bakanlığı",
+  "D": "D) Ticaret Bakanlığı",
+  "E": "E) Merkez Bankası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Merkez Bankası"
+ },
+ {
+  "Question": "Bir ülkenin siyasi sınırları içerisinde yer alan, sınai veya ticari olarak gerçekleşen faaliyetlere devlet müdahalesinin en az olduğu yerler aşağıdakilerden hangisidir?",
+  "A": "A) Gümrük",
+  "B": "B) Liman",
+  "C": "C) Sınır",
+  "D": "D) Kıyı",
+  "E": "E) Serbest bölge",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Serbest bölge"
+ },
+ {
+  "Question": "Serbest bölgelerde faaliyette bulunmak için aşağıdaki kurumlardan hangisine başvurmak gerekir?",
+  "A": "A) Serbest Bölgeler Genel Müdürlüğü",
+  "B": "B) Devlet Planlama Teşkilatı",
+  "C": "C) Dış Ticaret Müsteşarlığı",
+  "D": "D) Gümrükler Genel Müdürlüğü",
+  "E": "E) Ekonomik işler Yüksek Koordinasyon Kurulu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Serbest Bölgeler Genel Müdürlüğü"
+ },
+ {
+  "Question": "Türkiye’de ithalatta haksız rekabetin önlenmesi amacıyla aşağıdaki kanunlardan hangisi yürürlüğe konmuştur?",
+  "A": "A)  Haksız Rekabetin Önlenmesi Hakkında Kanun",
+  "B": "B) Gümrük Kanunu",
+  "C": "C) Kaçakçılıkla Mücadele Kanunu",
+  "D": "D) Yabancı Sermaye Kanunu",
+  "E": "E) Ortak Tarife Kanunu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)  Haksız Rekabetin Önlenmesi Hakkında Kanun"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi geçici korunma önlemleri arasındadır?",
+  "A": "A) Gümrük vergisinde artış yapılması",
+  "B": "B) ithalatın yasaklanması",
+  "C": "C) Ek mali mükellefiyet getirilmesi",
+  "D": "D) Tarife kontenjanı uygulaması",
+  "E": "E) Miktar\/değer kısıtlaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) ithalatın yasaklanması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ihraç edilen ürün ile ihracatçı ülkenin iç piyasasında satılan ürünün benzer olup olmadığına karar verilirken dikkate alman unsurlar arasında yer almaz?",
+  "A": "A) Ürün çeşitliliği, homojen, heterojen yapı",
+  "B": "B) Temel özellikler",
+  "C": "C) ihraç fiyatı",
+  "D": "D) Kullanım alanları",
+  "E": "E) Dağıtım kanalları",
+  "Answer": "C) ihraç fiyatı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi özelliği olan akreditiflerden biridir?",
+  "A": "A) Rotatif Akreditif",
+  "B": "B) Teyitsiz Akreditif",
+  "C": "C) Kabili Rücu Akreditif",
+  "D": "D) Teyitli Akreditif",
+  "E": "E) Gayri Kabili Rücu Akreditif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Rotatif Akreditif"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi transit ticarette sıkça kullanılan akreditif türlerinden biridir?",
+  "A": "A) Karşılıklı",
+  "B": "B) Orijinal",
+  "C": "C) Çifte",
+  "D": "D) Devredilebilir",
+  "E": "E) Devredilemez",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Karşılıklı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi dış ticarette mal bedellerinin ödeme şekilleri arasında yer almaz?",
+  "A": "A) Mal mukabili ödem",
+  "B": "B) Dampingli ödeme",
+  "C": "C) Akreditifli ödeme",
+  "D": "D) Peşin ödeme",
+  "E": "E) Vesaik mukabili ödeme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Dampingli ödeme"
+ },
+ {
+  "Question": "Satıcının malın sigortasını yaptırmak zorunda olduğu satış şeklinin kısaltması aşağıdakilerden hangisidir?",
+  "A": "A) FAS",
+  "B": "B) CİF",
+  "C": "C) FOB",
+  "D": "D) EXW",
+  "E": "E) FCA",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) CİF"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ithalata ilişkin gümrük vergileri arasındadır?",
+  "A": "A) Gümrük Vergisi",
+  "B": "B) Özel Tüketim Vergisi",
+  "C": "C) Damga Vergisi",
+  "D": "D) Veraset ve intikal Vergisi",
+  "E": "E) Katma Değer Vergisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Veraset ve intikal Vergisi"
+ },
+ {
+  "Question": "İthalat işlemlerinde aşağıdaki ödeme yöntemlerinin hangisinde ihracatçı firmaya yapılacak ödeme, ihracatçı ürünü göndermeden önce gerçekleştirilmelidir?",
+  "A": "A) Akreditifli ödeme",
+  "B": "B) Kabul kredili ödeme",
+  "C": "C) Vesaik mukabili ödeme",
+  "D": "D) Mal mukabili ödeme",
+  "E": "E) Peşin ödeme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Peşin ödeme"
+ }
+]

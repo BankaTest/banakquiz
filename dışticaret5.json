@@ -1,0 +1,220 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi FAS teslim şeklinin açılımını ifade eder?",
+  "A": "A) Belirlenen yerde teslim",
+  "B": "B) Terminalde teslim",
+  "C": "C) Taşıyıcıya teslim",
+  "D": "D) Gemi yanında teslim",
+  "E": "E) Güvertede teslim",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Gemi yanında teslim"
+ },
+ {
+  "Question": "Malların satıcı tarafından kendi kuruluşunda alıma hazır hale getirilmesiyle yükümlülüklerinin sona erdiği teslim şekli aşağıdakilerden hangisidir?",
+  "A": "A) CFR",
+  "B": "B) EXW",
+  "C": "C) DDP",
+  "D": "D) FCA",
+  "E": "E) FAS",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) EXW"
+ },
+ {
+  "Question": "Varış noktasında gümrük vergilerinin ihracatçı tarafından ödendiği yöntem aşağıdakilerden hangisidir?",
+  "A": "A) DDP",
+  "B": "B) FOB",
+  "C": "C) CİP",
+  "D": "D) EXW",
+  "E": "E) CİF",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) DDP"
+ },
+ {
+  "Question": "Alıcının ülkesinde adı belirtilen varış noktasına kadar navlun ödenmiş olarak teslim şeklini ifade eden kısaltma\naşağıdakilerden hangisidir?",
+  "A": "A) DEC",
+  "B": "B) CİP",
+  "C": "C) CİF",
+  "D": "D) CFR",
+  "E": "E) CPT",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) CPT"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ihracat sonrası gerçekleştirilen işlemlerden biri değildir?",
+  "A": "A) Katma değer vergisi iadesi müracaatı",
+  "B": "B) Gümrük beyannamesinin gümrük onayı",
+  "C": "C) ihracat bedelinin getirilmesi ve taahhüdün\nkapatılması",
+  "D": "D) Vesaik iskontosu",
+  "E": "E) Kredilerin ödenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Gümrük beyannamesinin gümrük onayı"
+ },
+ {
+  "Question": "Türkiye dışına satılan malların Türkiye’den geçirilerek ya da geçirilmeksizin üçüncü bir ülkeye satışı suretiyle yapılan ihracat aşağıdakilerden hangisidir?",
+  "A": "A) Bağlı muamele",
+  "B": "B) Konsinye ticaret",
+  "C": "C) Geçici ihracat",
+  "D": "D) Bedelsiz ihracat",
+  "E": "E) Transit ticaret",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Transit ticaret"
+ },
+ {
+  "Question": "Bedelsiz ihracat işlemi durumunda verilen izin süresi kaç yıldır?",
+  "A": "A) 1",
+  "B": "B) 1,5",
+  "C": "C) 2",
+  "D": "D) 2,5",
+  "E": "E) 3",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 1"
+ },
+ {
+  "Question": "Türk Parasının Kıymetini Koruma mevzuatında belirtilen sürelerin aşılarak ihracat bedelinin yurda getirilmesine olanak tanıyan ihracat türü aşağıdakilerden\nhangisidir?",
+  "A": "A) Kredili ihracat",
+  "B": "B) Bağlı muamele",
+  "C": "C) Kayda bağlı ihracat",
+  "D": "D) Bedelsiz ihracat",
+  "E": "E) Fiili ihracat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kredili ihracat"
+ },
+ {
+  "Question": "Konsinye ihracat işleminde, ihracatçının,\nihracatçı birliği tarafından onaylanmış gümrük beyannamesini gümrük idaresine ulaştırması gereken sürede üst sınır kaç gündür ?",
+  "A": "A) 30",
+  "B": "B) 60",
+  "C": "C) 90",
+  "D": "D) 120",
+  "E": "E) 150",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 90"
+ },
+ {
+  "Question": "Sınır ticareti ile gerçekleştirilen ihracat işleminde Dolar karşılığı TL değerini aşmayacak mal gönderme sınırı kaç TL'dir?",
+  "A": "A) 50.000",
+  "B": "B) 60.000",
+  "C": "C) 80.000",
+  "D": "D) 100.000",
+  "E": "E) 120.000",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 50.000"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bedelsiz ithalata yetkili gümrük idarelerinden biridir?",
+  "A": "A) Hakkari Gümrük Müdürlüğü",
+  "B": "B) Hatay Gümrük Müdürlüğü",
+  "C": "C) Kilis Gümrük Müdürlüğü",
+  "D": "D) Gebze Otomotiv ihtisas Gümrük Müdürlüğü",
+  "E": "E) Ağrı Gümrük Müdürlüğü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Gebze Otomotiv ihtisas Gümrük Müdürlüğü"
+ },
+ {
+  "Question": "İthalat yapılması durumunda Türkiye’den resmi bir döviz çıkışının söz konusu olmadığı ithalat türü\naşağıdakilerden hangisidir?",
+  "A": "A) Özeliği olan ithalat",
+  "B": "B) Ticari ithalat",
+  "C": "C) Libere ithalat",
+  "D": "D) Bedelsiz ithalat",
+  "E": "E) izne bağlı ithalat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Bedelsiz ithalat"
+ },
+ {
+  "Question": "Sınır ticareti belgesi vermeye yetkili kurum aşağıdakilerden hangisidir?",
+  "A": "A) Gümrük Bakanlığı",
+  "B": "B) Gümrük Müsteşarlığı",
+  "C": "C) ithalat Genel Müdürlüğü",
+  "D": "D) Dış Ticaret Müsteşarlığı",
+  "E": "E) Valilik",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Valilik"
+ },
+ {
+  "Question": "Bedelsiz ithalatta muafiyet hakkı en az kaç yıl süre ile aynı işte çalışanlara tanınır?",
+  "A": "A) 2",
+  "B": "B) 3",
+  "C": "C) 4",
+  "D": "D) 5",
+  "E": "E) 6",
+  "Answer": "B) 3"
+ },
+ {
+  "Question": "Motorlu veya motorsuz özel kara nakil vasıtalarının ithalat izinleri bu taşıtların fiili ithal tarihinden itibaren kaç yılda bir verilir?",
+  "A": "A) 3",
+  "B": "B) 5",
+  "C": "C) 6",
+  "D": "D) 8",
+  "E": "E) 10",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 5"
+ },
+ {
+  "Question": "Gümrük vergisine konu olup da henüz vergi ve resimleri ödenmemiş ürünlerin korunduğu, gerektiğinde ufak çaplı destekleyici işlemlerin gerçekleştirildiği\ngümrük binalarına yakın olan depoya ne ad verilir?",
+  "A": "A) Konteyner",
+  "B": "B) ikiz fabrika",
+  "C": "C) Limbo",
+  "D": "D) Lash",
+  "E": "E)  Antrepo",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E)  Antrepo"
+ },
+ {
+  "Question": "I. ithalat baskısı yaratma \nII. Yasa dışı faaliyetlerde meydana gelebilecek artış\nIII.Yerli ve yabancı tüm pazarlara erişimde yaşanan zorluklar \nYukarıdakilerden hangileri serbest bölgelerin dezavantajlarıdır?",
+  "A": "A) YalnızI",
+  "B": "B) Yalnızlı",
+  "C": "C) I ve II",
+  "D": "D) I ve III",
+  "E": "E) I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) I ve II"
+ },
+ {
+  "Question": "I. Serbest bölge sınırları içinde ithalat\nve ihracat yapmak uzun bürokratik işlemleri gerektirir.\nII. Mallar ulusal gümrük alanına\ngirmediği sürece gümrük vergisine tabi olmayacaktır.\nIII. Serbest bölge sınırları içinde istenirse mallar süresiz olarak depolarda kalabilir.\nIV. Malları süresiz depolama imkânı gümrük vergilerini asgari düzeyde yüklenmek ve reeksport yapma avantajı sağlar. \nYukarıdakilerden hangileri serbest bölgelerin işlevlerine ilişkin doğru ifadelerdir?",
+  "A": "A) Ive II",
+  "B": "B) III ve IV",
+  "C": "C) I, II ve III",
+  "D": "D) II, III ve IV",
+  "E": "E) I, II, III ve IV",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) II, III ve IV"
+ },
+ {
+  "Question": " I. İdari\n II. Fiziki \nIII. Konum \nIV. Mali\nYukarıdakilerden hangileri serbest bölgelerin kuruldukları yerel ülkenin yasal mevzuatı ve yönetmelikleri gereği\ndenetlenir?",
+  "A": "A) Ive III",
+  "B": "B) II ve IV",
+  "C": "C) I, II ve IV",
+  "D": "D)  II, III ve IV",
+  "E": "E)  I, II, III ve IV",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) I, II ve IV"
+ },
+ {
+  "Question": "Çoğunlukla çok uluslu firmaların ucuz emek ve hammaddelerden yararlanmak için yatırım yaptıkları, aynı zamanda ihraç mallarının işleme alanı olan ihracat işlem\nbölgelerine ne ad verilir?",
+  "A": "A) Serbest limanlar",
+  "B": "B) Açık serbest bölgeler",
+  "C": "C) Serbest üretim bölgeleri",
+  "D": "D) Kapalı serbest bölgeler",
+  "E": "E) Yatırım bölgeleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Serbest üretim bölgeleri"
+ }
+]

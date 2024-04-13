@@ -1,0 +1,220 @@
+[
+ {
+  "Question": "Aşağıdaki işlemlerden hangisi ihracatta iş akışında birinci aşamayı oluşturan hazırlık\naşamasında gerçekleştirilen işlemlerden biri değildir?",
+  "A": "A) Ürün seçimi",
+  "B": "B) Dış ticaretle ilgili bilgilerin\nedinilmesi",
+  "C": "C) Fatura ve beyannamenin\nhazırlanmas",
+  "D": "D) Müşteri seçimi",
+  "E": "E) Teklif hazırlığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Fatura ve beyannamenin\nhazırlanmas"
+ },
+ {
+  "Question": "Aşağıdaki teslim yöntemlerinin hangisinde varış noktasındaki gümrük vergileri de satıcı (ihracatçı) tarafından ödenmektedir?",
+  "A": "A)  EXW",
+  "B": "B) CIF",
+  "C": "C) CIP",
+  "D": "D) DDP",
+  "E": "E) FOB",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) DDP"
+ },
+ {
+  "Question": "I. Yasak sübvansiyonlar \nII. Karşı tedbir alınabilen sübvansiyonlar\nIII.Karşı tedbir alınmasını gerektirmeyen sübvansiyonlar \nSübvansiyonlar ve Telafi Edici Tedbirler Anlaşmasına göre yukarıdakilerden hangileri sübvansiyon kategorsine dahil edilebilir?",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C)  I ve II",
+  "D": "D) II ve III",
+  "E": "E)  I II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E)  I II ve III"
+ },
+ {
+  "Question": "Bir ihracat işleminin başlatabilmesi için ihracatçı firma\nithalatçı firmaya aşağıdaki belgelerden hangisini ilk olarak\ngöndermesi gerekir?",
+  "A": "A) Çeki Listesi",
+  "B": "B) Ticari Fatura",
+  "C": "C) Menşe Şahadetnamesi",
+  "D": "D)  Proforma Fatura",
+  "E": "E) Konşimento",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D)  Proforma Fatura"
+ },
+ {
+  "Question": "Akreditif açan bankanın kesin taahhüdü olup bu taahhüdün bütün taraşarın onayı olmadan\ntadil ve iptal edilemediği akreditif türü aşağıdakilerden hangisidir?",
+  "A": "A) Teyitsiz akreditif",
+  "B": "B) Rotatif akreditif",
+  "C": "C)  Kabili rücu akreditif",
+  "D": "D) Gayri kabili rücu akreditif",
+  "E": "E) Devredilebilir akreditif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Gayri kabili rücu akreditif"
+ },
+ {
+  "Question": "Faaliyet ruhsatı için ilgili serbest bölgede faaliyette bulunmak isteyen gerçek ve tüzel kişiler aşağıdakilerden hangisine Faaliyet Ruhsatı almak için başvuruda bulunabilir?",
+  "A": "A) Dış Ticaret Müsteşarlığı Serbest\nBölgeler Genel Müdürlüğü",
+  "B": "B) Yüksek Planlama Kurulu",
+  "C": "C) Serbest Bölgeler Koordinasyon\nKurulu",
+  "D": "D) Gümrük Müsteşarlığı",
+  "E": "E) Maliye Bakanlığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Dış Ticaret Müsteşarlığı Serbest\nBölgeler Genel Müdürlüğü"
+ },
+ {
+  "Question": "Akreditif metninde açıkça belirtilmemesi durumunda akreditif vadesinin başlangıç tarihi aşağıdakilerden hangisidir?",
+  "A": "A) Malların nakil aracına yüklendiği gün",
+  "B": "B) Malların çıkış gümrük idaresine\nteslim edildiği gün",
+  "C": "C) Akreditifin açıldığı gün",
+  "D": "D) Malların varış gümrük idaresine\nteslim edildiği gün",
+  "E": "E) Gümrük beyannamesinin onaylandığı\ngün",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Akreditifin açıldığı gün"
+ },
+ {
+  "Question": " Aşağıdakilerden hangisi T.C. Ekonomi Bakanlığına bağlı Serbest Bölge Müdürlüğü’nün görevlerinden biri değildir?",
+  "A": "A) Bölge arazisinin kullanımı yapı ve\ntesislerin projelendirilmesi kurulması ve\nkullanımıyla ilgili bütün ruhsatları\nvermek",
+  "B": "B) Bölgede kamuyu ilgilendiren tüm\ngörevlerin yerine getirilmesi için\nkoordinasyonu temin etmek",
+  "C": "C) İşletici veya bölge kurucu ve işleticisi\ntarafından hazırlanan gümrük\nbeyannamesinin doğru düzenlenmesini\ntemin etmek",
+  "D": "D) İşletici veya bölge kurucu ve\nişleticisi ile akdedilen işletme veya\nkuruluş ve işletme sözleşmesi ile işletici\nşirketle kullanıcılar kamu ve özel\nkuruluşlar arasında yapılan\nsözleşmelerin hükümleri uyarınca\nyürütülen işleri gözetmek ve\ndenetlemek",
+  "E": "E) Faaliyet ruhsatı müracaatları uygun\nbulunan kişilerin yapmış olduğu kira ve\nsatış sözleşmelerini onaylamak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İşletici veya bölge kurucu ve işleticisi\ntarafından hazırlanan gümrük\nbeyannamesinin doğru düzenlenmesini\ntemin etmek"
+ },
+ {
+  "Question": " Vesaik mukabili ödeme yöntemine göre yapılan ithalatta liman gümrüğüne gelen malın gümrükten çekilmesi için ithalat işlemlerine kaç gün süre tanınır?",
+  "A": "A) 15",
+  "B": "B) 30",
+  "C": "C) 45",
+  "D": "D) 60",
+  "E": "E) 75",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 45"
+ },
+ {
+  "Question": "Aşağıdaki ödeme şekillerinden hangisi uluslararası ticarette tamamıyla güvene dayanan işlemlerde kullanılır?",
+  "A": "A) Mal mukabili ödeme",
+  "B": "B) Vesaik mukabili ödeme",
+  "C": "C)  Peşin ödeme",
+  "D": "D)  Akreditişi ödeme",
+  "E": "E) Kabul kredili ödem",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C)  Peşin ödeme"
+ },
+ {
+  "Question": "Yasak yayınlarla ilgili hükümler saklı kalmak şartıyla kitap ve diğer yayınların ithalatında uygulanan temel ilke aşağıdakilerden hangisidir",
+  "A": "A) Serbesttir",
+  "B": "B) Dış Ticaret Müsteşarlığının iznine\nbağlıdır",
+  "C": "C)  Emniyet Genel Müdürlüğünün iznine\nbağlıdır",
+  "D": "D) Başbakanlık Müsteşarlığının iznine\nbağlıdır",
+  "E": "E) Gümrük Müsteşarlığının iznine\nbağlıdır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Serbesttir"
+ },
+ {
+  "Question": "İthalatçı firmanın kambiyo taahhüdünün kapatılması için gerekli belgeleri ithalat işlemi tarihinden itibaren kaç gün içinde bankaya vermesi gerekir?",
+  "A": "A) 30",
+  "B": "B) 60",
+  "C": "C) 90",
+  "D": "D) 180",
+  "E": "E) 365",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 180"
+ },
+ {
+  "Question": "Yapılan ithalat karşılığında Türkiye’den resmî bir döviz çıkışının söz konusu olmadığı ithalat aşağıdakilerden hangisidir?",
+  "A": "A) Libere ithalat",
+  "B": "B) Ticari ithalat",
+  "C": "C) Bedelsiz ithalat",
+  "D": "D) Özelliği olan ithalat",
+  "E": "E) İzne bağlı ithalat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Bedelsiz ithalat"
+ },
+ {
+  "Question": "İthalat işleminin akreditişi yapılması durumunda kaç farklı şekil ortaya çıkar?",
+  "A": "A) 2",
+  "B": "B) 3",
+  "C": "C) 4",
+  "D": "D) 5",
+  "E": "E) 6",
+  "Answer": "B) 3"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ülkelerin dış ticarette damping ve sübvansiyon uygulamalarının nedenleri arasında yer almaz?",
+  "A": "A) Uluslararası piyasalarda daha iyi bir\nyer edinerek pazarlama gücünün\nartırılması",
+  "B": "B) Yerel piyasanın doyduğu fakat\nstoklarda bulunan fa zla üretimin\neritilebilmesi",
+  "C": "C) Rekabetin olduğu endüstrilerin\netkisizleştirilebilmesi",
+  "D": "D) Yerel piyasalarda olduğu kadar\nuluslararası piyasalarda da tanıtım\nfaaliyetleri etkinliklerini artırması",
+  "E": "E) Yerel piyasada demode olmuş ya da\ntamamen üretimi durdurulmuş malların\nuluslararası piyasalarda elden\nçıkarılabilmesi için daha ucuza ihraç\nedilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Rekabetin olduğu endüstrilerin\netkisizleştirilebilmesi"
+ },
+ {
+  "Question": "İthalat Rejim Kararında yer alan hususlara lişkin yönetmelik ve tebliğ çıkartmaya yetkili birim aşağıdakilerden hangisidir?",
+  "A": "A) Maliye Bakanlığı",
+  "B": "B) Gümrük Bakanlığ",
+  "C": "C) Dış Ticaret Müsteşarlığı",
+  "D": "D)  Gümrük Müsteşarlığı",
+  "E": "E) Hazine Müsteşarlığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Dış Ticaret Müsteşarlığı"
+ },
+ {
+  "Question": "Malların satıcı tarafından kendi kuruluşunda alıma hazır hale getirilmesiyle yükümlülüklerinin sona erdiği teslim şekli aşağıdakilerden hangisidir?",
+  "A": "A) CPT",
+  "B": "B) CIF",
+  "C": "C) DDP",
+  "D": "D) EXW",
+  "E": "E) FAS",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) EXW"
+ },
+ {
+  "Question": "Kredili ihracat süresi yatırım mallarında fiili ihraç tarihinden itibaren kaç yıldır?",
+  "A": "A) 1",
+  "B": "B) 2",
+  "C": "C) 3",
+  "D": "D) 4",
+  "E": "E) 5",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) 5"
+ },
+ {
+  "Question": "Türk mütehatlik firmalarının yurtdışında üstlendikleri işlerle ilgili olarak satın aldıkları makine ve teçhizatın geçici ithalinde ödenmesi gereken gümrük vergisi miktarının ne kadarlık kısmı teminata bağlanır?",
+  "A": "A) %100’ü",
+  "B": "B) %25’i",
+  "C": "C) %10’u",
+  "D": "D) %5’i",
+  "E": "E) %50’si",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) %100’ü"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi koruma önleminin alınabilmesi için yapılması gereken işlemler arasında sayılamaz?",
+  "A": "A) Koruma önlemi başvurusu",
+  "B": "B) Haksız rekabete konu mal hakkında\nbilgi",
+  "C": "C) Ön inceleme",
+  "D": "D) Soruşturma",
+  "E": "E) Geçici koruma önlemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Haksız rekabete konu mal hakkında\nbilgi"
+ }
+]
