@@ -1,0 +1,212 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi konvertibilitenin hem\ncari işlemler hem de sermaye hareketleri için\ngeçerli olmasıdır?",
+  "A": "a) Kısmi Konvertibilite",
+  "B": "b) Eksik Konvertibilite",
+  "C": "c) Yarım Konvertibilite",
+  "D": "d) Tam Konvertibilite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Tam Konvertibilite"
+ },
+ {
+  "Question": "Havayolu şirketlerince düzenlenen ve malların\nbelirli bir yere gönderilmek üzere teslim alındığını gösteren makbuz nitelikli senetlere ne ad verilir?",
+  "A": "a) Havayolu taşıma belgesi",
+  "B": "b) Hamule senedi",
+  "C": "c) Demiryolu taşıma belgesi",
+  "D": "d) FIATA taşıma belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Havayolu taşıma belgesi"
+ },
+ {
+  "Question": "Uluslararası Taşıma Acenteleri Birliği\nFederasyonu'na üye olan taşıma şirketlerinin\ndüzenlediği taşıma belgelerine ne ad verilir?",
+  "A": "a) Karayolu taşıma belgesi",
+  "B": "b) Uluslararası ticari taşıma belgesi",
+  "C": "c) FIATA taşıma belgesi",
+  "D": "d) Havayolu taşıma belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) FIATA taşıma belgesi"
+ },
+ {
+  "Question": "Esas olarak deniz yolu taşımacılığında kullanılıp\nkara ve hava yolu ile taşımacılıkta da kullanılan\nbelgeler, piyasa uygulamasında hangi terim ile\ntanımlanır?",
+  "A": "a) Hamule senedi",
+  "B": "b) Ticari fatura",
+  "C": "c) Konşimento",
+  "D": "d) Proforma fatura",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Konşimento"
+ },
+ {
+  "Question": "Bir banka adına çek, havale, döviz alım-satım\nişlemleri ve benzeri karşılıkları o bankanın kendi\nnezdinde açtırdığı hesaba alacak veya borç\nkaydeden yabancı muhabir banka\naşağıdakilerden hangisidir?",
+  "A": "a) Muhabir banka",
+  "B": "b) Amir banka",
+  "C": "c) Rambursman bankası",
+  "D": "d) Akreditif Banka",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Rambursman bankası"
+ },
+ {
+  "Question": "Gönderilen malların alıcının siparişine uygun olup\nolmadığını gösteren ve uluslararası tarafsız bir\ngözetim şirketince malın yüklenmesi sırasında\ndüzenlenen belge nedir?",
+  "A": "a) Gözetim Belgesi",
+  "B": "b) Helal Belgesi",
+  "C": "c) Sağlık Belgesi",
+  "D": "d) Ekspertiz Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Gözetim Belgesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi flaton ile ilgili bir özellik\ndeğildir?",
+  "A": "a) Geçmiş bir tarihte gerçekleşmiş mal taşıması ile\nilgilidir",
+  "B": "b) Geçerlilik süresi 12 aydır",
+  "C": "c) Geçici sigorta şeklidir",
+  "D": "d) Yükleme kesinleşince sigortanın da\nkesinleşmesi gerekir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Geçmiş bir tarihte gerçekleşmiş mal taşıması ile\nilgilidir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi döviz alım belgesinin\nihracat işlemleri ve diğer işlemler için\ndüzenlenmek zorunda olduğu sayıyı ifade eder?",
+  "A": "a) İhracat işlemleri 3 - Diğer işlemler 1",
+  "B": "b) İhracat işlemleri 3 - Diğer işlemler 2",
+  "C": "c) İhracat işlemleri 2 - Diğer işlemler 3",
+  "D": "d) İhracat işlemleri 2 - Diğer işlemler 1",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) İhracat işlemleri 3 - Diğer işlemler 2"
+ },
+ {
+  "Question": "Bir malın üretildiği ülkeyi göstermek üzere\nimalatçıyla üretici tarafından düzenlenen, yerel\nticaret odaları ve alıcı ülkenin konsolosluklarınca\nonaylanan belge aşağıdakilerden hangisidir?",
+  "A": "a) FIATA taşıma belgesi",
+  "B": "b) Menşe Şahadetnamesi",
+  "C": "c) EUR Dolaşım Belgesi",
+  "D": "d) TR Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Menşe Şahadetnamesi"
+ },
+ {
+  "Question": "Dış Ticaret Müsteşarlığı tarafından düzenlenen\nbelge aşağıdakilerden hangisidir?",
+  "A": "a) Vergi Resim Harç İstinası Belgesi",
+  "B": "b) Yatırım Teşvik Belgesi",
+  "C": "c) Hariçte İşleme İzin Belgesi",
+  "D": "d) Dahilde İşleme İzin Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Vergi Resim Harç İstinası Belgesi"
+ },
+ {
+  "Question": "Yurt dışında veya serbest bölgede yerleşik bir\nfirmadan ya da antrepodan satın alınan malın\nülkemiz üzerinden yurt dışında veya serbest\nbölgede yerleşik bir firmaya satılmasına ne denir?",
+  "A": "a) Transit ticaret",
+  "B": "b) Konvertibilite",
+  "C": "c) Dışalım",
+  "D": "d) ithalat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Transit ticaret"
+ },
+ {
+  "Question": "Malların nakil aracına yüklenmesinden sonra,\ngerekli bilgilerin sigorta şirketine iletilmesinin\nardından düzenlenen belge hangisidir?",
+  "A": "a) Gözetim Belgesi",
+  "B": "b) Flaton",
+  "C": "c) Sigorta Sertifikası",
+  "D": "d) Kat'i (Kesin) Sigorta",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Kat'i (Kesin) Sigorta"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi lehdar teriminin\nanlamlarından biri değildir?",
+  "A": "a) Akreditif işlemlerinde lehine akreditif açılan\nkişi",
+  "B": "b) Teminat mektuplarında, eylemi muhataba\nkarşı garanti edilen gerçek ve tüzel kişi",
+  "C": "c) Bono, çek, poliçe gibi kıymetli evraklarda\nödemeden yararlanacak kişi",
+  "D": "d) Talimata dayanarak akreditifi açtıran kişi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Talimata dayanarak akreditifi açtıran kişi"
+ },
+ {
+  "Question": "Ticaret Odası'nın (ICC) dış işlemlerinde ülkeler\narasında tekdüzeliği sağlamak amacıyla belirlediği\nkurallara ne ad verilir?",
+  "A": "a) Telekomünikasyon birlik terimleri",
+  "B": "b) Finansal birlik terimleri",
+  "C": "c) Uluslararası ticari terimler",
+  "D": "d) Dünya bankalar arası terimler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Uluslararası ticari terimler"
+ },
+ {
+  "Question": "Türkiye veya Avrupa Topluluğunda serbestçe\nbulunan eşyanın Türkiye-Avrupa Birliği Gümrük\nBirliği ile çerçevesinde tercihli rejimlerden\nyararlanabilmesini sağlamak üzere vize edilen\nbelge hangisidir?",
+  "A": "a) TR-EUR Belgesi",
+  "B": "b) TR Belgesi",
+  "C": "c) Avrupa Birliği Belgesi",
+  "D": "d) EUR Dolaşım Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) TR Belgesi"
+ },
+ {
+  "Question": "Malın özelliklerinin bir eksper tarafından\ntespitinin veya incelenmesinin istenmesi halinde\nyetkili kamu mercileri veya taraflarca belirtilen\nkişi\/kuruluş tarafından yapılan tahlil ve ekspertiz\nsonuçlarını gösteren belgeye ne ad verilir?",
+  "A": "a) Gözetim Belgesi",
+  "B": "b) Çeki Listesi",
+  "C": "c) Paket\/Koli Listesi",
+  "D": "d) Ekspertiz Raporu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Ekspertiz Raporu"
+ },
+ {
+  "Question": "Ekonomi Bakanlığı - İhracat Genel Müdürlüğü\ntarafından verilmekte olan teşvik belgesi\naşağıdakilerden hangisidir?",
+  "A": "a) Hariçte İşleme İzin Belgesi",
+  "B": "b) Vergi Resim Harç İstisnası Belgesi",
+  "C": "c) Yatırım Teşvik Belgesi",
+  "D": "d) Dahilde İşleme İzin Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Hariçte İşleme İzin Belgesi"
+ },
+ {
+  "Question": "Yolculuk sırasında olabilecek olağandışı olaylar\ndolayısıyla gemide, yükte ortaya çıkan maddi\nhasar nedeniyle yapılan masraflar ne olarak\nadlandırılır?",
+  "A": "a) Flaton",
+  "B": "b) Navlun",
+  "C": "c) Avarya",
+  "D": "d) Sigorta Sertifikası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Avarya"
+ },
+ {
+  "Question": "Satılan bir malın çeşidini, miktarını, niteliklerini,\nbirim fiyatını ve toplam satış bedelini gösteren ve\nihracatçı tarafından ithalatçıya teslim edilmek\nüzere düzenlenen belge aşağıdakilerden\nhangisidir?",
+  "A": "a) Hamule senedi",
+  "B": "b) Konşimento",
+  "C": "c) Proforma fatura",
+  "D": "d) Ticari fatura",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Ticari fatura"
+ },
+ {
+  "Question": "Sabit kur üzerinden işlem gören hesapların,\nyabancı para dönem sonu kalıntılarının TL'ye\ndönüştürülerek gerçek değerlerinin saptanması\nişlemi aşağıdakilerden hangisidir?",
+  "A": "a) Parite",
+  "B": "b) Kambiyo",
+  "C": "c) Evalüasyon",
+  "D": "d) Arbitraj",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Evalüasyon"
+ },
+ {
+  "Question": "İhraç amacıyla gümrük muafiyetli ithalata veya\nyurt içi atımlara imkan sağlayan belge\naşağıdakilerden hangisidir?",
+  "A": "a) Dahilde İşleme İzin Belgesi",
+  "B": "b) Hariçte İşleme İzin Belgesi",
+  "C": "c) Vergi Resim Harç İstisnası Belgesi",
+  "D": "d) Yatırım Teşvik Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Dahilde İşleme İzin Belgesi"
+ }
+]

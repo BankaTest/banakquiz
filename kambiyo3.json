@@ -1,0 +1,212 @@
+[
+ {
+  "Question": "Bir bankanın şubesinin bulunmadığı yöredeki\nişlerini yürütmek üzere o yöredeki diğer banka ile\nanlaşarak kurmuş olduğu karşılıklı finansal ilişki\naşağıdakilerden hangisidir?",
+  "A": "a) Akreditif banka",
+  "B": "b) Muhabir banka",
+  "C": "c) Rambursman bankası",
+  "D": "d) Amir banka",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Muhabir banka"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Milletlerarası Ticaret\nOdası’nın faaliyetlerinden biri değildir?",
+  "A": "a) İş dünyasının kendi kendisinin düzenlenmesini\nsağlamak",
+  "B": "b) Ticari suçlarla mücadele etmek",
+  "C": "c) Akreditifin bedelini ödemek",
+  "D": "d) Küresel ticareti desteklemek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Akreditifin bedelini ödemek"
+ },
+ {
+  "Question": "Ülkenin sağlık kuruluşları veya ilgili mercileri\ntarafından söz konusu malın sağlık kontrollerinin\nyapıldığını gösteren belge hangisidir?",
+  "A": "a) Sağlık Belgesi",
+  "B": "b) Gözetim Belgesi",
+  "C": "c) Çeki Listesi",
+  "D": "d) Ekspertiz Raporu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Sağlık Belgesi"
+ },
+ {
+  "Question": "Bankaların belirlediği efektif alış kurlarının\ngenellikle döviz alış kurlarına göre daha düşük\nolmasının nedeni nedir?",
+  "A": "a) Dövizin cari fiyatının belirlenmesi",
+  "B": "b) Efektiflerin dövize dönüştürme maliyeti olması",
+  "C": "c) Ulusal paranın yabancı paraya dönüştürülmesi",
+  "D": "d) Efektif banknotlar oluşturulması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Efektiflerin dövize dönüştürme maliyeti olması"
+ },
+ {
+  "Question": "İhracat sırasında taşımaya konu olan malların tek\ntek her kolisinin içinde hangi tür ve miktarda mal\nbulunduğunu ve ağırlıklarını gösteren belge ne\nolarak adlandırılır?",
+  "A": "a) Paket\/Koli Listesi",
+  "B": "b) Çeki Listesi",
+  "C": "c) Ekspertiz Raporu",
+  "D": "d) Gözetim Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Paket\/Koli Listesi"
+ },
+ {
+  "Question": "2006 yılında yapılan düzenleme ile teşvik belgeleri\nikiye ayrılmıştır. Aşağıdakilerden hangisi bu İkiliyi\ngösterir?",
+  "A": "a) Finansal birlik belgeleri ve KOBİ teşvik belgesi",
+  "B": "b) Yatırım teşvik belgeleri ve KOBİ teşvik belgesi",
+  "C": "c) Yatırım teşvik belgeleri ve finansal birlik\nbelgeleri",
+  "D": "d) Vergi resim harç istisnası belgeleri ve KOBİ\nteşvik belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Yatırım teşvik belgeleri ve KOBİ teşvik belgesi"
+ },
+ {
+  "Question": "Malların CMR koşullarına uygun olarak taşınmak\nüzere iyi durumda teslim alındığını ve taşıma\nsözleşmesinin yapıldığını gösteren belge\nhangisidir?",
+  "A": "a) Havayolu taşıma belgesi",
+  "B": "b) Karayolu taşıma belgesi",
+  "C": "c) FIATA taşıma belgesi",
+  "D": "d) Hamule senedi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Karayolu taşıma belgesi"
+ },
+ {
+  "Question": "Bankalardaki kredilendirme işlemlerinde genel\nolarak bir takım sıralamaya göre hareket edilir.\nAşağıdakilerden hangisi bu sıralamanın içinde yer\nalmaz?",
+  "A": "a) Kredinin paylaşılması",
+  "B": "b) Kredi analizi",
+  "C": "c) Müşteriyle ön görüşme",
+  "D": "d) Kredinin izlenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Kredinin paylaşılması"
+ },
+ {
+  "Question": "Ticaret siciline kayıtlı gerçek ve tüzel kişilerden\nTicaret Sicil Memurluğu'nca onaylı hangi belge\nistenir?",
+  "A": "a) Hesap Durumu Belgesi",
+  "B": "b) Döviz Alım Belgesi",
+  "C": "c) Ticaret Sicil Belgesi",
+  "D": "d) Döviz Satış Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Ticaret Sicil Belgesi"
+ },
+ {
+  "Question": "Bankaların kullandırdıkları krediler için belirlenen\nlimitlerin açılmasına ne denir?",
+  "A": "a) Depasman",
+  "B": "b) Münakale",
+  "C": "c) Plasman",
+  "D": "d) Memzuç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Depasman"
+ },
+ {
+  "Question": "Belli bir miktar paranın gelir getirecek bir\nyatırıma, taşınır ya da taşınmaz bir değere\nbağlanmasına ne denir?",
+  "A": "a) Münakale",
+  "B": "b) Plasman",
+  "C": "c) Depasman",
+  "D": "d) Memzuç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Plasman"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi TCMB Risk\nSantralizasyonu Biriminin önderliğinde,\nbankalardan alınan bilgiler doğrultusunda\nhazırlanan TCMB bünyesindeki kredi-risk\nbilgilerini içeren cetveldir?",
+  "A": "a) Mudi",
+  "B": "b) Monetizasyon",
+  "C": "c) Memzuç",
+  "D": "d) Münakale",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Memzuç"
+ },
+ {
+  "Question": "Vadenin uzatılmasına ne denir?",
+  "A": "a) Vade Gecikmesi",
+  "B": "b) Vade Temditi",
+  "C": "c) Plasman",
+  "D": "d) Depasman",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Vade Temditi"
+ },
+ {
+  "Question": "Faiz veya faiz ve komisyon karşılığında belli bir\nvadeye bağlı olarak ödünç para verilmesi şeklinde\nnakit olarak kullandırılan kredilere ne denir?",
+  "A": "a) Gayrinakdi Krediler",
+  "B": "b) Akreditif Krediler",
+  "C": "c) Teminat Kredileri",
+  "D": "d) Nakdi Krediler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Nakdi Krediler"
+ },
+ {
+  "Question": "Edinilmesi gerekli görülen herhangi bir bilgi için\nbaşvurulacak öğrenim yerine ne denir?",
+  "A": "a) Moralite",
+  "B": "b) İstihbarat",
+  "C": "c) Münakale",
+  "D": "d) Temerrüt",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) İstihbarat"
+ },
+ {
+  "Question": "15. Aşağıdakilerden hangisi dönüşüm-aktarma\nanlamına gelir?",
+  "A": "a) Münakale",
+  "B": "b) Plasman",
+  "C": "c) Depasman",
+  "D": "d) Memzuç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Münakale"
+ },
+ {
+  "Question": "16. Kredinin geri ödenme olasılığının yüksek olması\nilkesine ne denir?",
+  "A": "a) Verimlilik",
+  "B": "b) Tutarlılık",
+  "C": "c) Akışkanlık ",
+  "D": "d) Güvenilirlik ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Güvenilirlik "
+ },
+ {
+  "Question": "17. Bir kimsenin borçlusundan olan alacağını üçüncü\nbir kişiye devretmesine ne denir?",
+  "A": "a) Altın Rehni",
+  "B": "b) Taşınır Rehni",
+  "C": "c) Alacağın Temliki",
+  "D": "d) Ticari İşletme Rehni",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Alacağın Temliki"
+ },
+ {
+  "Question": "Kredinin dolu ve donuk bırakılmaması ve\nvadesinde geri dönmesi ilkesine ne denir?",
+  "A": "a) Güvenilirlik",
+  "B": "b) Tutarlılık",
+  "C": "c) Verimlilik",
+  "D": "d) Akışkanlık ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Akışkanlık "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinde bir kişiye verilen kredi\nbu kişinin dâhil olduğu risk grubuna verilen\nkredidir?",
+  "A": "a) Faizli kredi",
+  "B": "b) Faizsiz kredi",
+  "C": "c) Kredi sınırları",
+  "D": "d) Gayrinakdil kredi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Kredi sınırları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir şeyi bir kimseye ya da\nbir yere ayırma anlamına gelir?",
+  "A": "a) Tahlil",
+  "B": "b) Tahsis",
+  "C": "c) Temerrüt",
+  "D": "d) Tahvil",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Tahsis"
+ }
+]

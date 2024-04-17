@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi sigorta sertifikası için\ndoğrudur?",
+  "A": "a) Maddi hasar nedeniyle hazırlanır",
+  "B": "b) Kesin sigorta yerine geçmez",
+  "C": "c) Sigortadan sonra bu belge hazırlanır",
+  "D": "d) Sadece 3 ay geçerlidir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Kesin sigorta yerine geçmez"
+ },
+ {
+  "Question": "Piyasada dövizin cari fiyatını belirtmek amacıyla\nkullanılan kavram nedir?",
+  "A": "a) Kur",
+  "B": "b) Kotasyon",
+  "C": "c) Efektif",
+  "D": "d) Kambiyo",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) Kotasyon"
+ },
+ {
+  "Question": "Malların teslim alındığını gösteren konşimento\ntürü aşağıdakilerden hangisidir?",
+  "A": "a) Tesellüm konşimentosu",
+  "B": "b) Hamule konşimentosu",
+  "C": "c) Ticari konşimentosu",
+  "D": "d) Yükleme konşimentosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Tesellüm konşimentosu"
+ },
+ {
+  "Question": "Malın yüklenip yola çıktığını belirten konşimento\ntürü aşağıdakilerden hangisidir?",
+  "A": "a) Ticari konşimentosu",
+  "B": "b) Hamule konşimentosu",
+  "C": "c) Yükleme konşimentosu",
+  "D": "d) Tesellüm konşimentosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Yükleme konşimentosu"
+ },
+ {
+  "Question": "Latince değiştirmek anlamına gelen ’Cambiare'\nfiilinden türetilen işlem hangisidir?",
+  "A": "a) Banknot",
+  "B": "b) Kur",
+  "C": "c) Kambiyo",
+  "D": "d) Döviz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Kambiyo"
+ },
+ {
+  "Question": "Bir ülkede üretilen mal ve hizmetlerin yabancılara\nsatılarak başka ülkelere gönderilmesine ilişkin dış\nticaret işlemi nedir?",
+  "A": "a) Transit Ticaret",
+  "B": "b) Dışalım",
+  "C": "c) İthalat",
+  "D": "d) İhracat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) İhracat"
+ },
+ {
+  "Question": "Uluslararası bankacılık işlemlerinin hızlı ve\ngüvenilir bir şekilde yapılmasını sağlayan\nelektronik bilgi iletişim örgütü aşağıdakilerden\nhangisidir?",
+  "A": "a) ICT",
+  "B": "b) SWIFT",
+  "C": "c) OECD",
+  "D": "d) ILO",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b) SWIFT"
+ },
+ {
+  "Question": "SWIFT’in avantajları arasında aşağıdakilerden\nhangisi yer almaz?",
+  "A": "a) Hızlı mesaj transferi",
+  "B": "b) Etkin fon yönetimi",
+  "C": "c) Standartlaşma",
+  "D": "d) Özel mesaj erişimi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Özel mesaj erişimi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ithalatçının verdiği sipariş\nüzerine kesin satış faturasına (ticari faturaya)\ndönüştürülür?",
+  "A": "a) Hamule senedi",
+  "B": "b) Ticari Fatura",
+  "C": "c) Konşimento",
+  "D": "d) Proforma Fatura",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Proforma Fatura"
+ },
+ {
+  "Question": "Gemi ile yapılan taşımacılıkta taşıma ücretlerine\nne ad verilir?",
+  "A": "a) Flaton",
+  "B": "b) Arbitraj",
+  "C": "c) Avarya (Avarage)",
+  "D": "d) Navlun",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Navlun"
+ },
+ {
+  "Question": "Bankaların yurt dışı işlemleriyle ilgili ödemelerini\ngerçekleştirdiği hesap aşağıdakilerden hangidir?",
+  "A": "a) Nostro",
+  "B": "b) Vostro",
+  "C": "c) Arbitraj",
+  "D": "d) Loro",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Nostro"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yerel müftülüklerce\ndüzenlenen belgedir?",
+  "A": "a) Sağlık Belgesi",
+  "B": "b) Gözetim Belgesi",
+  "C": "c) Analiz Belgesi",
+  "D": "d) Helal Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Helal Belgesi"
+ },
+ {
+  "Question": "Bir ülkedeki alıcıların başka ülkelerde üretilmiş\nmalları satın alarak bedellerini yurt dışına transfer\netmelerine ne denir?",
+  "A": "a) Evalüasyon",
+  "B": "b) Transit Ticaret",
+  "C": "c) İthalat",
+  "D": "d) İhracat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) İthalat"
+ },
+ {
+  "Question": "Bir bankanın kendi nezdindeki başka bir bankaya\naçtığı hesap aşağıdakilerden hangisidir?",
+  "A": "a) Vostro",
+  "B": "b) Nostro",
+  "C": "c) Parite",
+  "D": "d) Loro",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Vostro"
+ },
+ {
+  "Question": "Ulusal para içermeyen iki döviz arasındaki kur\naşağıdakilerden hangisidir?",
+  "A": "a) Alış Kuru",
+  "B": "b) Cari Kur",
+  "C": "c) Çapraz Kur",
+  "D": "d) Satış Kuru",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Çapraz Kur"
+ },
+ {
+  "Question": "Bir ülke parasının başka ülkelerin paralarına\nserbestçe çevrilebilmesine ne ad verilir?",
+  "A": "a) Parite",
+  "B": "b) Kambiyo",
+  "C": "c) Arbitraj",
+  "D": "d) Konvertibilite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Konvertibilite"
+ },
+ {
+  "Question": "Malların gönderilmek üzere demiryolu idaresine\nteslim edildiğini gösteren belge aşağıdakilerden\nhangisidir?",
+  "A": "a) Proforma fatura",
+  "B": "b) Konşimento",
+  "C": "c) Hamule senedi",
+  "D": "d) Demiryolu taşıma belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Hamule senedi"
+ },
+ {
+  "Question": "Aşağıdaki terimlerin hangisinde belirtilen\nsayıların fatura ve konşimentodaki mal adedi ile\naynı olması gerekmektedir?",
+  "A": "a) Ekspertiz Raporu",
+  "B": "b) Gözetim Belgesi",
+  "C": "c) Paket\/Koli Listesi",
+  "D": "d) Çeki Listesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "c) Paket\/Koli Listesi"
+ },
+ {
+  "Question": "Türkiye'de, ülkemizden transit geçecek veya\nTürkiye'den ihraç edilecek olan hayvan ve\nhayvansal maddelerin bulaşıcı hastalıklarla\nilgisinin olmadığına dair veterinerliklerce\ndüzenlenen belgelere ne ad verilir?",
+  "A": "a) Analiz Sertifikası",
+  "B": "b) Gözetim Sertifikası",
+  "C": "c) Sağlık Sertifikası",
+  "D": "d) Veteriner Sertifikası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d) Veteriner Sertifikası"
+ },
+ {
+  "Question": "Bankaların dış ticaret ve döviz alım-satım\nişlemlerini yürütebilmek için yurt dışı muhabirleri\ngözetiminde çeşitli döviz cinslerinden açtıkları\nvadesiz cari hesaplara ne denir?",
+  "A": "a) Nostro",
+  "B": "b) Parite",
+  "C": "c) Loro",
+  "D": "d) Vostro",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "a) Nostro"
+ }
+]
