@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Hamiline yazılı bir çekin cirosu hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Çeki emre yazılı çeke dönüştürür",
+  "B": "B) Teminat fonksiyonunu ifa eder",
+  "C": "C) Hamilin teşhisine yarar",
+  "D": "D) Çekin devrini sağlar",
+  "E": "E) Çeki nama yazılı hale getirir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Teminat fonksiyonunu ifa eder"
+ },
+ {
+  "Question": "Emre  yazılı  bir  çek  en  geç  ne  zamana  kadar  ciroedilebilir?",
+  "A": "A) Vadeye kadar",
+  "B": "B) ibraz süresi doluncaya kadar",
+  "C": "C) Ödeme  gününü  takip  eden  2.  işgününün  sonunakada",
+  "D": "D) Zamanaşımı süresi doluncaya kadar",
+  "E": "E) icra takibi sonuçlanıncaya kadar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) ibraz süresi doluncaya kadar"
+ },
+ {
+  "Question": "Bonoda, senedin ön yüzüne keşideci dışındaki birkişi   tarafından   ve   herhangi   bir   açıklama yapılmaksızın  atılan  imzanın  hukuki  sonucu  ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Yazılmamış hükmündedir",
+  "B": "B) Senedi geçersiz kılar",
+  "C": "C) Keşideci lehine verilmiş aval hükmündedir",
+  "D": "D) Beyaz ciro hükmündedir",
+  "E": "E) Senette tahrifat hükmündedir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Keşideci lehine verilmiş aval hükmündedir"
+ },
+ {
+  "Question": "Çekte  muhatap  bankanın  verdiği  aval  ile  ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Geçersizdir",
+  "B": "B) Kefalet anlamına gelir",
+  "C": "C) Garanti sözleşmesi anlamına gelir",
+  "D": "D) Çeki geçersiz hale getirir",
+  "E": "E) Çeki damga vergisine tabi kılar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Garanti sözleşmesi anlamına gelir"
+ },
+ {
+  "Question": "Görüldüğünde  ödenecek  vadeli  düzenlenmiş  bir bono, ödenmesi için keşideciye, keşide tarihinden itibaren ne kadar süre içinde ibraz edilmelidir?",
+  "A": "A) 10 gün",
+  "B": "B) 1 ay",
+  "C": "C) 3 ay",
+  "D": "D) 6 ay",
+  "E": "E) 1 yıl",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) 1 yıl"
+ },
+ {
+  "Question": "Bonoyla   ilgili   aşağıdaki   ifadelerden   hangisi yanlıştır?",
+  "A": "A) Hamiline düzenlenemez",
+  "B": "B) Belirti bir günde ödenmek üzere düzenlenen bonolara yazılan faiz şartı yazılmamış sayılır",
+  "C": "C) Tahsil cirosunda cirantaya karşı ileri sürülebilecek defiler hamile karşı ileri sürülebilir",
+  "D": "D) Vadenin geçmesinden sonra yapılan ciro alacağın temliki hükümlerini doğurur",
+  "E": "E) Ciranta bononun tekrar ciro edilmesini yasak edebilir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Vadenin geçmesinden sonra yapılan ciro alacağıntemliki hükümlerini doğurur"
+ },
+ {
+  "Question": "Bono  ile  çek  arasındaki  farkla  ilgili  aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) İkisi de kanunen emre yazılı senettir",
+  "B": "B) İkisi de muhatap üzerine çekilmektedir",
+  "C": "C) İkisinin   de   hamiline   yazılı   düzenlenmesi mümkündür",
+  "D": "D) İkisinin de rehin cirosu ile devri mümkündür",
+  "E": "E) Her ikisinde de senedin ibraz süresi 10 gündür",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İkisi de kanunen emre yazılı senettir"
+ },
+ {
+  "Question": "Görüldüğünde  ödenecek  bir  bonoda,  ödenmeme protestosu aşağıdaki sürelerden hangisine uyularak çekilebilir?",
+  "A": "A) Ödemenin reddinden itibaren 2 gün içinde",
+  "B": "B) Ödemenin reddini takip eden 2 iş günü içinde",
+  "C": "C) Keşide tarihinden itibaren 1 yıl içinde",
+  "D": "D) Keşide tarihinden itibaren 10 gün içinde",
+  "E": "E) Keşide tarihini takip eden 10 iş günü içinde",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Keşide tarihinden itibaren 1 yıl içinde"
+ },
+ {
+  "Question": "Çekle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Çek, hamiline yazılı düzenlenemez",
+  "B": "B) Çekten  cayılmamışsa  muhatap  ibraz  süresinin geçmesinden sonra dahi çeki ödeyebilir",
+  "C": "C) Kısmi ciro geçerlidir",
+  "D": "D) Çekte ciro keşideci lehine yapılamaz",
+  "E": "E) Çekte mündemiç faiz kaydı çeki geçersiz kılar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Çekten  cayılmamışsa  muhatap  ibraz  süresinin geçmesinden sonra dahi çeki ödeyebilir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi çekin zorunlu unsurlarından biri değildir?",
+  "A": "A) Keşidecinin imzası",
+  "B": "B) Keşide günü",
+  "C": "C) Kayıtsız ve şartsız muayyen bir bedelin ödenmesi için havale",
+  "D": "D) Ödeyecek kimsenin (muhatabın) ticaret unvanı",
+  "E": "E) Kime veya kimin emrine ödenecek ise onun ad ve soyadı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kime veya kimin emrine ödenecek ise onun ad vesoyadı"
+ },
+ {
+  "Question": "Üzerinde  “Sami ESER  veya  hamiline  ödeyiniz”ibaresini bulunduran  bir  çekle  ilgili  aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Böyle bir kayıt, çeki geçersiz kılar",
+  "B": "B) Böyle bir çek, nama yazılı çek hükmündedir",
+  "C": "C) Bu  kayıt,  çeki  geçersiz  kılmaz  ancak  kayıt yazılmamış sayılır",
+  "D": "D) Böyle bir çek, emre yazılı çek hükmündedir",
+  "E": "E) Böyle bir çek, hamile yazılı çek hükmündedir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Böyle bir çek, hamile yazılı çek hükmündedir"
+ },
+ {
+  "Question": " Aşağıdakilerden hangisi çekin zorunlu unsurlarından değildir? ",
+  "A": "A) Lehtarın ismi",
+  "B": "B) Keşide tarihi",
+  "C": "C) Çek kelimes",
+  "D": "D) Keşidecinin imzası",
+  "E": "E) Belli bir meblağın kayıtsız şartsız havalesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Lehtarın ismi"
+ },
+ {
+  "Question": "Hamile yazılı çekin devir şekli aşağıdakilerden hangisidir?",
+  "A": "A) Ciro ve zilyetliğin devri",
+  "B": "B) Temlik beyanı ve zilyetliğin devri",
+  "C": "C) Zilyetliğin devr",
+  "D": "D) Ciro",
+  "E": "E) Temlik beyanı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Zilyetliğin devr"
+ },
+ {
+  "Question": "Kahire’de keşide olunan bir çek, Kayseri’de ödenecekse ibraz süresi ne kadardır?",
+  "A": "A) 10 gün",
+  "B": "B) 20 gün",
+  "C": "C) 1 ay",
+  "D": "D) 3 ay",
+  "E": "E) 6 ay",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 1 ay"
+ },
+ {
+  "Question": "Aşağıdaki şirketlerden hangisi ticaret siciline tescil edilemez?",
+  "A": "A) Kolektif şirket",
+  "B": "B) Komandit şirket",
+  "C": "C) Limitet şirket",
+  "D": "D) Anonim şirket",
+  "E": "E) Adi şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Adi şirket"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi sermaye şirketlerine katılma payı olarak getirilemez?",
+  "A": "A) Taşınmaz üzerinde kullanma hakkı",
+  "B": "B) Patent lisansı",
+  "C": "C) Ticari itibar",
+  "D": "D) Alacak",
+  "E": "E) Taşınmaz üzerinde mülkiyet hakkı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Ticari itibar"
+ },
+ {
+  "Question": "Aşağıdaki sermaye unsurlarından hangisi, anonim şirkete sermaye payı olarak konulabilir?",
+  "A": "A) Marka",
+  "B": "B) Hizmet edimleri",
+  "C": "C) Kişisel emek",
+  "D": "D) Ticari itibar",
+  "E": "E) Vadesi gelmemiş alacaklar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Marka"
+ },
+ {
+  "Question": "Aşağıdaki  şirket  tiplerinden  hangisi,  sözlü  şekilde düzenlenmiş şirket sözleşmesi ile kurulabilir?",
+  "A": "A) Adi şirket",
+  "B": "B) Kollektif şirket",
+  "C": "C) Anonim şirket",
+  "D": "D) Limitet şirket ",
+  "E": "E) Kooperatif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Adi şirket"
+ },
+ {
+  "Question": "Aşağıdaki haklardan hangisi, anonim şirkette sadece  azlık  oluşturan  pay  sahiplerine  tanınmış  oluppay   oranı   azlık   oluşturmaya   yetmeyen   pay sahipleri tarafından kullanılamaz?",
+  "A": "A) Kar payı almak",
+  "B": "B) Genel kurul toplantısına katılmak",
+  "C": "C) Genel kurulda oy kullanmak",
+  "D": "D) Genel kurul kararının iptali için dava açmak",
+  "E": "E) Mali  konularla  ilgili  genel  kurul  görüşmelerini erteletmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Mali  konularla  ilgili  genel  kurul  görüşmelerinierteletmek"
+ },
+ {
+  "Question": "Eşit  işlem  ilkesine  aykırı  olan  yönetim  kurulukararlarının yaptırımı aşağıdakilerden hangisidir?",
+  "A": "A) Yokluk",
+  "B": "B) Butlan",
+  "C": "C) İptal edilebilirlik",
+  "D": "D) Askıda geçerlilik",
+  "E": "E) Tek taraflı bağlamazlık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Butlan"
+ }
+]

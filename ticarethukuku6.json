@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden  hangisi,  bir  işletmenin  ticariişletme  sayılabilmesi  için  aranan  ölçütlerden  biri değildir?",
+  "A": "A) Gelir sağlamayı hedeflemesi",
+  "B": "B) Faaliyetinin devamlı olması",
+  "C": "C) Başka   bir   işletme   den   bağımsız   olarakfaaliyetlerini sürdürmesi",
+  "D": "D) Faaliyetlerinin esnaf faaliyeti sınırını aşması",
+  "E": "E) işletenin gerçek kişi ya da özel hukuk tüzel kişisi olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) işletenin gerçek kişi ya da özel hukuk tüzel kişisi olması"
+ },
+ {
+  "Question": "Ticari işletmeyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Bir  ticari  işletmenin  varlığından  söz edilebilmesiiçin işletmenin faaliyetlerini sürdürmede bağımsızolması şartı aranır: bu nedenle şube, ticari işletmeolarak nitelendirilemez",
+  "B": "B) Ticari  işletmenin  ayırt  edici  unsuru  olan  \"esnaffaaliyeti   sınırlarını   aşma\"   kıstası   kanunentanımlanmamış olup, 1986 tarihli Bakanlar Kurulu Kararnamesi ile somutlaştırılmıştır",
+  "C": "C) Ticaret  siciline  tescil,  tacir  sıfatının  kazanılması bakımından bildirici niteliktedi",
+  "D": "D) Ticari işletme, hukuki niteliği itibariyle tacirin genel malvarlığı içinde ayrı bir hukuki rejime tabi özel bir malvarlığı olarak değerlendirilmektedir",
+  "E": "E) Devir sözleşmesinde aksi kararlaştırılmadıkça fikrive sınai haklar ile menkul işletme tesisatına dahilolan unsurlar ticari işletmeye dahil sayılırlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ticari işletme, hukuki niteliği itibariyle tacirin genelmalvarlığı içinde ayrı bir hukuki rejime tabi özel birmalvarlığı olarak değerlendirilmektedir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi şube sayılmak için varlığı gerekli unsurlardan biri değildir?",
+  "A": "A) Merkeze bağlı olma",
+  "B": "B) Yönetim ayrılığı",
+  "C": "C) Dış ilişkilerde bağımsızlık",
+  "D": "D) Tüzel kişiliği haiz olma",
+  "E": "E) Mekan ayrılığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Tüzel kişiliği haiz olma"
+ },
+ {
+  "Question": "Aşağıdakilerden  hangisi  şube  ile  ilgili    yanlış   bir ifadedir?",
+  "A": "A) Şubeler   iç   ilişkide   merkeze   bağımlı,   dışilişkilerinde bağımsızdı",
+  "B": "B) Şubeler merkezle aynı ticaret unvanına sahip olup şube olduklarını belirten ek kullanmak zorundadır",
+  "C": "C) Şubeler  yer  ve  yönetim  bakımından  merkezden bağımsızdır",
+  "D": "D) Şubelerin  merkezden  ayrı  sermayesi  olmak zorundadı",
+  "E": "E) Şubelerin merkezden ayrı tüzel kişiliği yoktur",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Şubelerin  merkezden  ayrı  sermayesi  olmakzorundadı"
+ },
+ {
+  "Question": "Bir  ticari  işletmenin  şubeleriyle  ilgili  olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Ticari   işletmenin   devri   halinde   bu   devrin kapsamına şube de gire",
+  "B": "B) Şubeler  bulundukları  yerin  ticaret  siciline  tesciledilir ve dış ilişkilerinde bağımsız hareket edebilir",
+  "C": "C) Ticari  temsilcinin  temsil  yetkisi  şubenin  işleriyle sınırlanabilir",
+  "D": "D) Her şube. kendi merkezinin ticaret unvanını, şubeolduğunu belirterek kullanmak zorundadır",
+  "E": "E) Her şube. kendi merkezinin ticaret unvanını, şube olduğunu belirterek kullanmak zorundadır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Her şube. kendi merkezinin ticaret unvanını, şubeolduğunu belirterek kullanmak zorundadır"
+ },
+ {
+  "Question": "Ticari işletmenin devriyle ilgili aşağıdak iifadelerden hangisi doğrudur?",
+  "A": "A) Devralan,   devir   anında   kendisi   tarafından bilinmeyen borçlardan  sorumlu değildir",
+  "B": "B) Devredenin. devrin  ilan  veya  ihbarından  sonradoğan borçlardan sorumluluğu, ilan veya ihbardan itibaren 2 yılın dolmasıyla sona erer",
+  "C": "C) Devralanın,  devirden  önce  doğan  borçlardan sorumluluğu,  devrin  ilan  veya  ihbarı  tarihinden itibaren 2 yılın geçmesiyle sona erer",
+  "D": "D) Devralan, devirden önce doğan borçlardan dolayı,borcun tabi olduğu zamanaşımı süresince sorumlu olmaya devam eder",
+  "E": "E) Devredenin  devirden  önce  doğan  borçlardan sorumluluğu,   kendisinin   iflas   yoluyla   takip edilebileceği  devrin  ilan  ve  ihbarı  tarihindenitibaren işlemeye  başlayan  1  yıllık    süreyle sınırlıdır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Devralan, devirden önce doğan borçlardan dolayı,borcun tabi olduğu zamanaşımı süresince sorumluolmaya devam eder"
+ },
+ {
+  "Question": "Ticari   işletmenin   devriyle   ilgili   aşağıdakiifadelerden hangisi yanlıştır?",
+  "A": "A) Ticari   işletmenin   devamını   etkilemeyecek nitelikteki münferit  unsurlar  devir dışı bırakılabilir",
+  "B": "B) Ticari  işletmenin  aktiflerinin devrini öngören,ancak  pasiflerini  devir  dışı  bırakan  sözleşmeler geçersizdir",
+  "C": "C) Ticari işletmenin borçlarından dolayı devreden dedevralanla  birlikte  2  yıl  süreyle  müteselsilen sorumludur",
+  "D": "D) Devralan,  ticari  işletmenin  kendisi  tarafından bilinmeyen borçlarından da sorumludur",
+  "E": "E) Devrolunan   ticari   işletmenin   borçları,   devirsözleşmesinin akdedildiği tarih itibariyle devralana geçer",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Devrolunan   ticari   işletmenin   borçları,   devirsözleşmesinin akdedildiği tarih itibariyle devralana geçer"
+ },
+ {
+  "Question": "Aşağıda  sayılan  sözleşme  türlerinden  doğan davalardan hangisi mutlak ticari davadır?",
+  "A": "A) Kira sözleşmesinden doğan davalar",
+  "B": "B) Satım sözleşmesinden doğan davalar",
+  "C": "C) Telif hakkından doğan davalar",
+  "D": "D) Yayın sözleşmesinden doğan davalar",
+  "E": "E) Karz sözleşmesinden doğan davalar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Yayın sözleşmesinden doğan davalar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisiticari işletme işletirse tacirsıfatına sahip olur?",
+  "A": "A) Devlet",
+  "B": "B) Dernek",
+  "C": "C) Belediye",
+  "D": "D) Üniversite",
+  "E": "E) Vilayet",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Dernek"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tacir değildir?",
+  "A": "A) Ticaret şirketleri",
+  "B": "B) Ticari işletme işleten dernekler",
+  "C": "C) Ticari işletme işleten vakıflar",
+  "D": "D) Ticari işletme işleten gerçek kişiler",
+  "E": "E) Ticari işletme işleten kamu tüzel kişileri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Ticari işletme işleten kamu tüzel kişileri"
+ },
+ {
+  "Question": "Aşağıdaki Ticari defterlerden hangisi, Türk TicaretKanunu'nda  tüzel  kişi  tacirin  tutması  zorunlu defterleri arasında açıkça sayılmamıştır?",
+  "A": "A) Defteri kebir",
+  "B": "B) Karar defteri",
+  "C": "C) Envanter defteri",
+  "D": "D) Yevmiye defteri",
+  "E": "E) Cari hesap defteri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Cari hesap defteri"
+ },
+ {
+  "Question": "Aşağıdaki  ticaret  unvanlarından  hangisi  mevzuata uygun değildir?",
+  "A": "A) Samet Taşkınoğlu  ve  Ortakları  Toptan  Satış  KolektifŞirketi",
+  "B": "B) Samet Taşkınoğlu Mert Toptan Satış Anonim Şirketi",
+  "C": "C) Samet Taşkınoğlu Komandit Şirketi",
+  "D": "D) Kızılay Afyonkarahisar Maden Suyu işletmesi",
+  "E": "E) Adalet Bakanlığı Mensupları Tüketim Kooperatifi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Adalet Bakanlığı Mensupları Tüketim Kooperatifi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir kolektif şirketin ticaret ünvanı olabilir?",
+  "A": "A) Özgür Koçyiğit",
+  "B": "B) Turizm ve inşaat Kol. Şti.",
+  "C": "C) Sami Eser  ve Erdem Yağmur  Kol. Şii.",
+  "D": "D) Mustafa Itıl  ve Ortakları Kolektif Şirketi",
+  "E": "E) Turizm ve inşaat Kolektif Şirketi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Mustafa Itıl  ve Ortakları Kolektif Şirketi"
+ },
+ {
+  "Question": "Aşağıdakilerden   hangisi,   ödemede   bulunan borçlunun  borçtan  kurtulmasıyla  ilgili  şartlardan biri değildir?",
+  "A": "A) Senedi geri almak",
+  "B": "B) Vadeden önce ödememek",
+  "C": "C) Ağır kusurla ödemiş olmamak",
+  "D": "D) İyi niyetle ödemiş olmak",
+  "E": "E) Hak  sahibi  olduğu  senetten  anlaşılan  şahsa ödemek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Vadeden önce ödememek"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi alacak senedidir?",
+  "A": "A) Tahvil",
+  "B": "B) İpotekli borç senedi",
+  "C": "C) Taşıma senedi",
+  "D": "D) Konişmento",
+  "E": "E) Hisse senedi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Tahvil"
+ },
+ {
+  "Question": "Aşağıdaki  senet  türlerinden  hangisi,  Türk  Medeni Kanununda düzenlenmiştir?",
+  "A": "A) Makbuzsenedi",
+  "B": "B) Varant",
+  "C": "C) İpotekli borç senedi",
+  "D": "D) Konşimento",
+  "E": "E) Taşıma senedi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İpotekli borç senedi"
+ },
+ {
+  "Question": "Aşağıdaki senet tiplerinden hangisi hamiline yazılı olarak düzenlenebilir?",
+  "A": "A) Poliçe",
+  "B": "B) Makbuz senedi",
+  "C": "C) Varant",
+  "D": "D) İpotekli borç senedi",
+  "E": "E) Bono",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) İpotekli borç senedi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi beyaz ciro kavramını ifade eder?",
+  "A": "A) Senedin kime ciro edildiği gösterilmeyen ciro",
+  "B": "B) Süresi geçtikten sonra yapılan ciro",
+  "C": "C) imza içermeyen ciro",
+  "D": "D) Senette ismi geçen bir kişiye yapılan ciro",
+  "E": "E) Senet  bedelinin  bir  kısmının  devredilmesi  için yapılan ciro",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Senedin kime ciro edildiği gösterilmeyen ciro"
+ },
+ {
+  "Question": "Emre  yazılı  bir  poliçe,  Kanun'da  öngörülen sonuçlan yaratacak şekilde en son hangi ana kadar ciro edilebilir?",
+  "A": "A) Vadeye kadar",
+  "B": "B) Zaman aşımı süresinin sonuna kadar",
+  "C": "C) Kabul edilinceye kadar",
+  "D": "D) Süresi içinde protesto edilinceye kadar",
+  "E": "E) Vadeyi takip eden 2 iş günü doluncaya kadar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Süresi içinde protesto edilinceye kadar"
+ },
+ {
+  "Question": "Çeklerin  cirosuyla  ilgili  aşağıdaki  ifadelerden hangisi doğrudur?",
+  "A": "A) Çeklerin rehin cirosuyla devri mümkündür",
+  "B": "B) Muhatap lehine yapılan ciro batıldır",
+  "C": "C) Muhatabın yaptığı ciro makbuz hükmündedir",
+  "D": "D) Hamiline yazılı bir çekin ciro edilmesi, çeki emreyazılı hale getirir",
+  "E": "E) ibraz  süresinin  bitmesinden  sonra  yapılan  ciro,alacağın temliki hükmündedir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) ibraz  süresinin  bitmesinden  sonra  yapılan  ciro,alacağın temliki hükmündedir"
+ }
+]

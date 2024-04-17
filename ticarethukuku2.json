@@ -1,0 +1,220 @@
+[
+ {
+  "Question": "Poliçede asıl borçlu aşağıdakilerden hangisidir?",
+  "A": "A) Poliçeyi kabul eden muhatap",
+  "B": "B) Avalist",
+  "C": "C) Lehdar",
+  "D": "D) Ciranta",
+  "E": "E) Düzenleyen",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Poliçeyi kabul eden muhatap"
+ },
+ {
+  "Question": "Kıymetli evrakta yer alan hakkın, temel ilişkiden bağımsızlığını aşağıdakilerden hangisi ifade eder?",
+  "A": "A) Kıymetli evrakın içerdiği hakkın devredilebilir olması",
+  "B": "B) Kıymetli evrakta hak ve senet birlikteliği",
+  "C": "C) Kıymetli evrakta soyutluk ilkesi",
+  "D": "D) Kıymetli evakta sınırlı sayı ilkesi",
+  "E": "E) Kıymetli evrakın özel ve sıkı şekil şartlarına tabi olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kıymetli evrakta soyutluk ilkesi"
+ },
+ {
+  "Question": "Ticaret hukuku kurallarının oluşturulmasında \"tacir\" kavramını esas alan sistem aşağıdakilerden hangisidir?",
+  "A": "A) Objektif sistem ",
+  "B": "B) Modern sistem",
+  "C": "C) Sübjektif sistem",
+  "D": "D) Ticari iş sistemi",
+  "E": "E) Ticari işletme sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Sübjektif sistem"
+ },
+ {
+  "Question": "Bir teşebbüsün üretmiş olduğu mal ve hizmetleri diğer teşebbüslerin üretmiş olduğu mal ve hizmetlerden ayırt etmek için kullandığı işarete ne ad verilir?",
+  "A": "A) Ticaret unvanı",
+  "B": "B) Coğrafi işaret",
+  "C": "C) İşletme adı",
+  "D": "D) Marka",
+  "E": "E) Patent",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Marka"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi açıklayıcı kıymetli evrak değildir?",
+  "A": "A) Poliçe",
+  "B": "B) Konişmento",
+  "C": "C) Pay senedi",
+  "D": "D) Makbuz senedi",
+  "E": "E) İpotekli borç senedi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Poliçe"
+ },
+ {
+  "Question": "Ticari işlerde faizi belirleyen, irade bakımından yapılan faiz tasnifi aşağıdakilerden hangisidir?",
+  "A": "A) Akdi faiz — Kanuni faiz",
+  "B": "B) Anapara faizi — Temerrüt faizi",
+  "C": "C) Basit faiz — Bileşik faiz",
+  "D": "D) İskonto faizi — Cezai faiz ",
+  "E": "E) Tahvil faizi — Bono faizi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Akdi faiz — Kanuni faiz"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bağımsız tacir yardımcısıdır?",
+  "A": "A) Ticari temsilci",
+  "B": "B) Genel yetkili ticari vekil",
+  "C": "C) Özel yetkili ticari vekil",
+  "D": "D) Pazarlamacı",
+  "E": "E) Komisyoncu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Komisyoncu"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi adi ortaklığın infisahı sebebidir?",
+  "A": "A) Mahkeme kararı",
+  "B": "B) Ortaklardan birinin ölümü",
+  "C": "C) Ortaklardan birinin talebi",
+  "D": "D) Bir ortağın feshi ihbar etmesi",
+  "E": "E) Ortakların birlikte alacakları karar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ortaklardan birinin ölümü"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ticari işlemlerde taşınır rehni sözleşmesinde rehin borçlusu sıfatıyla yer alamaz?",
+  "A": "A) Tacir",
+  "B": "B) Esnaf",
+  "C": "C) Çiftçi",
+  "D": "D) Üretici örgütü",
+  "E": "E) Kamu görevlisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kamu görevlisi"
+ },
+ {
+  "Question": "Bir ticaret unvanı altında ticari işletme işletmek amacıyla, gerçek kişiler arasında kurulan ve ortaklarından hiçbirinin sorumluluğu şirket alacaklılarına karşı sınırlanmamış olan şirket aşağıdakilerden hangisidir?",
+  "A": "A) Adi şirket",
+  "B": "B) Kollektif şirket",
+  "C": "C) Komandit şirket",
+  "D": "D) Limited şirket",
+  "E": "E) Anonim şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kollektif şirket"
+ },
+ {
+  "Question": "Poliçeyi düzenleyen ile senedi ödeyecek olan muhatap arasındaki ilişkiye ne ad verilir",
+  "A": "A) Aval",
+  "B": "B) Karşılık",
+  "C": "C) Teminat",
+  "D": "D) Garanti",
+  "E": "E) Ciro",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Karşılık"
+ },
+ {
+  "Question": "Adi ortaklıkta ortakların, kendi veya üçüncü kişilerin menfaatleri için şirketin amacı ile bağdaşmayan veya şirkete zarar veren işleri yapmalarına ne ad verilir?",
+  "A": "A) Reklam yasağı",
+  "B": "B) Kötü niyet",
+  "C": "C) Haksız fiil",
+  "D": "D) Hükümsüzlük",
+  "E": "E) Rekabet yasağı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Rekabet yasağı"
+ },
+ {
+  "Question": "Ticaret şirketlerine getirilebilen aşağıdaki sermaye türlerinden hangişi ayni sermaye olarak nitelendirilir?",
+  "A": "A) Alacak",
+  "B": "B) Kıymetli evrak",
+  "C": "C) Ticari itibar ",
+  "D": "D) Ticari işletme ",
+  "E": "E) Kişisel emek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ticari işletme "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi haksız rekabete hâkim olan ilkelerden biri değildir?",
+  "A": "A) Tarafların rakip olma zorunluluğunun bulunması ",
+  "B": "B) Aldatıcı hareket veya dürüstlük kuralına aykırı bir davranışın bulunması",
+  "C": "C) Failin yarar sağlamasının şart olmaması",
+  "D": "D) Failin kusurunun aranmaması",
+  "E": "E) Zarar görme şartının bulunmaması",
+  "Answer": "A) Tarafların rakip olma zorunluluğunun bulunması "
+ },
+ {
+  "Question": "Kayda geçilmesi gereken işlemleri tarih sırasıyla ve maddeler hâlinde düzenli olarak yazmaya mahsus ticari defter aşağıdakilerden hangisidir?",
+  "A": "A) Pay defteri",
+  "B": "B) Yevmiye defteri",
+  "C": "C) Defteri kebir",
+  "D": "D) Karar defteri",
+  "E": "E) Envanter defteri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Yevmiye defteri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi anonim şirketin zorunlu organlarından biridir?",
+  "A": "A) Yönetim kurulu",
+  "B": "B) Denetim",
+  "C": "C) Müdürler kurulu",
+  "D": "D) Azınlık pay sahipleri kurulu",
+  "E": "E) İmtiyazlı pay sahipleri kurulu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Yönetim kurulu"
+ },
+ {
+  "Question": "l . Bono\nII.Poliçe\nIII.çek\nYukarıdaki kambiyo senedi türlerinden hangisinin ya da hangilerinin kredi işlevi vardır?",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) I ve II",
+  "D": "D) I ve III",
+  "E": "E) II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) I ve II"
+ },
+ {
+  "Question": "Şirketlerden hangisinin tüzel kişiliği bulunmaz?",
+  "A": "A) Adi şirket",
+  "B": "B) Kollektif şirket",
+  "C": "C) Anonim şirket",
+  "D": "D) Limited şirket",
+  "E": "E) Kooperatif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Adi şirket"
+ },
+ {
+  "Question": "Kambiyo senedi olarak aşağıdakilerden hangisi gösterilebilir?",
+  "A": "A) Pay senedi",
+  "B": "B) Makbuz senedi",
+  "C": "C) potekli borç senedi",
+  "D": "D) Konişmento",
+  "E": "E) Poliçe",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Poliçe"
+ },
+ {
+  "Question": "Ticari işlere uygulanacak hükümlerin sırası aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+  "A": "A) Sözleşme hükümleri —emredici hükümler — genel hükümler — ticari örf ve âdet —tamamlayıcı veya yorumlayıcı ticari hükümler",
+  "B": "B) Emredici hükümler — tamamlayıcı veya yorumlayıcı ticari hükümler —ticari örf ve âdet — sözleşme hükümleri — genel hükümler",
+  "C": "C) Emredici hükümler — sözleşme hükümleri —tamamlayıcı veya yorumlayıcı ticari hükümler— ticari örf ve âdet — genel hükümler",
+  "D": "D) Emredici hükümler — genel hükümler — sözleşme hükümleri ticari örf ve âdet —tamamlayıcı veya yorumlayıcı ticari hükümler",
+  "E": "E) Sözleşme hükümleri — genel hükümler —emredici hükümler ticari örf ve âdet — tamamlayıcı veya yorumlayıcı ticari hükümler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Emredici hükümler — sözleşme hükümleri —tamamlayıcı veya yorumlayıcı ticari hükümler— ticari örf ve âdet — genel hükümler"
+ }
+]

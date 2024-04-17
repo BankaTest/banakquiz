@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "TTK'ya göre aşağıdakilerden hangisi ticari defter tutmakla yükümlü biri değildir ?",
+  "A": "A) Tacirler",
+  "B": "B) Tacir gibi sorumlu olanlar",
+  "C": "C) Esnaflar",
+  "D": "A) Hâkim teşebbüs",
+  "E": "E) Tacir sayılanlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Esnaflar"
+ },
+ {
+  "Question": "Ticari defterlerin tutulması usulü ile ilgili olarak aşağıdakilerden hangisi sözlenemez?",
+  "A": "A) Defterlere yazımlar eksiksiz, doğru, zamanında ve düzenli olarak yapılmalıdır",
+  "B": "B) Kısaltma, rakam, harf ve semboller kullanıldığı takdirde bunların anlamlarının açıkça belirtilmesi gerekir",
+  "C": "C) Defterde yer alan kayıtlar, önceki içeriği belirlenemeyecek şekilde çizilemez, değiştirilemez",
+  "D": "D) Ticari defterler Türkçe veya Avrupa dillerinden biri ile tutulur",
+  "E": "E) Defterlerin açılış ve kapanış onayarının yapılması gerekir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ticari defterler Türkçe veya Avrupa dillerinden biri ile tutulur"
+ },
+ {
+  "Question": "Limited şirket en fazla kaç ortaktan oluşabilir?",
+  "A": "A) 10",
+  "B": "B) 20",
+  "C": "C) 30",
+  "D": "D) 40",
+  "E": "E) 50",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) 50"
+ },
+ {
+  "Question": "Kolektif şirketin işleyişi ile ilgili aşağıdakilerden hangisi yanlıştır ?",
+  "A": "A) Olağanüstü işlemler bakımından bütün ortakların olumlu oyu aranır",
+  "B": "B) Yönetim işleri, ticari mümessil ya da ticari vekil sıfatıyla, şirkete ortak olmayan birine bırakılabilir",
+  "C": "C) Birden fazla yönetici ortak, şirketi yönetmekle yükümlü olabilir",
+  "D": "D) Yönetici ortakların her biri olağan işleri yapmaya yetkilidir",
+  "E": "E) Şirket yöneticileri şirket adına teminat göstermeye yetkilidir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Şirket yöneticileri şirket adına teminat göstermeye yetkilidir"
+ },
+ {
+  "Question": "Ticaret unvanının oluşturulmasında Türk Hukuku'nda benimsenen sistem aşağıdakilerden hangisidir?",
+  "A": "A) Gerçeklik Sistemi",
+  "B": "B) Karma Sistem",
+  "C": "C) Objektif Sistem",
+  "D": "D) Modern Sistem ",
+  "E": "E) Serbesti Sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Karma Sistem"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi açıklayıcı kıymetli evrak değildir?",
+  "A": "A) Poliçe",
+  "B": "B) Konişmento",
+  "C": "C) Pay senedi",
+  "D": "D) Makbuz senedi",
+  "E": "E) İpotekli borç senedi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Poliçe"
+ },
+ {
+  "Question": "Düzenleyen, lehtar ve muhataptan oluşan üçlü havale ilişkisini içeren kambiyo senedi aşağıdakilerden hangisidir?",
+  "A": "A) Bono",
+  "B": "B) Poliçe",
+  "C": "C) Varant",
+  "D": "D) Tahvil",
+  "E": "E) İlmühaber",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Poliçe"
+ },
+ {
+  "Question": "Görüldüğünde ödenecek vadeli poliçelerin, muhataba ödenmek üzere ibraz süresi poliçenin düzenlenme tarihinden itibaren ne kadardır?",
+  "A": "A) 1 Ay",
+  "B": "B) 45 Gün",
+  "C": "C) 1 Yıl ",
+  "D": "D) 2 Yıl ",
+  "E": "E) 3 Yıl",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 1 Yıl "
+ },
+ {
+  "Question": "Türkiye'de kurulan ticaret şirketlerinin sayıları dikkate alındığında, aşağıdakilerden hangisinin daha yaygın olduğu söylenebilir?",
+  "A": "A) Kollektif şirket",
+  "B": "B) Anonim şirket",
+  "C": "C) Limited şirket",
+  "D": "D) Adi komandit şirket",
+  "E": "E) Sermayesi paylara bölünmüş komandit şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Limited şirket"
+ },
+ {
+  "Question": "Çek ile ilgili aşağıdakilerden hangisi yanlıştır? ",
+  "A": "A) Çek ancak belirli bir günde vadeli olabilir",
+  "B": "B) Çekte muhatap ancak bir banka olabilir",
+  "C": "C) Çek bir ödeme aracıdır",
+  "D": "D) Çekte araya girme suretiyle ödeme yoktur",
+  "E": "E) Çekte kabul müessesi yoktur",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Çek ancak belirli bir günde vadeli olabilir"
+ },
+ {
+  "Question": "Şirket sözleşmesinin, kural olarak şekil serbestisine tabi olduğu şirket türü aşağıdakilerden hangisidir?",
+  "A": "A) Anonim şirket ",
+  "B": "B) Limited şirket",
+  "C": "C) Kolektif şirket",
+  "D": "D) Kooperatif şirket",
+  "E": "E) Adi şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Adi şirket"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ticari işletmenin unsurlarından biri değildir?",
+  "A": "A) Gelir elde etme amacı",
+  "B": "B) Devamlılık",
+  "C": "C) Esnaf faaliyeti sınırını aşma",
+  "D": "D) Ticaret siciline tescil",
+  "E": "E) Bağımsızlık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ticaret siciline tescil"
+ },
+ {
+  "Question": "Adi komandit şirket en âz kaç kişi ile kurulabilir?",
+  "A": "A) 1",
+  "B": "B) 2",
+  "C": "C) 3",
+  "D": "D) 4",
+  "E": "E) 5",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 2"
+ },
+ {
+  "Question": "Çekte, düzenleyenin tek taraflı olarak muhataba vermiş olduğu ödeme yetkisini geri almasına ne ad verilir?",
+  "A": "A) Araya girme",
+  "B": "B) Protesto",
+  "C": "C) Retret",
+  "D": "D) Çekten cayma",
+  "E": "E) Aval",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Çekten cayma"
+ },
+ {
+  "Question": "Aşağıdaki alacak türlerinden hangisinin cari hesaba geçirilmesi mümkündür?",
+  "A": "A) Takası mümkün olmayan alacaklar",
+  "B": "B) Belirli bir amaca harcanmak üzere teslim edilen paradan doğan alacaklar",
+  "C": "C) Cari hesap sözleşmesinden önce var olan alacaklar ",
+  "D": "D) Para, mal, hizmet ve başkaca ilişkilerden doğan karşılıklı alacaklar",
+  "E": "E) Tarafların cari hesaba geçirilmesini istemediği alacaklar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Para, mal, hizmet ve başkaca ilişkilerden doğan karşılıklı alacaklar"
+ },
+ {
+  "Question": "Sermaye şirketleri ile ilgili aşağıdakilerden hangisi yanlıştır",
+  "A": "A) Şahısların kişilikleri geri planda, sermaye unsuru ise ön plandadır",
+  "B": "B) Kanunen belirlenen asgari bir sermaye şirketin kuruluşu için zorunludur",
+  "C": "C) Ortaklardan birinin ölümü, şirketin sona ermesine neden ",
+  "D": "D) Yönetim ve temsil, şirketin organlarına aittir",
+  "E": "E) Kâr dağıtımı, kural olarak ortakların sahip oldukları payların oranına göre yapılır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Ortaklardan birinin ölümü, şirketin sona ermesine neden "
+ },
+ {
+  "Question": "Kanunda belirtilen şartların yerine getirilmesi ile anonim şirket kurulabileceğini öngören kuruluş sistemi aşağıdakilerden hangisidir?",
+  "A": "A) İmtiyaz sistemi",
+  "B": "B) İzin sistemi",
+  "C": "C) Karma sistem",
+  "D": "D) Normatif sistem ",
+  "E": "E) Modern sistem",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Normatif sistem "
+ },
+ {
+  "Question": "Kambiyo senetlerinde temel borç ilişkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "A": "A) İfa uğruna edimde temel borç ilişkisi sona erer",
+  "B": "B) ) İfa yerine edimde temel borç ilişkisi devam eder",
+  "C": "C) Kambiyo senedinin ifa yerine verilmesi asıldır",
+  "D": "D) İfa yerine edimde ayni ve şahsi teminatlar sona ermez",
+  "E": "E) Kambiyo senedinin bir borç ilişkisi temelli düzenlenmesi gerekmez",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kambiyo senedinin bir borç ilişkisi temelli düzenlenmesi gerekmez"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tacir olmanın nimetlerinden biridir?",
+  "A": "A) İhbar ve ihtarları belirli şekillerde yapma",
+  "B": "B) Fatura ve teyit mektubuna sekiz gün içinde itiraz etme",
+  "C": "C) Fatura verme",
+  "D": "D) Ücret ve faiz isteme",
+  "E": "E) Basiretli bir iş adamı gibi hareket etme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ücret ve faiz isteme"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ayni sermaye olarak nitelendirilemez?",
+  "A": "A) Taşınır ve taşınmazlar",
+  "B": "B) Fikrî mülkiyet hakları",
+  "C": "C) Sermaye payları",
+  "D": "D) Para",
+  "E": "E) Taşınır ve taşınmazların faydalanma ve kullanma hakları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Para"
+ }
+]

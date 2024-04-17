@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Adi şirket ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "A": "A) En az yedi kişiyle kurulabilir",
+  "B": "B) Yalnızca gerçek kişiler ortak olabilir",
+  "C": "C) Tüzel kişiliği vardır",
+  "D": "D) Ortaklar arası güven ilişkisi önemlidir",
+  "E": "E) Adi şirketin iflası istenebilir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ortaklar arası güven ilişkisi önemlidir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi garanti markasına örnek olarak gösterilebilir? ",
+  "A": "A) ISO 9001",
+  "B": "B) Kayseri Şeker",
+  "C": "C) Fiskobirlik",
+  "D": "D) Apple",
+  "E": "E) Bosch",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) ISO 9001"
+ },
+ {
+  "Question": "Aşağıdaki şirketlerden hangisi iki kişi ile kurulamaz?",
+  "A": "A) Kollektif şirket",
+  "B": "B) Kooperatif",
+  "C": "C) Limitet şirket",
+  "D": "D) Adi komandit şirket ",
+  "E": "E) Anonim şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kooperatif"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi güvenli elektronik imza ile düzenlenebilir?",
+  "A": "A) Konişmento",
+  "B": "B) Varant",
+  "C": "C) Bono",
+  "D": "D) Poliçe",
+  "E": "E) Makbuz senedi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Konişmento"
+ },
+ {
+  "Question": "Bir tacirin ticari defterlerinin sahibi lehine delil olabilmesi için aşağıdakilerden hangisi aranmaz?",
+  "A": "A) Defter kayıtlarının aksinin kesin delillerle ispatlanmamış olması",
+  "B": "B) Her iki tarafin da defter tutma yükümlülüğüne tabi olması",
+  "C": "C) Ticari defterlerin eksiksiz ve usulüne uygun tutulmuş olması ",
+  "D": "D) Defterlerin yeminli mali müşavir tarafindan onaylanmış olması",
+  "E": "E) Defterlerdeki kayıtların birbirini doğrulaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Defterlerin yeminli mali müşavir tarafindan onaylanmış olması"
+ },
+ {
+  "Question": "Tacirler, ticari defterlerini ne kadar süreyle saklamakla yükümlüdür?",
+  "A": "A) 1 Yıl",
+  "B": "B) 3 Yıl",
+  "C": "C) 5 Yıl ",
+  "D": "D) 8 Yıl",
+  "E": "E) 10 Yıl",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) 10 Yıl"
+ },
+ {
+  "Question": "Ticaret siciline tescil için talepte bulunma süresi kural olarak ne kadardır",
+  "A": "A) 7 Gün ",
+  "B": "B) 10 Gün ",
+  "C": "C) 15 Gün ",
+  "D": "D) 20 Gün ",
+  "E": "E) 30 Gün ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 15 Gün "
+ },
+ {
+  "Question": "Marka sahibinin gözetim ve ğeneöminde kullanılan ve markayı kullanmaya yetkili olan işletmelerin ürettikleri ürünlerin üretim usülleri, coğrafi menşei ve ortak özellikleri bakımından belirli standartlarda olduğunu gösteren markaya ne ad verilir?",
+  "A": "A) Hizmet markası ",
+  "B": "B) Garanti parkası",
+  "C": "C) Ticaret markası",
+  "D": "D) Ferdî marka",
+  "E": "E) Ortak marka",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Garanti parkası"
+ },
+ {
+  "Question": "Bir para alacağından belirli bir süre yoksun kalma karşılığı vadeye kadar işletilen faize ne ad verilir?",
+  "A": "A) Temerrüt faizi",
+  "B": "B) Ana para faizi",
+  "C": "C) Akdî faiz",
+  "D": "D) Bileşik faiz",
+  "E": "E) Kanuni faiz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ana para faizi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi işletmenin muhasebesi ile ilgili olan ticari defterlerden biridir?",
+  "A": "A) Pay defteri",
+  "B": "B) Yönetim kurulu karar defteri",
+  "C": "C) Genel kurul toplantı ve müzakere defteri",
+  "D": "D) Müdürler kurulu karar defteri",
+  "E": "E) Yevmiye defteri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yevmiye defteri"
+ },
+ {
+  "Question": " l . Oy kullanma hakkı\nII. Rüçhan hakkı\nIII. Kârdan pay alma hakkı\nYukarıdakilerden hangisi ya da hangileri limited şirket ortaklarının hakları arasında yer alır?",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) I ve II",
+  "D": "D) I ve III",
+  "E": "E) I,II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) I,II ve III"
+ },
+ {
+  "Question": "Kollektif şirket sözleşmesinde aşağıdaki kayıtlardan hangisi yer alamaz?",
+  "A": "A) Komanditer ortakların ad ve soyadları",
+  "B": "B) Şirketin ticaret unvanı ve merkezi",
+  "C": "C) Şirketin işletme konusu",
+  "D": "D) Şirketi kimlerin temsile yetkili olduğu ",
+  "E": "E) Ortakların taahhüt ettikleri sermaye",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Komanditer ortakların ad ve soyadları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ortakların haklarından değildir?",
+  "A": "A) Katılım Payı (Sermaye) Borcu",
+  "B": "B) Kazanca, Zarara ve Tasfiye Sonucuna Katılma",
+  "C": "C) Gider, Faiz İsteme Hakkı",
+  "D": "D) İnceleme (Denetleme) Hakkı",
+  "E": "E) Ücret İsteme Hakkı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Katılım Payı (Sermaye) Borcu"
+ },
+ {
+  "Question": "Ticari işletmenin devri ve başka bir işletme ile birleşmesine ilişkin genel hükümler, aşağıdaki kanun ikilemelerinden hangisinde yer alır?",
+  "A": "A) Türk Medeni Kanun – Türk Ticaret Kanunu",
+  "B": "B) Ticari İşletme Rehni Kanunu - Türk Ticaret Kanunu",
+  "C": "C) Sermaye Piyasası Kanunu – Türk Ticaret Kanunu",
+  "D": "D) Rekabetin Korunması Hakkında Kanun – Türk Ticaret Kanunu",
+  "E": "E) Türk Borçlar Kanunu – Türk Ticaret Kanunu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Türk Borçlar Kanunu – Türk Ticaret Kanunu"
+ },
+ {
+  "Question": "Ticari işletme ile esnaf işletmesini birbirinden ayıran en temel özellik aşağıdakilerden hangisidir?",
+  "A": "A) Gelir düzeyi",
+  "B": "B) Faaliyetlerin devamlılığı",
+  "C": "C) Gelir amacının varlığı",
+  "D": "D) Faaliyetlerin bağımsızlığı",
+  "E": "E) Meslek odalarına üyelik",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Gelir düzeyi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi şirketin (ortaklık) unsurlarından biri değildir?",
+  "A": "A) Kişi",
+  "B": "B) Sözleşme",
+  "C": "C) Telif Hakkı",
+  "D": "D) Sermaye",
+  "E": "E) Ortak amaç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Telif Hakkı"
+ },
+ {
+  "Question": "Aşağıdakilerden davalardan hangisinde, Ticaret Kanununa göre ticari defterlerin teslimi istenmez?",
+  "A": "A) İflas davası",
+  "B": "B) İsim tashihi davası",
+  "C": "C) Miras davası",
+  "D": "D) Mal ortaklığı davası",
+  "E": "E) Şirket tasfiyesi davası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İsim tashihi davası"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinde bir ticari yardımcının türlerinden birisi olamaz?",
+  "A": "A) Ticari mümessil",
+  "B": "B) Ticari vekil",
+  "C": "C) İşletme ortağı",
+  "D": "D) Ticari temsilci",
+  "E": "E) Acente",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İşletme ortağı"
+ },
+ {
+  "Question": "Aşağıdaki ortaklıklardan hangisinde ortaklar, ortaklık borçlarından dolayı birinci derecede sorumludurlar?",
+  "A": "A) Kollektif ortaklık",
+  "B": "B) Adi komandite ortaklık",
+  "C": "C) Adi ortaklık",
+  "D": "D) Limited ortaklık",
+  "E": "E) Anonim ortaklık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Adi ortaklık"
+ },
+ {
+  "Question": "Ticaret şirketleri kaç grupta incelenir?",
+  "A": "A) 5",
+  "B": "B) 6",
+  "C": "C) 7",
+  "D": "D) 3",
+  "E": "E) 2",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 5"
+ }
+]
