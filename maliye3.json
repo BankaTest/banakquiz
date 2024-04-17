@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi maliyenin amaçları arasında yer alan ekonomik istikrarın sağlanmasında eş-anlı olarak gerçekleştirilmesi gerekir?",
+  "A": "A) İstihdam-Fiyat istikrarı",
+  "B": "B) Toplam talep-TopIam arz",
+  "C": "C) İşsizlik-Büyüme",
+  "D": "D) İhracat-ithalat",
+  "E": "E) Büyüme-KaIkınma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İstihdam-Fiyat istikrarı"
+ },
+ {
+  "Question": "Kamu mallarının üretiminin belirlenmesinde bireylerin taleplerini açıklamak istememelerinin nedeni aşağıdakilerden hangisidir?",
+  "A": "A) Kamusal malların bölünememesi",
+  "B": "B) Kamusal malların rekabete açık olmaması",
+  "C": "C) Kamusal malların piyasadan karşılanamaması",
+  "D": "D) Kamusal malların faydasının özel mallardan fazla olması",
+  "E": "E) Sunulan her bir kamusal malın vergi olarak dönmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Sunulan her bir kamusal malın vergi olarak dönmesi"
+ },
+ {
+  "Question": "Reel harcama transfer harcamaları sınıflandırmasıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+  "A": "A) Transfer harcamaları karşılığı olmayan harcamalardır",
+  "B": "B) Transfer harcamaları analitik sınıflandırma içinde yer alır",
+  "C": "C) Reel harcamalar ekonomik sınıflandırma içinde yer alır",
+  "D": "D) Reel harcamaların genişletici etkisi transfer harcamalarından daha büyüktür",
+  "E": "E) Reel harcamalar verimli harcamalardır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Transfer harcamaları analitik sınıflandırma içinde yer alır"
+ },
+ {
+  "Question": "Kamusal mal ve hizmetlerin karşılığı olarak alınan vergilerin tespiti hangi esasa göre yapılmaktadır?",
+  "A": "A) Fiyat",
+  "B": "B) Kar",
+  "C": "C) Fayda",
+  "D": "D) Maliyet",
+  "E": "E) Ödeme gücü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Ödeme gücü"
+ },
+ {
+  "Question": "l. Rekabet Kurumu Başkanlığı\nII.Kamu İhale Kurumu\nIII.Türkiye Bilimsel ve Teknolojik Araştırma Kurumu\nIV.ürkiye Radyo ve Televizyon Kurumu\n Yukarıdakilerden hangileri bağımsız düzenleyici ve denetleyici kurumlardır?",
+  "A": "A) I ve II",
+  "B": "B) II ve III",
+  "C": "C) III ve IV",
+  "D": "D) II, III ve IV",
+  "E": "E) I, II, ve IV",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) I ve II"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi parafiskal kurumların özellikleri arasında değildir?",
+  "A": "A) Hizmetlerinden herkes yararlanabilir",
+  "B": "B) Hizmetlerini kendi bütçeleri ile karşılarlar",
+  "C": "C) Gelirleri kendi bütçesi içinde yer alır",
+  "D": "D) Gelirleri vergi benzeri gelir olarak adlandırılır",
+  "E": "E) Genel yönetim bütçesi içinde yer alırlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Hizmetlerinden herkes yararlanabilir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kamu harcamalarının fonksiyonel sınıflandırmasının amaçları arasında yer almaz?",
+  "A": "A) Kamu hizmetlerinin maliyetinin belirlenmesi",
+  "B": "B) Devletin görev olarak ne kadar harcama yaptığının belirlenmesi",
+  "C": "C) Harcamaları yapan kuruluşun önemli olmaması",
+  "D": "D) Harcamalarının ekonomi etkilerinin belirlenmesi",
+  "E": "E) Harcamalarda verimlilik ve etkinliğin sağlanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Harcamalarının ekonomi etkilerinin belirlenmesi"
+ },
+ {
+  "Question": "Milli Eğitim Bakanlığı'nın öğrencilere ücretsiz dağıtacağı elektronik kitap uygulaması aşağıdaki harcamalardan hangisinin içinde yer alır?",
+  "A": "A) Cari harcama",
+  "B": "B) Yatırım harcaması",
+  "C": "C) Transfer harcaması ",
+  "D": "D) Kalkınma carisi harcama",
+  "E": "E) Sermaye carisi harcama",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kalkınma carisi harcama"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi maliye politikası araçlarından değildir?",
+  "A": "A) Kamu Harcamaları",
+  "B": "B) Vergiler",
+  "C": "C) Kamu Borçlanması",
+  "D": "D) Bütçe",
+  "E": "E) Açık Piyasa İşlemleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Açık Piyasa İşlemleri"
+ },
+ {
+  "Question": "Belli bir kamu harcamasının kendisinin birkaç katı gelir artışı yarattığını gösteren çarpan aşağıdakilerden hangisidir?",
+  "A": "A) Basit Çarpan",
+  "B": "B) Süper Çarpan",
+  "C": "C) Denk Bütçe Çarpanı ",
+  "D": "D) Dış Ticaret Çarpanı",
+  "E": "E) Kamu Harcamaları Çarpan",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kamu Harcamaları Çarpan"
+ },
+ {
+  "Question": "Basit tanımıyla devletin yaptığı harcamalardaki artışı topladığı vergilerle karşılaması sonucunda toplam talebin bütçe miktarı kadar artması olarak tanımlanan denk bütçe çarpanı kaçtır?",
+  "A": "A) 3",
+  "B": "B) 2",
+  "C": "C) 1",
+  "D": "D) 0,5",
+  "E": "E) 0,25",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 1"
+ },
+ {
+  "Question": "Ekonomik dengenin sağlanması ve sürdürülmesinde kendiliğinden fonksiyon gören, denge sağlayıcı etkiler yaratan bazı mali kurumlar vardır ve bunlara otomatik stabilizatör denilmektedir. Aşağıdakilerden hangisi otomatik stabilizatörlere örnektir?",
+  "A": "A) Tüketici kredileri",
+  "B": "B) Devlet harcamaları",
+  "C": "C) Dış ticaret fazlası",
+  "D": "D) Emisyon",
+  "E": "E) Artan oranlı gelir vergisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Artan oranlı gelir vergisi"
+ },
+ {
+  "Question": "Kanuni mükellefi tarafından ödenen bir verginin fiyat mekanizması aracılığı ile kısmen veya tamamen üçüncü şahıslara aktarılmasını anlatan terim aşağıdakilerden hangisidir?",
+  "A": "A) Verginin tarhı",
+  "B": "B) Verginin tahakkuku",
+  "C": "C) Verginin tebliği",
+  "D": "D) Verginin yansıması",
+  "E": "E) Verginin ötelenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Verginin yansıması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yarı-kamusal bir malın özelliği değildir?",
+  "A": "A) Yarı kamusal mallar, bölünebilme, tüketimden dışlanabilme ve dolayısıyla belli bir fiyatla arz edilebilme özelliklerine sahip olma açısından özel mallara benzer",
+  "B": "B) Yarı kamusal mallar özel mallardan farklı olarak toplumsal açıdan önemli boyutlarda pozitif dışsallıklara sahip olan mallardır",
+  "C": "C) Yarı kamusal mal ve hizmetler, üretimde ve tüketimdeki yarattıkları pozitif dışsallıkları nedeniyle, piyasada üretilip pazarlanmakta ve dolayısıyla fiyat karşılığı tüketiciye sunulmakta olduğu halde, aynı zamanda kamu üretim birimlerince de üretilirler",
+  "D": "D) Bu mal ve hizmetlerin faydası, onu tüketen kişilerin dışına da yayılır",
+  "E": "E) Yarı kamusal malın tüketiminin neden olduğu dışsal fayda toplumun bütün bireylerine yayılır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yarı kamusal malın tüketiminin neden olduğu dışsal fayda toplumun bütün bireylerine yayılır"
+ },
+ {
+  "Question": "Bütçede birlik ilkesinin açılımı aşağıdakilerden hangisidir?",
+  "A": "A) Bütün gelir ve harcamaların bütçede ayrı ayrı gösterilmesini ifade eder",
+  "B": "B) Bütçenin gelir ve harcama tahminleri, mümkün olduğu kadar gerçeklere uygun sonuçlar verebilmelidir",
+  "C": "C) Bütçede gelir ve harcamalarla ilgili yer alan bilgilerin mümkün olduğu kadar açık olması, ilgi duyan herkesin anlayabileceği şekilde hazırlanması gerekir",
+  "D": "D) Bütçede her yıl yapılacak harcamalar için ödenek ayrılması ilkesidir",
+  "E": "E) Kamu sektörünün bütün gelir ve harcamalarını içeren tek bir bütçe hazırlanması anlamına gelir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kamu sektörünün bütün gelir ve harcamalarını içeren tek bir bütçe hazırlanması anlamına gelir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi maliye politikası araçlarından biri değildir?",
+  "A": "A) Kamu harcamaları ",
+  "B": "B) Vergiler",
+  "C": "C) Transfer harcamaları ",
+  "D": "D) Reeskont olanağı",
+  "E": "E) Borçlanma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Reeskont olanağı"
+ },
+ {
+  "Question": "KDV' nin yürürlüğe girdiği tarih aşağıdakilerden hangisidir?",
+  "A": "A) 1956",
+  "B": "B)  1978",
+  "C": "C) 1982",
+  "D": "D) 1985",
+  "E": "E) 2002",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 1985"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, fayda ve maliyet  analizinde, karar vermede kullanılan yatırım kriterlerinden biri değildir?",
+  "A": "A)  İlk değer ölçütü",
+  "B": "B)  Kesin dönem ölçütü",
+  "C": "C) Geri ödeme dönemi ölçütü",
+  "D": "D) Yıllık ortalama getiri ölçütü",
+  "E": "E) Net bugünkü değer ölçütü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)  İlk değer ölçütü"
+ },
+ {
+  "Question": "Türkiye'de kuruluşların yatırım projeleri aşağıdakilerden hangisi tarafından onaylanır?",
+  "A": "A) Hazine Müsteşarlığı",
+  "B": "B) ilgili kuruluşların yürütme organları",
+  "C": "C) Sanayi ve Ticaret Bakanlığı",
+  "D": "D)  Dış Ticaret Müsteşarlığı",
+  "E": "E)  Devlet Planlama Teşkilatı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E)  Devlet Planlama Teşkilatı"
+ },
+ {
+  "Question": "Katma değer vergisi tahsilatında olduğu gibi, vergi yasalarınca ödeyeceği vergiyi bir başkasından alıp, kendi ad ve hesabına vergi dairesine ödeyerek, biçimsel ve parasal yükümlülük yüklenen kişiye ne ad verilir?",
+  "A": "A)  Aracı yükümlü",
+  "B": "B)  Vergi sorumlusu",
+  "C": "C)  Vergi yansıtıcısı",
+  "D": "D) Sorumlu yükümlü",
+  "E": "E) Vergi yüklenicisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Sorumlu yükümlü"
+ }
+]

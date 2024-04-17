@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi maliyenin temel ekonomik amaçları arasında yer almaz?",
+  "A": "A)  Ekonomik istikrar",
+  "B": "B) Bölüşümde etkinlik",
+  "C": "C) Üretimde etkinlik",
+  "D": "D) Ödemeler bilançosundaki istikrar",
+  "E": "E) Kaynak tahsisinde etkinlik",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ödemeler bilançosundaki istikrar"
+ },
+ {
+  "Question": "Kamu gider ve gelirlerinin merkezi idare ve mahalli idareler arasında bölüştürülmesine ne ad verilir?",
+  "A": "A) Konversiyon",
+  "B": "B) Konsolidasyon",
+  "C": "C) Mali tevzin",
+  "D": "D) Tahkim",
+  "E": "E) Röfinansman",
+  "Image": 1,
+  "Explaination": "Merkezi yönetim ve yerel yönetimler arasındaki gelir — gider bölüşümüne Mali Tevzin (mali denkleştirme) adı verilir",
+  "Answer": "C) Mali tevzin"
+ },
+ {
+  "Question": "Adi komandit şirketlerde komanditer ortağın kar payı aşağıdaki kazanç türlerinden hangisi içinde yer alır?",
+  "A": "A)  Serbest meslek kazancı",
+  "B": "B) Menkul sermaye iradı",
+  "C": "C) Gayrimenkul sermaye iradı",
+  "D": "D) Diğer kazanç ve irat",
+  "E": "E) Ticari kazanç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Menkul sermaye iradı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tam kamusal malların özelliklerinden biri değildir?",
+  "A": "A) Zorunlu devlet gelirleri ile finanse edilmesi",
+  "B": "B)  Tüketiminde rekabet olması",
+  "C": "C) Kamu bütçelerince dağıtılması",
+  "D": "D) Dışlama maliyetlerinin yüksek olması",
+  "E": "E) Doğrudan kamu tarafından üretilmesi",
+  "Image": 1,
+  "Explaination": "Toplumsal ihtiyaçların giderilmesine yönelik olan bölünemeyen ve faydasından kimsenin mahrum bırakılamadığı ve üretimine de siyasi otoritenin karar verdiği mal ve hizmetlere \"tam kamusal mal denir. Örneğin: Adalet, Zorunlu Eğitim, Koruyucu Sağlık, Diplomasi, Güvenlik,\nSavunma gibi. Tam kamusal malların aşağıda\nsunulan özelliklerinden de anlaşılacağı üzere cevap\n(B) şıkkıdır\n-\tFaydası bölünemez. Pazarlanamaz.\nVergilerle (zorunlu devlet gelirleri ile) finanse edilir. Beleşçilik (freereader) davranışı vardır. - Tüketimde rekabet yoktur,\n-\tSiyasi otorite üretimine karar verir ve üretir.\n-\tKamu bütçelerince dağıtılır\n-\tDışlama maliyetleri yüksektir",
+  "Answer": "B)  Tüketiminde rekabet olması"
+ },
+ {
+  "Question": "Ödeme gücüne göre vergilemede bireyler, kamu malından elde ettikleri faydadan daha fazla ödeme yaptıklarında aşağıdaki durumlardan hangisi ortaya çıkar?",
+  "A": "A) Mali rant",
+  "B": "B) Fayda fiyatlaması",
+  "C": "C) Lindahl fiyatı",
+  "D": "D) Mali sömürü",
+  "E": "E) Kısmi denge analizi",
+  "Image": 1,
+  "Explaination": "Siyasi otorite kamusal mal ve hizmetlerden kimlerin ne kadar yararlanacağına karar verebilmektedir. Vergilerin toplanmasında ölçü, hizmetlerden elde edilen fayda (Lindahl Fiyatı) değil kişilerin ödeme gücüdür. Böylece kişilerin yaptığı vergi ödemesinin faydası ile yararlanılan kamu hizmetlerinin faydası arasında orantısızlık ortaya çıkmakta, bu orantısızlık mali rant ve mali sömürü kavramalarıyla açıklanmaktadır.\nMali rant, ödenen vergi payının faydasının yararlanılan kamu hizmetlerinin faydasından düşük olmasını ifade eder.\nMali sömürü ise yararlanılan kamu hizmetlerinin faydasının ödenen verginin faydasından düşük olmasıdır.\nYani toplumda bazı kesimler kamusal hizmetlerden daha az yararlandığı halde daha fazla vergi öderler (Mali Sömürü), bazı kesimler de kamusal hizmetlerden daha fazla yararlanırken daha az vergi öderler (Mali Rant",
+  "Answer": "D) Mali sömürü"
+ },
+ {
+  "Question": "Aşağıdaki bütçeleme sistemlerinden hangisinde, kamu hizmetlerinin miktar ve niteliklerinden daha çok hizmetleri yapacak örgütlerin ihtiyaçları dikkate alınır?",
+  "A": "A) Performans bütçe sistemi",
+  "B": "B) Geleneksel bütçe sistemi",
+  "C": "C) Program bütçe sistemi",
+  "D": "D) Sıfır temelli bütçeleme sistemi",
+  "E": "E) Planlama programlama bütçeleme sistemi ",
+  "Image": 1,
+  "Explaination": "Klasik devlet ve maliye fonksiyonlarına bağlı olarak ortaya çıkan Geleneksel bütçe sisteminde bütçe ödenekleri daha ziyade hizmeti yapacak olan kurum veya örgütlerin ihtiyaçlarına göre ayarlanır. Diğer bir ifadeyle verilen bütçe ödenekleri ile kamu birimlerinin bir yıllık süre içinde cari veya rutin işlerinin karşılanması amaçlanmaktadır.\nBu bütçe sisteminde bütçe amaçlarının belirlenip gerçekleştirilmesine gereken önem verilmez. Bütçede fonksiyonel olarak hizmetler değil, sadece harcama kalemleri ve bu kalemlerden ne kadar harcama yapılabileceği görülür, bütçe ile bütçeplan ilişkisi kurulmaz. Geleneksel bütçe sisteminin aksaklıklarını gidermek için \"performans bütçe\",\n\"program bütçe\" ve \"Planlama-ProgramlamaBütçeleme Sistemi( PBS)” gibi yeni bütçe sistem ve teknikleri geliştirilmiştir. Cevap B şıkkıdır.",
+  "Answer": "B) Geleneksel bütçe sistemi"
+ },
+ {
+  "Question": "Verginin kapitalizasyonu ne demektir?",
+  "A": "A) Tahsil edilen vergilerin devlet tarafından yatırımlara yöneltilmesi",
+  "B": "B) Herhangi bir dayanıklı mal veya kıymetli evrakın sermaye değeri ya da iradı üzerine konulan bir vergi nedeniyle sermaye değerinin düşmesi",
+  "C": "C) Dayanıklı bir mal ya da kıymetli evrakın sermaye değeri veya iradı üzerinden alınan bir verginin kaldırılması ile sermaye değerinin yükselmesi",
+  "D": "D) Vergilerin yükümlülere iade edilmesi",
+  "E": "E) Verginin geriye yansıması neticesinde sermaye değerinin düşmesi",
+  "Image": 1,
+  "Explaination": "Verginin Kapitalizasyonu; Sermayenin verimini azaltan verginin, sermaye değerinindüşmesi sebebiyle bu sermayenin sonraki alıcıları tarafından telafi edilmesi olayıdır. Sermayenin değeri, onun verimi ile belirlenir. Verimin bir kısmını devlete aktarma söz konusu olup bu sebeple, sermayenin değerinin düşmesi söz konusu olmaktadır. Bu sermayeyi sonradan eline geçirmek isteyen kişiler, onu ancak bu düşmüş değeri ile satın almak istediklerinden vergiden etkilenmemiş olacaktır. Dolayısıyla verginin yükü, vergi ödendiği sırada sermayeyi elinde tutan mükellefin üstünde kalmaktadır. Dayanıklı tüketim mallarının, vergi istisnasından kısmen veya tamamen yararlanması ile değerinde meydana gelen artışa verginin kapitalizasyonu denmektedir.",
+  "Answer": "C) Dayanıklı bir mal ya da kıymetli evrakın sermaye değeri veya iradı üzerinden alınan bir verginin kaldırılması ile sermaye değerinin yükselmesi"
+ },
+ {
+  "Question": "Bir gelir vergisi tarh edildikten sonra, defter ve belgelere ve kanuni ölçülere göre bulunan matrah farkı üzerinden vergi tarh olunmasına ne ad verilir?",
+  "A": "A) İdarece tarhiyat",
+  "B": "B) Beyan esasına göre tarhiyat",
+  "C": "C)  Basit usulde tarhiyat",
+  "D": "D) Reysen vergi tarhı",
+  "E": "E) İkmalen vergi tarhı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) İkmalen vergi tarhı"
+ },
+ {
+  "Question": "Kamu yönetiminde, eldeki kaynaklarla en çok hizmet çıktısının amaçlandığı bütçe sistemi aşağıdakilerden hangisidir?",
+  "A": "A) Örgüt bütçesi",
+  "B": "B) Geleneksel bütçe",
+  "C": "C) Program bütçe",
+  "D": "D) Performans bütçe",
+  "E": "E) Sıfır temelli bütçe",
+  "Image": 1,
+  "Explaination": "Kamu yönetiminde, eldeki kaynaklarla en çok hizmet çıktısının amaçlandığı bütçe sistemine performans bütçesi denir",
+  "Answer": "D) Performans bütçe"
+ },
+ {
+  "Question": "Klasik maliyeciler tarafından savunulan \"kamu gelirlerinin tarafsızlığı” görüşü aşağıdakilerden",
+  "A": "A) Kamu gelirleri bireylerden gelirleri ölçüsünde toplanmalıdır",
+  "B": "B) Kamu gelirleri mümkün olduğunca fazla olmalıdır",
+  "C": "C) Kamu gelirleri bireylerden kamu hizmetlerinden faydalanmaları ölçüsünde alınmalıdır",
+  "D": "D) Kamu gelirleri bireylerin ekonomik kararlarını etkilememelidir",
+  "E": "E) Kamu gelirleri bireyler arasında eşit paylaştırılmalıdır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kamu gelirleri bireylerin ekonomik kararlarını etkilememelidir"
+ },
+ {
+  "Question": "Bütçede belirli kaynaklardan elde edilen gelirlerin, belirli harcamaların karşılığı olarak ayrılmaması ilkesi aşağıdakilerden hangisidir?",
+  "A": "A) Birlik ilkesi",
+  "B": "B) Tahsis ilkesi",
+  "C": "C) Açıklık ilkesi",
+  "D": "D) Genellik ilkesi",
+  "E": "E) Adem- i tahsis ilkesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Adem- i tahsis ilkesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, Türkiye'de son yıllarda kamu harcamalarının ekonomik sınıflaması içerisinde en yüksek payı transfer harcamalarının almasının nedenlerinden biridir?",
+  "A": "A) Cari harcamaların azalması",
+  "B": "B) Yatırım harcamalarının artması",
+  "C": "C) Devlet personel sayısının artması",
+  "D": "D) Faiz ödemelerinin artması",
+  "E": "E) Kamu gelirlerinin artması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Faiz ödemelerinin artması"
+ },
+ {
+  "Question": "Temel amacı kamu kesiminde kullanılan girdileri sıkı bir şekilde denetlemek olan bütçe sistemi aşağıdakilerden hangisidir?",
+  "A": "A) Program bütçe sistemi",
+  "B": "B) Geleneksel bütçe sistemi",
+  "C": "C) Performans bütçe sistemi",
+  "D": "D) Sıfır-temelli bütçeleme sistemi",
+  "E": "E) Yönetim bütçe sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Geleneksel bütçe sistemi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi gelir vergisinin dağılımı politikasına ilişkin etkinliğini sınırlandıran faktörlerden biri değildir?",
+  "A": "A) Artan oranlı tarife yapısının kullanılması",
+  "B": "B) İndirimlere izin verilmesi",
+  "C": "C) Vergiye tabi kazanç ve iratların kapsamının dar tutulması",
+  "D": "D) Vergiden kaçınmanın fazla olması",
+  "E": "E) Vergi kaçakçılığının yaygın olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Artan oranlı tarife yapısının kullanılması"
+ },
+ {
+  "Question": "1982 Anayasasının 73. maddesinde \"herkes kamu giderlerini karşılamak üzere, mali gücüne göre, vergi ödemekle yükümlüdür\" hükmü ile aşağıdaki vergileme ilkelerinden hangisi anayasa kuralı haline getirilmiştir?",
+  "A": "A) Genellik ilkesi",
+  "B": "B) Adalet ilkesi",
+  "C": "C) Esneklik ilkesi",
+  "D": "D) Birlik ilkesi",
+  "E": "E) Ödeme gücü ilkesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Ödeme gücü ilkesi"
+ },
+ {
+  "Question": "Belirli bir dönemde ödenen vergilerden kamusal hizmetler sonucu elde edilen kamusal yararın düşülmesi sonucu bulunan vergi yükü kavramı aşağıdakilerden hangisidir?",
+  "A": "A) Bireysel vergi yükü ",
+  "B": "B) Gerçek vergi yükü",
+  "C": "C) Sektörel vergi yükü ",
+  "D": "D) Net vergi yükü",
+  "E": "E) Toplam vergi yükü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Net vergi yükü"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ülkemizde uygulanan değer esasına dayalı vergilerden biri değildir?",
+  "A": "A) Motorlu taşıtlar vergisi ",
+  "B": "B) Gelir vergisi",
+  "C": "C) Kurumlar vergisi",
+  "D": "D) Katma değer vergisi",
+  "E": "E) Emlak vergisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Motorlu taşıtlar vergisi "
+ },
+ {
+  "Question": "Vergilendirmede \"yatay adalet\" kavramı aşağıdakilerden hangisini ifade eder?",
+  "A": "A) Aynı vergi ödeme gücüne sahip bireylerin farklı şekilde vergilendirilmesini",
+  "B": "B) Farklı vergi ödeme gücüne sahip bireylerin aynı şekilde vergilendirilmesini",
+  "C": "C) Aynı vergi ödeme gücüne sahip bireylerin aynı şekilde vergilendirilmesini",
+  "D": "D) Bireylerin ödeme güçlerine göre vergi vermesini",
+  "E": "E) Kamu hizmetlerinden elde edilen fayda oranında vergilendirme yapılmasını",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Aynı vergi ödeme gücüne sahip bireylerin aynı şekilde vergilendirilmesini"
+ },
+ {
+  "Question": "AşağıdakiIerden hangisi merkezi idarenin mahalli idareler üzerindeki idari vesayet yetkisine sahip olmasının amaçlarından biri değildir?",
+  "A": "A) Kamu görevlerinde birliğin sağlanması",
+  "B": "B) Mahalli hizmetlerin, idarenin ilkesine uygun şekilde yürütülmesi",
+  "C": "C) Mahalli ihtiyaçların gereği gibi karşılanması",
+  "D": "D) Toplum yararının korunması",
+  "E": "E) Yerel yönetimlere özerklik verilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yerel yönetimlere özerklik verilmesi"
+ },
+ {
+  "Question": "Monetarist iktisatçılara göre ekonomik istikrar için nasıl bir politika izlenmelidir?",
+  "A": "A) Faiz oranları düşük tutulmalıdır",
+  "B": "B) Para arzı sabit bir oranda artırılmalıdır",
+  "C": "C)  politikası uygulanmalıdır",
+  "D": "D) Gelirler politikası uygulanmalıdır",
+  "E": "E) Talep politikası kullanılmalıdır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Para arzı sabit bir oranda artırılmalıdır"
+ }
+]
