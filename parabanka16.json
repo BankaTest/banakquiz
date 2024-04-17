@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Faiz haddi yükseldikçe elde para tutmanın fırsat maliyeti için ne söylenebilir?",
+  "A": "A) Artar",
+  "B": "B) Azalır",
+  "C": "C) Önce artar sonra azalır",
+  "D": "D) Değişmez",
+  "E": "E) Önce azalır sonra artar",
+  "Image": 1,
+  "Explaination": "Elde para tutmanın fırsat maliyeti faiz oranı ile doğru yönlüdür.\nFaiz oranı arttıkça kişiler tasarruflarını elde tutmak istemezler,\nborç ver-mek isterler. Bu durumda fon arzı artar. Fon ta-lebi (kredi\nalanlar) ise azalır. Doğru yanıt A dır",
+  "Answer": "A) Artar"
+ },
+ {
+  "Question": "T.C. Merkez Bankası’nın pay senetlerinden hangileri Hazine Müsteşarlığı’na aittir?",
+  "A": "A) A grubu pay senetleri",
+  "B": "B) B grubu pay senetleri",
+  "C": "C) C grubu pay senetleri",
+  "D": "D) A ve C grubu pay senetleri",
+  "E": "E) D grubu pay senetleri",
+  "Image": 1,
+  "Explaination": "A sınıfı pay senetleri Hazine’ye aittir. B sınıfı pay senetleri mili\nbankalara, C sınıfı pay senet-leri diğer banka ve imtiyazlı şirketlere,\nD sınıfı pay senetleri T.C vatandaşlarına aittir. Doğru yanıt A dır ",
+  "Answer": "A) A grubu pay senetleri"
+ },
+ {
+  "Question": "Kaydi Para tanımı aşağıdakilerden hangisidir?",
+  "A": "A) Bankaların, mevduatlarından bağımsız olarak ayırdıkları\nkarşılıklardır",
+  "B": "B) Bankaya yatırılan mevduatların, kanuni karşılık miktarı\ndüşüldükten sonra tekrar kredi olarak verilmesidir",
+  "C": "C) Hazine’ye verilen borçlardır",
+  "D": "D) Bankalarım MB’den aldığı kredidir",
+  "E": "E) Bankaların alacaklı ve borçlu cari hesaplarının faiz ödeme\nyöntemindeki farklılıktan doğan gelirlerdir",
+  "Image": 1,
+  "Explaination": "Ticari bankaların banka sistemi içerisinde en önemli\nfaaliyetlerinden birisi de kaydi para (banka parası) yaratmadır.\nKaydi para, bankaya yatırılan mevduatın kanuni karşılık miktarı\n(zorunlu karşılık) düşüldükten sonra tekrar kredi olarak verilmesi\nsonucunda oluşur. Kaydi para özellikle çek sisteminin etkin şekilde\nuygulandığı gelişmiş ülkelerde büyük bir role sahiptir. Doğru yanıt\nB dir",
+  "Answer": "B) Bankaya yatırılan mevduatların, kanuni karşılık miktarı\ndüşüldükten sonra tekrar kredi olarak verilmesidir"
+ },
+ {
+  "Question": "TCMB’ nin, Hazine’ye ait olup, uluslararası standartta olmayan altın mevcudu, bilançosunun hangi tarafında ve hangi hesabında\nizlenir?",
+  "A": "A) Aktif kısmında, altın mevcudu hesabında",
+  "B": "B) Aktif kısmında, diğer varlıklar hesabında",
+  "C": "C) Pasif kısmında, hazine alacakları hesabında",
+  "D": "D) Pasif kısmında, değerleme hesabında",
+  "E": "E) Aktif kısmında, hazine alacakları hesabında",
+  "Image": 1,
+  "Explaination": "Uluslararası standartta olmayan ve Hazine’ye ait olan altın\nmevcudu Merkez Bankası’nın pasifinde hazine alacakları\nhesabında izlenir. Tamamı yurtiçinde muhafaza edilmektedir.\nDoğru yanıt C dir",
+  "Answer": "C) Pasif kısmında, hazine alacakları hesabında"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi MB’nin rezerv pa-rasını oluşturan unsurlardan değildir?",
+  "A": "A) Emisyon",
+  "B": "B) Bankaların zorunlu karşılıkları",
+  "C": "C) Bankaların serbest karşılıkları",
+  "D": "D) APİ borçları",
+  "E": "E) Fon hesapları",
+  "Image": 1,
+  "Explaination": "Rezerv para; emisyon+bankaların zorunlu kar-şılıkları+serbest\nkarşılıklar+fon he-sapları+banka dışı kesim mevduatından oluşur.\nAPİ borçları, rezerv paraya dahil değildir. Doğru yanıt D dir",
+  "Answer": "D) APİ borçları"
+ },
+ {
+  "Question": "Merkez Bankası Parasına nasıl ulaşılır?",
+  "A": "A) Rezerv para – APİ borçları – Kamu mevduatı",
+  "B": "B) APİ borçları + Kamu mevduatı",
+  "C": "C) Rezerv para + APİ borçları-Kamu mevduatı",
+  "D": "D) Rezerv para + Kamu mevduatı",
+  "E": "E) Rezerv para + APİ borçları+Kamu mevduatı",
+  "Image": 1,
+  "Explaination": "Rezerv paraya APİ borçlarını eklersek parasal tabana ulaşırız.\nParasal tabana kamu mevdua-tını eklersek MB parasına ulaşırız.\nDoğru yanıt E dir",
+  "Answer": "E) Rezerv para + APİ borçları+Kamu mevduatı"
+ },
+ {
+  "Question": "Parasal taban 1500, kamu mevduatı 500, APİ borçları 600 ise rezerv para kaçtır?",
+  "A": "A) 2100",
+  "B": "B) 600",
+  "C": "C) 400",
+  "D": "D) 900",
+  "E": "E) 1100",
+  "Image": 1,
+  "Explaination": "arasal tabandan (rezerv para+APİ borçları) APİ borçlarını\nçıkarırsak rezerv paraya ulaşırız. Doğru yanıt D dir",
+  "Answer": "D) 900"
+ },
+ {
+  "Question": "Merkez Bankası para arzı tanımı olan M2Y’de aşağıdakilerden hangisi yer almaz? ",
+  "A": "A) Vadeli mevduat",
+  "B": "B) Vadesiz mevduat",
+  "C": "C) Resmi mevduat",
+  "D": "D) Emisyon",
+  "E": "E) Merkez Bankası mevduatları",
+  "Image": 1,
+  "Explaination": "Emisyon (dolaşımdaki nakit) + vadesiz mevduat (ticari + tasarruf) +\nMB mevduatların-dan oluşur. vadeli mevduat (ticari + tasarruf)\nhesabından oluşur. döviz tevdiat hesaplarından oluşur. Resmi\nmevduat ise M3 para arzı içindedir. Doğru yanıt C dir",
+  "Answer": "C) Resmi mevduat"
+ },
+ {
+  "Question": "Merkez Bankası M3Y para arzı tanımında aşağıdakilerden hangisi yoktur?",
+  "A": "A) Resmi mevduat",
+  "B": "B) Döviz mevduatı",
+  "C": "C) Repo",
+  "D": "D) Vadeli mevduat",
+  "E": "E) Vadesiz mevduat",
+  "Image": 1,
+  "Explaination": "Resmi mevduat + MB’deki diğer mevduatlardan oluşur. M3Y = M3\n+ döviz tevdiat hesaplarından oluşur. Repo hesabı M2YR para arzı\niçinde yer alır. M2YR = M2Y + repo hesa-bından oluşur. Doğru\nyanıt C dir",
+  "Answer": "C) Repo"
+ },
+ {
+  "Question": "Klasik İktisatçılara göre denge faiz oranı aşağıdakilerden hangisi tarafından belirlenir?",
+  "A": "A) Toplam talep ve toplam arz",
+  "B": "B) Para arzı ve para talebi",
+  "C": "C) Toplam gelir",
+  "D": "D) Fon arzı",
+  "E": "E) Yatırım ve tasarruf",
+  "Image": 1,
+  "Explaination": "Klasik iktisatçıların piyasa faiz oranı, tasarrufla-rın yatırıma\neşitlendiği noktada oluşur. Doğru yanıt E dir",
+  "Answer": "E) Yatırım ve tasarruf"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir ülkede para arzının artmasına yol açmaz?",
+  "A": "A) MB’nin APİ ile tahvil alması",
+  "B": "B) Enflasyon oranın yükselmesi",
+  "C": "C) Piyasa faiz oranın artması",
+  "D": "D) Zorunlu karşılık oranının artması",
+  "E": "E) Reeskont kredisi faiz oranının düşmesi",
+  "Image": 1,
+  "Explaination": "Bir ülkede para arzının artmasına yol açan et-menler, parasal\ntabanın artması (MB, parasal tabanı en çok APİ yoluyla etkiler) ve\npara çar-panının artmasıdır. Para çarpanını arttıran et-menler ise,\nnakit tercih oranının azalması, zo-runlu karşılık oranının azalması,\nserbest rezerv oranının azalması, vadeli mevduat tercih oranı-nın\nazalmasıdır. Enflasyon oranının yükselmesi halkın nakit tercih\noranını arttıracağı için, para çarpanını düşürür. Doğru yanıt B dir",
+  "Answer": "B) Enflasyon oranın yükselmesi"
+ },
+ {
+  "Question": "Bir ülkede nakit tercih oranını azaltarak, para arzının artmasına yol açan etmenlerden hangisi yanlıştır?",
+  "A": "A) Piyasa faiz oranının artması",
+  "B": "B) Gelir düzeyinin artması",
+  "C": "C) Kayıtdışı ekonominin azalması",
+  "D": "D) ATM ve kredi kartlarının kullanımının yaygınlaşması",
+  "E": "E) Finansal istikrarsızlık",
+  "Image": 1,
+  "Explaination": "Finansal istikrarsızlık nakit tercih oranını azalt-maz, arttırır. Doğru\nyanıt E dir",
+  "Answer": "E) Finansal istikrarsızlık"
+ },
+ {
+  "Question": "Merkez Bankası’nın APİ yoluyla tahvil alması durumunda para arzı ve faiz oranı ile ilgili aşağıdakilerden hangisi gerçekleşir?",
+  "A": "A) Para arzı azalır, faiz oranı düşer",
+  "B": "B) Para arzı artar, faiz oranı yükselir",
+  "C": "C) Para arzı değişmez, faiz oranı yükselir",
+  "D": "D) Para arzı artar, faiz oranı düşer",
+  "E": "E) Para arzı azalır, faiz oranı değişmez",
+  "Image": 1,
+  "Explaination": "MB’nin APİ yoluyla piyasadan tahvil alması piyasadaki para\nmiktarını arttırır. Para arzı ar-tınca faizler düşer. Doğru yanıt D dir",
+  "Answer": "D) Para arzı artar, faiz oranı düşer"
+ },
+ {
+  "Question": "Klasik iktisat teorisinde Fisher Denklemine göre MV=PY eşitliğinde para arzının (M) art-ması aşağıdakilerden hangisinin değişmesine yol açar?",
+  "A": "A) V artar",
+  "B": "B) P artar",
+  "C": "C) Y artar",
+  "D": "D) Y azalır",
+  "E": "E) P azalır",
+  "Image": 1,
+  "Explaination": "eşitliğinde para arzının artması sadece fiyatları arttırır. V ve Y kısa\ndönemde sabittir. Doğru yanıt B dir",
+  "Answer": "B) P artar"
+ },
+ {
+  "Question": "Para talebinin istikrarsız, paranın dolaşım hızının ise sabit olmadığını ve faizden etkilendiğini öne süren iktisatçı kimdir?",
+  "A": "A) Friedman",
+  "B": "B) Keynes",
+  "C": "C) Tobin",
+  "D": "D) Adam Smith",
+  "E": "E) Pigou",
+  "Image": 1,
+  "Explaination": "Keynes, para talebinin faize bağlı olduğundan istikrarsız olduğunu,\ndolaşım hızının ise klasik-lerin ileri sürdüğü gibi sabit değil faize\nbağlı ol-duğunu ileri sürmüştür. Doğru yanıt B dir",
+  "Answer": "B) Keynes"
+ },
+ {
+  "Question": "Spekülatif amaçlı para talebinin yanı sıra işlem ve ihtiyat amaçlı para talebinin de faizden etkilendiği görüşü aşağıdakilerden hangisine aittir?",
+  "A": "A) Keynes",
+  "B": "B) Friedman",
+  "C": "C) Pigou",
+  "D": "D) Klasikler",
+  "E": "E) Tobin ve Baumal",
+  "Image": 1,
+  "Explaination": "Tobin ve Baumal birbirlerinden ayrı olarak, Keynes’ten sonra\nspekülatif amaçlı para talebinin yanı sıra işlem ve ihtiyat amaçlı\npara talebinin de faizden etkilendiğini ve bunların da faizle ters\nyönlü olduklarını ileri sürmüşleridir. Diğer farkları da Keynes gibi\nparanın tek alternatifinin tahvil olmadığını, diğer finansal araçların\nda rol oynadığını ve bunların talep edilmesinde sadece getirinin\ndeğil riskinde belirleyici olduğunu ileri sürmüşleridir. Doğru yanıt E\ndir.",
+  "Answer": "E) Tobin ve Baumal"
+ },
+ {
+  "Question": "Keynesyen iktisada göre faiz aşağıdakilerden hangisinden vazgeçmenin bedelidir?",
+  "A": "A) Tasarruf",
+  "B": "B) Tüketim",
+  "C": "C) Likidite",
+  "D": "D) Yatırım",
+  "E": "E) İstihdam",
+  "Image": 1,
+  "Explaination": "Keynesyen iktisada göre, faiz likiditeden vazgeç-menin bedelidir.\nFaizler yükselince elde para tut-manın maliyeti artar. Doğru yanıt C\ndir.",
+  "Answer": "C) Likidite"
+ },
+ {
+  "Question": "Parasal modele göre aşağıdakilerden hangisi döviz kurunun artmasına yol açmaz?",
+  "A": "A) Para çarpanının değerinin artması",
+  "B": "B) Para talebinin azalması",
+  "C": "C) Net dış varlıkların artması",
+  "D": "D) Reel gelirin azalması",
+  "E": "E) Yurtdışı fiyat düzeyinin artması",
+  "Image": 1,
+  "Explaination": "Parasal modele göre kur Burada m, para çarpanı; NDA, MB’nin net\niç varlık-ları; NFA, MB net dış varlıkları; k, para talebi; Y, reel gelir;\nPf, yurt dışı fiyat düzeyidir. Buna göre yurtdışı fiyat düzeyinin\nartması değil azalması ha-linde kur düşecektir. Doğru yanıt E dir",
+  "Answer": "E) Yurtdışı fiyat düzeyinin artması"
+ },
+ {
+  "Question": "Fisher faiz kuramına göre nominal faiz oranı % 75, beklenen enflasyon % 35 ise reel faiz oranı % kaçtır?",
+  "A": "A) 40",
+  "B": "B) 110",
+  "C": "C) 2,14",
+  "D": "D) 0,46",
+  "E": "E) 35",
+  "Image": 1,
+  "Explaination": "Fisher faiz formülü: Reel faiz = nominal faiz- bek-lenen enflasyon.\nBuna göre reel faiz = 0,75 – 0,35 = 0,40’tır. Doğru yanıt A dır",
+  "Answer": "A) 40"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi klasik miktar teorisinin yaklaşımlarından biri değildir?",
+  "A": "A) Para talebi faizden etkilenmez",
+  "B": "B) Paranın dolanım hızı sabittir",
+  "C": "C) Para miktarındaki artış üretimi etkiler",
+  "D": "D) Para sadece işlem amacıyla talep edilir",
+  "E": "E) Ekonomi daima tam istihdam durumundadır",
+  "Image": 1,
+  "Explaination": "Miktar teorisine göre, para miktarındaki artış üretimi etkilemez,\nsadece fiyatlar genel düzeyini arttırır. Doğru yanıt C dir",
+  "Answer": "C) Para miktarındaki artış üretimi etkiler"
+ }
+]

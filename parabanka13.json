@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Yatırımcıya, dayanak varlığı ya da göstergeyi önceden belirlenen bir fiyattan belirli bir tarihte veya belirli bir tarihe kadar alma ya da satma 3 hakkı veren ve bu hakkın kaydi teslimat yada nakit uzlaşı ile kullanıldığı menkul kıymet niteliğindeki sermaye araçları aşağıdakilerden hangisidir?",
+  "A": "A) Swap",
+  "B": "B) Varant",
+  "C": "C) Opsiyon",
+  "D": "D) Futures",
+  "E": "E) Forward",
+  "Image": 1,
+  "Explaination": "Varantlar yatırımcıya, dayanak varlığı ya da göstergeyi önceden belirlenen bir fiyattan belirli bir tarihte veya belirli bir tarihe kadar alma ya da satma hakkı veren ve bu hakkın kaydi teslimat yada nakit uzlaşı ile kullanıldığı menkul kıymet niteliğindeki sermaye araçlarıdır. Diğer bir deyişle varant, menkul kıymet haline getirilmiş opsiyonlardır",
+  "Answer": "B) Varant"
+ },
+ {
+  "Question": "Büyük şirketlerin hiçbir teminat ya da güvence göstermeden bankadan aldıkları yüksek miktardaki krediye ne ad verilir?",
+  "A": "A) Açık Kredi",
+  "B": "B) Özel Kredi",
+  "C": "C) Spot Kredi",
+  "D": "D) Yatırım Kredisi",
+  "E": "E) işletme Kredisi",
+  "Image": 1,
+  "Explaination": "Açık Kredi, müşteriye duyulan güven nedeniyle, sadece bir imza karşılığı açılan kredidir. Açık kredi uygulamasında, kefalet veya teminat istenemez. Açık krediden yararlanan kişi alacaklıya karşı, yasalara göre tüm mal varlığı ile sorumludur",
+  "Answer": "A) Açık Kredi"
+ },
+ {
+  "Question": "Bankalar arası rekabeti eşit olarak sağlamak onları teftiş etmek amacı ile kurulan kuruluş aşağıdakilerden hangisidir?",
+  "A": "A) TMSF",
+  "B": "B) Merkez Bankası",
+  "C": "C) Rekabet Kurumu ",
+  "D": "D) BDDK",
+  "E": "E) Türkiye Bankalar Birliği",
+  "Image": 1,
+  "Explaination": "Bankacılık Düzenleme ve Denetleme\nKurumu (BDDK) Türkiye' de tasarruf sahiplerinin kuruluşlardır. Yatırım bankaları, mevduat kabul etmeyen, ticari bankacılık yapmayan ve kalkınma bankacılığı fonksiyonunun dışında kalan alanlarda faaliyet gösteren mali kurumlardır",
+  "Answer": "A) TMSF"
+ },
+ {
+  "Question": "Bankacılık Kanunu dışında kalan serbest banka türü aşağıdakilerden hangisidir?",
+  "A": "A) Katılım Bankacılığı",
+  "B": "B) Kalkınma ve Yatırım Bankacılığı",
+  "C": "C) Ticari Bankacılık",
+  "D": "D) Kıyı Bankacılığı",
+  "E": "E) Tarım Bankacılığı",
+  "Image": 1,
+  "Explaination": "Kıyı Bankacılığı, ülke dışından temin edilen fonların yine o ülke dışında kullandırılmasını amaçlayan bir bankacılık türüdür. Kıyı Bankacılığı, sektörle ilgili her türlü yasa ve yönetmeliklerin dışında kalan serbest bankacılık olarak tanımlanmaktadır. Bu tip bankalar genellikle serbest bölgelerde faaliyet göstermektedirler. Kıyı\nhak ve menfaatlerini korumak, bankalar ve özel -o bankalar\tbulundukları\tülkede\tmevduat\nü Bankalarının bulundukları ülkedeki banka kurallarına uyma zorunlulukları yoktur, ayrıca bu\n \nfinans kurumlarının piyasa disiplini içerisinde sağlıklı, etkin ve dünya ölçeğinde rekabet edebilir bir yapıda işleyişi için uygun ortamı yaratmak bu sayede ülkenin uzun vadeli büyümesine ve istikrarına katkıda bulunmak amacıyla kurulmuş, özerk bir kurumdur",
+  "Answer": "D) Kıyı Bankacılığı"
+ },
+ {
+  "Question": "Hangi banka türünün mevduat toplama yetkisi yoktur?",
+  "A": "A) Yatırım Bankaları",
+  "B": "B) Ticari Bankalar",
+  "C": "C) Katılım Bankaları",
+  "D": "D) Mevduat Bankaları",
+  "E": "E) Kıyı Bankaları",
+  "Image": 1,
+  "Explaination": "Yatırım bankaları, sermaye piyasasının gelişmiş olduğu ülkelerde atıl fonlara sahip kurumsal yatırımcılara, fonlarını menkul değer alım ve satımı ile değerlendirmelerinde aracılık ve danışmanlık yapan, işletmelere doğrudan kredi vermeyen ancak işletmelerin orta ve uzun vadeli fon gereksinimlerini karşılayan finansal toplayamazlar. Bu bankaların döviz hesaplarına bir kısıtlama konulamaz ve gelirleri vergilendirilemez. Hong-Kong, Singapur, Bahreyn, Pasifik adaları içerisinde Cayman Adaları ve Bahama son derece önemli kıyı bankacılığı merkezleridir",
+  "Answer": "D) Mevduat Bankaları"
+ },
+ {
+  "Question": "Bir bankaya TL ve ya döviz olarak yatırdığımız para hangi hesap türünü oluşturur?",
+  "A": "A) Mevduat",
+  "B": "B) Virman",
+  "C": "C) Fon",
+  "D": "D) Poliçe",
+  "E": "E) Hesap Cüzdanı",
+  "Image": 1,
+  "Explaination": "Mevduat bankara ve benzeri kredi kurumlarına istenildiğinde ya da belirli bir vade ya da ihbar süresi sonunda çekilmek üzere yatırılan paralardır",
+  "Answer": "A) Mevduat"
+ },
+ {
+  "Question": "Büyük şirketlerin hiçbir teminat ya da güvence göstermeden bankadan aldıkları yüksek miktardaki krediye ne ad verilir?",
+  "A": "A) Açık Kredi",
+  "B": "B) Özel Kredi",
+  "C": "C) Spot Kredi",
+  "D": "D) Yatırım Kredisi",
+  "E": "E) işletme Kredisi",
+  "Image": 1,
+  "Explaination": "Açık Kredi, müşteriye duyulan güven nedeniyle, sadece bir imza karşılığı açılan kredidir. Açık kredi uygulamasında, kefalet veya teminat istenemez. Açık krediden yararlanan kişi alacaklıya karşı, yasalara göre tüm mal varlığı ile sorumludur",
+  "Answer": "A) Açık Kredi"
+ },
+ {
+  "Question": "Bankalar arası rekabeti eşit olarak sağlamak onları teftiş etmek amacı ile kurulan kuruluş aşağıdakilerden hangisidir?",
+  "A": "A) TMSF",
+  "B": "B) Merkez Bankası",
+  "C": "C) Rekabet Kurumu ",
+  "D": "D) BDDK",
+  "E": "E) Türkiye Bankalar Birliği",
+  "Image": 1,
+  "Explaination": "Bankacılık Düzenleme ve Denetleme\nKurumu (BDDK) Türkiye' de tasarruf sahiplerinin kuruluşlardır. Yatırım bankaları, mevduat kabul etmeyen, ticari bankacılık yapmayan ve kalkınma bankacılığı fonksiyonunun dışında kalan alanlarda faaliyet gösteren mali kurumlardır",
+  "Answer": "A) TMSF"
+ },
+ {
+  "Question": "Faizsiz bankacılık sistemini kullanan bankalar aşağıdakilerden hangisidir?",
+  "A": "A) Kalkınma Bankaları ",
+  "B": "B) Yatırım Bankaları",
+  "C": "C) Mevduat Bankaları ",
+  "D": "D) Katılım Bankaları",
+  "E": "E) Ticari Bankalar",
+  "Image": 1,
+  "Explaination": "Katılım bankacılığı, faizsizlik prensiplerine göre çalışan, bu prensiplere uygun her türlü bankacılık faaliyetlerini gerçekleştiren, kar ve zarara katılma esasına göre fon toplayıp, ticaret, ortaklık ve finansal kiralama yöntemleriyle fon kullandıran bir bankacılık modelidir",
+  "Answer": "D) Katılım Bankaları"
+ },
+ {
+  "Question": "Ülkemizde kağıt para basma yetkisi kime aittir?",
+  "A": "A) TBMM",
+  "B": "B) TC Merkez Bankası",
+  "C": "C) Hazine Müsteşarlığı ",
+  "D": "D) Hükümet",
+  "E": "E) Maliye Bakanlığı",
+  "Image": 1,
+  "Explaination": "Ülkemizde kağıt para basma yetkisi TC Merkez Bankasına aittir",
+  "Answer": "B) TC Merkez Bankası"
+ },
+ {
+  "Question": "TC Merkez Bankası tarafından yapılabilecek işlemler arasında aşağıdakilerden hangisi Y!! almaz?",
+  "A": "A) Repo -ters repo yapmak",
+  "B": "B) Tahvil satmak",
+  "C": "C) Tahvil almak",
+  "D": "D) Bankalara borç vermek",
+  "E": "E) Mevduat toplamak",
+  "Image": 1,
+  "Explaination": "TC Merkez Bankası tarafından yapılabilecek işlemler\tarasında\tMevduat\ttoplamak bulunmamaktadır",
+  "Answer": "E) Mevduat toplamak"
+ },
+ {
+  "Question": "Batan bankaların tasfiyesini yürüten kuruluş aşağıdakilerden hangisidir?",
+  "A": "A) TCMB",
+  "B": "B) BDDK",
+  "C": "C) SPK",
+  "D": "D) TMSF",
+  "E": "E) MKK",
+  "Image": 1,
+  "Explaination": "Bankacılık Kanunu çerçevesinde batan bankaların tasfiyesini yürüten kuruluş TMSF'dir",
+  "Answer": "D) TMSF"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi gayri nakdi kredi türleri arasında yer almaz?",
+  "A": "A) Teminat mektubu ",
+  "B": "B) Akreditif",
+  "C": "C) Açık kredi",
+  "D": "D) Referans mektubu",
+  "E": "E) Kabul kredileri",
+  "Image": 1,
+  "Explaination": "Açık kredi firmalara teminatsız olarak nakdi kredi kullanım hakkı sağlayan bir kredi türü olup gayrinakdi kredi değildir",
+  "Answer": "C) Açık kredi"
+ },
+ {
+  "Question": "Merkez bankalarının gecelik yada haftalık borç alma ve borç verme faiz oranları arasındaki fark aşağıdaki terimlerden hangisi ile adlandırılmaktadır?",
+  "A": "A) Faiz koridoru",
+  "B": "B) Açık piyasa işlemi",
+  "C": "C) Reeskont işlemi",
+  "D": "D) Likidite penceresi",
+  "E": "E) Geç Likitie uygulaması",
+  "Image": 1,
+  "Explaination": "Bankalar likitide fazlasını değerlendirmek için fonlarını merkez bankası mevduat olarak yatırmak ister ve bu yatırım karşısında merkez bankaları belirli bir borç alma faiz oranı belirler.Borç faiz verme oranı ise tam aksine ilikitide sorunu olan bankaların merkez bankasından kısa süreli borç almak istediğinde merkez bankası tarafından uygulanan faiz oranıdır. Faiz koridoru, merkez bankasının likitide yatırımları ile likidite talepleri için ön gördüğü faiz oranları arasındaki farkı tanımlamak için kullanılan bir terimdir.",
+  "Answer": "A) Faiz koridoru"
+ },
+ {
+  "Question": "Cumhuriyetin kuruluş yıllarında T.C. Merkez Bankası kurulmadan önce Merkez Bankası görevlerini yürüten kuruluş aşağıdakilerden hangisidir?",
+  "A": "A) Ziraat Bankası",
+  "B": "B) Osmanlı Bankası",
+  "C": "C) T. iş Bankası",
+  "D": "D) T.Halk Bankası",
+  "E": "E) T. Vakıflar Bankası",
+  "Image": 1,
+  "Explaination": "Türkiye Cumhuriyeti'nin kurulması sonrası bir merkez bankası olmaması nedeniyle Osmanlı Bankasıyla anlaşma yapılmış ve Osmanlı Bankası 1935 yılına kadar banknot ihraç etme imtiyazına yetkili kılınmıştır",
+  "Answer": "B) Osmanlı Bankası"
+ },
+ {
+  "Question": "Kısa vadeli fon arz ve talebinin karşılaştığı piyasalar aşağıdakilerden hangisidir?",
+  "A": "A) Para Piyasası",
+  "B": "B) Sermaye Piyasası",
+  "C": "C) Borçlanma Araçları Piyasası ",
+  "D": "D) Pay Piyasası",
+  "E": "E) Vadeli İşlemler Piyasası",
+  "Image": 1,
+  "Explaination": "Finansal piyasalar vadesi bakımından para piyasaları ve sermaye piyasaları olmak üzere ikiye ayrılırlar. Para piyasaları kısa süreli fon arz ve talebinin karşılaştığı piyasalardır. Burada kısa süre ile kastedilen bir yıl ve daha kısa vadedir. Sermaye piyasaları ise uzun süreli fon arz ve talebinin karşılaştığı piyasalardır. Burada ise uzun süre ile kastedilen bir yıldan uzun vadedir",
+  "Answer": "A) Para Piyasası"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi TC Merkez Bankası bilançosunun pasifini oluşturan ana kalemlerdir?",
+  "A": "A) Dış Varlıklar + İç Varlıklar",
+  "B": "B) Nakit İşlemler+ Toplam Döviz Yükümlülüğü",
+  "C": "C) Rezerv Para+ Değerleme Hesabı",
+  "D": "D) Toplam Döviz Yükümlülüğü + MB Parası",
+  "E": "E) Varlıklar + Kamu ve Diğer Döviz Mevduatı",
+  "Image": 1,
+  "Explaination": "TC Merkez Bankası bilançosunda ana kalemler olarak pasifte, Toplam Döviz Yükümlülüğü + Merkez Bankası Parası, aktifte, Dış Varlıklar + iç Varlıklar + Değerleme Hesabı bulunmaktadır",
+  "Answer": "D) Toplam Döviz Yükümlülüğü + MB Parası"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kalkınma ve yatırım bankalarının sermaye piyasasında yapabileceği işlemlerinden değildir?",
+  "A": "A) Portföy yöneticiliği",
+  "B": "B) Yatırım danışmanlığı",
+  "C": "C) Sermaye piyasası araçlarının halka arzında yüklenimde bulunularak satışa aracılık edilmesi",
+  "D": "D) Servet yönetimi ve finansal planlama yapılması",
+  "E": "E) Sermaye piyasası araçlarıyla ilgili emirlerin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına gerçekleştirilmesi",
+  "Image": 1,
+  "Explaination": "Kalkınma ve yatırım bankalarının sermaye piyasasında yapabileceği işlemler şunlardır:\n•Sermaye piyasası araçlarıyla ilgili emirlerin alınması ve iletilmesi\n•Sermaye piyasası araçlarıyla ilgili emirlerin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına gerçekleştirilmesi\n•Sermaye piyasası araçlarının kendi hesabından alım ve satımı\n• Portföy yöneticiliği\n•Yatırım danışmanlığı\n•Sermaye piyasası araçlarının halka arzında yüklenimde bulunularak satışa aracılık edilmesi\n•Sermaye piyasası araçlarının halka arzında yüklenimde bulunmaksızın satışa aracılık edilmesi\n•Sermaye piyasası araçlarının müşteri namına saklanması ve yönetimi ile portföy saklanması\n•Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması",
+  "Answer": "D) Servet yönetimi ve finansal planlama yapılması"
+ },
+ {
+  "Question": "Kredi kartıyla yapılan ödemelerde ödeme sorumluluğu kime karşıdır?",
+  "A": "A) Ödeme yapılan yere",
+  "B": "B) Bankaya",
+  "C": "C) Hem ödeme yapılan yere hem bankaya",
+  "D": "D) redi kartı firmasına (Visa vb.)",
+  "E": "E) Bankalararası Kart Merkezine",
+  "Image": 1,
+  "Explaination": "Kredi kartıyla yapılan ödemelerde ödeme sorumluluğu kredi kartı alınan bankaya karşıdır",
+  "Answer": "B) Bankaya"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi para piyasalarına ilişkin yanlış bilgidir?",
+  "A": "A) Vadesi 1 yıldan kısa olan fon arz ve talebinin karşılaştığı piyasalara para piyasası denilmektedir",
+  "B": "B) Pay piyasası bir para piyasasıdır",
+  "C": "C) Piyasa organize olabileceği gibi, tezgahüstü (organize olmayan) bir formatta da işleyebilir",
+  "D": "D) Repo bir para piyasası aracıdır",
+  "E": "E) Döviz piyasası bir para piyasasıdır",
+  "Image": 1,
+  "Explaination": "Pay piyasası para piyasasında değil sermaye piyasasında bulunmaktadır",
+  "Answer": "B) Pay piyasası bir para piyasasıdır"
+ }
+]

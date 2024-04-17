@@ -1,0 +1,221 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi para piyasası araçlarından biri değildir?",
+  "A": "A) Hazine Bonosu",
+  "B": "B) Mevduat Sertifikası",
+  "C": "C) Repo",
+  "D": "D) Hisse Senedi",
+  "E": "E) Banka Kabulü",
+  "Image": 1,
+  "Explaination": "Para piyasası araçları, Hazine bonosu, kısa va-deli (1 yıldan az)\ndevlet tahvili, mevduat sertifi-kası, finansman bonosu, banka\nkabulü, repo, ters repo, para pazarı fonları, varlığa dayalı menkul\nkıymetlerdir. Hisse senedi ise bir ser-maye piyasası aracıdır. Doğru\nyanıt D dir",
+  "Answer": "D) Hisse Senedi"
+ },
+ {
+  "Question": "Herhangi bir aktifin nakde dönüştürülmesinde Nisbi hız ve kolaylığa ne ad verilir?",
+  "A": "A) Risk",
+  "B": "B) Likidite",
+  "C": "C) Fon talebi",
+  "D": "D) Fon arzı",
+  "E": "E) Satın alma gücü",
+  "Image": 1,
+  "Explaination": "Herhangi bir aktifin nakde dönüştürülmesinde Nisbî hız ve\nkolaylığa likidite (nakit) denir. Doğru yanıt B dir",
+  "Answer": "B) Likidite"
+ },
+ {
+  "Question": "Faiz ödemeleri kupon dönemlerinde, anapara ödemeleri vade sonunda olan borçlanma senedi aşağıdakilerden hangisidir?",
+  "A": "A) Kuponlu borç senedi",
+  "B": "B) İskontolu borç senedi",
+  "C": "C) Strips",
+  "D": "D) Katılma belges",
+  "E": "E) Banka kabulu",
+  "Image": 1,
+  "Explaination": "İskontolu Borç Senedi: Faiz ödemesi anapara ile birlikte vade\nsonunda olan borç senedidir. Strips: Menkul kıymetlerin anapara\nve kuponla-rının ayrıştırılarak ayrı ayrı alınıp satılmasına denir.\nKatılma Belgesi: Yatırım fonları tarafın-dan çıkarılan ve kıymetli\nevrak sayılan belgelere denir. Banka Kabulü: Bankanın ‘kabul\nedildi’ kaşesini taşıyan, uluslar arası ödemelerde kullanılan bir tür\nbonodur. Doğru yanıt A dır",
+  "Answer": "A) Kuponlu borç senedi"
+ },
+ {
+  "Question": "Bankaların alacak haklarına karşı çıkardıkları borçlanma kağıtlarına ne ad verilir?",
+  "A": "A) Akreditif",
+  "B": "B) Katılma belgesi",
+  "C": "C) Mevduat sertifikası",
+  "D": "D) Hisse senedi",
+  "E": "E) Varlığa dayalı menkul kıymet",
+  "Image": 1,
+  "Explaination": "Varlığa dayalı menkul kıymet, bankaların kendi ticari işlemlerinden\ndoğmuş alacakları karşılığında, Sermaye Piyasası Kurulu’nca kayda\nalınarak ihraç edilen kıymetli evraktır. Ülkemizde bankalar\ntarafından yapılan varlığa dayalı menkul kıymet ihracı önem\nkazanmıştır. Ayrıca ticari ve sınai işletmeler de varlığa dayalı menkul kıymet çıkarabilir. İşleme konu olabilecek alacak türleri:\nTüketici kredileri, konut kredileri, finansal kiralama sözleşmeleri,\notomobil kredileri, kredi kartları ve tarım kredi kooperatifleri\nalacaklarıdır. Doğru yanıt E dir",
+  "Answer": "E) Varlığa dayalı menkul kıymet"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi paranın değişim aracı olma fonksiyonunun özelliklerinden değildir?",
+  "A": "A) Bölünebilir olma",
+  "B": "B) Kuvvetli olma",
+  "C": "C) Dayanıklı olma",
+  "D": "D) Genel kabul görme",
+  "E": "E) Standart olma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kuvvetli olma"
+ },
+ {
+  "Question": "Cambridge denklemi M=kPY ise “k” neyi ifade eder?",
+  "A": "A) Fiyatlar genel düzeyini",
+  "B": "B) Kişilerin gelirlerinin ne kadarını para olarak elde tutacaklarını\ngösteren oranı",
+  "C": "C) Paranın dolaşım hızını",
+  "D": "D) Nominal para arzını",
+  "E": "E) Gayrisafi milli hasılayı",
+  "Image": 1,
+  "Explaination": "Burada M nominal para arzını, P fiyatlar genel düzeyini, Y milli\nhasılayı, k ise elde tutulan paranın milli gelire oranını ifade eder.\nDoğru yanıt B dir.",
+  "Answer": "B) Kişilerin gelirlerinin ne kadarını para olarak elde tutacaklarını\ngösteren oranı"
+ },
+ {
+  "Question": "Bir ülkede beklenen enflasyon (PE) % 60, nominal faiz oranı (i) % 40 ise reel faiz oranı % kaçtır?",
+  "A": "A) 25",
+  "B": "B) 16",
+  "C": "C) 12,5",
+  "D": "D) 23,5",
+  "E": "E) 13",
+  "Image": 1,
+  "Explaination": "Tam ölçüm formülüne göre reel faiz oranı for-mülü ‘dir.\nBuna göre so-nucuna ulaşılır. Doğru yanıt C dir",
+  "Answer": "C) 12,5"
+ },
+ {
+  "Question": "Dışsal para arz eğrisinin konumu nasıldır?",
+  "A": "A) Negatif eğimlidir",
+  "B": "B) Orijinden çıkan bir doğrudur",
+  "C": "C) Yatay eksene dik bir doğrudur",
+  "D": "D) Yatay eksene paralel bir doğrudur",
+  "E": "E) Hiperboliktir",
+  "Image": 1,
+  "Explaination": "Dışsal para arzında, para çarpanındaki para-metrelerin faiz\noranından etkilenmediği varsayılır. Bu durumda para arz eğrisi\nyatay eksene dik bir doğrudur. Merkez Bankası’nın para arzı\nüzerindeki kontrolü yüksektir. Doğru yanıt C dir",
+  "Answer": "C) Yatay eksene dik bir doğrudur"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Merkez Bankası’nın para piyasasındaki etkilerinden biri değildir?",
+  "A": "A) Açık piyasa işlemleri",
+  "B": "B) Zorunlu karşılıklar",
+  "C": "C) Reeskont kredisi",
+  "D": "D) İnterbank piyasası",
+  "E": "E) Para çarpanı",
+  "Image": 1,
+  "Explaination": "Merkez Bankası, para piyasasına interbank, açık piyasa işlemleri,\ndöviz ve efektif piyasaları, reeskont kredisi ve zorunlu karşılık\noranları aracılığıyla etki eder. Doğru yanıt E dir",
+  "Answer": "E) Para çarpanı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Merkez Bankası’nın para politikası amaçları arasında yer almaz?",
+  "A": "A) İhracat",
+  "B": "B) Fiyat istikrarı",
+  "C": "C) Faiz oranı istikrarı",
+  "D": "D) Büyüme",
+  "E": "E) İstihdam",
+  "Image": 1,
+  "Explaination": "ara politikası amaçları; fiyat istikrarı, faiz oranı istikrarı, finansal\nistikrar, büyüme, istihdam ve döviz piyasası istikrarıdır. Doğru yanıt\nA dır.,",
+  "Answer": "A) İhracat"
+ },
+ {
+  "Question": "Etkin piyasalar hipotezinin ortaya koyduğu sonuçlar ile çelişen bulgulara ne denir? ",
+  "A": "A) Risk primi ",
+  "B": "B) Mahpus ikilemi ",
+  "C": "C) Anomali",
+  "D": "D) Anomali",
+  "E": "E)  Manipülasyon ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Risk primi "
+ },
+ {
+  "Question": "Paranın nötr olduğunu, para ile üretimin etkilenmeyeceğini, üretim artışının teknoloji sonucunda artan verime bağlı olduğunu\nsavunan görüş aşağıdakilerden hangisidir?",
+  "A": "A) Klasik Görüş",
+  "B": "B) Keynesyen Görüş",
+  "C": "C) Post Keynesyen Görüş",
+  "D": "D) Yeni Keynesyen Görüş",
+  "E": "E) Reel Konjonktür Teorisi",
+  "Image": 1,
+  "Explaination": "Reel konjonktür teorisine göre üretim artışıyla birlikte para talebi\nartar ve bunun üzerine Merkez Bankası para arzını arttırır,\nsonuçta para her zaman nötrdür. Doğru yanıt E dir",
+  "Answer": "E) Reel Konjonktür Teorisi"
+ },
+ {
+  "Question": "Keynesyen modelde yatırım fonksiyonun faiz esnekliği hakkında ne söylenebilir?",
+  "A": "A) Birden büyüktür",
+  "B": "B) Sonsuzdur",
+  "C": "C) Birdir",
+  "D": "D) Sıfırdır",
+  "E": "E) Birden küçüktür",
+  "Image": 1,
+  "Explaination": "Keynes modelinden yatırımlar faiz oranından etkilenmez. Buna\ngöre Keynesyen sistemde spekülatif para talebi sonsuz, yatırımın\nfaiz es-nekliği ise sıfırdır. Doğru yanıt D dir",
+  "Answer": "D) Sıfırdır"
+ },
+ {
+  "Question": "Friedman’a göre para talebinin gelir esnekliği nasıldır?",
+  "A": "A) Birden büyüktür",
+  "B": "B) Sıfırdır",
+  "C": "C) Birden küçüktür",
+  "D": "D) Sonsuzdur",
+  "E": "E) Birdir",
+  "Image": 1,
+  "Explaination": "riedman’a göre (modern miktar teorisi) para talebinin gelir\nesnekliği birden büyüktür. Para lüks bir maldır. Sürekli gelir attıkça\npara talebi artar. Doğru yanıt A dır",
+  "Answer": "A) Birden büyüktür"
+ },
+ {
+  "Question": "İşlem ve ihtiyat amaçlı para talebine ne ad verilir?",
+  "A": "A) Atıl para balansları",
+  "B": "B) Likidite tercihi",
+  "C": "C) Aktif para balansları",
+  "D": "D) Reel ankes",
+  "E": "E) Arzulanan ankes",
+  "Explaination": "İhtiyat ve işlem amaçlı para taleplerine aktif para balansı denir.\nSpekülasyon amaçlı para talebine ise atıl para balansları adı verilir.\nDoğru yanıt C dir",
+  "Answer": "C) Aktif para balansları"
+ },
+ {
+  "Question": "Likidite tercihi teorisi hangi iktisatçıya aittir?",
+  "A": "A) Pigou",
+  "B": "B) Boumal",
+  "C": "C) Keynes",
+  "D": "D) Friedman",
+  "E": "E) Tobin",
+  "Image": 1,
+  "Explaination": "Keynes’e göre faiz haddi yükseldikçe spekülasyon güdüsüyle\nyapılan para talebi azalır veya faiz haddi düştükçe spekülasyon\ngüdüsüyle yapılan para talebi artar. Buna likidite tercihi teorisi adı\nverilir. Doğru yanıt C dir",
+  "Answer": "C) Keynes"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi TCMB’ nin para politikası araçlarından biri değildir?",
+  "A": "A) Zorunlu karşılık oranı",
+  "B": "B) MB’ nin telkin ve tavsiyeleri",
+  "C": "C) İthalat teminatı oranı",
+  "D": "D) Selektif kredi kontrolü",
+  "E": "E) Taban fiyat uygulaması",
+  "Image": 1,
+  "Explaination": "Para politikasının genel araçları: Açık piyasa işlemleri, disponibilite\noranı, zorunlu karşılık ora-nı, reeskont oranı, faiz oranı, ikna yolu,\nithalat teminat oranı (ithalat zorunluluğu oranı), asgari ödeme\noranı, zorunlu döviz devir oranıdır. Taban fiyat uygulaması bir\npara politikası aracı değildir. Doğru yanıt E dir",
+  "Answer": "E) Taban fiyat uygulaması"
+ },
+ {
+  "Question": "Amaçları finansman olmamakla birlikte, büyük fonları toplamaları nedeniyle finansal kuruluş olarak ele alınan yarı finansal kurumların içinde aşağıdakilerden hangisi yer almaz?",
+  "A": "A) Sigorta Şirketleri",
+  "B": "B) Özel Emekli Sandıkları",
+  "C": "C) Sosyal Sigortalar Kurumu",
+  "D": "D) OYAK",
+  "E": "E) Kamu Bankaları",
+  "Image": 1,
+  "Explaination": "Yarı finansal kurumlar arasında Kamu bankaları yoktur. Bunlar,\nsigorta şirketleri, Kamu Sosyal Güvenlik Kurumları olan; T.C Emekli\nSandığı, Sosyal Sigortalar Kurumu ve Bağ-Kur, Özel emekli\nsandıkları, OYAK ve banker kuruluşlarıdır. Ancak 1981 finansal\nkrizinden sonra birçok banker tasfiye olmuştur. Bu kuruluşların\npara ve sermaye piyasasına katkıları dolaylı ve sınırlıdır. Doğru\nyanıt E dir.",
+  "Answer": "E) Kamu Bankaları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ticari bankaların pasif (yükümlülükler) kısmında yer almaz?",
+  "A": "A) Varlığa dayalı menkul kıymet",
+  "B": "B) Mevduat",
+  "C": "C) Krediler",
+  "D": "D) Yüzen fon",
+  "E": "E) Menkul kıymet ihracı",
+  "Image": 1,
+  "Explaination": "icari bankaların pasif (yükümlülükler) kısmın-da; bankaların\ntopladıkları mevduatlar, banka-nın özkaynakları, varlığa dayalı\nmenkul kıymetleri, menkul kıymet ihracı, yüzen fon, döviz\nmevduatları, faiz gelirleri, hizmetlerden sağlanan gelirler\n(ATM’lerden kesilen hesap işletim ücretleri), reeskont kredisi (MB\nkredileri) şeklinde sıralanabilir. Krediler ise ticari bankanın aktif\n(varlıklar) kısmında yer alır. Bunlar bankanın dışarıya verdiği\nborçlardır. Doğru yanıt C dir.",
+  "Answer": "C) Krediler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ticari bankaların aktif (varlıklar) kısmında yer almaz?",
+  "A": "A) Krediler",
+  "B": "B) Menkul kıymet plasmanları",
+  "C": "C) Yedek akçeler",
+  "D": "D) İştirakler",
+  "E": "E) Rezervler",
+  "Image": 1,
+  "Explaination": "Ticari bankaların aktif (varlıklar) kısmında; krediler, iştirakler,\nmenkul kıymet plasmanları, diğer varlıklar ve rezervler (bankanın\nayırdıkları zorunlu ve ihtiyari karşılıklar) yer alır. Yedek akçeler ise\nbir özkaynak hesabıdır ve bankanın pasif kısmında yer alır. Doğru\nyanıt C dir.",
+  "Answer": "C) Yedek akçeler"
+ }
+]

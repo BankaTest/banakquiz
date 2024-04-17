@@ -1,0 +1,221 @@
+[
+ {
+  "Question": "Nominal faiz oranı arttığında, reel para talebi nasıl değişir?",
+  "A": "A) Bireyler gelirlerinin daha büyük bir kısmını ödünç vermek isteyecekleri için artar",
+  "B": "B) Reel para talebinin enflasyona göre düzeltilmiş fırsat maliyeti azalacağı için artar",
+  "C": "C) Gelirin nominal değeri düşeceği için azalır",
+  "D": "D) Para arzı azalacağı için azalır",
+  "E": "E) Nakit tutmanın fırsat maliyeti artacağı için azalır",
+  "Image": 1,
+  "Explaination": "Faiz oranı, elde para tutmanın fırsat maliyetini gösterir. Enflasyon oranı ya da beklenen enflasyon aynı iken nominal faiz oranı artarsa, reel faiz oranı da artar ve reel para talebi de azalır. Dolayısıyla, nominal faiz oranı arttığında nakit tutmanın fırsat maliyeti artacağı için reel para talebi azalır",
+  "Answer": "E) Nakit tutmanın fırsat maliyeti artacağı için azalır"
+ },
+ {
+  "Question": "Emisyon, Merkez Bankası bilançosunun hangi kısmında yer alır?",
+  "A": "A) Aktiflerin iç varlıklar kısmında",
+  "B": "B) Aktiflerin diğer kalemlerinde",
+  "C": "C) Pasiflerin açık piyasa işlemlerinde",
+  "D": "D) Pasiflerin iç yükümlülüğünde",
+  "E": "E) Pasiflerin Merkez Bankası parasının rezerv para kısmında",
+  "Image": 1,
+  "Explaination": "Emisyon, kağıt paranın, hisse senetlerinin tahvillerin ilk defa piyasaya sürülmesidir. Merkez Bankasının piyasaya sürdüğü toplam kağıt para miktarı, emisyon hacmini ifade eder. Emisyona Merkez Bankası yetkilidir. Emisyon Merkez Bankası bilançosunun pasif kısmında, Merkez Bankası parasının rezerv para kısmında yer alır",
+  "Answer": "E) Pasiflerin Merkez Bankası parasının rezerv para kısmında"
+ },
+ {
+  "Question": "Londra bankalararası para piyasasında likiditesi yüksek bankaların birbirlerine ABD doları üzerinden borç verme işlemlerinde uyguladıkları faiz oranına ne ad verilir?",
+  "A": "A) Swap",
+  "B": "B) Future",
+  "C": "C) LİBOR",
+  "D": "D) FED",
+  "E": "E) Eurobond",
+  "Image": 1,
+  "Explaination": "LİBOR Londra bankalararası para piyasasında likiditesi yüksek bankaların birbirlerine ABD doları üzerinden borç verme işlemlerinde uyguladıkları faiz oranıdır",
+  "Answer": "C) LİBOR"
+ },
+ {
+  "Question": "Elektronik fon transferi sisteminin işletmecisi aşağıdakilerden hangisidir?",
+  "A": "A) Bankacılık Düzenleme ve Denetleme Kurumu",
+  "B": "B) Tasarruf Mevduatı Sigorta Fonu",
+  "C": "C) Sermaye Piyasası Kurulu",
+  "D": "D) Hazine Müsteşarlığı",
+  "E": "E) TC Merkez Bankası",
+  "Image": 1,
+  "Explaination": "Elektronik Fon Transferi ( EFT) Sistemi Türk lirası üzerinden yapılan ödeme işlemlerinin bankalar arasında elektronik ortamda gerçek zamanlı olarak gerçekleştirilmesini ve gerçek zamanlı mutabakatını sağlayan bir sistemdir. EFT Sisteminin sahibi ve işletmecisi Merkez Bankası'dır",
+  "Answer": "E) TC Merkez Bankası"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Bankacılık Kanununda tanımlanmamıştır?",
+  "A": "A) Bankacılık Düzenleme ve Denetleme Kurumu",
+  "B": "B) Tasarruf Mevduatı Sigorta Fonu",
+  "C": "C) Türkiye Bankalar Birliği",
+  "D": "D) TC Merkez Bankası",
+  "E": "E) Türkiye Katılım Bankaları Birliği",
+  "Image": 1,
+  "Explaination": "5411 sayılı Bankacılık Kanunu; -Bankacılık Düzenleme ve Denetleme Kurumu\n-Tasarruf Mevduatı Sigorta Fonu\n-Türkiye Bankalar Birliği\n-Türkiye Katılım Bankaları Birliği kurumlarının kuruluşunu, görev ve yetkilerini açıklamıştır. Ancak Merkez Bankası bu kanunda yer almayıp ayrı kanunla tanımlama yapılmıştır",
+  "Answer": "D) TC Merkez Bankası"
+ },
+ {
+  "Question": "Bankalara borcunu ödemeyenlerin, eksik ödeyenlerin veya zamanında ödemeyenlerin TBB Risk Merkezi nezdinde kayıtlarının tutulduğu listeye ne ad verilir?",
+  "A": "A) Kırmızı liste",
+  "B": "B) Takip listesi",
+  "C": "C) iflas listesi",
+  "D": "D) Memzuç listesi",
+  "E": "E) Bildirim listesi",
+  "Image": 1,
+  "Explaination": "Bankalara borcunu ödemeyenlerin, eksik, zamanında ödemeyenlerin kaydının tutulduğu bu listeye memzuç listesi denir",
+  "Answer": "D) Memzuç listesi"
+ },
+ {
+  "Question": "Sermaye piyasası araçlarının ve bu araçlara ilişkin hakların; bilgisayar ortamında, ihraççılar, aracı kuruluşlar ve hak sahipleri bazında tutulduğu kuruluş, aşağıdakilerden hangisidir ?",
+  "A": "A) Türkiye Bankalar Birliği",
+  "B": "B) Takasbank",
+  "C": "C) Sermaye Piyasası Kurulu",
+  "D": "D) Merkezi Kayıt Kuruluşu",
+  "E": "E) BankacıIık Düzenleme ve Denetleme Kurumu",
+  "Image": 1,
+  "Explaination": "Türkiye'de kurulmuş olan tüm menkul kıymetlerin kaydileştirilmesi ve saklaması Merkezi\nKayıt Kuruluşu A.Ş. (MKK) tarafından yapılmaktadır. MKK, Sermaye Piyasası Kurulu tarafından kaydileştirilmesine karar verilmiş sermaye piyasası araçları için Türkiye'nin Merkezi Saklama Kuruluşu'dur. MKK, Türkiye Sermaye Piyasası araçları için hak sahibi bazında tam kaydileştirme modelini uygulamaktadır",
+  "Answer": "D) Merkezi Kayıt Kuruluşu"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi mevduat ve benzeri adlarla para toplamaya yetkili kurumlardan biridir?",
+  "A": "A) Katılım bankaları",
+  "B": "B) Yatırım bankaları",
+  "C": "C) Kalkınma bankaları",
+  "D": "D) Merkez bankaları",
+  "E": "E) Belediye bankaları",
+  "Image": 1,
+  "Explaination": "Bankacılık Kanununa göre ülkemizde yatırım - kalkınma bankaları, merkez bankaları ve belediye bankaları halktan mevduat toplayamaz. Seçeneklerde verilen bankalardan yalnız Katılım Bankaları mevduat toplama yetkisi vardır",
+  "Answer": "A) Katılım bankaları"
+ },
+ {
+  "Question": "Bankaların sundukları hizmetler karşılığında müşterilerinden aldığı paraya ne denir?",
+  "A": "A) Faiz",
+  "B": "B) Komisyon",
+  "C": "C) Temettü",
+  "D": "D) Vergi",
+  "E": "E) Kar",
+  "Image": 1,
+  "Explaination": "Bankaların sundukları hizmetler karşılığında müşterilerinden aldığı paraya hizmet komisyonu denmektedir",
+  "Answer": "B) Komisyon"
+ },
+ {
+  "Question": "Ülkemizde ihracatı desteklemek için kurulan ve ihracat yapan firmalara kredi sağlayan kuruluşun adı nedir?",
+  "A": "A) Eximbank",
+  "B": "B) Halk Bankası",
+  "C": "C) İller Bankası",
+  "D": "D) Merkez Bankası",
+  "E": "E) Ziraat Bankası",
+  "Image": 1,
+  "Explaination": "Ülkemizde ihracatı desteklemek için kurulan ve ihracat yapan firmalara kredi sağlayan kuruluş Eximbank'tır",
+  "Answer": "A) Eximbank"
+ },
+ {
+  "Question": "Amerikan Merkez Bankası'nın kısaltarak yazılmış hali aşağıdakilerden hangisidir?",
+  "A": "A) ECU",
+  "B": "B) LİBOR",
+  "C": "C) FED",
+  "D": "D) ECB",
+  "E": "E) FEB",
+  "Image": 1,
+  "Explaination": "Amerikan Merkez Bankası'nın kısaltarak yazılmış hali FED'dir",
+  "Answer": "C) FED"
+ },
+ {
+  "Question": "BankaIar hangi şirket türünde kurulur?",
+  "A": "A) Kollektif Şirket",
+  "B": "B) Adi Şirket",
+  "C": "C) Limited Şirket",
+  "D": "D) Anonim Şirket",
+  "E": "E) Şahıs Şirketi",
+  "Image": 1,
+  "Explaination": "Bankacılık Kanunu'na göre bankaların Anonim Şirket şeklinde kurulması zorunludur",
+  "Answer": "D) Anonim Şirket"
+ },
+ {
+  "Question": "AşağıdakiIerden hangisi sermaye piyasası kurumu olarak görülemez?",
+  "A": "A) Aracı kurumlar",
+  "B": "B) Yatırım fonları",
+  "C": "C) Portföy yönetim şirketleri",
+  "D": "D) Yatırım ortaklıkları",
+  "E": "E) Sigorta şirketleri",
+  "Image": 1,
+  "Explaination": "Sermaye Piyasası Kurumları şunlardır;\n'Aracı Kurumlar\n•Yatırım Ortaklıkları\n•Yatırım Fonları\n•Portföy yönetim şirketleri\n• Sermaye piyasasında faaliyet göstermesine izin verilen diğer kurumlardır.\nSigorta Şirketleri sermaye piyasası kurumları arasında yer almaz.",
+  "Answer": "E) Sigorta şirketleri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi mevduat türlerinden biri değildir?",
+  "A": "A) Tasarruf Mevduatı",
+  "B": "B) Resmi Kuruluşlar Mevduatı",
+  "C": "C) Ticari Kuruluşlar Mevduatı",
+  "D": "D) Sigorta Mevduatı",
+  "E": "E) Bankalar Mevduatı",
+  "Explaination": "Bankalar Kanununa Göre Mevduat Türleri o Tasarruf Mevduatı:\tSadece gerçek kişiler tarafından açılan ve ticari işlemlere konu olmama şartını sağlayan mevduat hesaplarıdır.\n•\tResmi Kuruluşlar Mevduatı: Adli kurumlar, yerel yönetimler gibi kamu kuruluşlarına ait mevduat hesaplarıdır.\n•\tTicari Kuruluşlar Mevduatı: Gerçek ve tüzel kişiler tarafından oluşturulmuş ortaklık, kurum ve kuruluşlar gibi ticari işletmelerin mevduat hesaplarıdır.\n•\tBankalar arası Mevduat: Bankaların başka bankalarda açtıkları mevduat hesaplarıdır.\n•\tDiğer Kuruluşlar Mevduatı: Tüm bu mevduat türleri kapsamı dışında kalan mevduat hesaplarıdır.\nSigorta mevduatı, mevduat türleri arasında yer almaz",
+  "Answer": "D) Sigorta Mevduatı"
+ },
+ {
+  "Question": "Merkez Bankası kaç yılında kurulmuştur?",
+  "A": "A) 1888",
+  "B": "B) 1931",
+  "C": "C) 1923",
+  "D": "D) 1935",
+  "E": "E) 1853",
+  "Image": 1,
+  "Explaination": "Merkez Bankası 3 Ekim 1931 tarihinde faaliyete geçmiştir",
+  "Answer": "B) 1931"
+ },
+ {
+  "Question": "Emisyon yetkisine sahip banka aşağıdakilerden hangisidir?",
+  "A": "A) Ziraat Bankası",
+  "B": "B) Merkez Bankası",
+  "C": "C) BDDK",
+  "D": "D) TMSF",
+  "E": "E) Halk Bankası",
+  "Image": 1,
+  "Explaination": "Bir ülkede, kağıt para, tahvil ve bono, hisse senetleri gibi değerlerin ilk kez piyasaya sürülmesine emisyon denir. Ülkemizde kağıt para basılmasında sorumlu olan Merkez Bankası emisyon yetkisine sahiptir",
+  "Answer": "B) Merkez Bankası"
+ },
+ {
+  "Question": "Osmanlı Devletinde kurulan ilk banka aşağıdakilerden hangisidir?",
+  "A": "A) Ziraat Bankası",
+  "B": "B) Memleket Sandıkları",
+  "C": "C) Bank-ı Dersaadet ( İstanbul ) Bankası",
+  "D": "D) Osmanlı Bankası",
+  "E": "E) Ottoman Bank",
+  "Image": 1,
+  "Explaination": "Osmanlı Devletinde kurulan ilk banka 1849 yılında faaliyete geçen Bank-ı Dersaadet (İstanbul) Bankası'dır",
+  "Answer": "C) Bank-ı Dersaadet ( İstanbul ) Bankası"
+ },
+ {
+  "Question": "BDDK kaç tarihinde kurulmuştur?",
+  "A": "A) 1999",
+  "B": "B) 2000",
+  "C": "C) 2001",
+  "D": "D) 2002",
+  "E": "E) 2003",
+  "Image": 1,
+  "Explaination": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Türkiye'de tasarruf sahiplerinin hak ve menfaatlerini korumak, bankalar ve özel finans kurumlarının piyasa disiplini içerisinde sağlıklı, etkin ve dünya ölçeğinde rekabet edebilir bir yapıda işleyişi için uygun ortamı yaratmak bu sayede ülkenin uzun vadeli büyümesine ve istikrarına katkıda bulunmak amacıyla 31 Ağustos 2000 tarihinde kurulmuş özerk bir kurumdur",
+  "Answer": "B) 2000"
+ },
+ {
+  "Question": "Açık piyasa işlemlerini kim yapar?",
+  "A": "A) Türkiye Bankalar Birliği",
+  "B": "B) TMSF",
+  "C": "C) Merkez Bankası",
+  "D": "D) BDDK",
+  "E": "E) Ziraat Bankası",
+  "Image": 1,
+  "Explaination": "Merkez Bankası'nın temel görevleri: -Açık piyasa işlemleri yapmak,\n-Hükümetle birlikte Türk Lirasının iç ve dış değerini korumak için gerekli tedbirleri almak\n-Bankaların ve Bankaca uygun görülecek diğer mali kurumların yükümlülüklerini esas alarak zorunlu basılmasında sorumlu olan Merkez Bankası emisyon yetkisine sahiptir",
+  "Answer": "B) TMSF"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi mevduat bankalarının görevlerinden biri değildir?",
+  "A": "A) Kaynaklara akıcılık sağlama",
+  "B": "B) Halka arz",
+  "C": "C) Kısa süreli fonları, uzun süreli fonlar haline dönüştürme",
+  "D": "D) Para politikasının etkinliğini artırma",
+  "E": "E) Gelir ve servet dağılımını etkileme",
+  "Image": 1,
+  "Explaination": "Bankaların Görevleri: Bankaların kuruluş amaçlarına göre çeşitli faaliyetleri olmasına rağmen, bankaların yerine getirdikleri temel görevlerini şöyle sıralayabiliriz:\no Aracılık\no 2.KaynakIara Akıcılık Sağlama:\noKişilerin ve Kurumların Sahip Oldukları Maddi\nVarlıkların Rasyonel Bir Biçimde Kullanımını Sağlama o Kaynak Kullanımlarını İyileştirme\no Kısa Süreli Fonları, Uzun Süreli Fonlar Haline Dönüştürme.\no Kaydi Para veya Banka Parası Yaratma\no Ulusal ve Uluslararası Ticareti Geliştirme\no Para Politikasının Etkinliğini Artırma\no Gelir ve Servet Dağılımını Etkileme\nE Bankaların halka arz görevi yoktur",
+  "Answer": "B) Halka arz"
+ }
+]

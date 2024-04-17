@@ -1,0 +1,221 @@
+[
+ {
+  "Question": "Sadece imzanın yeterli olduğu teminat türü nedir?",
+  "A": "A) Menkul rehni",
+  "B": "B) Kefalet",
+  "C": "C) ipotek",
+  "D": "D) Teminat mektubu",
+  "E": "E) Nakit blokesi",
+  "Image": 1,
+  "Explaination": "Sadece imzanın yeterli olduğu teminat türü kefalettir",
+  "Answer": "B) Kefalet"
+ },
+ {
+  "Question": "Türk Bankacılık Sektörü'nde sahiplik açısından bir tasnif yapıldığında aşağıdakilerden hangisi yanlıştır?",
+  "A": "A) Kamu bankaları",
+  "B": "B) Özel bankalar",
+  "C": "C) Mevduat bankaları ",
+  "D": "D) Yabancı bankalar",
+  "E": "E) TMSF bankaları",
+  "Image": 1,
+  "Explaination": "Ülkemizde bankaları sahiplik açısından sınıflandırdığımızda;\no Kamu bankaları\n • Yabancı bankalar\n • özel bankalar o\n TMSF bankaları şeklindedir.\nMevduat\tbankaları bu sınıflandırmaya girmemektedir.",
+  "Answer": "C) Mevduat bankaları "
+ },
+ {
+  "Question": "Ülkenin yerel parasının yabancı para birimleri karşısında değer kaybetmesi sürecine ne ad verilir?",
+  "A": "A) Sendikasyon",
+  "B": "B) Konvertbilite",
+  "C": "C) Devalüasyon",
+  "D": "D) Konsolidasyon",
+  "E": "E) Revalüasyon",
+  "Image": 1,
+  "Explaination": "Devalüasyon, sabit kur sistemlerinde ödemeler bilançosu açık veren ülkenin, devlet tarafından alınan bir kararla, ulusal paranın dış satın alma gücünün düşürülmesidir. Kısaca devalüasyon yerel milli paranın değerinin yabancı paralar karşısında düşürülmesi olarak tanımlanabilir",
+  "Answer": "C) Devalüasyon"
+ },
+ {
+  "Question": "En dar tanımıyla nominal faizin enflasyondan arındırılmış haline ne ad verilir?",
+  "A": "A) Bileşik faiz ",
+  "B": "B) İskontolu faiz",
+  "C": "C) Basit faiz",
+  "D": "D) Marjinal faiz ",
+  "E": "E) Reel faiz",
+  "Image": 1,
+  "Explaination": "Reel faiz, bileşik (nominal) faizin, enflasyonun etkilerinin çıkarılması sonucu ortaya çıkan faiz oranıdır",
+  "Answer": "E) Reel faiz"
+ },
+ {
+  "Question": "Bir bankanın döviz alış kuru ile döviz satış kuru arasındaki farka ne ad verilir ?",
+  "A": "A) Spread",
+  "B": "B) Kotasyon ",
+  "C": "C) Döviz karı",
+  "D": "D) Efektif kur farkı",
+  "E": "E) Parite farkı",
+  "Image": 1,
+  "Explaination": "Spread, bir dövizin alış fiyatıyla satış fiyatının arasındaki değer farkı anlamına gelir",
+  "Answer": "A) Spread"
+ },
+ {
+  "Question": "Bankacılık Kanunu'na göre, banka yönetim kurulunun en az kaç kişiden oluşması gerekir?",
+  "A": "A) 3",
+  "B": "B) 5",
+  "C": "C) 7",
+  "D": "D) 9",
+  "E": "E) 11",
+  "Image": 1,
+  "Explaination": "Bankacılık kanununa göre Yönetim Kurulu 5 kişiden oluşur ",
+  "Answer": "B) 5"
+ },
+ {
+  "Question": "Aynı banka şubesinde bulunan ve aynı müşteriye ait olan hesaplar arasındaki para aktarımlarına ne ad verilir?",
+  "A": "A) Havale",
+  "B": "B) EFT",
+  "C": "C) Virman",
+  "D": "D) Transfer",
+  "E": "E) Para Aktarımı",
+  "Image": 1,
+  "Explaination": "Virman, mevduat sahibinin aynı bankada farklı amaçlarla birden fazla hesabının olması durumunda söz konusu olur. Virman ile mevduat sahibi tek bir işlemle bir hesaptan para çekip diğer hesabına para yatırmış olur. Para aktarma için sadece mevduat sahibinin talimatı gerekli ve yeterlidir",
+  "Answer": "C) Virman"
+ },
+ {
+  "Question": "Bir miktar para % 6 faizle 1 yıl bankada kalmıştır. Eğer % 8 faiz almış olsaydı, yıl 24.000 lira daha fazla faiz getirecekti.buna göre anapara miktarı ne kadardır?",
+  "A": "A) 1.200.000",
+  "B": "B) 1.000.000",
+  "C": "C) 1.500.000",
+  "D": "D) 500.000",
+  "E": "E) 2.000.000",
+  "Image": 1,
+  "Explaination": "( (A.6.1)\/100)+240.000=( (A.8.1)\/100) \nyani ilk durumda aldığı faize 24.000 TL daha eklenirse ikinci durumda aldığı faize eşit oluyor\n24.000=8A\/100-6A\/100    24.000=2A\/100\n2A=2.400.000               A=1.200.000",
+  "Answer": "A) 1.200.000"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Borsa İstanbul altında faaliyet gösteren ve DİBS'lerin ikincil piyasa alım satım işlemlerinin yapıldığı menkul kıymet piyasasıdır?",
+  "A": "A) Pay Piyasası",
+  "B": "B) Borçlanma Araçları Piyasası",
+  "C": "C) Vadeli İşlemler ve Opsiyon Piyasası",
+  "D": "D) Takasbank Para Piyasası",
+  "E": "E) Bankalararası Repo Piyasası",
+  "Image": 1,
+  "Explaination": "Borsa İstanbul altında faaliyet gösteren ve  DİBSlerin ikincil piyasa alım satım işlemlerinin yapıldığı menkul kıymet piyasası Borçlanma Araçları Piyasasıdır ",
+  "Answer": "B) Borçlanma Araçları Piyasası"
+ },
+ {
+  "Question": "Kuruluşların kendi ticari işlemlerinden doğmuş alacakları karşılığında ihraç edebilecekleri menkul kıymetler aşağıdakilerden hangisi ile\nisimlendirilmektedir?",
+  "A": "A) Repo",
+  "B": "B) Gelir Ortaklığı Senedi",
+  "C": "C) Varlığa dayalı menkul kıymet",
+  "D": "D) Banka bonosu",
+  "E": "E) İpotek teminatlı menkul kıymet",
+  "Image": 1,
+  "Explaination": "Sermaye piyasası araçları ile ulusal ve\nuluslararası borsalarda veya borsa dışı organize piyasalarda işlem gören altın ve diğer kıymetli\nmadenler portföyü işletmek üzere anonim ortaklık\nşeklinde ve kayıtlı sermaye esasına göre kurulan sermaye piyasası kurumları yatırım ortaklıklarıdır.",
+  "Answer": "C) Varlığa dayalı menkul kıymet"
+ },
+ {
+  "Question": "Türk Lirası, döviz ve kıymetli maden cinsindentasarruf mevduatlarının ne kadarlık kısmı TMSF düzenlemeleri kapsamında sigortaya tabidir ?",
+  "A": "A) 700.000",
+  "B": "B) 650.000",
+  "C": "C) 600.000",
+  "D": "D) 500.000",
+  "E": "E) 450.000",
+  "Image": 1,
+  "Explaination": "Tasarruf Mevduatı Sigorta Fonu (TMSF), 400 bin lira olan sigortaya tabi mevduat ve katılım fonu tutarını, 2024'ten itibaren geçerli olmak üzere 650 bin liraya yükseltti",
+  "Answer": "B) 650.000"
+ },
+ {
+  "Question": "AşağıdakiIerden hangisi organize piyasalara\nörnek sayılamaz ?",
+  "A": "A) BİST Borçlanma Araçları Piyasası",
+  "B": "B) Takasbank Para Piyasası",
+  "C": "C) Serbest döviz piyasası",
+  "D": "D) TCMB Para Piyasası",
+  "E": "E) Viop",
+  "Image": 1,
+  "Explaination": "Çözüm: Organize piyasalar, alıcı ve satıcıların belli\nfiziksel alanlarda karşılaştığı, denetim Vve gözetimi\nbelli kurumlar tarafından yapılan piyasalardır.\nOrganize piyasalara en iyi örnek \"borsa\"'dır.\nOrganize olmayan piyasalar, yasal kuralları\nbelirlenmiş olmayan, fiziki bir mekanı bulunmayan,\nbelirli kurum ve kuruluşlarca denetlenmeyen\npiyasalardır.\nC seçeneğindeki \" Serbest döviz piyasası \" organize\nolmayan piyasalardandır.",
+  "Answer": "C) Serbest döviz piyasası"
+ },
+ {
+  "Question": "Merkez bankalarının fiyat ve finansal istikrarı gerçekleştirmek amacıyla çeşitli parasal araçlar\nvasıtasıyla uyguladığı politikaya ne ad verilir?",
+  "A": "A) Para Politikası",
+  "B": "B) Maliye Politikası",
+  "C": "C) Enflasyonist Politika",
+  "D": "D) Kalkınma Politikası",
+  "E": "E) Deflasyonist Politika",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Maliye Politikası"
+ },
+ {
+  "Question": "Bankacılık Kanunu'na göre, bankaların sermaye yeterlilik oranı en az yüzde kaç olmalıdır?",
+  "A": "A) 8",
+  "B": "B) 9",
+  "C": "C) 10",
+  "D": "D) 11",
+  "E": "E) 12",
+  "Explaination": "Bankalar, %8 oranından az olmamak üzere belirlenecek sermaye yeterliliği oranını hesaplamak, tutturmak, idame ettirmek ve raporlamak zorundadır",
+  "Answer": "A) 8"
+ },
+ {
+  "Question": "KaIkınma ve Yatırım Bankaları için aşağıdakilerden hangisi doğrudur?",
+  "A": "A) Şube açamaz",
+  "B": "B) Mevduat toplayamaz",
+  "C": "C) YP kredi kullandıramaz ",
+  "D": "D) Fon yönetimi yapamaz",
+  "E": "E) Halka açılamaz",
+  "Image": 1,
+  "Explaination": "Kalkınma ve Yatırım Bankalarının mevduat toplama yetkisi bulunmamaktadır",
+  "Answer": "B) Mevduat toplayamaz"
+ },
+ {
+  "Question": "Bir firmanın veya bir ülkenin kendi ülkesi dışında kaynak sağlamak amacıyla, yabancı bir veya birkaç bankanın aracılığıyla yurt dışında ihraç ettikleri ve uluslararası piyasalarda işlem gören tahvillere ne ad verilmektedir?",
+  "A": "A)  ROT",
+  "B": "B) Devlet iç borçlanma senedi",
+  "C": "C) Döviz tahvili ",
+  "D": "D) Eurobond",
+  "E": "E) Repo",
+  "Image": 1,
+  "Explaination": "Eurobond, devlet ya da şirketlerin, kendi ülkeleri dışında kaynak sağlamak amacıyla, uluslararası piyasalarda yabancı para birimleri üzerinden satışa sundukları, genellikle uzun vadeli borçlanma aracıdır",
+  "Answer": "D) Eurobond"
+ },
+ {
+  "Question": "Bir sermaye piyasası aracının geri satmak üzere satın alınması hangi repo türünü göstermektedir?",
+  "A": "A) Düz repo",
+  "B": "B) Açık repo",
+  "C": "C) Gecelik repo",
+  "D": "D) Sürekli repo",
+  "E": "E) Ters Repo",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Ters Repo"
+ },
+ {
+  "Question": "Türkiye'de faaliyet gösteren bankaları temsil eden kurum aşağıdakilerden hangisidir?",
+  "A": "A) Türkiye Bankalar Birliği",
+  "B": "B) Sermaye Piyasası Kurulu",
+  "C": "C) Türkiye Cumhuriyeti Merkez Bankası",
+  "D": "D) Bankacılık Düzenleme ve Denetleme Kurumu",
+  "E": "E) Türkiye Sermaye Piyasası Birliği",
+  "Image": 1,
+  "Explaination": "Türkiye' de faaliyet gösteren bankaları temsil eden kurum Türkiye Bankalar Birliği'dir",
+  "Answer": "A) Türkiye Bankalar Birliği"
+ },
+ {
+  "Question": "Devletin ya da özel şirketlerin borçlanmak üzere orta ve uzun vadeli çıkarttıkları borçlanma aracı aşağıdakilerden hangisidir?",
+  "A": "A) Hisse senedi",
+  "B": "B) Euro para",
+  "C": "C) Finansman bonosu",
+  "D": "D) Banka kredisi",
+  "E": "E) Tahvil",
+  "Image": 1,
+  "Explaination": "Devletin ya da özel şirketlerin borçlanmak üzere orta ve uzun vadeli çıkarttıkları borçlanma aracı tahvildir. Eğer kısa vadeli borçlanmaya gidilecekse çıkarılan araç bonodur",
+  "Answer": "E) Tahvil"
+ },
+ {
+  "Question": "Türkiye'de para piyasasının düzenleyici ve denetleyici kurumu aşağıdakilerden hangisidir?",
+  "A": "A) Bankacılık Düzenleme ve Denetleme Kurumu",
+  "B": "B) Merkez Bankası",
+  "C": "C) Sermaye Piyasası Kurulu",
+  "D": "D) Türkiye Bankalar Birliği",
+  "E": "E) Tasarruf Mevduatı Sigorta Fonu",
+  "Image": 1,
+  "Explaination": "Türkiye'de para piyasasının düzenleyici ve denetleyici kurumu T.C. Merkez Bankası'dır. Sermaye piyasalarının düzenleyici ve denetleyici kurumu Sermaye Piyasası Kurulu, bankaların düzenleyici ve denetleyici kurumu ise Bankacılık Düzenleme ve Denetleme Kurumu'dur",
+  "Answer": "B) Merkez Bankası"
+ }
+]

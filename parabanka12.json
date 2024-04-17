@@ -1,0 +1,221 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi parasal aktarma mekanizmalarından birisi olan portföy kanalının parçası değildir?",
+  "A": "A) Tahvillerin getirisindeki değişikliklerin portföydeki hisse senedi miktarı üzerindeki etkisi",
+  "B": "B) Hisse senetlerindeki değer değişikliklerinin yeni yatırımlar üzerindeki etkisi",
+  "C": "C) Faiz oranı değişikliklerinin enflasyon üzerine etkisi",
+  "D": "D) Faiz oranı değişikliklerinin tahvillerin getirisi üzerindeki etkisi",
+  "E": "E) Faiz oranı değişikliklerinin hisse senetleri getirisi üzerindeki etkisi",
+  "Image": 1,
+  "Explaination": "Hisse senedi, yatırımlar ve tahviller yatırım araçlarıdır. Ancak faiz oranlarının enflasyon üzerindeki etkisi paranın alım gücü üzerinde (artırıcı-azaltıcı) bir etki yaratır. Bu yüzden portföy kanalının bir parçası değildir.",
+  "Answer": "C) Faiz oranı değişikliklerinin enflasyon üzerine etkisi"
+ },
+ {
+  "Question": "Nakit tutma oranının sıfır olduğu bir ekonomide zorunlu karşılık oranı % 10 ise parasal çarpan kaçtır?",
+  "A": "A) 0,1",
+  "B": "B) 1",
+  "C": "C) 2",
+  "D": "D) 8",
+  "E": "E) 10",
+  "Image": 1,
+  "Explaination": "Parasal çarpan 1 \/ zorunlu karşılık oranı formülüyle hesaplanır. Dolayısıyla; ı\/ 0,10: 10 olur",
+  "Answer": "E) 10"
+ },
+ {
+  "Question": "Bir paranın iki günden daha fazla bir süre sonrası için, sabit kur üzerinden bir başka parayla alınıp satılma işlemine ne ad verilir?",
+  "A": "A) Döviz swapı",
+  "B": "B) Faktoring",
+  "C": "C) Vadeli döviz işlemi",
+  "D": "D) Leasing",
+  "E": "E) Arbitraj işlemi",
+  "Image": 1,
+  "Explaination": "Bir paranın iki günden daha fazla bir süre sonrası için, sabit kur üzerinden bir başka parayla alınıp satılmasına vadeli döviz işlemi denir",
+  "Answer": "C) Vadeli döviz işlemi"
+ },
+ {
+  "Question": "1 $=1,3 TL   ve     1€=1,69 TL  ise  $ ile € arasındaki çapraz kur kaçtır ?",
+  "A": "A) 1 €=1,3 $",
+  "B": "B) 1 €=1,02 $",
+  "C": "C) 1 €=1,001 $",
+  "D": "D) 1 € =0.99 $",
+  "E": "E) 1 €=0,770 $",
+  "Image": 1,
+  "Explaination": "Sorunun çözümü için çapraz kur hesaplaması yapılmalıdır. E ve $'ın TL karşılıkları bölünerek çapraz kur bulunur",
+  "Answer": "A) 1 €=1,3 $"
+ },
+ {
+  "Question": "Paranın miktar teorisine göre aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Paranın dolaşım hızı faiz oranındaki değişikliklerden etkilenir",
+  "B": "B) Para talebi faiz oranı ile negatif ilişkilidir",
+  "C": "C) İşlem amaçlı para talebi faiz oranının fonksiyonudur",
+  "D": "D) Fiyatlar genel düzeyindeki değişikliğin tek nedeni para arzındaki değişikliktir",
+  "E": "E) Para spekülatif amaçlı talep edilir",
+  "Image": 1,
+  "Explaination": "Paranın miktar teorisine göre, paranın değeri ekonomideki para miktarına bağlıdır. Ekonomideki para arzı arttıkça, satın alınan mal ve hizmet miktarının sabit kalması halinde, fiyatlar yükselecek yani paranın değeri düşecektir. Bu nedenle, fiyatlar genel düzeyindeki değişikliğin tek nedeni para arzındaki değişikliktir",
+  "Answer": "D) Fiyatlar genel düzeyindeki değişikliğin tek nedeni para arzındaki değişikliktir"
+ },
+ {
+  "Question": "Fisher denklemi aşağıdakilerden hangisini gösterir?",
+  "A": "A) Nominal faiz oranının, reel faiz oranı ve beklenen enflasyonun toplamına eşit olduğunu",
+  "B": "B) Nominal faiz oranının reel faiz oranı ile beklenen enflasyonun farkına eşit olduğunu",
+  "C": "C) Faiz oranlarının tahvilin fiyatı ile negatif ilişkili olduğunu",
+  "D": "D) Kısa dönemde döviz kurunun nasıl belirlendiğini",
+  "E": "E) Yurt içi faiz oranının yabancı faiz oranıyla yabancı\nparanın beklenen değer kazanma oranı toplamına\neşit olduğunu",
+  "Image": 1,
+  "Explaination": "M:V=P:T",
+  "Answer": "A) Nominal faiz oranının, reel faiz oranı ve beklenen enflasyonun toplamına eşit olduğunu"
+ },
+ {
+  "Question": "Zorunlu karşılık oranı % 10 iken, bankacılık\nkesiminin rezervlerindeki 100 birimlik artış en\nfazla ne kadar mevduat yaratabilir?",
+  "A": "A) 100",
+  "B": "B) 110",
+  "C": "C) 1000",
+  "D": "D) 1100",
+  "E": "E) 10000",
+  "Image": 1,
+  "Explaination": "Çözüm: Kaydi para, bankalardaki vadesiz mevduata\ndenilir. Günümüzde harcama amacıyla bir miktar\npara bankada tutulur. Bu paraların hepsi nakit\nolarak çekilmez. Bankada bu şekilde tutulan vadesiz\nmevduat, kredi isteyenlere kredi olarak verilebilir.\nKredi çarpanı, bankacılık sisteminde ne kadarlık\nkaydi para yaratıldığını miktar olarak ölçmeye yarar.\nYaratılan kaydi para miktarı (bankaların aşırı rezerv\ntutmadıkları ve hane halklarının nakit tutmadıkları\nvarsayımları altında) aşağıdaki gibi hesaplanır.\nKzA\/r\tK: Yaratılan kaydi para\nA: Mevduat olarak yatırılan ana para\nr: Yasal karşılık oranı\nSorudaki verilerle; 100\/0,10:1000\nYani bankaya yatırılan 100 TL, 1000 TL'lik kaydi\npara yaratmaktadır",
+  "Answer": "C) 1000"
+ },
+ {
+  "Question": "Para çoğaltanı ile ilgili aşağıdaki ifadelerden\nhangisi yanlıştır?",
+  "A": "A)  Zorunlu rezerv oranı (zorunlu rezervler \/ vadesiz\nmevduat) MI para çoğaltanı ile negatif ilişkilidir.",
+  "B": "B)  Bankaların tuttukları serbest rezervlerin oranı\n(serbest rezerv \/ vadesiz mevduat) MI para\nçoğaltanı ile negatif ilişkilidir",
+  "C": "C) Para çoğaltanı, rezerv para miktarındaki bir\nbirimlik artışın para arzını kaç birim artıracağını\ngösterir",
+  "D": "D) Para çoğaltanı, dolaşımdaki paranın oranı\n(dolaşımdaki para \/ vadesiz mevduat) ile pozitif\nilişkilidir",
+  "E": "E) Para çoğaltanı, dolaşımdaki paranın oranı (Dolaşımdaki para \/ Vadesiz mevduat ) ile negatif ilişkilidir ",
+  "Image": 1,
+  "Explaination": "M1=1 +c \/ r+e+c \nFormüle göre zorunlu rezerv oranı yükseldikçe para çoğaltanının değeri düşeceği için para arzı miktarı azalacaktır. Serbest rezerv oranı da paydada yer almakta ve MI ile negatif bir ilişki içindedir. Rezerv para miktarındaki bir artışın, para arzını ne kadar arttıracağı para çoğaltanına bağlıdır. Nakit tercih oranı da MI ile negatif bir ilişki içindedir",
+  "Answer": "D) Para çoğaltanı, dolaşımdaki paranın oranı\n(dolaşımdaki para \/ vadesiz mevduat) ile pozitif\nilişkilidir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi merkez bankalarının para politikası araçları arasında yer almaz?",
+  "A": "A) Döviz işlemleri",
+  "B": "B) Açık piyasa işlemleri",
+  "C": "C) Fiyatlar genel düzeyi",
+  "D": "D) Reeskont oranı",
+  "E": "E) Zorunlu karşılık oranı",
+  "Image": 1,
+  "Explaination": "Merkez Bankasının para politikası araçları;\n•\tReeskont oranları\n•\tZorunlu karşılık ve disponibilite oranları\n•\tAçık piyasa işlemleri\n•\tDöviz işlemleri\nFiyatlar genel düzeyi maliye politikası aracıdır",
+  "Answer": "C) Fiyatlar genel düzeyi"
+ },
+ {
+  "Question": "Bankaların döviz alış ve döviz satış fiyatları arasındaki farka ne ad verilir?",
+  "A": "A) Kur farkı",
+  "B": "B) Kur karı",
+  "C": "C) Kur rantı",
+  "D": "D) Kur geliri",
+  "E": "E) Kur marjı ",
+  "Image": 1,
+  "Explaination": "Bankaların döviz alış ve satış fiyatları arasındaki farka kur marjı adı verilir",
+  "Answer": "E) Kur marjı "
+ },
+ {
+  "Question": "Bireylerin, faiz oranlarındaki değişmelerden yararlanmak amacıyla servetlerinin bir bölümünü para olarak tutmalarına ne ad verilir?",
+  "A": "A) Spekülasyon güdüsüyle para talebi",
+  "B": "B) İşlem güdüsüyle para talebi",
+  "C": "C) Üretim güdüsüyle para talebi",
+  "D": "D) Tüketim güdüsüyle para talebi",
+  "E": "E) İhtiyat güdüsüyle para talebi",
+  "Image": 1,
+  "Explaination": "Bireylerin,faiz oranlarındaki değişmelerden yararlanmak amacıyla servetlerinin bir bölümünü para olarak tutmalarına spekülasyon güdüsüyle para talebi denir",
+  "Answer": "A) Spekülasyon güdüsüyle para talebi"
+ },
+ {
+  "Question": "TC Merkez Bankası açık piyasa işlemleri çerçevesinde aşağıdaki işlemlerden hangisini yapamaz?",
+  "A": "A) Geri alım vaadiyle satış",
+  "B": "B) TL depo alımı ve satımı",
+  "C": "C) Geri satım vaadiyle alış",
+  "D": "D) TL karşılığı menkul kıymetlerin alımı",
+  "E": "E) Birincil piyasada Hazine bonosu alımı",
+  "Image": 1,
+  "Explaination": "Açık piyasa işlemleri Merkez bankacılığı tarafından en yaygın olarak kullanan para politikası aracıdır. Merkez Bankası'nın bankalarla Devlet iç Borçlanma Senetleri (DİBS) alım ve satımı yapmasıdır. Açık piyasa işlemlerinin büyüklüğü ve ü zamanlaması tamamen Merkez Bankası tarafından belirlenir. Açık piyasa işlemlerinde Merkez Bankası şunları amaçlar;\n • Bankaların rezervlerini etkilemek,\n•Parasal taban ve para arzını etkilemek,\n•Faiz oranlarını etkilemek,\n•Kredi koşullarını etkilemek",
+  "Answer": "E) Birincil piyasada Hazine bonosu alımı"
+ },
+ {
+  "Question": "Para arzı içsel bir büyüklük olarak kabul edildiğinde, çizilecek para arzı eğrisinin faiz oranları karşısındaki eğimi aşağıdakilerden hangisidir?",
+  "A": "A) Negatif",
+  "B": "B) Pozitif",
+  "C": "C) Sıfır esnek",
+  "D": "D) Sonsuz esnek",
+  "E": "E) Önce negatif sonra sonsuz esnek",
+  "Image": 1,
+  "Explaination": "LM doğrusunun faiz oranı cinsinden ifadesi doğrunun pozitif eğimli olmasıdır. Pozitif eğimli olmasının nedeni, milli gelir ile faiz oranı arasında doğru yönlü ilişkinin olmasıdır. Zira gelir arttığında para talebi artmakta, artan para talebi de faiz oranlarını yükseltmektedir. Doğrunun eğimini etkileyen iki değişken vardır. Bunlar;\n•Para talebinin gelir esnekliği\n•Para talebinin faiz esnekliğidir.\nBu değişkenlerin alacağı değerlere bağlı olarak LM eğrisinin eğimi de değişiklik gösterir.\n•Para talebinin gelir esnekliği arttıkça ya da para talebinin faiz esnekliği düştükçe LM eğrisinin eğimi artar yani nispeten daha dik hale gelir. (Şekilde LM2 hali)\n•Bunun tersine, para talebinin gelir esnekliği azaldıkça ya da para talebinin faiz esnekliği arttıkça LM eğrisinin eğimi azalır yani nispeten daha yatık hale gelir. (Şekilde LM3 hali)\n•Para talebinin faiz esnekliği sonsuz olursa yani Likidite Tuzağı varsa LM eğrisi yatay eksene paralel olur. (Şekilde LM4 hali)\n•Para talebinin faiz esnekliği sıfır olursa LM eğrisi dikey olur. (faiz eksenine paralel olur.)",
+  "Answer": "B) Pozitif"
+ },
+ {
+  "Question": "Esnek döviz kuru sisteminde, ödemeler dengesi fazlasının neden olacağı sonuç aşağıdakilerden hangisidir?",
+  "A": "A) erli paranın değer kaybetmesi",
+  "B": "B) Yurtiçi gelirin düşmesi",
+  "C": "C) Yurtiçi para arzının artması",
+  "D": "D) Kısa vadeli sermaye girişinin azalması",
+  "E": "E) Yurtiçi faiz oranlarının artması",
+  "Explaination": "Sabit kur sisteminde ödemeler bilançosundaki uzun süreli açık devalüasyonu öngörülebilir hale getirdiğinden spekülatör risk üstlenmez. Ancak esnek kur sisteminde, kurlardaki değişimin yönü tam olarak öngörülemeyeceğinden spekülasyon risk içerir.\nBöylece spekülasyon, döviz kurlarındaki dalgalanmayı yumuşatacak ve kendi doğal işlevini yerine getirmiş olacaktır. Yani, spekülasyon esnek kur sisteminde istikrar getirir.\nÖrneğin; döviz kurlarının yükselmesi durumunda spekülatörler, değeri düşen ülke parasını hızla elden çıkarır ve ulusal paradan kaçış başlar. Sonuçta, ulusal paranın değerindeki düşüş hızlanır.\nDolayısıyla,spekülatif faaliyetler kur dalgalanmalarını artırır.\nEsnek döviz kuru sisteminde, ödemeler dengesi fazlası yurtiçi gelirin düşmesine neden olur",
+  "Answer": "B) Yurtiçi gelirin düşmesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir ülke parasının konvertibl olması için gereken şartlardan biri değildir?",
+  "A": "A) Ülkenin yeterli döviz rezervlerine ulaşması ve bunları koruması",
+  "B": "B) Ülkenin sermaye ve para piyasalarının mümkün olduğunca uluslararası piyasalarla bütünleştirmesi",
+  "C": "C) Ülkenin gerçekçi ve reel bir döviz kuru politikası izlemesi",
+  "D": "D) Ülkenin ithalat ve ihracat için farklı döviz kuru uygulaması",
+  "E": "E) Ülkenin serbest bir döviz piyasası oluşturması",
+  "Image": 1,
+  "Explaination": "Bir ülke parasının konvertibl olması için;\n•Bilançonun cari işlemler kalemlerine kısıtlama,\n•İhracat ve ithalat için farklı döviz kurları,\n•Sermaye hareketlerine kısıtlama,\n•Diğer ülkelerle ikili ödeme anlaşmaları,\n•İhracat gelirlerinin MB veya yetkili makamlara yatırılması uygulamalarının bulunmaması gerekir.\nAyrıca ülkenin ödemeler bilançosu açık vermemeli, dışa açık ekonomiye sahip olunmalı, yeterli döviz rezervleri bulunmalı, enflasyon oranı yüksek olmamalıdır",
+  "Answer": "D) Ülkenin ithalat ve ihracat için farklı döviz kuru uygulaması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi para politikasının etkililiğine yönelik olarak, para arzının kontrol edilmesi teknikleri içinde yer almaz?",
+  "A": "A) Faiz oranları",
+  "B": "B) Özel mevduatlar",
+  "C": "C) Açık piyasa işlemleri",
+  "D": "D) Seçici rezerv oranları",
+  "E": "E) Rezerv-varlık oranı değişimleri",
+  "Image": 1,
+  "Explaination": "Para arzının kontrol teknikleri içinde:\n•Faiz oranları\n•Özel mevduatlar\n•Açık piyasa işlemleri\n•Rezerv-varlık oranı değişimleri yer almaktadır",
+  "Answer": "D) Seçici rezerv oranları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi M. Freidman' ın para talebi fonksiyonunda yer alan aktiflerden biri değildir?",
+  "A": "A) Tahviller",
+  "B": "B) Beşeri sermaye",
+  "C": "C) Hisse senetleri",
+  "D": "D)  Zenginliğin son eldecileri",
+  "E": "E) Beşeri olmayan maddi mallar",
+  "Image": 1,
+  "Explaination": "Friedman para talebini etkileyen faktörleri belirlemek istemiş ve para talebini modellemeye çalışmıştır. Friedman, Keynes gibi para tutmanın sebeplerini ayrıntılı olarak açıklamamaktadır. Friedman, Keynes' in tersine para talebini açıklamak için varlık talebi teorisini kullanmıştır. Parayı varlık olarak ele alıp diğer varlık taleplerini ne etkiliyorsa para talebini de onların etkilediğini söylemektedir. Friedman, Keynes'den farklı olarak para ve tahvile ek olarak hisse senedi ve reel varlıklardan da bahseder. Bu çerçevede M. Freidman'ın para talebi fonksiyonunda tahviller, beşeri sermaye, hisse senetleri, beşeri olmayan maddi mallar aktif olarak ele alınmaktadır",
+  "Answer": "D)  Zenginliğin son eldecileri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Merkez Bankası bilançosunun yükümlülüklerinden biri değildir?",
+  "A": "A) Emisyon",
+  "B": "B) Açık piyasa işlemleri",
+  "C": "C) Bankacılık sektörüne açılan krediler",
+  "D": "D) Bankalar serbest imkanı",
+  "E": "E) Fon hesapları",
+  "Image": 1,
+  "Explaination": "Bankacılık sektörüne açılan krediler Merkez Bankasının yükümlülüğü değil, varlığı olup varlıklar bölümünde yer almaktadır",
+  "Answer": "C) Bankacılık sektörüne açılan krediler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi reeskont oranının yüksek belirlenmesinin sonuçlarına göre yanlış bir anlatımdır?",
+  "A": "A) Mal stoklarında azalma gözlemlenir",
+  "B": "B) Uzun dönem faiz oranı yükselir",
+  "C": "C) Spekülatif ekonomik gelişmeyi önler",
+  "D": "D) Ülke dışına döviz çıkışını azaltır",
+  "E": "E) Bankaların merkez bankasından kredi talepleri artar",
+  "Image": 1,
+  "Explaination": "Merkez Bankası, bankacılık kesiminin geçici likidite ihtiyaçlarının karşılanması için, belirli koşulları taşımak şartıyla ve kendi belirleyeceği esaslar dahilinde bankalar tarafından verilecek ticari senet ve vesikaları reeskonta kabul edebilir. Reeskonta kabul edilecek ticari senet türleri ve diğer koşullar Merkez Bankasınca belirlenir.\nBu işlemler için Merkez Bankası tarafından uygulanan faize, reeskont oranı denilmektedir. Dolayısıyla reeskont oranının yüksek belirlenmesi bankaların merkez bankasından kredi taleplerini artırmaz, tam tersine azaltır",
+  "Answer": "E) Bankaların merkez bankasından kredi talepleri artar"
+ },
+ {
+  "Question": "Zorunlu karşılık oranının %20 olduğu bir ekonomide, banka rezervlerinde 200 TL'lik bir artış ne kadarlık kaydi para yaratır?",
+  "A": "A) 1000",
+  "B": "B) 1100",
+  "C": "C) 100",
+  "D": "D) 110",
+  "E": "E) 120",
+  "Image": 1,
+  "Explaination": "K:Yaratılan kaydi para\nA: Mevduat olarak yatırılan anapara\nr: Yasal karşılık oranı\nK=200\/0,2=1000",
+  "Answer": "A) 1000"
+ }
+]

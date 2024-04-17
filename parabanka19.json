@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "Tüketimin gelecekteki bir tarihe ertelenmesi\nsonucunda gelirin tüketime harcanmayan kısmına\nne ad verilir?\n\n",
+  "A": "A) Bütçe",
+  "B": "B) Tertip ",
+  "C": "C) Tasarruf ",
+  "D": "D) Tahvil ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Tasarruf "
+ },
+ {
+  "Question": "Vadesi 1 yıldan kısa olan, çıkaran kurum\ntarafından öngörülen vade sonunda belirli bir\nbedelin ödenmesinin taahhüt edildiği menkul\nkıymetlere ne ad verilir?\n\n",
+  "A": "A) Repo",
+  "B": "B) Bono",
+  "C": "C) Tahvil",
+  "D": "D) Euroband ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Bono"
+ },
+ {
+  "Question": "Aşağıdaki terden hangisi fiyat artış hızının\nazalması anlamına gelmektedir?\n\n",
+  "A": "A) Devalüasyon",
+  "B": "B) Deflasyon ",
+  "C": "C) Deflatör ",
+  "D": "D) Dezenflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Dezenflasyon"
+ },
+ {
+  "Question": "Faiz oranlarındaki değişimi ifade eden ölçüm\nbirimi aşağıdakilerden hangisidir?\n\n",
+  "A": "A) Baz etkisi",
+  "B": "B) Baz oran",
+  "C": "C) Baz puan",
+  "D": "D) Baz fiyat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Baz puan"
+ },
+ {
+  "Question": "Piyasa katılımcılarının, piyasada işlem gören\ndeğerleri satmaya istekli oldukları fiyata ne ad\nverilir?",
+  "A": "A) Alış ",
+  "B": "B) Likidite ",
+  "C": "C) Satış ",
+  "D": "D) Çıpa",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Satış "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi merkez bankaları ile\nuluslararası finans kuruluşlarının portföylerinde\nbulunan döviz ve altın cinsinden varlıkları ifade\neder?\n",
+  "A": "A) Rezerv para",
+  "B": "B) Nakit para",
+  "C": "C) Kara para",
+  "D": "D) Anapara",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Rezerv para"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ekonomik karar alma\nsüreçlerinde referans olarak alınan büyüklükleri\nifade etmek için kullanılır?\n\n",
+  "A": "A) Alış ",
+  "B": "B) Likidite ",
+  "C": "C) Çıpa",
+  "D": "D) Satış",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Çıpa"
+ },
+ {
+  "Question": "Bir borcun işlemiş faizi ile birlikte anaparasının\nvadesinden önce geri ödenmesine ne ad verilir?\n\n",
+  "A": "A) İtfa fonu",
+  "B": "B) İtfa planı",
+  "C": "C) Erken itfa",
+  "D": "D) İtfa dönemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İtfa planı"
+ },
+ {
+  "Question": "Fiyatlar genel seviyesindeki sürekli artış eğilimine ne ad verilir?\n",
+  "A": "A) Enflasyon",
+  "B": "B) Stagflasyon ",
+  "C": "C) Devalüasyon",
+  "D": "D) Deflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Enflasyon"
+ },
+ {
+  "Question": "Özel ve kamu kesimi tüketim ve yatırım\nharcamaları toplamına ne ad verilir?\n",
+  "A": "A) Gayri safi yurt içi hasıla",
+  "B": "B) Nihai yurt içi talep",
+  "C": "C) Gayri safi milli hasıla",
+  "D": "D) Gayri maddi aktif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Nihai yurt içi talep"
+ },
+ {
+  "Question": "Organize olmayan, belirli bir yapı altında\ntoplanmayan piyasalara ne ad verilir?\n",
+  "A": "A) Sermaye piyasası",
+  "B": "B)  Spot piyasa",
+  "C": "C) Birincil piyasa",
+  "D": "D) Tezgahüstü piyasa",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Tezgahüstü piyasa"
+ },
+ {
+  "Question": "Piyasada işlem gören herhangi bir varlık veya\nkıymetin piyasa fiyatını etkilemeden alınıp\nsatılabilmesinin ölçütüne ne ad verilir?\n",
+  "A": "A) Forfaiting",
+  "B": "B) Konvertibilite",
+  "C": "C) Likidite",
+  "D": "D) Konsolidasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Likidite"
+ },
+ {
+  "Question": "İhracat birim değer endeksinin ithalat birim değer endeksine oranı aşağıdakilerden hangisidir?\n",
+  "A": "A) Dış ticaret hadleri",
+  "B": "B) Dış ticaret açığı",
+  "C": "C) Dış ticaret dengesi",
+  "D": "D) Dış ticaret endeksi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Dış ticaret hadleri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir ülkenin parası esas\nalınarak diğer ülke parasının bu esas alınan ülke\nparası karşısında hesaplanan değerdir?\n",
+  "A": "A) Parite",
+  "B": "B) Mevduat",
+  "C": "C) Muhasebe",
+  "D": "D) Döviz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Parite"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kaydi forma\ndönüşmemiş, ekonomik birimlerin fiilen banknot\nve madeni para olarak ellerinde tuttukları\nparadır?\n",
+  "A": "A)  Tahvil",
+  "B": "B) Kambiyo",
+  "C": "C) Döviz",
+  "D": "D) Efektif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Efektif"
+ },
+ {
+  "Question": "Enflasyonun geçici veya bir defaya mahsus\netkilerden arındırılmış kalıcı kısmına ne ad verilir?\n",
+  "A": "A) Fiyat enflasyonu",
+  "B": "B) Maliyet enflasyonu",
+  "C": "C) Çekirdek enflasyon",
+  "D": "D) Gizli enflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Çekirdek enflasyon"
+ },
+ {
+  "Question": "Bir yıldan uzun vadeli yatırım araçlarının ihraç\nedildiği ve işlem gördüğü piyasalara ne ad verilir?\n",
+  "A": "A)  Tezgahüstü piyasa",
+  "B": "B) Sermaye piyasası",
+  "C": "C) Boğa piyasası",
+  "D": "D) Spot piyasa",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Sermaye piyasası"
+ },
+ {
+  "Question": "Bir ülke vatandaşlarının bir dönem içinde ürettiği katma değere ne ad verilir?\n",
+  "A": "A) Nihai yurt içi talep",
+  "B": "B) Gayri safi yurt içi hasıla",
+  "C": "C) Gayri maddi aktif",
+  "D": "D) Gayri safi milli hasıla",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Gayri safi milli hasıla"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi fiyatlar genel düzeyinde sürekli bir düşüş durumunu ifade eder?\n",
+  "A": "A) Dealer",
+  "B": "B) Deflasyon ",
+  "C": "C) Dezenflasyon ",
+  "D": "D) Devalüasyon ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Deflasyon "
+ },
+ {
+  "Question": "İlk ihraçların yapıldığı piyasaya ne ad verilir?",
+  "A": "A) Üçüncül piyasa",
+  "B": "B) Birincil piyasa",
+  "C": "C) Subprime piyasası",
+  "D": "D) İkincil piyasa",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Birincil piyasa"
+ }
+]

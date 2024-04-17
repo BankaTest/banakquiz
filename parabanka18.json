@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "Bankanın herhangi bir şubesinden para çekilirken hesabın bulunduğu şubeden hesaptaki paranın durumu ile ilgili olarak alınan bilgiye ne denir?\n",
+  "A": "A) Hesap",
+  "B": "B) Provizyon",
+  "C": "C) Bilonça",
+  "D": "D) Ekstre ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Provizyon"
+ },
+ {
+  "Question": "Türkiye'de faaliyette olan bütün bankalar\naşağıdakilerden hangisine üye olmak zorundadır?\n",
+  "A": "A) Türkiye Bankalar Birliği",
+  "B": "B) Türkiye Varlık Fonu",
+  "C": "C) Kredi Garanti Fonu",
+  "D": "D) Tasarruf Mevduatı Sigorta Fonu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Türkiye Bankalar Birliği"
+ },
+ {
+  "Question": "Ödünç alınan paranın kullanılması karşılığında\nödenen bedele ne denir?\n",
+  "A": "A) Temerrüt",
+  "B": "B) Anüite",
+  "C": "C) Valör",
+  "D": "D) Faiz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Faiz"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi birkaç kişi veya şirketin\nbir araya gelip bir işe ortak girişmesi anlamına\ngelir?\n",
+  "A": "A) Bireysel Girişim",
+  "B": "B) Grup Ortaklığı",
+  "C": "C) Bireysel Yatırım",
+  "D": "D) Ortak Girişim\/Ortak Yatırım",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ortak Girişim\/Ortak Yatırım"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi devletler tarafından ihraç edilen paranın değeriyle üretim maliyeti\narasındaki farktır?\n",
+  "A": "A) Reasürans",
+  "B": "B) Moratoryum",
+  "C": "C) Senyoraj",
+  "D": "D) Stopaj",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Senyoraj"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi reasürans türü değildir?",
+  "A": "A) Tam Reasürans",
+  "B": "B) İhtiyarı Reasürans",
+  "C": "C) Pool Anlaşmaları",
+  "D": "D) Otomatik Reasürans Anlaşmaları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Tam Reasürans"
+ },
+ {
+  "Question": "Birden fazla gerçek kişinin ortak olarak kullanmak amacıyla açtırdıkları vadeli veya vadesiz hesaplara ne ad verilir?\n",
+  "A": "A) Müşterek Hesaplar",
+  "B": "B) Grup Hesapları",
+  "C": "C) Aile Hesabı",
+  "D": "D) Arkadaş Hesabı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Müşterek Hesaplar"
+ },
+ {
+  "Question": "Bir borcun ve yükümlülüğün geç yerine getirilmesine ne denir?\n",
+  "A": "A) Valör",
+  "B": "B) Faiz",
+  "C": "C) Temerrüt",
+  "D": "D) Anüite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Temerrüt"
+ },
+ {
+  "Question": "Ticari bir senedin, borçlusuna ibrazı halinde kabul edilmemesini veya ödenmemesini tespit için\nnoter yoluyla yapılan işlem nedir?\n",
+  "A": "A) Protesto ",
+  "B": "B) Ankes",
+  "C": "C) Girişim",
+  "D": "D) Reasürans",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Protesto "
+ },
+ {
+  "Question": "Bir işin yapılması veya bir borcun ödenmesi için\ntanınan süreye ne ad verilir?\n",
+  "A": "A) Valör",
+  "B": "B) Hesap ",
+  "C": "C) Vade",
+  "D": "D) Anüite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Vade"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankalarda krediye\nteminat olarak gösterilen taşınır veya taşınmaz\nmalların krediyi karşılama durumunun\nincelenmesidir?\n",
+  "A": "A) Ekspertiz",
+  "B": "B) Reasürans",
+  "C": "C) Provizyon",
+  "D": "D) Ankes",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Ekspertiz"
+ },
+ {
+  "Question": "Alım-satım işlemlerinde kendi nam ve hesabına\nhareket eden kişi ve kuramlara ne ad verilir?\n",
+  "A": "A) Deflatör",
+  "B": "B) Dealer",
+  "C": "C) Devalüasyon",
+  "D": "D) Dezenflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Dealer"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi üretim faktörlerinden\nsermayenin elde ettiği getiridir?\n",
+  "A": "A)  Faiz oranı",
+  "B": "B) Zorunlu karşılık oranı",
+  "C": "C) Kaldıraç oranı",
+  "D": "D) Net istikrarlı tonlama oranı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)  Faiz oranı"
+ },
+ {
+  "Question": "Ticari senetlerin vadesinden önce satın alınıp,\nbelirli indirimlerle paraya çevrilmesini sağlayan\nkredi işlemine ne ad verilir?\n",
+  "A": "A) İskonto",
+  "B": "B) Faktoring",
+  "C": "C) Forfaiting",
+  "D": "D) Deflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İskonto"
+ },
+ {
+  "Question": "Bir ülkenin sınırları içinde bir dönemde üretilen\nkatma değere ne ad verilir?\n",
+  "A": "A) Gayri safi yurt içi hasıla",
+  "B": "B) Nihai yurt içi talep",
+  "C": "C) Gayri safi milli hasıla",
+  "D": "D) Gayri maddi aktif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Gayri safi yurt içi hasıla"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi çıkaran ülkenin veya\nkuruluşun, kendi ulusal para birimi dışındaki bir\npara birimi üzerinden ihraç ettiği menkul\nkıymetlerdir?\n",
+  "A": "A) Repo",
+  "B": "B) Bono",
+  "C": "C) Eurobond",
+  "D": "D) Tahvil ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Eurobond"
+ },
+ {
+  "Question": "Bankacılık sektörünün yurt içindeki tasarruf\nsahiplerinden sağladığı mevduat kaynaklı\nfinansmana ne ad verilir?\n",
+  "A": "A) Çekirdek fiyat",
+  "B": "B) Çekirdek yükümlülükler",
+  "C": "C) Tavan fiyat",
+  "D": "D) Çekirdek enflasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Çekirdek yükümlülükler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi banknot, madeni para,\nkaydi para veya elektronik parayı ifade eder?\n",
+  "A": "A) Tahvil",
+  "B": "B) Rezerv",
+  "C": "C) Fon ",
+  "D": "D) Döviz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Fon "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi fiyatların düştüğü\npiyasaları ifade eder?\n",
+  "A": "A) Spot piyasa",
+  "B": "B) Boğa Piyasası",
+  "C": "C) Sermaye piyasası",
+  "D": "D) Ayı Piyasası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ayı Piyasası"
+ },
+ {
+  "Question": "İki tarafın bir varlık veya yükümlülüğe bağlı olan\nnakit akışını aralarında değiştirdikleri işleme ne ad\nverilir?\n",
+  "A": "A) Tahvil",
+  "B": "B) Takas (Swap)",
+  "C": "C) Takas (Clearing)",
+  "D": "D) Ters repo",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Takas (Swap)"
+ }
+]
