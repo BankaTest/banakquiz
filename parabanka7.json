@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Kalkınma ve yatırım bankalarının kaynak sağlamak üzere çıkarmış oldukları kısa vadeli bonolara ne ad verilir?",
+  "A": "A) Banka hisse senedi ",
+  "B": "B) Banka Bonosu",
+  "C": "C) Varlığa dayalı menkul kıymet ",
+  "D": "D) Banka tahvili ",
+  "E": "E) Hazine bonosu ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Banka Bonosu"
+ },
+ {
+  "Question": "Marjin nedir? ",
+  "A": "A) Mevcut piyasada yer alan bir varlığa yatırım yapmadan önce belirli bir miktar teminat yatır",
+  "B": "B) Kredi verilen tarafın yükümlülüğünü yerine getirememesidir ",
+  "C": "C) Kredi alan tarafın yükümlülüğünü yerine getirememesidir ",
+  "D": "D)  Finansal varlığın kısa sürede paraya çevrilebilmesidir ",
+  "E": "E) Finansal varlığın getirisindeki ölçülebilir belirsizliktir ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Mevcut piyasada yer alan bir varlığa yatırım yapmadan önce belirli bir miktar teminat yatır"
+ },
+ {
+  "Question": "Planlanan tasarrufların planlanan yatırımları aşma durumunda mali hasıla nasıl etkilenir?  ",
+  "A": "A) Artar",
+  "B": "B) Azalır",
+  "C": "C) Değişmez",
+  "D": "D) Yatırımlar Artar",
+  "E": "E) Hiçbiri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Azalır"
+ },
+ {
+  "Question": "Kesin alım satım pazarında işlem görecek devlet tahvili ve hazine bonosu işlemlerinde valör süresi en fazla kaç gündür?",
+  "A": "A) 7 gün",
+  "B": "B) 30 gün",
+  "C": "C) 60  gün",
+  "D": "D) 90  gün",
+  "E": "E) 120  gün",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 90  gün"
+ },
+ {
+  "Question": "Hangisi açık anlaşmanin en aşırı biçimidir? ",
+  "A": "A)  Merkezlesmis kartel ",
+  "B": "B) Kartel ",
+  "C": "C) Tröst ",
+  "D": "D) Devletleşme",
+  "E": "E) Kamulaşma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)  Merkezlesmis kartel "
+ },
+ {
+  "Question": "Bir ticaret bankasının açabileceği kredi miktarı öz kaynaklarının en fazla kaç katı olabilir? ",
+  "A": "A) 5",
+  "B": "B) 6",
+  "C": "C) 7",
+  "D": "D) 8",
+  "E": "E) 9",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 8"
+ },
+ {
+  "Question": "Özel finans kurumları faaliyete geçebilmek için aşağıdakilerden hangisinden izin almalıdırlar? ",
+  "A": "A) TMSF",
+  "B": "B) BDDK",
+  "C": "C) Maliye Bakanlığı",
+  "D": "D) Hazine",
+  "E": "E) Bakanlar Kurulu  ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) BDDK"
+ },
+ {
+  "Question": "Kredibilitesi yüksek firmalar tarafından güvencesiz olarak çıkarılan ve taşıyan adına düzenlenen kısa vadeli borçlanma aracı hangisidir?",
+  "A": "A) Euro tahvil ",
+  "B": "B) Euro finansman bonosu ",
+  "C": "C) Yabancı tahvil ",
+  "D": "D) Euro kredi ",
+  "E": "E) Mevduat sertifikası ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Euro finansman bonosu "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi çalışma sermayesinin unsurlarından biri değildir? ",
+  "A": "A) Alacaklar",
+  "B": "B) Stoklar",
+  "C": "C) İştirakler",
+  "D": "D) Hazır Değerler",
+  "E": "E) Menkul Kıymetler  ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İştirakler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi dünya bankası grubu içinde yer alan finansal kuruluşlardan biri değildir? ",
+  "A": "A)  Uluslararası finans kurumu \n",
+  "B": "B) Uluslararası kalkınma birliği",
+  "C": "C) Çok taraflı yatırım ve garanti ajansı ",
+  "D": "D) Uluslararası yatırım anlaşmazlıkları çözüm merkezi ",
+  "E": "E) Uluslararası ekonomik işbirliği bankası ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Uluslararası ekonomik işbirliği bankası "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ticaret bankalarının fon kullanım alanlarından \nbiri değildir? ",
+  "A": "A) Likit değerler ",
+  "B": "B) Bağlı değerler ",
+  "C": "C) Özkaynaklar ",
+  "D": "D) Duran varlıklar ",
+  "E": "E) Krediler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Özkaynaklar "
+ },
+ {
+  "Question": "İşletmenin belirli bir dönem içinde nakit giriş ve çıkışlarını miktar ve zaman olarak gösteren tablo aşağıdakilerden hangisidir? ",
+  "A": "A) Proforma bilanço ",
+  "B": "B) Proformo gelir tablosu ",
+  "C": "C) Nakit bütçesi ",
+  "D": "D) Kar dağıtım tablosu",
+  "E": "E) Kaynak kullanım tablosu ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Nakit bütçesi "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi mevduatların niteliğine göre  sınıflandırılmasında yer almaz? ",
+  "A": "A) Tasarruf mevduatı ",
+  "B": "B) Ticari mevduat ",
+  "C": "C) Resmi mevduat ",
+  "D": "D) Bankalararası mevduat ",
+  "E": "E) Kurumsal mevduat ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kurumsal mevduat "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi halka açılmada kullanılan satış  yöntemlerinden biri değildir?",
+  "A": "A) Talep toplama yöntemi ",
+  "B": "B) Sabit fiyatla talep toplama yöntemi ",
+  "C": "C) Fiyat teklifi alma yoluyla talep toplama yöntemi ",
+  "D": "D) Talep toplamaksızın satış yöntemi ",
+  "E": "E) Borsa dışında satış ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Borsa dışında satış "
+ },
+ {
+  "Question": "Garanti kaydı taşımayan finansman bonosu aşağıdakilerden hangisidir? ",
+  "A": "A) A tipi",
+  "B": "B) B tipi",
+  "C": "C) C tipi",
+  "D": "D) E tipi",
+  "E": "E) F tipi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) A tipi"
+ },
+ {
+  "Question": "Ulusal fonların yabancılar tarafından veya yabancı fonların yerli kullanıcılar tarafından kullanıldığı piyasalara ne denir?",
+  "A": "A) Ulusal finansal piyasa ",
+  "B": "B) Uluslararası finansal piyasa ",
+  "C": "C) Euro piyasa",
+  "D": "D) Sermaye piyasası ",
+  "E": "E) İkincil piyasa ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Uluslararası finansal piyasa "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankalararası piyasada kullanılan “line” teriminin tanımıdır? ",
+  "A": "A) Bankaların işlem yapabilecekleri bankalara ve işlem miktarlarına getirdikleri \nsınırlamalardır. ",
+  "B": "B) Bankaların diğer bankalar ile gerçekleştirdikleri işlemler için kullandıkları iletişim \nsistemidir. ",
+  "C": "C) İMKB, TCMB ve bankaların işlem gerçekleştirdikleri ortak platformdur.",
+  "D": "D) TCMB tarafından her bir bankaya özel olarak tanınan limitlerdir ",
+  "E": "E) TCMB tarafından uygulanan işlemdir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Bankaların işlem yapabilecekleri bankalara ve işlem miktarlarına getirdikleri \nsınırlamalardır. "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yanlıştır? ",
+  "A": "A)  Tahvil bir menkul kıymettir",
+  "B": "B) Mevduat sertifikaları bir menkul kıymettir",
+  "C": "C) Kâr\/zarar ortaklığı belgesi menkul kıymettir",
+  "D": "D)   Hazine bonosu bir menkul kıymettir",
+  "E": "E) Finansman bonosu bir menkul kıymettir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Mevduat sertifikaları bir menkul kıymettir"
+ },
+ {
+  "Question": "Sahibine esas sözleşmede belirtilen hükümler gereğince diğer bazı hisse senetleri sahiplerine göre kâr payı, oy hakkı gibi hususlarda ayrıcalık sağlayan hisse senetleri aşağıdakilerden hangisidir?",
+  "A": "A)  Primli hisse senetleri ",
+  "B": "B) Adi hisse senetleri ",
+  "C": "C) İmtiyazlı hisse senetleri ",
+  "D": "D) Bedelli hisse senetleri ",
+  "E": "E) Oydan yoksun hisse senetleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İmtiyazlı hisse senetleri "
+ },
+ {
+  "Question": " Çok uluslu şirketlere hizmet eden, müdahale ve vergilendirmenin asgari düzeyde tutulduğu ve konvertibl paralarla çalışan ülke dışından sağlanan fonların yine ülke dışından kullandırılmasını amaçlayan bankacılık türü aşağıdakilerden hangisidir?",
+  "A": "A) Kalkınma Bankaları",
+  "B": "B) Yatırım Bankaları ",
+  "C": "C) Uluslararası Bankacılık ",
+  "D": "D) Katılım Bankaları ",
+  "E": "E) Kıyı Bankaları ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kıyı Bankaları "
+ }
+]

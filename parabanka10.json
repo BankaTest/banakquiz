@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Hangisi, Sermaye Piyasası Kurulunun kuruluş amaçlarından biri değildir?",
+  "A": "A) Sermaye piyasasının güven, açıklık ve kararlılık içinde çalışmasını sağlamak",
+  "B": "B) Tasarruf sahiplerinin hak ve yararlarını korumak",
+  "C": "C) Menkul Kıymetler Borsalarının çalışmasına ve gelişmesine elverişli ortamı sağlamak",
+  "D": "D) Ülkenin para kredi politikalarını yürütmek",
+  "E": "E) Sermaye piyasasındaki sağlıksız gelişme eğilimlerini önlemek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Sermaye piyasasındaki sağlıksız gelişme eğilimlerini önlemek"
+ },
+ {
+  "Question": "Türkiyenin ilk özel borsası hangisidir?",
+  "A": "A) Sınai ve kalkınma",
+  "B": "B) İstanbul altın borsası\n",
+  "C": "C) İstanbul menkul kıymet",
+  "D": "D) Vadeli işlem ve opsiyon\n",
+  "E": "E) TOBB\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Vadeli işlem ve opsiyon\n"
+ },
+ {
+  "Question": "Hangisi BIST ULUSAL-HİZMETLER sektör endeksinin bir alt sektör endeksi değildir?",
+  "A": "A) Elektrik",
+  "B": "B) Ulaşım",
+  "C": "C) Sigorta  ",
+  "D": "D) Turizm ",
+  "E": "E) Ticaret  ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Sigorta  "
+ },
+ {
+  "Question": "Opsiyon ve gelecek borsalarında alıcı ve satıcıların yükümlülüklerinİ yerine getirmesini ve güveni sağlayan kurum aşağıdakilerden hangisidir?",
+  "A": "A) Borsa yönetim kurulu",
+  "B": "B) Borsa genel kurulu",
+  "C": "C) Borsa kotasyon komitesi",
+  "D": "D) Takas odası",
+  "E": "E) Denetleme kurulu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Takas odası"
+ },
+ {
+  "Question": "İki tarafın belirli bir zaman dilimindeki ödemelerinin karşılıklı olarak değişiminde anlaştıkları finansal işlem aşağıdakilerden hangisidir?\n",
+  "A": "A) Forward",
+  "B": "B) Future",
+  "C": "C) Swap",
+  "D": "D) Opsiyon ",
+  "E": "E) Svvot",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Swap"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi repoya konu olamaz ? ",
+  "A": "A) Hazine bonosu",
+  "B": "B) Devlet tahvili ",
+  "C": "C) Hisse senedi ",
+  "D": "D) Banka bonoları ",
+  "E": "E) TOKİ'nin \nçıkardıği borçlanma senetleri ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Hisse senedi "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi menkul kıymetlerin alıcı ve satıcılarını eşleştiren yatırımcıların temsilcileridir? ",
+  "A": "A) Dealer",
+  "B": "B) Broker",
+  "C": "C) Aracı",
+  "D": "D) Spekülator",
+  "E": "E) Komisyoncu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Broker"
+ },
+ {
+  "Question": "Faiz oranlarındaki değişmelerin tahvilin değerinde yüzde kaçlık değişme yaptığını aşağıdakilerden hangisi gösterir? ",
+  "A": "A) Ortalama vade",
+  "B": "B) Düzeltilmiş vade ",
+  "C": "C) Toplam vade ",
+  "D": "D) Marjinal vade ",
+  "E": "E) Uzun vade ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Düzeltilmiş vade "
+ },
+ {
+  "Question": "SPK ile verilen görevleri yapmak ve yetkileri kullanmak üzere kamu tüzel kişiliği haiz, idari ve mali özerkliğe sahip kurum aşağıdakilerden hangisidir? ",
+  "A": "A) Yatırım ortaklığı ",
+  "B": "B) Yatırım fonu ",
+  "C": "C) Sermaye Piyasası Kurulu ",
+  "D": "D)  İstanbul Menkul Kıymetler Borsası ",
+  "E": "E) Özel Finans Kurumu ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Sermaye Piyasası Kurulu "
+ },
+ {
+  "Question": "Akreditif kredisi nedir?",
+  "A": "A)  İhracatçı işletmelere verilen kredidir",
+  "B": "B) İthalatçı işletmelere verilen kredidir ",
+  "C": "C) Alacaklar karşılığı verilen kredidir ",
+  "D": "D) Menkul kıymet rehni karşılığı verilen kredidir ",
+  "E": "E) Merkez Bankasınca kullandırılan kredidir ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İthalatçı işletmelere verilen kredidir "
+ },
+ {
+  "Question": "Nominal değerlerinden yüksek bir bedelle ihraç edilen hisse senetlerine ne ad verilir? ",
+  "A": "A) Primsiz hisse senetleri",
+  "B": "B) Primli hisse senedi ",
+  "C": "C) İmtiyazlı hisse senedi ",
+  "D": "D) Bedelli hisse senedi ",
+  "E": "E)  Kurucu hisse senedi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Primli hisse senedi "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, anonim şirketlerin sermaye artırımı nedeniyle ihraç ettikleri hisse senetlerini öncelikle mevcut ortakların satın almalarım sağlar? ",
+  "A": "A) Oy hakkı ",
+  "B": "B) Rüçhan hakkı ",
+  "C": "C) İmtiyazlı hakkı ",
+  "D": "D) Kârpayı alma hakkı",
+  "E": "E) Opsiyon hakkı ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Rüçhan hakkı "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi hisse senedi türlerinden biri değildir? ",
+  "A": "A) İmtiyazlı hisse senetleri ",
+  "B": "B)  Primsiz hisse senetleri ",
+  "C": "C) Bedelli hisse senetleri ",
+  "D": "D) Kurucu hisse senetleri ",
+  "E": "E) Vadeli hisse senetleri ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Vadeli hisse senetleri "
+ },
+ {
+  "Question": "Sermaye piyasası araçlarının değerini etkileyebilecek yalan, yanlış, yanıltıcı, mesnetsiz bilgi verilmesi, haber yayılması, yorum yapılması yada açıklamakla yükümlü olan bilgilerin açıklanmamasına ne isim verilir?",
+  "A": "A) Enflasyon ",
+  "B": "B) Deflasyon",
+  "C": "C) Devalüasyon",
+  "D": "D) Spekülasyon",
+  "E": "E) Manipülasyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Manipülasyon"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankalararası piyasalarda bir alt piyasa olarak tanımlanmamaktadır? ",
+  "A": "A) Bankalararası TL piyasası ",
+  "B": "B) Bankalararası repo piyasası ",
+  "C": "C) Bankalararası tahvil piyasası",
+  "D": "D) Bankalararası hisse senedi piyasası \n",
+  "E": "E) ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Bankalararası tahvil piyasası"
+ },
+ {
+  "Question": "Bir menkul kıymetin vergiden muaf faiz oranı % 20, vergi oranı ise % 60 ise vergiye tabi faiz oranı % kaçtır?",
+  "A": "A) 50",
+  "B": "B) 40",
+  "C": "C) 65",
+  "D": "D) 45",
+  "E": "E) 35",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 50"
+ },
+ {
+  "Question": "Ekonomik birimlerin kısa ve uzun vade arasında nötr olduklarını ve finansal işlemlere girişmekten amacın elde edilen getiriyi maksimize etmek olduğunu varsayan görüş aşağıdakilerden hangisidir? ",
+  "A": "A)  Bekleyişler hipotezi ",
+  "B": "B) Bölünmüş piyasalar hipotezi ",
+  "C": "C)  Vade tercihi hipotezi",
+  "D": "D) Rasyonel bekleyişler hipotezi ",
+  "E": "E) Say kuramı ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A)  Bekleyişler hipotezi "
+ },
+ {
+  "Question": "Bir hisse senedinin olması gereken değer aşağıdakilerden hangisidir?",
+  "A": "A) Nominal değer ",
+  "B": "B) Cari değer ",
+  "C": "C) Gerçek değer ",
+  "D": "D) Ex-ante değer ",
+  "E": "E) Forvvard değer ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Gerçek değer "
+ },
+ {
+  "Question": "Ekonomik birimlerin beklentilerini oluştururken en yakın geçmişi göz önüne aldıklarını varsayan hipotez hangisidir?",
+  "A": "A) Markovv bekleyişleri hipotezi ",
+  "B": "B) Uyumcu bekleyişler hipotezi ",
+  "C": "C)  Rasyonel bekleyişler hipotezi",
+  "D": "D) Vade farkı hipotezi",
+  "E": "E) Bölünmüş piyasalar hipotezi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Markovv bekleyişleri hipotezi "
+ },
+ {
+  "Question": "Bir değişkene ait beklentilerin oluşturulmasında, ekonomik teorinin öne sürdüğü değişkenler de dahil olmak üzere mevcut tüm enformasyonun kullanılmakta olduğu hipotez hangisidir? ",
+  "A": "A) Markovv bekleyişleri hipotezi ",
+  "B": "B) Uyumcu bekleyişler hipotezi ",
+  "C": "C) Rasyonel bekleyişler hipotezi",
+  "D": "D) Vade farkı hipotezi",
+  "E": "E) Bölünmüş piyasalar hipotezi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Rasyonel bekleyişler hipotezi"
+ }
+]

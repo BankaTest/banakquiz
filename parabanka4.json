@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Broker veya simsar olarak bilinen finansal aracıların önerdikleri fiyatı kabul eden, fon fazlası olanlar ile fon açığı olanların buluştuğu piyasa hangisidir?",
+  "A": "A) Tezgah üstü piyasalar",
+  "B": "B) Tezgah altı piyasalar",
+  "C": "C) Opsiyon piyasalar",
+  "D": "D) Sermaye piyasası",
+  "E": "E) Para piyasası  ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Tezgah üstü piyasalar"
+ },
+ {
+  "Question": "Bir bankanın ihracatçı tarafından kendi üzerine çekilen poliçeyi kabul etmesi işlemine ne ad verilir",
+  "A": "A) Leasing",
+  "B": "B) Akredatif ",
+  "C": "C) Poliçe İskontosu ",
+  "D": "D) Amortisman ",
+  "E": "E) Akspentans",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Akspentans"
+ },
+ {
+  "Question": "Aşağıdakilerin hangisi bir tahvil türü değildir?",
+  "A": "A) Şirket tahvilleri",
+  "B": "B) Primli tahviller",
+  "C": "C) Garantili tahviller",
+  "D": "D) Devlet tahviller",
+  "E": "E) Vadesiz tahvilleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Vadesiz tahvilleri"
+ },
+ {
+  "Question": "Bankaların gelecekte olabilecek muhtemel zararlarını telafi etmesi amacıyla, dönem sonu karlarında ayırmış oldukları karşılıklara ne ad verilir?\n",
+  "A": "A) İhtiyaç Akçeleri ",
+  "B": "B) Amortisman ",
+  "C": "C) Akredtif ",
+  "D": "D) Akseptans",
+  "E": "E) Zorunlu Karşılıklar ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İhtiyaç Akçeleri "
+ },
+ {
+  "Question": "Hazinenin dönemsel ihtiyaçları ve diğer başka amaçlarla çıkarılan tahvil türü hangisidir?\n",
+  "A": "A) Halk tahvili",
+  "B": "B) İdare tahvili",
+  "C": "C) Devlet tahvili",
+  "D": "D) İştirak tahvili",
+  "E": "E) Garantili tahvil",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Devlet tahvili"
+ },
+ {
+  "Question": "Türkiye de hangi yıldan sonra esnek kur sistemine geçilmiştir?",
+  "A": "A) 1930",
+  "B": "B) 1951",
+  "C": "C) 1973",
+  "D": "D) 1980",
+  "E": "E) 1994",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 1980"
+ },
+ {
+  "Question": "Hangisi fon fazlası olanlardan topladığı fonları fon ihtiyacı olanlara aktaran ve tasarruf sahipleri ile fon talep edenler arasındaki uyuşmazlıklara çözüm getiren kurumdur?",
+  "A": "A) Tasarruf ödünç birlikleri",
+  "B": "B) Tasarruf hakem kurulu",
+  "C": "C) SPK",
+  "D": "D) Emisyon bankası",
+  "E": "E) Ticaret bankalar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Ticaret bankalar"
+ },
+ {
+  "Question": "Hangisi finansal piyasalar arasında yer almaz?",
+  "A": "A) borçlanma ve hisse senedi piyasası",
+  "B": "B) birincil ve ikincil piy.",
+  "C": "C) yatırım ve üretim piy.",
+  "D": "D) borsalar ve tezgah üstü piy.",
+  "E": "E) para ve sermaye piy.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) yatırım ve üretim piy."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, para piyasasında fon alışverişinde kullanılan araçlardır?",
+  "A": "A) Hisse senetleri",
+  "B": "B) Tahviller",
+  "C": "C) Primli tahviller",
+  "D": "D) Ticari senetler",
+  "E": "E)  İmtiyazlı hisse senetleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Primli tahviller"
+ },
+ {
+  "Question": "Tükiye de fiyat endekslerinin hesaplanmasında hangisi kullanılıyor?",
+  "A": "A) nominal endeks",
+  "B": "B) paasche end.",
+  "C": "C) liker end.",
+  "D": "D) frodin end.",
+  "E": "E) laspeyres end.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) laspeyres end."
+ },
+ {
+  "Question": "Hangisi Türkiye de para piyasasında yer alan araçlardan biri değildir?",
+  "A": "A) repo",
+  "B": "B) finansman bonosu",
+  "C": "C) banka bonosu",
+  "D": "D) varlığa dayalı menkul kıymet",
+  "E": "E) iskontolu bono",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) iskontolu bono"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, piyasa faiz oranını etkileyen faktörler arasında yer almaz?",
+  "A": "A)  Enflasyon",
+  "B": "B)  Ödenmeme riski",
+  "C": "C) Yatırım kararları",
+  "D": "D) Likidite riski",
+  "E": "E) Vade",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Yatırım kararları"
+ },
+ {
+  "Question": "Hangisi uzun vadeli menkul kıymetlerin faiz oranıyla kısa vadeli menkul Kıymetlerin faiz oranı arasında oluşan faiz farkını verir?\n",
+  "A": "A) Forward  ",
+  "B": "B) Röpar",
+  "C": "C) Varant",
+  "D": "D) Spread",
+  "E": "E) Spekülasyon ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Spread"
+ },
+ {
+  "Question": "Hangisi finansal aracıların temel işlevlerinden birisidir?",
+  "A": "A) Toplam talebin canlandırılması",
+  "B": "B) Bono fiyatlarını düşürmesi",
+  "C": "C) Paranın dolanım hızını arttırması",
+  "D": "D) Hisse senetlerine değer kazandırması\n",
+  "E": "E) Faiz oranlarının düşmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Faiz oranlarının düşmesi"
+ },
+ {
+  "Question": "I. Fon arz edenler\nII. Yardımcı kuruluşlar\nIII. Devlet\nIV. Hukuki ve idari düzen\nV. Fon talep edenler\nYukarıdakilerden hangisi, finansal sistemi oluşturan unsurlardır?",
+  "A": "A) I, II, III, V",
+  "B": "B) II, IV, V",
+  "C": "C)  I, III, IV",
+  "D": "D) III, IV",
+  "E": "E) I, II, IV, V",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) I, II, IV, V"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, sermaye piyasasının özelliklerinden biridir?",
+  "A": "A) Kısa sürelidir",
+  "B": "B) Geçici ihtiyaçlar ile başvurulur ",
+  "C": "C) Araçlar, ticari senetlerdir",
+  "D": "D) Fon kaynakları, resmi, ticari, vadesiz mevduattır",
+  "E": "E) Risk ve faiz oranı yüksektir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Risk ve faiz oranı yüksektir"
+ },
+ {
+  "Question": "Kısa süreli fon arz ve talebinin karşılaştığı piyasaya ne ad verilir?",
+  "A": "A) Organize Piyasalar",
+  "B": "B) Organize Olmamış Piyasalar",
+  "C": "C) Sermaye Piyasası\n",
+  "D": "D) Para Piyasası",
+  "E": "E) Birincil Piyasa",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Para Piyasası"
+ },
+ {
+  "Question": "Bir ekonomide fon talep edenlerle fon arz edenler, fon akımını düzenleyen kurumlar, akım sağlayan araç ve gereçlerle bunları düzenleyen hukuki ve idari kuralların oluşturduğu yapıya ne ad verilir?",
+  "A": "A) Finansal Sistem\n",
+  "B": "B) Üretim Sistemi",
+  "C": "C) Piyasa",
+  "D": "D) Muhasebe Sistemi",
+  "E": "E) Ekonomi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Finansal Sistem\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, para ya da sermayenin başkalarının kullanımına sunulması karşılığında alınır?",
+  "A": "A) Enflasyon ",
+  "B": "B) İskonto",
+  "C": "C) Faiz",
+  "D": "D) Yatırım ",
+  "E": "E) Likidite ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Faiz"
+ },
+ {
+  "Question": "MB da dahil olmak üzere bankaların ve özel kanunlarla mevduat kabülüne yetkili kuruluşların birbirlerine yatırdıkları mevduat türü hangisidir?",
+  "A": "A) Ticari mevduat",
+  "B": "B) Tasarruf mevduati ",
+  "C": "C) Resmi mevduat ",
+  "D": "D) İhbarli mevduat",
+  "E": "E) Bankalar mevduati",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Bankalar mevduati"
+ }
+]

@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi parasal aktarma mekanizmalarından para kanalı görüşünde yer almaz?\n",
+  "A": "A) Vadesiz mevduatlar",
+  "B": "B) Vadeli mevduatlar",
+  "C": "C) Rezervler",
+  "D": "D) Sermaye",
+  "E": "E) Borçlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Rezervler"
+ },
+ {
+  "Question": "Uzun süreli enflasyon oranında devam eden fiyat artışlarının giderek yavaşladığı ekonomik ortama ne ad verilir?\n",
+  "A": "A) Dezenflasyon ",
+  "B": "B) Starilizasyon ",
+  "C": "C) Stagflasyon ",
+  "D": "D) Deflasyon ",
+  "E": "E) Tedrici Ekonomi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Dezenflasyon "
+ },
+ {
+  "Question": "Enflasyon hedeflemesinde kullanılan endeks aşağıdakilerden hangisidir?",
+  "A": "A) Parakende fiyat endeksi",
+  "B": "B) Toptan eşya fiyat endeksi",
+  "C": "C) GSMH deflatörü",
+  "D": "D) Tüketici fiyat endeksi",
+  "E": "E) Bağımsızlık endeksi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Tüketici fiyat endeksi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi nakit tercih oranını azaltan unsurlardan biri değildir?",
+  "A": "A) Gelir düzeyinin artması",
+  "B": "B) Vadesiz mevduat faiz oranının artması",
+  "C": "C) Yasal faaliyetler",
+  "D": "D) Finansal sistemin istikrarlı olması",
+  "E": "E) Yüksek enflasyon oranı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yüksek enflasyon oranı"
+ },
+ {
+  "Question": "Parayı tahvil ve hisse senedi gibi diğer varlıklardan ayırt etmeye yarayan fonksiyonu aşağıdakilerden hangisidir?",
+  "A": "A) Değişim aracı olma",
+  "B": "B) Hesap birimi olma\n",
+  "C": "C) Değer muhafaza aracı olma",
+  "D": "D) Standart olma",
+  "E": "E) Tasarruf aracı olma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Değişim aracı olma"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kaynak(pasif) hesapların işleyişine ilişkin kurallarından biridir?",
+  "A": "A) Kaynak hesapları bilançonun pasifinde yer alır ve yalnız ve yalnız borç kalanı\nverirler.",
+  "B": "B) Kaynak hesapları bilançonun aktifinde yer alır ve yalnız ve yalnız alacak kalanı\nverirler.\n",
+  "C": "C) Kaynak hesapları bir gelir tablosu hesabıdır",
+  "D": "D) Kaynak hesapları bilançonun pasifinde yer alır ve pasif düzenleyici hesaplar hariç\nalacak kalanı verirler",
+  "E": "E) Kaynak hesaplarında ilk kayıt hesabın borcuna yapılır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kaynak hesapları bilançonun pasifinde yer alır ve pasif düzenleyici hesaplar hariç\nalacak kalanı verirler"
+ },
+ {
+  "Question": "Bütçe açığı hangi yöntemle finanse edilirse rezery para miktarı artmaz?",
+  "A": "A) MB'den kisa vadeli avanslarla",
+  "B": "B) uzun vadeli dis borclarla",
+  "C": "C) kisa vadeli dis borclarla\n",
+  "D": "D) iç borçla",
+  "E": "E) vergi gelirindeki artışla",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) vergi gelirindeki artışla"
+ },
+ {
+  "Question": "Türkiye'de kdv uygulamasina hangi yıl başlandı?",
+  "A": "A) 4 Ocak 1980",
+  "B": "B) 1 Ocak 1985",
+  "C": "C) 24 Aralık 1989",
+  "D": "D) 16 Şubat 1994",
+  "E": "E) 10 Aralık 1997",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 1 Ocak 1985"
+ },
+ {
+  "Question": "Hangisi kendiliğinden oluşan fonlar içinde yer alır?",
+  "A": "A) ticari krediler ",
+  "B": "B) factoring  ",
+  "C": "C) akredatif",
+  "D": "D) banka kredileri",
+  "E": "E) leasing",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) banka kredileri"
+ },
+ {
+  "Question": "Tüketici kredisi, ev kredisi, kredi kartı gibi hizmetler bankacılığın hangi hizmetleri ile ilgilidir?",
+  "A": "A) Global bankacılık",
+  "B": "B) Yatırım bankacılığı",
+  "C": "C) Kurumsal bankacılık",
+  "D": "D) Bireysel bankacılık",
+  "E": "E) Elektronik bankacılık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Global bankacılık"
+ },
+ {
+  "Question": "BIST’de kotasyon başvurularını karara bağlayan organ aşağıdakilerden hangisidir?",
+  "A": "A) Borsa Başkanı\n",
+  "B": "B) Genel Kurul",
+  "C": "C) Yönetim Kurulu",
+  "D": "D) Denetleme Kurulu",
+  "E": "E) Disiplin Komitesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Yönetim Kurulu"
+ },
+ {
+  "Question": "Hangisi üzerine repo işlemi yapılamaz?",
+  "A": "A) Devlet tahvilleri",
+  "B": "B) Hazine bonoları",
+  "C": "C) Banka garantili bonolar",
+  "D": "D) Varlığa dayalı menkul kıymetler",
+  "E": "E) Hatır senetleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Hatır senetleri"
+ },
+ {
+  "Question": "13) Derecelendirme kuruluşları hangi kurum tarafından yetkilendirilmelidir?",
+  "A": "A) SPK",
+  "B": "B) İMKB",
+  "C": "C) TCMB",
+  "D": "D) HAZİNE",
+  "E": "E) MALİYE",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) SPK"
+ },
+ {
+  "Question": "İşletmelerin kısa vadeli kredili satışlarından doğan alacak haklarının devredilme faaliyeti aşağıdakilerden hangisidir?\n",
+  "A": "A) Forfaiting",
+  "B": "B) Factoring",
+  "C": "C) Leasing",
+  "D": "D) Sigorta",
+  "E": "E) Finansman ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Factoring"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi İstanbul Takasbank tarafından saklamaya kabul edilen menkul kıymetlerden biri değildir?",
+  "A": "A) Hisse Senetleri",
+  "B": "B) Çekler",
+  "C": "C) Devlet Tahvili, Hazine Bonosu",
+  "D": "D) Kâr Zarar Ortaklığı Belgeler",
+  "E": "E) Gayrimenkul Sertifikaları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Çekler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Ticari Bankaların sundukları bireysel bankacılık hizmetlerinden biri değildir?\n",
+  "A": "A) Konut kredisi\n",
+  "B": "B) Kredi kartı",
+  "C": "C) Factoring",
+  "D": "D) Tüketici kredisi",
+  "E": "E) Otomobil kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Factoring"
+ },
+ {
+  "Question": "Ülkemizde banka kuruluşuna, faaliyete geçmesine, şube ve temsilcilik açılmasına izin veren yetkili makam aşağıdakilerden hangisidir?",
+  "A": "A) BDDK",
+  "B": "B) TMSF",
+  "C": "C) TCMB",
+  "D": "D) Bakanlar Kurulu",
+  "E": "E) Hazine Müsteşarlığı ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) BDDK"
+ },
+ {
+  "Question": "Vadesi henüz gelmemiş bir ticari senedin paraya veya banka kredisine çevrilmesine ne ad verilir?",
+  "A": "A) İskonto",
+  "B": "B) Açık Kredi ",
+  "C": "C) Arbitraj",
+  "D": "D) Rotatif",
+  "E": "E) Akspentans",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İskonto"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi mevduat bankalarının yapabileceği faaliyetler arasında yer almaz?",
+  "A": "A)  Kredi verme",
+  "B": "B) Yatırım danışmanlığı",
+  "C": "C) Finansal kiralama işlemleri",
+  "D": "D) Portföy işletmeciliği\n",
+  "E": "E) Saklama hizmetleri\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Finansal kiralama işlemleri"
+ },
+ {
+  "Question": "En önemli üstünlüğü işletme için kullanıma hazır bir fon kaynağı olan para piyasası aracı aşağıdakilerden hangisidir?",
+  "A": "A) Ticari kredi",
+  "B": "B) Ticari banka kredileri",
+  "C": "C) Finansman bonosu",
+  "D": "D) Factoring",
+  "E": "E) Menkulleştirme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Ticari kredi"
+ }
+]

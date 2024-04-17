@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi Factoring şirketleri için doğru bir ifade değildir?\n",
+  "A": "A) Ana faaliyetleri dışında faaliyette bulunamazlar, teminat mektubu veremezler",
+  "B": "B) Factoring ve finansman şirketlerinin ödenmiş sermayesi en az 5 milyon TL",
+  "C": "C) Kuruluş iznini BDDK verir\n",
+  "D": "D) Anonim şirket şeklinde kurulmak zorundadır",
+  "E": "E) Mevduat toplayarak, bunları sermaye piyasasında işletirler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Mevduat toplayarak, bunları sermaye piyasasında işletirler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi leasing’e konu olamaz?",
+  "A": "A)  İnşaat Makineleri\n",
+  "B": "B) Binalar",
+  "C": "C) Patent\n",
+  "D": "D) Demirbaşlar",
+  "E": "E) Taşıtlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Patent\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kantitatif bilgilerden biri değildir?\n",
+  "A": "A) Bilanço",
+  "B": "B) Gelir tablosu",
+  "C": "C) Kâr dağıtım tablosu",
+  "D": "D)  Firmanın geleceğe ilişkin plan ve projeleri\n",
+  "E": "E)  Nakit akış tablosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D)  Firmanın geleceğe ilişkin plan ve projeleri\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi sermaye piyasası aracılık faaliyetlerinden biri değildir?\n",
+  "A": "A) Portföy yöneticiliği faaliyetlerini yapabilirler",
+  "B": "B) Halka arz yoluyla satışına aracılık",
+  "C": "C) Yatırım bankacılığı faaliyetleri\n",
+  "D": "D) Repo- ters repo",
+  "E": "E) Yatırım danışmalığı\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Repo- ters repo"
+ },
+ {
+  "Question": "Menkul kıymet borsalarının oluşmasının başta gelen nedeni aşağıdakilerden hangisidir?\n",
+  "A": "A) Ticaretin gelişmesi ve vadeli (mal) emtia satışlarının yaygınlaşması",
+  "B": "B)  2499 sayılı SPK’ nın gerekliliğİ",
+  "C": "C) Yatırımcıların gelir elde etmelerinin sağlanması\n",
+  "D": "D) Büyük yatırımcıların güveninin sağlanması\n",
+  "E": "E) Para piyasası araçlarının yaygınlaşmasının sağlanmasI",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Ticaretin gelişmesi ve vadeli (mal) emtia satışlarının yaygınlaşması"
+ },
+ {
+  "Question": "Sermayesi paylara bölünmüş ve borçlarından dolayı yalnız mal varlığıyla sorumlu olan şirket türü aşağıdakilerden hangisidir?",
+  "A": "A) Adi şirket",
+  "B": "B) Anonim şirket",
+  "C": "C) Kollektif şirket",
+  "D": "D) Komandit şirket",
+  "E": "E) Limited şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Anonim şirket"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi borsanın gelir kaynaklarından biri değildir?",
+  "A": "A) Bütçeden alınan pay",
+  "B": "B) Kotasyon ücretleri",
+  "C": "C) Tescil ücretler",
+  "D": "D)  Giriş aidatı",
+  "E": "E) Yıllık aidatı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Bütçeden alınan pay"
+ },
+ {
+  "Question": "Mevcut durum itibarıyla sigorta şirketlerine ilişkin düzenlemelerle, gözetim ve denetim fonksiyonunu aşağıdakilerden hangisi yerine getirir?",
+  "A": "A) SPK",
+  "B": "B) BDDK",
+  "C": "C) Hazine Müsteşarlığı",
+  "D": "D) TMSF",
+  "E": "E) TCMB",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Hazine Müsteşarlığı"
+ },
+ {
+  "Question": "Kredi kurumunun müşterisine belli bir limite kadar açtığı, müşterinin de ihtiyacı oranında kullandığı krediye ne ad verilir?\n",
+  "A": "A)  Spot kredi",
+  "B": "B) Rotatif kredi",
+  "C": "C) Açık kredi",
+  "D": "D) Akrediif",
+  "E": "E) Ticari kredi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Rotatif kredi"
+ },
+ {
+  "Question": "Finansman Bonolarının vadesi en fazla kaç gün olabilir?",
+  "A": "A) 60 gün",
+  "B": "B) 90 gün",
+  "C": "C) 120 gün",
+  "D": "D) 360 gün",
+  "E": "E)  720 gün",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E)  720 gün"
+ },
+ {
+  "Question": "Aynı ve eşit miktardaki bir malın eş zamanlı olarak farklı piyasalarda farklı fiyattan alım satımını yaparak riske girmeden kâr eden kişiye ne ad\nverilir?",
+  "A": "A) Hedger",
+  "B": "B) Spekülatör",
+  "C": "C) Takas odası",
+  "D": "D)  Arbitrajcı",
+  "E": "E)  Garantör banka",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D)  Arbitrajcı"
+ },
+ {
+  "Question": "Fiyatların düşme eğiliminde olduğu piyasaya ne ad verilir?",
+  "A": "A) Devamlı piyasa",
+  "B": "B) Boğa piyasası",
+  "C": "C) Ayı piyasası",
+  "D": "D) Etkin piyasa",
+  "E": "E) Durgun piyasa",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Durgun piyasa"
+ },
+ {
+  "Question": "Bağlı olduğu paranın kullanıldığı ülkede ve çıkaran kurumun ülkesinde satışına izin verilmeyen tahvillere ne denir?",
+  "A": "A) Ulusal tahvil",
+  "B": "B) Euro tahvil",
+  "C": "C) Yabancı tahvil",
+  "D": "D) Ecu tahvil",
+  "E": "E)  Konvertıbl tahvil",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Euro tahvil"
+ },
+ {
+  "Question": "Satıcı firmaya sadece finansman hizmeti sunan, buna karşılık alacak yönetimi ve borçların riskini kapsam dışı bırakan factoring türü aşağıdakilerden hangisidir?\n",
+  "A": "A) Geleneksel Factoring",
+  "B": "B) Toptan Factoring",
+  "C": "C) Bildirimli Factoring",
+  "D": "D) Acente Factoringi\n",
+  "E": "E) Fatura İskontosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Fatura İskontosu"
+ },
+ {
+  "Question": "Aynı vadeye sahip menkul kıymetlerin faiz oranları arasındaki farklılıkların açıklanmasına ne denir? ",
+  "A": "A) Faiz marjları ",
+  "B": "B) Faiz oranlarının risk yapısı ",
+  "C": "C) Arbitraj ",
+  "D": "D)  Faiz oranlarının vade yapısı",
+  "E": "E)  Açık analizi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Faiz oranlarının risk yapısı "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi 1950’de ülkemizde kurulan ilk özel kalkınma bankasıdır?",
+  "A": "A) Türkiye Sınai Kalkınma Bankası",
+  "B": "B) Denizcilik Bankası",
+  "C": "C) T. Vakıflar Bankası",
+  "D": "D) T. Öğretmenler Bankası",
+  "E": "E)  Yapı ve Kredi Bankası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E)  Yapı ve Kredi Bankası"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Merkezi Kayıt Kuruluşunun kurucularından biri değildir?",
+  "A": "A) İMKB",
+  "B": "B) Takasbank",
+  "C": "C) TMSF",
+  "D": "D) TSPAKB",
+  "E": "E) İAB",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) TMSF"
+ },
+ {
+  "Question": "BIST’nin işlem ve hesaplarını aşağıdakilerden hangisi denetler?",
+  "A": "A) Maliye Bakanlığı",
+  "B": "B) Sermaye Piyasası Kurulu",
+  "C": "C) T.C. Merkez Bankası",
+  "D": "D) Hazine Müsteşarlığı",
+  "E": "E) Bankacılık Düzenleme Denetleme Kurumu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Sermaye Piyasası Kurulu"
+ },
+ {
+  "Question": "Aşağıdaki türev ürünlerden hangisi sadece organize piyasalarda işlem görür?",
+  "A": "A) Forward sözleşmeler",
+  "B": "B) Swap sözleşmeler",
+  "C": "C) Satın alma opsiyon sözleşmeleri",
+  "D": "D) Future sözleşmeler",
+  "E": "E) Vadeli işlem sözleşmeleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Future sözleşmeler"
+ },
+ {
+  "Question": "Hangisi ikincil piyasaya örnek verilebilecek örneklerden biri olamaz?",
+  "A": "A) opsiyon piyasaları",
+  "B": "B) gelecek piyasaları",
+  "C": "C) döviz piyasası",
+  "D": "D) doğrudan finans piyasası",
+  "E": "E) borsa",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) borsa"
+ }
+]

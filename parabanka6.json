@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların gerçekleştirdikleri hizmetlerden biri değildir?\n",
+  "A": "A) Havale",
+  "B": "B) Çek",
+  "C": "C) Akreditif açmak",
+  "D": "D) Tasarruf toplamak",
+  "E": "E) Ticarİ mal alım satımı yapmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Ticarİ mal alım satımı yapmak"
+ },
+ {
+  "Question": "Kar payı dağıtım politikası işletmenin piyasa değerini etkiler görüşüne ne ad verilir?",
+  "A": "A) gordon-linter\n",
+  "B": "B) baumol",
+  "C": "C) altman",
+  "D": "D) modigliani-miller",
+  "E": "E) miller or",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) gordon-linter\n"
+ },
+ {
+  "Question": "Hangisi uzun vadeli projelerin finansmanında kullanılabilecek kaynaklar arasında yer almaz?",
+  "A": "A) adi hisse senedi",
+  "B": "B) uzun vadeli banka kredisi",
+  "C": "C) satıcı krediler",
+  "D": "D) imtiyazlı hisse senedi",
+  "E": "E) tahvil",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) satıcı krediler"
+ },
+ {
+  "Question": "Riskten korunmak amacıyla işlem yapan kişi veya kurumlara ne denir?",
+  "A": "A) Spekülatör",
+  "B": "B) Hedger",
+  "C": "C) Arbitrajcı",
+  "D": "D) Opsiyoner",
+  "E": "E) Broker",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Hedger"
+ },
+ {
+  "Question": "Anonim şirketlerde kar dağıtımına yetkili olan organ hangisidir?",
+  "A": "A) Genel kurul ",
+  "B": "B) Yönetim kurulu ",
+  "C": "C) Denetim kurulu ",
+  "D": "D) Disiplin kurulu",
+  "E": "E) Yürütme kurulu ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Genel kurul "
+ },
+ {
+  "Question": "Ekonominin ve işletmelerin tümünü etkisi altına alan risklere ne  denir?",
+  "A": "A) Likidite riski ",
+  "B": "B) Enflasyon riski ",
+  "C": "C) İşletme riski ",
+  "D": "D) Sistematik risk ",
+  "E": "E) Ulusal risk ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Sistematik risk "
+ },
+ {
+  "Question": "Fonların el değiştirdiği, finansal varlık alım satımlarının yapıldığı  kapalı bir mekanın bulunduğu piyasalara ne ad verilir? ",
+  "A": "A) Para piyasası ",
+  "B": "B) Sermaye piyasası ",
+  "C": "C) Örgütlenmiş piyasa ",
+  "D": "D) Serbest piyasa ",
+  "E": "E) Tezgahüstü piyasa ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Örgütlenmiş piyasa "
+ },
+ {
+  "Question": "Kredili satış yapılacak müşterinin borç ödeme kabiliyetine ne denir?",
+  "A": "A) Karakter ",
+  "B": "B) Kapasite",
+  "C": "C) Kapital",
+  "D": "D) Karşılık",
+  "E": "E) Koşul",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kapasite"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi alım ve satım işlemlerine belli bir komisyon karşılığı aracılık eden, işlemleri kendi adına ancak taraf olduğu kişi veya kurumlar hesabına yapan işlemcilere verilen addır? ",
+  "A": "A) Broker ",
+  "B": "B) Dealer ",
+  "C": "C) Deflatör ",
+  "D": "D) Dezenflasyon ",
+  "E": "E) Açığa satış ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Broker "
+ },
+ {
+  "Question": "Planların rakamlarla ifadesine ne denir? ",
+  "A": "A) bilanço ",
+  "B": "B) gelir tablosu",
+  "C": "C) bütçe ",
+  "D": "D) kar zarar tablosu ",
+  "E": "E) finansal analiz ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) bütçe "
+ },
+ {
+  "Question": "Bir firmanın öz sermaye toplamının hisse senedi sayısına bölünmesi ile elde edilen değere ne denir? ",
+  "A": "A) Piyasa değeri ",
+  "B": "B) Defter değeri ",
+  "C": "C) Net aktif değeri ",
+  "D": "D) Nominal değer ",
+  "E": "E) Tasfiye değeri ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Tasfiye değeri "
+ },
+ {
+  "Question": "Hangisi BIST de yer alan sektör endekslerinden değildir?",
+  "A": "A) Sınai  ",
+  "B": "B) Hizmetler",
+  "C": "C) Mali ",
+  "D": "D) Metal Ana",
+  "E": "E) Teknoloji",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Metal Ana"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi geleceğe yönelik hak içeren finansal  sözleşmelerdir? ",
+  "A": "A) Vadeli sözleşmeler ",
+  "B": "B) Opsiyon sözleşmeleri ",
+  "C": "C) Fatura sözleşmeleri ",
+  "D": "D) Gelecek sözleşmeleri ",
+  "E": "E) Swap",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Opsiyon sözleşmeleri "
+ },
+ {
+  "Question": "İngilterede her gün belirlenen bankalararası faiz oranına ne ad verilir? ",
+  "A": "A) Libor",
+  "B": "B) Sibor",
+  "C": "C) Hibor",
+  "D": "D) Primarate",
+  "E": "E) Hiber",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Libor"
+ },
+ {
+  "Question": "Sahip olunan servetin çeşitli varlıklar arasında nasıl dağıtılacağına karar verilmesi süreci aşağıdakilerden hangisidir? ",
+  "A": "A) Çeşitlendirme ",
+  "B": "B) Portföy tercihi ",
+  "C": "C) Risk tercihi ",
+  "D": "D) Portföy getirişi ",
+  "E": "E) Likidite ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Portföy tercihi "
+ },
+ {
+  "Question": " Menkul kıymetlerin geri alma taahhüdü ile satımına ne ad verilir? ",
+  "A": "A) Menkulleştirme ",
+  "B": "B) VDMK",
+  "C": "C) Finansman bonosu",
+  "D": "D) Repo  ",
+  "E": "E) Ters repo",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Repo  "
+ },
+ {
+  "Question": "Bankaya koyulan sermayenin hangi kârlılıkla çalıştırıldığını göstermesi nedeniyle temel bir kârlılık kriteri durumunda olan oran aşağıdakilerden hangisidir? ",
+  "A": "A) Likidite oranı ",
+  "B": "B) Aktif kârlılık oranı ",
+  "C": "C) Öz kaynak kârlılık oranı ",
+  "D": "D) Kârlılık oranı ",
+  "E": "E) Net kâr marjı ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Öz kaynak kârlılık oranı "
+ },
+ {
+  "Question": "Uluslararası piyasalarda çeşitli büyüklükteki bankaların, bir konsorsiyum lideri banka öncülüğünde biraraya gelmesi ile oluş turulan bankalar grubunun bir bankaya verdiği krediye ne denir? ",
+  "A": "A) Sendikasyon ",
+  "B": "B) Kartel ",
+  "C": "C) Konsorsiyum",
+  "D": "D) Kotasyon ",
+  "E": "E) Leasing ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Sendikasyon "
+ },
+ {
+  "Question": "Merkez bankaları zorunlu rezervleri kullanarak aşağıdakilerden hangisinin üzerinde kontrol sahibi olur? ",
+  "A": "A) Para arzı ",
+  "B": "B)  Para talebi ",
+  "C": "C) Mal arzı ",
+  "D": "D) Mal talebi ",
+  "E": "E) Menkul kıymetlerin miktar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Para arzı "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, vadeli işlem (Forward) piyasalarının özelliklerinden biri değildir? ",
+  "A": "A) Teminat sisteminin olması ",
+  "B": "B) İşlemin yapılması için aracıya gerek olmaması ",
+  "C": "C) Sözleşmelerin standart olmaması ",
+  "D": "D)  İkincil piyasasının olmaması ",
+  "E": "E)  Sözleşmenin gerçekleşme anına kadar tarafların birbirine ödeme yapmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Teminat sisteminin olması "
+ }
+]

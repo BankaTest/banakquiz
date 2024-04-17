@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Büyük şirketler tarafından, kısa süreli finansman sağlamak için yabancı paraya bağlı olarak çıkarılan borç senetlerine ne ad verilir?",
+  "A": "A) Euro tahvil ",
+  "B": "B) Euro hisse senedi ",
+  "C": "C) Euro banka bonosu ",
+  "D": "D) Euro hazine bonosu ",
+  "E": "E) Euro ticari senet ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Euro ticari senet "
+ },
+ {
+  "Question": "Aşağıdaki türev ürünlerden hangisi sadece organize piyasalarda işlem görür? ",
+  "A": "A) Forward sözleşmeler ",
+  "B": "B) Swap sözleşmeler ",
+  "C": "C) Satın alma opsiyon sözleşmeleri",
+  "D": "D)  Future sözleşmeler ",
+  "E": "E) Vadeli işlem sözleşmeleri ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D)  Future sözleşmeler "
+ },
+ {
+  "Question": "Müşterinin borcunu geri ödeme niyeti aşağıdaki kavramlardan hangisi ile ifade edilir? ",
+  "A": "A) Karakter ",
+  "B": "B) Kapasite",
+  "C": "C) Satış Koşulu",
+  "D": "D) Karşılık",
+  "E": "E) Likidite ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Karakter "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi finansal sistemin fonksiyonlarından birisi değildir? ",
+  "A": "A) Fon transferi ",
+  "B": "B) Likidite",
+  "C": "C) Çeşitlendirme",
+  "D": "D) Enformasyon Sağlama",
+  "E": "E) Risk Paylaşımı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Çeşitlendirme"
+ },
+ {
+  "Question": "Orta ve uzun vadeli menkul kıymetlerin alınıp satıldığı piyasa aşağıdakilerden hangisidir? ",
+  "A": "A) Para piyasası ",
+  "B": "B) Spot piyasa ",
+  "C": "C) Vadeli piyasa ",
+  "D": "D) Sermaye piyasası ",
+  "E": "E) Future piyasalar ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Sermaye piyasası "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi menkul kıymetlerin geri satış taahhüdü ile alımını ifade etmektedir? ",
+  "A": "A) Repo",
+  "B": "B) Ters Repo",
+  "C": "C) Akredatif",
+  "D": "D) Forvard ",
+  "E": "E) Spot",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ters Repo"
+ },
+ {
+  "Question": "Portföy değerinin aylık ağırlıklı ortalama bazında en az % 25'ini devam\/ı olarak Türkiye'de kurulmuş anonim ortaklıkların hisse senetlerine yatırmış olan fonlar hangisidir? ",
+  "A": "A) A tipi",
+  "B": "B) B tipi",
+  "C": "C) C tipi",
+  "D": "D) D tipi",
+  "E": "E) E tipi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) A tipi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi faizsiz çalışan kurumlardır?",
+  "A": "A)  Ticarî bankalar",
+  "B": "B) Kalkınma bankaları",
+  "C": "C) Yatırım bankaları ",
+  "D": "D) Özel finans kurumlan ",
+  "E": "E) Yatırım fonları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Özel finans kurumlan "
+ },
+ {
+  "Question": "Banka kurtarmanın ve yeniden yapılandırmanın maliyetleri hangi ülkede en fazladır?",
+  "A": "A) Türkiye",
+  "B": "B) Arjantin",
+  "C": "C) Şili",
+  "D": "D) Tayland",
+  "E": "E) Güney Kore",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Arjantin"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi banka kurucuları ile ilgili düzenlemelerden birisi değildir? ",
+  "A": "A) Kurucuların müflis olmamaları ",
+  "B": "B) Kurucuların konkordato ilân etmiş olmamaları",
+  "C": "C) Tasfiye olan kuruluşlarda % 20'nin üzerinde pay sahibi olmamaları ",
+  "D": "D) Affa uğramış olsalar bile 5 yıldan fazla hapis, rüşvet, hırsızlık, dolandırıcılık, \nsahtecilik, inancı kötüye kullanma gibi yüz kızartıcı suçtan hüküm giymemiş olmaları ",
+  "E": "E)  Tasfiye olan kuruşlarda %10 üzerinde pay sahibi olmamaları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E)  Tasfiye olan kuruşlarda %10 üzerinde pay sahibi olmamaları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi finansal panikten koruyabilmek için devletin getirdiği düzenlemelerden birisi değildir?",
+  "A": "A) Giriş kısıtlamaları ",
+  "B": "B) Açıklama yapma ",
+  "C": "C) Mevduat sigortası ",
+  "D": "D) Üretim miktarına ilişkin sınırlamalar",
+  "E": "E) Rekabete ilişkin sınırlamalar ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Üretim miktarına ilişkin sınırlamalar"
+ },
+ {
+  "Question": "Piyasada gerçekleşen ve gözlemlenebilen faiz oranı aşağıdakilerden hangisidir?",
+  "A": "A) Reel Faiz",
+  "B": "B) Nominal Faiz",
+  "C": "C) Bileşik Faiz",
+  "D": "D) Basit Faiz",
+  "E": "E) Efektif Faiz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Nominal Faiz"
+ },
+ {
+  "Question": "Vade boyunca beklenen enflasyon oranı aşağıdakilerden hangisidir?",
+  "A": "A) Enflâsyon primi ",
+  "B": "B) Beklenen enflâsyon ",
+  "C": "C) Anüite",
+  "D": "D) Nominal Faiz",
+  "E": "E) Arbitraj",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Enflâsyon primi "
+ },
+ {
+  "Question": "Beklenen enflasyon verilerinin kullanılması ile dönem başı için hesaplanan reel faiz oranı aşağıdakilerden hangisidir? ",
+  "A": "A) Reel faiz oranı ",
+  "B": "B) Nominal faiz oranı ",
+  "C": "C) Ex-ante reel faiz oranı ",
+  "D": "D) Ex-post reel faiz oranı ",
+  "E": "E) fektif faiz oranı ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Ex-ante reel faiz oranı "
+ },
+ {
+  "Question": "Belirli bir faiz oranından gelecekte elde edilecek bir parasal değerin, içinde bulunulan andaki değeri aşağıdakilerden hangisidir? ",
+  "A": "A) Anüite",
+  "B": "B) Bugünkü Değer",
+  "C": "C) Gelecekteki Değer",
+  "D": "D) Ex-ante ",
+  "E": "E) Ex-post ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Bugünkü Değer"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi portföye dahil edilecek varlıklar belirlenirken, bu tercihi etkileyen faktörlerden birisi değildir?",
+  "A": "A) Servet ",
+  "B": "B) Beklenen getiri",
+  "C": "C) Risk ",
+  "D": "D) Likidite  ",
+  "E": "E) Geröekleşen Getiri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Geröekleşen Getiri"
+ },
+ {
+  "Question": "Ekonomik birimlerin portföylerinde sadece para ve tahvil bulunduracaklarını varsayan kuram aşağıdakilerden hangisidir? ",
+  "A": "A) Ödünç verilebilir fonlar kuramı",
+  "B": "B) Rasyonel beklentiler kuramı ",
+  "C": "C) Likidite tercihi kuramı ",
+  "D": "D) Portföy analizi kuramı ",
+  "E": "E) Modigliani- Miller kuramı ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Likidite tercihi kuramı "
+ },
+ {
+  "Question": "I-Yatırımlardan beklenen kârlılık  \nll-Beklenen enflâsyon \nlll-İşletmelerle ilgili vergiler  \nIV-Kamu kesimi borçlanma ihtiyacı \nYukarıdakilerden hangisi\/ hangileri tahvil arzını doğru yönde etkiler? ",
+  "A": "A) l-ll ",
+  "B": "B) l-ll-lll ",
+  "C": "C)  l-ll-lll-IV ",
+  "D": "D) l-ll-IV ",
+  "E": "E) l-IV",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) l-ll-IV "
+ },
+ {
+  "Question": "Sistematik riske ilişkin aşağıdakilerden hangisi yanlıştır?",
+  "A": "A) \"b, (beta)\" adı verilen bir kavramla ölçülmektedir ",
+  "B": "B) b, varlık piyasasındaki değer değişiklikleri karşısında, bir varlığın getirişindeki \ndeğişmeye ilişkin bir ölçüttür ",
+  "C": "C) Çeşitlendirme yoluyla yok edilebilir ",
+  "D": "D) Varlık piyasasındaki değer değişiklikleri karşısında bir varlığın getirişindeki \ndeğişmeye ilişkin ölçüt olma fonksiyonunu gösterir. ",
+  "E": "E)  Hesaplanırken, piyasa portföyünün getiri oranı da gözönünde tutulmalıdır. ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Çeşitlendirme yoluyla yok edilebilir "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi geri ödenmeme riskinden bağımsız bir menkul kıymetin faiz oranı ile aynı vadeye sahip geri ödenmeme riski taşıyan bir menkul kıymetin faiz oranı arasındaki farktır? ",
+  "A": "A) Risk primi ",
+  "B": "B) Kur farkı ",
+  "C": "C) Efektif faiz ",
+  "D": "D) Nominal faiz ",
+  "E": "E) Vade primi ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Risk primi "
+ }
+]
