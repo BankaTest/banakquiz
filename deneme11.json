@@ -1,0 +1,500 @@
+[
+ {
+  "Question": "1. Aşağıdaki hesaplardan hangisi banka bilançosunun aktif\ntaraķnda yer almaz?",
+  "A": "A) 301 Döviz Tevdiat Hesabı",
+  "B": "B) 010 Kasa Hesabı",
+  "C": "C) 118 Kısa Vadeli Teminatlı Krediler",
+  "D": "D) 250 Menkuller",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 301 Döviz Tevdiat Hesabı"
+ },
+ {
+  "Question": "2. Bankaların muhasebe uygulaması sürecinde sayım, kontrol ve\ndüzeltme işlemleri yapmak sureƟyle, belli bir tarihteki\nalacakların, borçların ve varlıkların miktar ve değerlerinin\nbelirlenmesi işlemi aşağıdakilerden hangisidir?",
+  "A": "A) Evalüasyon",
+  "B": "B) Reeskont",
+  "C": "C) Envanter",
+  "D": "D) Tahakkuk",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Envanter"
+ },
+ {
+  "Question": "3. Banka Tekdüzen Hesap Planı kaç ana hesap grubundan\noluşur?",
+  "A": "A) 8",
+  "B": "B) 10",
+  "C": "C) 12",
+  "D": "D) 15",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 10"
+ },
+ {
+  "Question": "4. Dönem boyunca çalışmasına rağmen, dönem sonunda\nkapaƨlarak bankanın kâr veya zararının bulunmasına yardımcı\nolan, bakiyeleri kalmadığından bilançoda yer almayan,\nözsermayenin değerini değişƟren hesaplar aşağıdakilerden\nhangisidir?",
+  "A": "A) Gelir Tablosu Hesapları",
+  "B": "B) Varlık Hesapları",
+  "C": "C) Nazım Hesaplar",
+  "D": "D) Kaynak Hesapları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Gelir Tablosu Hesapları"
+ },
+ {
+  "Question": "5. 32 gün vadeli mevduata yıllık brüt %12 faiz oranı ile yaƨrılan\n50.000 TL kaç TL net faiz kazandırır? (Stopaj= %15; Yıl = 365\ngün)",
+  "A": "A) 425",
+  "B": "B) 447",
+  "C": "C)479",
+  "D": "D) 500 ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 447"
+ },
+ {
+  "Question": "6. Yıllık faiz %12 ise 4 aylık dönemsel faiz aşağıdakilerden\nhangisidir?\n",
+  "A": "A) %1 ",
+  "B": "B)%3",
+  "C": "C) % 4",
+  "D": "D)%12",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) % 4"
+ },
+ {
+  "Question": "7. İhracatçının ithalatçıya gönderdiği, Ɵcari niteliği olmayan,\nsadece satacağı mal ile ilgili bilgileri içeren ve teklif\nmahiyetinnde olan belge aşağıdakilerden hangisidir?\n",
+  "A": "A) Sözleşme",
+  "B": "B) Fatura",
+  "C": "C) Ordino",
+  "D": "D) Proforma Fatura",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Proforma Fatura"
+ },
+ {
+  "Question": "8. İki farklı döviz cinsinin birbirlerine karşı değerlerinin\nbelirlenmesine ne ad verilir?\n",
+  "A": "A) Arbitraj",
+  "B": "B) Konvertibilite",
+  "C": "C) Libor",
+  "D": "D) Parite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Parite"
+ },
+ {
+  "Question": "9. Hangi ödeme şeklinde ithalatçı firmalar önce malları çeker,\ndaha sonra mal bedelini öder?\n",
+  "A": "A) Peşin Ödeme",
+  "B": "B) Vesaik Mukabili ödeme",
+  "C": "C) Görüldüğünde Ödemeli Akreditif",
+  "D": "D) Mal Mukabili Ödeme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Mal Mukabili Ödeme"
+ },
+ {
+  "Question": "10. Bir akreditif açılması için başvuran firmaya ne ad verilir?",
+  "A": "A) Lehtar Firma",
+  "B": "B) Amir Firma",
+  "C": "C) Muhatap Firma",
+  "D": "D) Üretici Firma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Amir Firma"
+ },
+ {
+  "Question": "11. Aşağıdakilerden hangisi bir mal ve hizmetin değerinin\noluşmasında belirleyici faktörlerden biri değildir?\n",
+  "A": "A) Sermaye",
+  "B": "B) Kalite",
+  "C": "C) Bol ya da kıt olma durumu",
+  "D": "D) Fayda",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Sermaye"
+ },
+ {
+  "Question": "12. Bir ülkenin belli bir dönemde dış ülkelerle parasal ilişkilerinin\ntoplamını aşağıdakilerden hangisi gösterir?\n",
+  "A": "A) Bütçe",
+  "B": "B) Ödemeler Bilançosu",
+  "C": "C) Gelir Tablosu",
+  "D": "D) Nakit Tablosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ödemeler Bilançosu"
+ },
+ {
+  "Question": "13. Halihazırda istihdam edilmekte olanlarla işsiz olarak kabul\nedilenlerin toplamı aşağıdakilerden hangisidir?\n",
+  "A": "A) İşsizlik Oranı",
+  "B": "B) İstihdam Oranı",
+  "C": "C) İşgücü",
+  "D": "D) Çalışan Sayısı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İşgücü"
+ },
+ {
+  "Question": "14. Birkaç firmanın endüstriye hakim olduğu ve piyasa fiyaƨnı\netkileyebildiği piyasa türü aşağıdakilerden hangisidir?\n",
+  "A": "A) Monopolcü rekabet",
+  "B": "B) Tam rekabet",
+  "C": "C) Monopol",
+  "D": "D) Oligopol",
+  "Answer": "D) Oligopol"
+ },
+ {
+  "Question": "15. Fiyatlar genel seviyesinde yaşanan sürekli düşüşlere ne ad\nverilir?\n",
+  "A": "A) Dezenflasyon",
+  "B": "B) Deflasyon",
+  "C": "C) Maliyet Enflasyonu",
+  "D": "D) Talep Enflasyonu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Deflasyon"
+ },
+ {
+  "Question": "16. Aşağıdakilerden hangisi para politikası araçlarından biri\ndeğildir?\n",
+  "A": "A) Vergi Oranı",
+  "B": "B) Zorunlu Karşılık Oranı",
+  "C": "C) Açık Piyasa İşlemleri",
+  "D": "D) Reeskont Oranı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Vergi Oranı"
+ },
+ {
+  "Question": "17. Aşağıdakilerden hangisi bir menkul kıymet değildir?",
+  "A": "A) Hisse (Pay)",
+  "B": "B) Çek",
+  "C": "C) Tahvil",
+  "D": "D) Hazine Bonosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Çek"
+ },
+ {
+  "Question": "18. Anonim ortaklıklarda bedelli sermaye arƨrımına gidilmesi\ndurumunda mevcut ortakların yeni çıkarılacak hisse (pay)\nsenetlerini öncelikli alma hakkına ne ad verilir?\n",
+  "A": "A) Kar Payı Hakkı",
+  "B": "B) Rüçhan Hakkı",
+  "C": "C) Bedelsiz Pay Alma Hakkı",
+  "D": "D) Oy Hakkı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Rüçhan Hakkı"
+ },
+ {
+  "Question": "19. Aşağıdakilerden hangisi Merkez Bankasının görevlerinden biri\ndeğildir?",
+  "A": "A) Reeskont ve faiz oranlarını belirlemek",
+  "B": "B) Kredi politikalarını belirlemek",
+  "C": "C) Bütçe açığını azaltmak",
+  "D": "D) Finansal istikrar sağlamak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Bütçe açığını azaltmak"
+ },
+ {
+  "Question": "9. Döviz transfer işlemlerinde muhabir banka nezdindeki nostro hesaplarımızın borçlandırıldığı veya  muhabir bankanın bankamız nezdindeki vostro hesabının alacaklandırıldığı tarihe ne denir?",
+  "A": "a. Ön provizyon     ",
+  "B": "b. Valör      ",
+  "C": "c. Provizyon      ",
+  "D": "d. Tahsil tarihi    ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "b. Valör      "
+ },
+ {
+  "Question": "21. Bankanın yurtiçi ve yurtdışı resmi daire, kurum ve firmalara\nhitaben verdiği onaylı kredileri, bunların ne kadarının\nkullanıldığı, ne kadarının kullanıma hazır olduğu ve mevduat\ndurumunu gösteren, bankaca düzenlenen belge\naşağıdakilerden hangisidir?",
+  "A": "A) Niyet mektubu",
+  "B": "B) Teminat mektubu",
+  "C": "C) Kredi mektubu",
+  "D": "D) Referans mektubu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Referans mektubu"
+ },
+ {
+  "Question": "22. Aşağıdakilerden hangisi Bankamızın Nakit YöneƟm Kredisi\nürünlerinden biri değildir?",
+  "A": "A) Bloke Çek Kredisi",
+  "B": "B) Gün İçi Kredi",
+  "C": "C) GSM Kredisi",
+  "D": "D) Vergi Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) GSM Kredisi"
+ },
+ {
+  "Question": "23. 5411 sayılı Bankacılık Kanunu'nun 51. maddesi gereğince\naşağıdakilerden hangisinin (aslen ya da devren) kredi açma\nyetkisi yoktur?",
+  "A": "A) Banka Genel Müdürü",
+  "B": "B) Banka YöneƟm Kurulu",
+  "C": "C) Banka Genel Kurulu",
+  "D": "D) Banka Kredi Komitesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Banka Genel Kurulu"
+ },
+ {
+  "Question": "24. Adi ortaklıkların kredilendirilmesi ile ilgili aşağıdaki\nifadelerden hangisi yanlışƨr?",
+  "A": "A) Ortakların her biri adi ortaklığın borçlarının tamamından\nmüteselsilen sorumludur",
+  "B": "B) Kredi tek tek ortaklar adına açılabilir",
+  "C": "C) Ortaklardan biri adına kredi açılabilir, diğer ortak krediye\nkefil alınabilir",
+  "D": "D) Kredi adi ortaklık adına açılır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kredi adi ortaklık adına açılır"
+ },
+ {
+  "Question": "25. Aşağıdakilerden hangisi nakit karşılıklı kullandırılan kredinin\nteminatına alınmaz?\n",
+  "A": "A) Alacak Rehni",
+  "B": "B) Hazine Bonosu",
+  "C": "C) Devlet Tahvili",
+  "D": "D) Mevduat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Alacak Rehni"
+ },
+ {
+  "Question": "26. Hesap sahibine, hesabında para olmasa dahi kendisine\ntanımlanan limit dâhilinde hesabından para çekerek kredi\nkullanma olanağı sağlayan kredi türü aşağıdakilerden\nhangisidir?\n",
+  "A": "A) Aylık Eşit Taksitli Kredi",
+  "B": "B) Spot Kredi",
+  "C": "C) Kredili Mevduat",
+  "D": "D) Rotatif Kredi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kredili Mevduat"
+ },
+ {
+  "Question": "27. Borçlunun itibarını ve ödeme ahlakını gösteren 5K İlkesi\naşağıdakilerden hangisidir?\n",
+  "A": "A) Karşılık",
+  "B": "B) Karakter",
+  "C": "C) Kapasite",
+  "D": "D) Kapital",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Karakter"
+ },
+ {
+  "Question": "28. Aşağıdakilerden hangisi \"Bankacılık Sistemindeki Mali\nOtoriteler\"den biri değildir?\n",
+  "A": "A) TMSF",
+  "B": "B) BDDK",
+  "C": "C) TCMB",
+  "D": "D) TSPB",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) TSPB"
+ },
+ {
+  "Question": "29. Aşağıdakilerden hangisi sermaye şirketidir?",
+  "A": "A) Komandit Şirket",
+  "B": "B) Limited Şirket",
+  "C": "C) Kolektif Şirket",
+  "D": "D) Adi Şirket",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Limited Şirket"
+ },
+ {
+  "Question": "30. Aşağıdakilerden hangisi Türk Borçlar Kanunu kapsamında “\nirade sakatlığı”na yol açmaz?\n",
+  "A": "A) Müzakere",
+  "B": "B) Yanılma",
+  "C": "C) Aldatma",
+  "D": "D) Korkutma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Müzakere"
+ },
+ {
+  "Question": "31. Bankacılık Kanunu gereği alınan yazılar ve faaliyetler ile ilgili\nbelgelerin asılları veya bunun mümkün olmadığı hâllerde\nsıhhatlerinden şüpheye mahal vermeyecek kopyaları ve\nyazılan yazıların makine ile alınmış, tarih ve numara sırası\nverilerek düzenlenecek suretleri, usulleri çerçevesinde ilgili\nbanka nezdinde ne kadar süre ile saklanmak zorundadır?\n",
+  "A": "A) Bir yıl",
+  "B": "B) Beş yıl",
+  "C": "C) On yıl",
+  "D": "D) Yirmi yıl",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) On yıl"
+ },
+ {
+  "Question": "32. Aşağıdakilerden hangisi Türk Ticaret Kanunu’nda belirƟlen\nkambiyo senetlerinden biri değildir?\n",
+  "A": "A) Bono (emre yazılı senet)",
+  "B": "B) Küşat Mektubu",
+  "C": "C) Poliçe",
+  "D": "D) Çek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Küşat Mektubu"
+ },
+ {
+  "Question": "33. Aşağıdaki durumlardan hangisinin mevcudiyeti, hesapta tutar\nbulunuyorsa çek bedelinin ödenmesine engel değildir?\n",
+  "A": "A) Hesapta bulunan tutarların tamamı üzerinde mahkemece\nverilmiş bir ihƟyaƟ tedbir kararı varsa\n",
+  "B": "B) Hesapta bulunan tutarların tamamı üzerinde haciz varsa",
+  "C": "C) Hesapta bulunan tutarların tamamının ibraz tarihinden\nönce üçüncü bir kişi lehine rehin edildiğine ilişkin bildirim\nbankaca usulüne uygun olarak tebliğ alınmışsa\n",
+  "D": "D) Keşideci (düzenleyen) ödemeden men talimaƨ vermişse",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Keşideci (düzenleyen) ödemeden men talimaƨ vermişse"
+ },
+ {
+  "Question": "34. Aşağıda yer alan ciro çeşitlerinden hangisi çekte yapılamaz?",
+  "A": "A) Rehin Cirosu",
+  "B": "B) Temlik Cirosu",
+  "C": "C) Tahsil Cirosu",
+  "D": "D) Beyaz Ciro",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Rehin Cirosu"
+ },
+ {
+  "Question": "35. Gayrimenkuller üzerinde eşya hukukunun konusunu\noluşturan her türlü hakka ne ad verilir?\n",
+  "A": "A) Zilyetlik",
+  "B": "B) Temlik",
+  "C": "C) Fikrî Mülkiyet Hakkı",
+  "D": "D) Ayni Hak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Ayni Hak"
+ },
+ {
+  "Question": "36. “Muacceliyet” ne demektir?",
+  "A": "A) Kişinin üstlendiği edimi hukuka aykırı olarak yerine\ngetirmemesidir\n",
+  "B": "B) Taksitlendirme anlamındadır",
+  "C": "C) Bir hak talep etmek imkânını kaybetmek demektir",
+  "D": "D) Borcun alacaklı taraķndan istenebilir hâle gelmesidir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Borcun alacaklı taraķndan istenebilir hâle gelmesidir"
+ },
+ {
+  "Question": "37. Mirasçılık Belgesi aşağıdaki kurumlardan hangisinden\nalınabilir?\n",
+  "A": "A) Aile Mahkemesinden",
+  "B": "B) Nüfus müdürlüğünden",
+  "C": "C) Noterden",
+  "D": "D) Adli Sicil Müdürlüğünden",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Noterden"
+ },
+ {
+  "Question": "38. “Hukuka aykırı bir şekilde bir kimsenin malvarlığı ya da\nşahsında bir zarara neden olan eyleme” Türk Borçlar Kanunu\nkapsamında ne ad verilir?\n",
+  "A": "A) Haksız fiil",
+  "B": "B) Ayıp",
+  "C": "C) Temerrüt",
+  "D": "D) Kabahat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Haksız fiil"
+ },
+ {
+  "Question": "39. Ergin, ayırt etme gücüne sahip, kısıtlı olmayan (hacir alƨna\nalınmamış), ancak bazı işlemleri yasal danışman onayı olmadan\ngerçekleştiremeyen kişiler Türk Medeni Kanunu kapsamında\nne şekilde tanımlanır?\n",
+  "A": "A) Sınırlı ehliyetliler",
+  "B": "B) Tam ehliyetsizler",
+  "C": "C) Tam ehliyetliler",
+  "D": "D) Ayırt etme gücüne sahip küçük",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Sınırlı ehliyetliler"
+ },
+ {
+  "Question": "40. POS kavramı aşağıdakilerden hangisi ile doğrudan ilgilidir?",
+  "A": "A) Üye işyeri hizmetleri",
+  "B": "B) Kiralık kasa hizmetleri",
+  "C": "C) Yaƨrım hizmetleri",
+  "D": "D) Sigorta hizmetleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Üye işyeri hizmetleri"
+ },
+ {
+  "Question": "41. Aşağıdakilerden hangisi kredi kart işlemlerinde taraflardan\nbiri değildir?\n",
+  "A": "A) Kart hamili",
+  "B": "B) Sigorta",
+  "C": "C) Banka",
+  "D": "D) Üye işyeri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Sigorta"
+ },
+ {
+  "Question": "42. Aşağıdakilerden hangisi gerçek kişilere kullandırılan konut\nkredilerinin özelliklerinden biri değildir?\n",
+  "A": "A) Bankalar konut kredilerinde ekspertiz değerinin maksimum\n%80'ine kadar kredi kullandırırlar\n",
+  "B": "B) Bankalar, kredinin teminaƨ olarak kredi kullandırılacak\nkonutun üzerine ipotek tesis ederler\n",
+  "C": "C) Konut kredileri, sadece konut alımına yönelik kullandırılır",
+  "D": "D) Konut kredileri KKDF ve BSMV kesintisinden muaf değildir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Konut kredileri KKDF ve BSMV kesintisinden muaf değildir"
+ },
+ {
+  "Question": "43. Bireysel İhtiyaç Kredilerinde azami vade kaç aydır?",
+  "A": "A) 12",
+  "B": "B) 18",
+  "C": "C) 36",
+  "D": "D) 48",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 48"
+ },
+ {
+  "Question": "44. CNC tezgâhını aylık kira öder gibi taksitle aldığını ve taksit\nsüresi sonunda ödeyeceği çok küçük bir bedel ile mülkiyeƟni\nalacağından bahseden bir KOBİ, bu tezgâh için ne tür bir ürün\nkullanmıştır?\n",
+  "A": "A) Forfating",
+  "B": "B) Faktoring",
+  "C": "C) Leasing",
+  "D": "D) Hermes",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Leasing"
+ },
+ {
+  "Question": "45. Aynı bankadaki farklı hesaplar arasında yapılan para\ntransferine ne ad verilir?\n",
+  "A": "A) Havale",
+  "B": "B) Money Order",
+  "C": "C) SWIFT",
+  "D": "D) EFT",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Havale"
+ },
+ {
+  "Question": "46. Aşağıdakilerin hangisi piyasa riski türlerinden değildir?",
+  "A": "a. Kur riski      ",
+  "B": "b. Hisse senedi pozisyon riski      ",
+  "C": "c. Faiz oranı riski     ",
+  "D": "d.Operasyonel risk",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "d.Operasyonel risk"
+ },
+ {
+  "Question": "47. Aşağıdakilerden hangisi ''Güven '' kelimesinin bankacılık\ndilindeki karşılığıdır?\n",
+  "A": "A) Teminat",
+  "B": "B) Kredibilite",
+  "C": "C) Etkinlik",
+  "D": "D) Moralite",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kredibilite"
+ },
+ {
+  "Question": "48. Kredi kartlarında, ekstre tarihi ile son ödeme tarihi arasındaki\nsüre en az kaç gün olmalıdır?\n",
+  "A": "A) 5",
+  "B": "B) 7",
+  "C": "C) 10",
+  "D": "D) 15",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 10"
+ },
+ {
+  "Question": "49. Çek ibraz süreleri ile ilgili olarak aşağıdakilerden hangisi\ndoğrudur?",
+  "A": "A) Akdeniz’de sahili olan devletler ile Avrupa ülkeleri arasında\nçek işlemlerinde ibraz süresi bir aydır",
+  "B": "B) Bir çek keşide edildiği yerde ödenecekse onbeş gündür",
+  "C": "C) Keşide edildiği ilden başka bir ilde ödenecekse on gündür",
+  "D": "D) Keşide yeri ile ödeme yeri aynı kıtada ise üç aydır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Akdeniz’de sahili olan devletler ile Avrupa ülkeleri arasında\nçek işlemlerinde ibraz süresi bir aydır"
+ },
+ {
+  "Question": "50. İthalatçı firmaların kabul eƫği poliçelere, bankaların ödeme\ngarantisi vermesine ne ad verilir?",
+  "A": "A) Teyit",
+  "B": "B) Aval",
+  "C": "C) Konfirmasyon",
+  "D": "D) İhbar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Teyit"
+ }
+]

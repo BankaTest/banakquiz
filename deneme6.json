@@ -1,0 +1,502 @@
+[
+ {
+  "Question": "1. Bankacılık Kanunu'na göre, hak sahibinin en son talebi, işlemi veya herhangi bir yazılı talimatı tarihinden başlayarak içinde aranmayan mevduat, katılım fonu, emanet ve alacaklar zamanaşımına tabidir ? ",
+  "A": "a. 5 yıl             ",
+  "B": "b. 10 yıl       ",
+  "C": "c. 12 yıl     ",
+  "D": "d. 14 yıl    ",
+  "E": "e. 15 yıl",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "2. Zamanaşımına uğrayan mevduat, banka tarafından hak sahibine ulaşılamaması halinde, yapılacak ilanı takiben gelir kaydedilmektedir ?",
+  "A": "a. TMSF'na",
+  "B": "b. TCMB'na",
+  "C": "c. Maliye Bakanlığı'na",
+  "D": "d. DFİF'na",
+  "E": "e. Kızılay'a",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "3. Mevduat hesabına alacak kaydedilmek üzere nakit tahsilat yapılması halinde valör",
+  "A": "a. Tahsil tarihidir",
+  "B": "b. Tahsil tarihinin iki iş günü sonrasıdır",
+  "C": "c. Tahsil tarihini izleyen iş günüdür",
+  "D": "d. İzleyen hafta başıdır",
+  "E": "e. Tahsil tarihinden önceki gündür",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "4. Mevduat hesaplarına faiz tahakkuku ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "a. Vadesiz hesaplarda yıl sonlarında",
+  "B": "b. Vadeli hesaplarda vade sonlarında",
+  "C": "c. Vadesiz hesaplarda hesap kapanışlarında",
+  "D": "d. Vadeli hesaplarda hesap kapanışlarında",
+  "E": "e. Vadeli ve vadesiz hesaplarda müşterinin her talebinde yapılır.",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "5. Vadesiz ve üç aya kadar vadeli (üç ay dahil) mevduat hesaplarında TCMB Zorunlu Karşılık Oranı nedir?",
+  "A": "a. 8,5        ",
+  "B": "b. 9,5      ",
+  "C": "c. 10,5      ",
+  "D": "d. 11,5    ",
+  "E": "e. 12,5",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "6. Türkiye'de faaliyet gösteren mevduat kabulüne yetkili bankaların her birinde açılmış olan tasarruf mevduatı, altın depo ve döviz tevdiat hesaplarının kaç liraya kadar olan kısmı sigorta kapsamındadır?",
+  "A": "A) 300.000 tl",
+  "B": "B) 400.000 TL",
+  "C": "C)450.000 TL",
+  "D": "D) 650.000 TL",
+  "E": "E)700.000 TL",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D"
+ },
+ {
+  "Question": "7. Aşağıdakilerden hangisi türev ürünlerden değildir?",
+  "A": "a. Futures",
+  "B": "b. Opsiyon",
+  "C": "c. Forward",
+  "D": "d. Swap",
+  "E": "e. Spot döviz alımı",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "8. Getirisi başka bir kıymetin getirisine bağlanmış ürünlere ne denir?",
+  "A": "a. Serbest mallar",
+  "B": "b. Erdemli mallar",
+  "C": "c. Türev ürünler",
+  "D": "d. Spot ürünler",
+  "E": "e. Arbitraj",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "9. Alıcıya, işleme konu olan belirli miktardaki ürünü önceden belirlenen bir fiyattan, belli bir süre içinde alma ya da satma hakkı veren türev ürün hangisidir?",
+  "A": "a. Opsiyon    ",
+  "B": "b. Futures   ",
+  "C": "c. Forward    ",
+  "D": "d. Swap    ",
+  "E": "e. Spot işlem",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "10. Olası fiyat değişimlerinden kaynaklanan risklerden korunmak amacıyla, satıcının belli bir ürünü, ileri bir tarihte, baştan anlaşılan bir fiyat üzerinden alıcıya teslim etmesini öngören sözleşmeye ne denir?",
+  "A": "a. Opsiyon   ",
+  "B": "b. Futures   ",
+  "C": "c. Forward   ",
+  "D": "d. Swap   ",
+  "E": "e. Spot işlem",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "11. Halktan katılma belgeleri karşılığında toplanan paralarla, belge sahipleri hesabına, riskin dağıtılması ilkesine göre, sermaye piyasası araçları, gayrimenkul,  altın ve diğer kıymetli madenler portföyü işletmek amacıyla kurulan mal varlığına ne denir?",
+  "A": "a. Tasarruf mevduatı",
+  "B": "b. Döviz Tevdiat Hesabı",
+  "C": "c. Yatırım Fonu",
+  "D": "d. Katılım Payı",
+  "E": "e. Yatırımcı Hissesi",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "12. Esas sözleşmelerinde asgari sınırları belirtilmek kaydıyla, portföy değerinin en az % 25'ini devamlı olarak, özelleştirme kapsamına alınmış KİT'ler dahil Türkiye'de kurulmuş ortaklıkların hisse senetlerine yatırmış yatırım fonlarına ne denir?",
+  "A": "a. A Tipi Yatırım Fonu",
+  "B": "b. B Tipi Yatırım Fonu",
+  "C": "c. Karma Fon",
+  "D": "d. Hedge Fon",
+  "E": "e. Sabit Getirili Fon",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "13. Bankanın maruz kaldığı aşağıdaki risklerden hangisi piyasa riskine girmez?",
+  "A": "a. Kur riski",
+  "B": "b. Operasyonel Risk",
+  "C": "c. Hisse senedi pozisyon riski",
+  "D": "d. Faiz oranı riski",
+  "E": "e. Likidite riski",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "14. Aşağıdakilerden hangisi borçlunun aldığı borcu geri ödememe riskini ifade eder?",
+  "A": "a. Operasyonel risk",
+  "B": "b. Faiz riski",
+  "C": "c. Kredi riski",
+  "D": "d. Likidite riski",
+  "E": "e. Hisse senedi pozisyon riski"
+ },
+ {
+  "Question": "15. Banka içi kontrollerdeki aksamalardan ötürü hata ve sahtekarlıkların gözden kaçmasından, bilgi teknolojisi sistemindeki aksamalardan, yangın ve sel gibi felaketlerden kaynaklanan zarara uğrama ihtimaline ne denir?",
+  "A": "a. Likidite riski",
+  "B": "b. Operasyonel risk",
+  "C": "c. Faiz riski",
+  "D": "d. Hisse senedi pozisyon riski",
+  "E": "e. Kredi riski",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "16. 1975 yılında, G-10 ülkelerinin Merkez Bankası başkanları tarafından kurulan bankacılık denetim otoritesi hangisidir?",
+  "A": "a. Avrupa Birliği",
+  "B": "b. NATO Ekonomi Zirvesi",
+  "C": "c. Basel Komitesi",
+  "D": "d. Bern Komitesi",
+  "E": "e. Berlin Komitesi",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "17. BASEL I'in yetersizlikleri ve finansal piyasalardaki gelişmeler dikkate alınarak Basel Bankacılık Denetim Komitesi tarafından hazırlanan, 2004 yılında son şeklini alan ve 2007'de yürürlüğe giren standartlar bütünü hangisidir?",
+  "A": "a. BASEL I",
+  "B": "b. BASEL II",
+  "C": "c. Avrupa Yönergesi",
+  "D": "d. Avrupa Çerçeve Anlaşması",
+  "E": "e. Risk Uzlaşısı",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "18. BASEL II ile ortaya konulan, bankaların maruz kaldıkları kredi riski, piyasa riski ve operasyonel risk toplamının en az % 8'i kadar öz kaynak taşımaları gerektiğini ifade eden düzenlemenin adı nedir?",
+  "A": "a. Sermaye yeterlilik rasyosu",
+  "B": "b. Risk rasyosu",
+  "C": "c. Risk katsayısı",
+  "D": "d. Risk taşıma kapasitesi",
+  "E": "e. Hedging ",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "19. Çekileceği tarihten 7 gün önce yazılı bir ihbar verilmek suretiyle çekilebilen mevduata ne denir?",
+  "A": "a. Birikimli mevduat",
+  "B": "b. Tasarruf mevduatı",
+  "C": "c. Vadeli mevduat",
+  "D": "d. Vadesiz mevduat",
+  "E": "e. İhbarlı mevduat",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "20. Mevduat bankaları nezdinde açtırılan, gerçek kişilere ait ve münhasıran çek keşide edilmesi dışında ticari işlemlere konu olmayan mevduata ne denir?",
+  "A": "a. Tasarruf mevduatı",
+  "B": "b. Ticari kuruluşlar mevduatı",
+  "C": "c. Bankalar mevduatı",
+  "D": "d. Resmi kuruluşlar mevduatı",
+  "E": "e. Diğer kuruluşlar mevduatı",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "21. Bir kimsenin kendi adına diğer bir kimseye bir miktar para, kıymetli evrak ya da buna benzer şeyler vermeye üçüncü bir kişiyi yetkili kılmasına ne denir?",
+  "A": "a. Vekil tayin etme    ",
+  "B": "b. Vasi tayin etme    ",
+  "C": "c. Yetkilendirme   ",
+  "D": "d. Havale   ",
+  "E": "e. Rücu etme",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "22. Havale işlemi ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "a. Havale amiri, havale lehdarı lehine bir alacak kaydı yapılmadıkça ve havalenin geldiği lehdara bildirilmediği sürece havaleden her zaman cayabilir",
+  "B": "b. Havale lehdarına ihbarname gönderilmişse, banka lehdara karşı taahhüt altına girmiş olacağından, ihbarnamede belirtilen süre bitmeden ve lehdarın rızası ve yazılı onayı olmaksızın havale iptal edilemez",
+  "C": "c. Havale bir hesaba alacak geçmiş ise, hesap sahibinin yazılı ve imzalı onayı alınmadan havale iptal edilemez",
+  "D": "d. Havalede zamanaşımı, havale amirine havalenin iadesiyle ilgili yapılan ihbar tarihinden itibaren 10 yıldır",
+  "E": "e. Havale, 10 yıllık zamanaşımı süresi sonunda TCMB'na devredilir",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "23. Aşağıdakilerden hangisi menkul kıymet değildir?",
+  "A": "a. Bankamız bonosu",
+  "B": "b. Hazine bonosu",
+  "C": "c. Devlet tahvili",
+  "D": "d. Eurobond",
+  "E": "e. Çek",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "24. Monopol piyasaları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "a. Firmanın kâr düzeyi  tam rekabetçi piyasaya göre daha düşüktür",
+  "B": "b. Tam rekabetçi piyasaya göre daha az üretim yapılır",
+  "C": "c. Tam rekabetçi piyasaya göre daha yüksek fiyat oluşur",
+  "D": "d. Tam rekabetçi piyasaya göre tüketici refahı daha düşüktür",
+  "E": "e. Monopolcü firmanın üretim tesislerinin optimal büyüklükte olması gerekmez",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "25. TCMB'nin piyasaya döviz satmasının beklenen etkisi nedir?",
+  "A": "a. TL faiz oranları ve döviz kurları artar",
+  "B": "b. TL faiz oranları ve bono fiyatları azalır",
+  "C": "c. TL faiz oranları düşer, döviz kurları artar",
+  "D": "d. TL faiz oranları artar, döviz kurları düşer",
+  "E": "e. TL faiz oranları ve bono fiyatları artar",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "26. Aşağıdaki kredilerden hangisi maddi teminatlı kredi değildir (şahsi teminatlı kredidir)?",
+  "A": "a. Gayrimenkul ipoteği karşılığında kullandırılan kredi",
+  "B": "b. Kefalet karşılığında kullandırılan kredi",
+  "C": "c. Mevduat rehni karşılığında kullandırılan kredi",
+  "D": "d. Temlik karşılığı kullandırılan kredi",
+  "E": "e. Teminata menkul kıymet alınarak kullandırılan kredi",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "27. Bir bankanın muhabir bankaları arasında, nezdinde hesap açtırdığı ve bu hesaptan ödeme yapılması konusunda yetki verdiği bankaya ne denir?",
+  "A": "a. Amir banka",
+  "B": "b. İhbar bankası",
+  "C": "c. Rambursman bankası",
+  "D": "d. Teyit bankası",
+  "E": "e. Lehdar banka",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "28. Türkiye'de faaliyette bulunan tüm banka ve yetkili kurumların her türlü efektif ve döviz satın alınması durumunda düzenlemek zorunda oldukları belgeye ne denir?",
+  "A": "a. Döviz Alım Belgesi (DAB)",
+  "B": "b. Döviz Satım Belgesi (DSB)",
+  "C": "c. Türk Parası Transfer Belgesi (TPTB)",
+  "D": "d. Döviz Bordrosu",
+  "E": "e. Döviz Cetveli",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "29. Türkiye'de faaliyet gösteren tüm banka ve yetkili kurumların her türlü efektif ve döviz satışında, satış anında düzenlemek zorunda oldukları belgeye ne denir?",
+  "A": "a. DAB",
+  "B": "b. DSB",
+  "C": "c. TPTB",
+  "D": "d. Döviz Bordrosu",
+  "E": "e. Döviz Cetveli",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "30. Yurt dışına yapılacak Türk parası transferlerinde 2 nüsha halinde düzenlenen belgeye ne denir?",
+  "A": "a. DAB",
+  "B": "b. DSB",
+  "C": "c. TPTB",
+  "D": "d. Döviz Bordrosu",
+  "E": "e. Döviz Cetveli",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "31. Aşağıdaki menkul kıymetlerden hangisinde gerçek kişilerin elde edeceği kazanç üzerinden gelir vergisi (stopaj) kesintisi yapılmaz?",
+  "A": "a.  Eurobond",
+  "B": "b. Devlet tahvili",
+  "C": "c. Hazine bonosu",
+  "D": "d. Bankamız bonosu",
+  "E": "e. Yatırım fonu",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "32. 1 USD = 2 TL, 1 EUR = 1,5 USD ise EUR-TL endirekt kotasyonu nedir?",
+  "A": "a. 1 EUR = 3 TL",
+  "B": "b. 1 TL = 1\/3 EUR",
+  "C": "c. 1 EUR = 4 TL",
+  "D": "d. 1 TL = 1\/4 EUR",
+  "E": "e. 1 TL = 1\/2 EUR",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "33. Ekonomi biliminde ihtiyaçlar ile ilgili aşağıdakilerden hangisi söylenebilir?",
+  "A": "a. İhtiyaçlar alışkanlık halini aldıkça daha önemli hale gelir",
+  "B": "b. İhtiyaçlar sürekli artma eğilimi göstermez",
+  "C": "c. İhtiyaçlarda ikame kanunu uygulanmaz",
+  "D": "d. İhtiyaçlar sınırlıdır",
+  "E": "e. İhtiyaçların ahlaki boyutu da ekonomi içinde incelenir",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "34. İpotekli taşınmazın sahibi tarafından üçüncü kişiye devredilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "a. Devredilemez",
+  "B": "b. Devredilebilir ancak ipotek alacaklısına yazılı olarak bildirilmelidir",
+  "C": "c. İpotek alacaklısının izni ile devredilebilir",
+  "D": "d. Ticaret sicilinden alınacak izin üzerine devredilebilir",
+  "E": "e. Ancak icra yoluyla satılarak devredilebilir",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "35. Avrupa Merkez Bankası (ECB) faiz düşürürse ABD dolarının EURO karşısındaki durumu ne olur?",
+  "A": "a. Değer kazanır  ",
+  "B": "b. Değer kaybeder   ",
+  "C": "c. Etkilenmez   ",
+  "D": "d. Dalgalanır   ",
+  "E": "e. Faizi artar",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "36. Aşağıdakilerden hangisi firmaya kullandırılacak ticari kredilerin kefalet uygulamalarında eş rızasının aranacağı hallerden biridir?",
+  "A": "a. Firmanın teminatına alınan taşınmazın malikinin kefaletinin alınması",
+  "B": "b. Firmanın % 60 paylı hissedarının kefaletinin alınması",
+  "C": "c. Firmanın sahibinin kefaletinin alınması",
+  "D": "d. Firma yöneticisinin kefaletinin alınması",
+  "E": "e. Firmanın % 5 paylı hissedarının kefaletinin alınması",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "37. Aşağıdakilerden hangisi bankamız insan kaynakları yönergesine göre personelin tahsili, hizmet süresi, başarısı doğrultusunda mesleki kariyerinde bulunduğu basamağı ifade eden kavramdır?",
+  "A": "a. Görev",
+  "B": "b. Kadro",
+  "C": "c. Pozisyon",
+  "D": "d. Unvan",
+  "E": "e. Yetkinlik",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "38. Ticari kredinin teminatında ipotek ve kefaletin bulunması halinde, borçlular hakkında hangi yasal takip işlemleri başlatılabilir?",
+  "A": "a. İpoteğin paraya çevrilmesi",
+  "B": "b. İpoteğin paraya çevrilmesi ve genel haciz",
+  "C": "c. Genel haciz",
+  "D": "d. Menkul rehninin paraya çevrilmesi",
+  "E": "e. Kambiyo senetlerinin paraya çevrilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Column10": 38
+ },
+ {
+  "Question": "39. Medeni Kanun'da öngörülen durumların varlığı hususunda kanaat oluşması halinde, bir kişinin fiil ehliyetinin mahkemece kaldırılmasına hukukta ne ad verilir?",
+  "A": "a. Sınırlama",
+  "B": "b. Kısıtlılık",
+  "C": "c. Müeyyide",
+  "D": "d. Ehliyetsizleştirme",
+  "E": "e. Erginlik",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "40. Dış ticarette kıymetli evrak niteliğinde olup aynı zamanda malın mülkiyetini  temsil eden belge aşağıdakilerden hangisidir?",
+  "A": "a. Konşimento",
+  "B": "b. Ticari fatura",
+  "C": "c. Hamule senedi",
+  "D": "d. Sigorta belgesi",
+  "E": "e. Menşe şahadetnamesi",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "41. Aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "a. Varlıklar artınca, ilgili varlık hesabına borç kaydı yapılır",
+  "B": "b. Yükümlülükler azalınca, ilgili yükümlülükler hesabına borç kaydı yapılır",
+  "C": "c. Özkaynaklar artınca, özkaynak hesabına borç kadı yapılır",
+  "D": "d. Duran varlıklar artınca, ilgili varlık hesabına borç kaydı yapılır",
+  "E": "e. Kasaya para girince, kasaya borç kaydı yapılır",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "42. POS cihazı ifadesinde geçen POS'un Türkçe açılımı nedir?",
+  "A": "a. Kart makinesi",
+  "B": "b. Kart noktası",
+  "C": "c. Alış veriş makinesi",
+  "D": "d. Satış noktası",
+  "E": "e. Ödeme cihazı",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "43. Disiplin cezaları, personelin unvan düzeyine göre farklılaşmak üzere, hangi makamın onayı ile uygulamaya konur?",
+  "A": "a. Teftiş kurulu başkanı",
+  "B": "b. Disiplin kurulu başkanı",
+  "C": "c. Yönetim kurulu başkanı",
+  "D": "d. Genel müdür yardımcısı",
+  "E": "e. Yönetim kurulu ve genel müdür",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "44. Yatırım fonu kurabilmek için izin alınması gereken kuruluş hangisidir?",
+  "A": "a. TCMB",
+  "B": "b. BDDK",
+  "C": "c. Hazine Müsteşarlığı",
+  "D": "d. SPK",
+  "E": "e. TBB",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "45. Döviz piyasalarında işlemi bugün, valörü iki iş günü sonra olan piyasa hangisidir?",
+  "A": "a. Nakit Piyasa",
+  "B": "b. Overnight Piyasa",
+  "C": "c. Forward Piyasa",
+  "D": "d. LTFX ",
+  "E": "e. Spot Piyasa",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "46. Bankanın belirli bir döviz cinsinden pozisyonunun eksi olması (short pozisyon) halinde, ilgili döviz kurunun düzenli olarak yükselmesinden banka bilançosu nasıl etkilenir?",
+  "A": "a. Kâr eder",
+  "B": "b. Zarar eder",
+  "C": "c. Etkilenmez",
+  "D": "d. Uzun vadede kâr ederken kısa vadede zarar eder",
+  "E": "e. Kısa vadede kâr ederken uzun vadede zarar eder",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "47. Yerli paranın yabancı paralar karşısında değerinin yükselmesine ne ad verilir?",
+  "A": "a. Kur farkı",
+  "B": "b. Devalüasyon",
+  "C": "c. Evalüasyon",
+  "D": "d. Revalüasyon",
+  "E": "e. Kotasyon",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "48. Aşağıdakilerden hangisi ekonomide fırsat maliyeti olarak tanımlanır?",
+  "A": "a. Bir malı üretmek için bir başka malın üretiminden vazgeçilen miktar",
+  "B": "b. İşletmede verimlilik azaldıkça ürün başına oluşan maliyet artışı",
+  "C": "c. Üretim miktarı bir birim artırıldığında toplam maliyette ortaya çıkan artış",
+  "D": "d. Ortalama sabit maliyet ile ortalama değişken maliyet arasındaki fark",
+  "E": "e. Firmanın üretim ölçeğinin büyümesi sonucunda ortalama maliyette ortaya çıkan azalış",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "49. Keşidecinin çekten cayma talebi ile ilgili aşağıdaki ifadelerin hangisi doğrudur?",
+  "A": "a. Keşideci çekten istediği zaman cayabilir",
+  "B": "b. Çekin ibraz süresi içinde cayabilir",
+  "C": "c. İbraz tarihi ile zamanaşımı tarihi arasında cayabilir",
+  "D": "d. Çekin ibraz süresi sona erdikten sonra cayabilir",
+  "E": "e. Zamanaşımı süresi dolduktan sonra cayabilir",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "50. Elektronik Fon Transferi (EFT) sistemi ile aşağıdaki hangi işlem yapılamaz?",
+  "A": "a. TCMB para piyasası işlemleri",
+  "B": "b. Elektronik menkul kıymet transferi",
+  "C": "c. Yabancı para transferleri",
+  "D": "d. Kredi kartı ödemeleri",
+  "E": "e. Maaş ödemeleri",
+  "Image": 1,
+  "Explaination": 1
+ }
+]
