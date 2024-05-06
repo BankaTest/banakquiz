@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Gerekli belgelerin ibraz edilmesi karşılığında, ödenecek tutarın akreditifte belirlenen gelecekteki bir tarihte ihracatçı firmaya ödeneceğinin taahhüt edildiği akreditif yöntemi aşağıdakilerden hangisidir?",
+  "A": "A) İbrazda Ödemeli Akreditif",
+  "B": "B) Kırmızı Koşullu Akreditif",
+  "C": "C) Vadeli Akreditif",
+  "D": "D) Devredilebilir Akreditif ",
+  "E": "E) Güvenceli Akreditif",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Vadeli Akreditif"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankacılığın en temel fonksiyonudur?",
+  "A": "A) Kaynaklara akıcılık sağlamak",
+  "B": "B) Gelir ve servet dağılımını etkilemek",
+  "C": "C) Aracılık fonksiyonu",
+  "D": "D) Finansal danışmanlık",
+  "E": "E) Ulusal ve uluslararası ticareti geliştirmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Aracılık fonksiyonu"
+ },
+ {
+  "Question": "Katılımcıların kendi aralarında müşterileri adına gerçekleştirecekleri gönderim ve alım işlemlerini gerçekleştiren, ABD merkez bankaları tarafindan işletilen uluslararası ödeme sistemi aşağıdakilerden hangisidir?",
+  "A": "A) Pops ",
+  "B": "B) Chips",
+  "C": "C) Target2",
+  "D": "D) Fedwire",
+  "E": "E) Boinet",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Fedwire"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların derecelendirme analizinde dikkate alınan kantitatif ölçütler arasında yer almaz?",
+  "A": "A) Aktif kalitesi ",
+  "B": "B) Aktif-pasif yönetimi ve kontrolü",
+  "C": "C) Likidite",
+  "D": "D) Sermaye yapısı",
+  "E": "E) Teknolojik değişmeler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Teknolojik değişmeler"
+ },
+ {
+  "Question": "Akreditif işlemlerindeki ülke riskleri arasında aşağıdakilerden hangisi yer almaz?",
+  "A": "A) Doğal afetler",
+  "B": "B) İç karışıklıklar",
+  "C": "C) İthalatçının iflası",
+  "D": "D) Sivil ayaklanmalar",
+  "E": "E) Diğer ülkelerce uygulanan ambargolar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) İthalatçının iflası"
+ },
+ {
+  "Question": "Osmanlı Dönemi'nde kurulan ilk banka aşağıdakilerden hangisidir?",
+  "A": "A) Osmanlı Bankası",
+  "B": "B) İstanbul Bankası ",
+  "C": "C) Ziraat Bankası ",
+  "D": "D) Tarım Bankası ",
+  "E": "E) Sümerbank",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İstanbul Bankası "
+ },
+ {
+  "Question": "Kredi riskini iyi bir şekilde yönetmek isteyen bankaların takip etmesi gereken süreç içerisinde aşağıdakilerden hangisi yer almaz?",
+  "A": "A)Riskin ölçülmesi ",
+  "B": "B) Riskin takip edilmesi ",
+  "C": "C) Riskin kontrolü",
+  "D": "D) Riskin raporlanması",
+  "E": "E) Risk için azami sermaye tutarının ayrılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Risk için azami sermaye tutarının ayrılması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yabancı bankaların Türkiye'de açılacak olan şubelerinin sağladığı avantajlardan biri değildir?",
+  "A": "A) Dünya üzerinde geniş bir şube ağına sahip olan yabancı bankalar Türkiye için tüm dünya ile ihracat ve ithalat faaliyetlerine ilişkin finansman olanağını artırmaktadır",
+  "B": "B) Yabancı bankalar aracılığıyla reel ve yabancı sermaye girişine ilişkin imkânlar da gelişmektedir",
+  "C": "C) Yabancı bankalar aracılığı ile Türkiye ithalatçıları dünyanın bir diğer yanındaki ihracatçı ile Türkiye'nin bir ithalatçı firması da dünyanın diğer bir tarafindaki ithalatçı firma ile ticari ilişki kurabilme imkânı elde etmiş olacaktır",
+  "D": "D) Yabancı bankaların sundukları danışmanlık ve benzeri hizmetler sonucunda ülkelerindeki firmaların da Türkiye'de yatırıma teşvik edilmeleri söz konusu olacaktır",
+  "E": "E) Yurt içindeki müşterilerin sayısının ve bu vasıtayla açılan yurt içi mevduatların sayı ve tutar olarak artışının sağlanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Yurt içindeki müşterilerin sayısının ve bu vasıtayla açılan yurt içi mevduatların sayı ve tutar olarak artışının sağlanması"
+ },
+ {
+  "Question": "Tüm dünyadaki bankalar arasında elektronik fon transferi standardı sağlayan, bankaların kullandığı bir mesajlaşma protokolü olarak tanımlanan sistem aşağıdakilerden hangisidir?",
+  "A": "A) SWİFT",
+  "B": "B) BAN",
+  "C": "C) WESTERN UNION ",
+  "D": "D) MONEYGRAM",
+  "E": "E) PARAKOD",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) SWİFT"
+ },
+ {
+  "Question": "Alacak ve borçların farklı vadelerde olması sebebiyle nakit akım tablosunun planlanana uymaması, finansmanın sağlanamaması ve ani zararlara uğranılması sebebiyle meydana gelen riske ne ad verilir?",
+  "A": "A) Faiz Riski ",
+  "B": "B) Vade Riski",
+  "C": "C) Kur Riski ",
+  "D": "D) Sermaye Riski ",
+  "E": "E) Likidite Riski",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Vade Riski"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi swap sözleşmelerinin avantajlarından biri değildir?",
+  "A": "A) Döviz kuru dalgalanmalarından korur.",
+  "B": "B) Kredi riski söz konusu değildir.",
+  "C": "C) Farklı piyasalar ve bu piyasaların araçlarında geçiş özelliği taşır.",
+  "D": "D) Maliyeti uygundur.",
+  "E": "E) Standart belgeler nedeniyle hızlı bir şekilde tamamlanabilmektedir.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kredi riski söz konusu değildir."
+ },
+ {
+  "Question": "Temel amacı üye ülke insanlarının refahını yükseltmek olan ve 1 Ocak 1995'te, Ticaret ve Gümrük Tarifeleri Genel Anlaşması'nın (GATT) yerine kurulan uluslararası kuruluş aşağıdakilerden hangisidir?",
+  "A": "A) Dünya Ticaret Örgütü (WTO)  ",
+  "B": "B) Ekonomik İşbirliği ve Kalkınma Örgütü (OECD)",
+  "C": "C) Uluslararası Para Fonu (IMF)",
+  "D": "D) Dünya Bankası (İBRD)",
+  "E": "E) Uluslararası Ödemeler Bankası (BIS)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Dünya Ticaret Örgütü (WTO)  "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi uluslararası derecelendirme kuruluşlarının kârlılık analizinde kullandıkları ölçütler arasında yer almaz?",
+  "A": "A) Aktif kârlılığı",
+  "B": "B) Sermaye kârlılığı",
+  "C": "C) Net faiz oranı",
+  "D": "D) Banka çalışma sermayesi",
+  "E": "E) Etkinlik oranı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Banka çalışma sermayesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların uluslararası derecelendirilmelerinde kullanılan kalitatif ölçütlerden biri değildir?",
+  "A": "A) Yönetimin kalitesi ve stratejisi",
+  "B": "B) Sağlam, güvenilir risk yönetiminin varlığı",
+  "C": "C) Bankanın saygınlığı, imajı ve şube ağı",
+  "D": "D) Pazar payları",
+  "E": "E) Rekabet koşulları, beklentiler ve mevcut olanaklar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Rekabet koşulları, beklentiler ve mevcut olanaklar"
+ },
+ {
+  "Question": "Konsorsiyum bankalarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Ortak sayısı on veya daha fazla olabilir",
+  "B": "B) Hissedarların payları yüzde 50'den fazla olamaz",
+  "C": "C) Mevduat kabul ederler",
+  "D": "D) Ortaklardan en az birinin deniz aşırı bir banka olması gerekir",
+  "E": "E) Bir bankanın tek başına verebileceğinden daha büyük hacimlerde ve uzun vadeli krediler sağlar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Mevduat kabul ederler"
+ },
+ {
+  "Question": "Geleceğe dönük beklentiler yoluyla kâr elde etmek amacıyla yapılan işleme ne ad verilir?",
+  "A": "A) Arbitraj",
+  "B": "B) Spekülasyon",
+  "C": "C) Sabit Faizli kredi fonlaması ",
+  "D": "D) Hedging",
+  "E": "E) Uluslararası Faiz Oranları Farklılıklarından kar elde etmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Spekülasyon"
+ },
+ {
+  "Question": "Muhabir bankacılık işlemleri arasında aşağıdakilerden hangisidir?",
+  "A": "A) Panışmanllk hizmetleri sunumu",
+  "B": "B) Çek, poliçe kabulü",
+  "C": "C) Nakit yönetimi",
+  "D": "D) Vergi tahsili",
+  "E": "E) Akreditife aracılık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Vergi tahsili"
+ },
+ {
+  "Question": "Tüm dünyadaki bankalar arasında elektronik fon transferi standardı sağlayan, bankaların kullandığı bir mesajlaşma protokolü olarak tanımlanan sistem aşağıdakilerden hangisidir?",
+  "A": "A) SWİFT",
+  "B": "B) IBAN",
+  "C": "C) WESTERN UNION ",
+  "D": "D) MONEYGRAM",
+  "E": "E) PARAKOD",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) SWİFT"
+ },
+ {
+  "Question": "Finansal liberalizasyonun faydalarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+  "A": "A) Sermayenin gelişmiş ülkelerden gelişmekte olan ülkelere doğru akımı, dünyadaki kaynak dağılımının etkinliğini sağlayacaktır.\n",
+  "B": "B) Yabancı sermaye, iç tasarrufları destekleyerek yatırımları ve büyümeyi teşvik edecektir.",
+  "C": "C) Dış rekabet sayesinde finansal sektörlerde etkinlik artacaktır.",
+  "D": "D) Gelişmekte olan ülkelere yönelik sermaye akımı portföy yatırımlarında uluslararası düzeyde çeşitlilik sağlayacaktır",
+  "E": "E) Uluslararası finans piyasalarına girişi kolaylaştırarak borçlanmanın maliyetini yükseltecektir.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Uluslararası finans piyasalarına girişi kolaylaştırarak borçlanmanın maliyetini yükseltecektir."
+ },
+ {
+  "Question": "Üzerlerinde belirli bir geçerlilik süresi olmayan ve süresiz olarak yürürlükte kalan teminat mektuplarına ne ad verilir?",
+  "A": "A) Geçici teminat mektupları ",
+  "B": "B) Kesin teminat mektupları",
+  "C": "C) Avans teminat mektupları",
+  "D": "D) Vadeli teminat mektupları",
+  "E": "E) Vadesiz teminat mektupları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Vadesiz teminat mektupları"
+ }
+]
