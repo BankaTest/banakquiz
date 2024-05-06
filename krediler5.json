@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "1. Bankalardaki kredilendirme işlemlerinde genel\nolarak bir takım sıralamaya göre hareket edilir.\nAşağıdakilerden hangisi bu sıralamanın içinde yer\nalmaz?",
+  "A": "A) Kredinin paylaşılması",
+  "B": "B) Kredi analizi",
+  "C": "C) Müşteriyle ön görüşme",
+  "D": "D) Kredinin izlenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kredinin paylaşılması"
+ },
+ {
+  "Question": "2. Ticaret siciline kayıtlı gerçek ve tüzel kişilerden\nTicaret Sicil Memurluğu'nca onaylı hangi belge\nistenir?",
+  "A": "A) Hesap Durumu Belgesi",
+  "B": "B) Döviz Alım Belgesi",
+  "C": "C) Ticaret Sicil Belgesi",
+  "D": "D) Döviz Satış Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Ticaret Sicil Belgesi"
+ },
+ {
+  "Question": "3. Bankaların kullandırdıkları krediler için belirlenen\nlimitlerin açılmasına ne denir?",
+  "A": "A) Depasman",
+  "B": "B) Münakale",
+  "C": "C) Plasman",
+  "D": "D) Memzuç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Depasman"
+ },
+ {
+  "Question": "4. Belli bir miktar paranın gelir getirecek bir\nyatırıma, taşınır ya da taşınmaz bir değere\nbağlanmasına ne denir?",
+  "A": "A) Münakale",
+  "B": "B) Münakale",
+  "C": "C) Depasman",
+  "D": "D) Memzuç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Münakale"
+ },
+ {
+  "Question": "5. Aşağıdakilerden hangisi TCMB Risk\nSantralizasyonu Biriminin önderliğinde,\nbankalardan alınan bilgiler doğrultusunda\nhazırlanan TCMB bünyesindeki kredi-risk\nbilgilerini içeren cetveldir?",
+  "A": "A) Mudi",
+  "B": "B) Monetizasyon",
+  "C": "C) Memzuç",
+  "D": "D) Münakale",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Memzuç"
+ },
+ {
+  "Question": "6.  Vadenin uzatılmasına ne denir?",
+  "A": "A) Vade Gecikmesi",
+  "B": "B) Vade Temditi",
+  "C": "C) Plasman",
+  "D": "D) Depasman",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Vade Temditi"
+ },
+ {
+  "Question": "7. Faiz veya faiz ve komisyon karşılığında belli bir\nvadeye bağlı olarak ödünç para verilmesi şeklinde\nnakit olarak kullandırılan kredilere ne denir?",
+  "A": "A) Gayrinakdi Krediler",
+  "B": "B) Akreditif Krediler",
+  "C": "C) Teminat Kredileri",
+  "D": "D) Nakdi Krediler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Nakdi Krediler"
+ },
+ {
+  "Question": "8. Edinilmesi gerekli görülen herhangi bir bilgi için\nbaşvurulacak öğrenim yerine ne denir?",
+  "A": "A) Moralite",
+  "B": "B) İstihbarat",
+  "C": "C) Münakale",
+  "D": "D) Temerrüt",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İstihbarat"
+ },
+ {
+  "Question": "9. Aşağıdakilerden hangisi dönüşüm-aktarma\nanlamına gelir?",
+  "A": "A) Münakale",
+  "B": "B) Plasman",
+  "C": "C) Depasman",
+  "D": "D) Memzuç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Münakale"
+ },
+ {
+  "Question": "10. Kredinin geri ödenme olasılığının yüksek olması\nilkesine ne denir?",
+  "A": "A) Verimlilik",
+  "B": "B) Tutarlılık",
+  "C": "C) Akışkanlık (Seyyaliyet)",
+  "D": "D) Güvenilirlik (Emniyet)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Güvenilirlik (Emniyet)"
+ },
+ {
+  "Question": "11. Bir kimsenin borçlusundan olan alacağını üçüncü\nbir kişiye devretmesine ne denir?",
+  "A": "A) Altın Rehni",
+  "B": "B) Taşınır Rehni",
+  "C": "C) Alacağın Temliki",
+  "D": "D) Ticari İşletme Rehni",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Alacağın Temliki"
+ },
+ {
+  "Question": "12. Kredinin dolu ve donuk bırakılmaması ve\nvadesinde geri dönmesi ilkesine ne denir?",
+  "A": "A) Güvenilirlik (Emniyet)",
+  "B": "B) Tutarlılık",
+  "C": "C) Verimlilik",
+  "D": "D) Akışkanlık (Seyyaliyet)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Akışkanlık (Seyyaliyet)"
+ },
+ {
+  "Question": "13. Aşağıdakilerden hangisinde bir kişiye verilen kredi\nbu kişinin dâhil olduğu risk grubuna verilen\nkredidir?",
+  "A": "A) Faizli kredi",
+  "B": "B)  Faizsiz kredi",
+  "C": "C) Kredi sınırları",
+  "D": "D) Gayrinakdil kredi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kredi sınırları"
+ },
+ {
+  "Question": "14. Aşağıdakilerden hangisi bir şeyi bir kimseye ya da\nbir yere ayırma anlamına gelir?",
+  "A": "A) Tahlil",
+  "B": "B) Tahsis",
+  "C": "C) Temerrüt",
+  "D": "D) Tahvil",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Tahsis"
+ },
+ {
+  "Question": "15. Aşağıdakilerden hangisi kredinin güvenilirlik ilkesi\nile ilgilidir",
+  "A": "A) Kredinin vadesinde geri dönmesi",
+  "B": "B) Kredinin dolu ve donuk bırakılmaması",
+  "C": "C) Kredinin geri ödenme olasılığının yüksek olması",
+  "D": "D) Azami gelirin sağlanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kredinin geri ödenme olasılığının yüksek olması"
+ },
+ {
+  "Question": "16. Aşağıdakilerden hangisi kredi kullandırma\nilkelerinden biri değildir?",
+  "A": "A) Akışkanlık",
+  "B": "B) Güvenilirlik (Emniyet)",
+  "C": "C) Verimlilik",
+  "D": "D) Tutarlılık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Tutarlılık"
+ },
+ {
+  "Question": "17. Kredi talebi ile başlayarak kredinin analizi,\nkredinin yapılandırılması ve kredinin yönetimi\naşamalarını mantıksal sıra içinde takip eden\nsürece ne ad verilir?",
+  "A": "A) Kredi Süreci",
+  "B": "B) Kredi Analizi",
+  "C": "C) Kredi Ödemesi",
+  "D": "D) Mali Tahlil",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kredi Süreci"
+ },
+ {
+  "Question": "18. İstihbarat yapılırken firmanın piyasadaki itibarı,\nkarakteri, yaşayışı gibi ahlak ve karakter hususları\nhangisi ile ilgilidir?",
+  "A": "A) Moralite",
+  "B": "B) Münakale",
+  "C": "C) Temerrüt",
+  "D": "D) Moratoryum",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Moralite"
+ },
+ {
+  "Question": "19. Genellikle şirketler için kullanılan ve bireysel\nmüşteriler için düzenlenmemiş olan kredi\nhangisidir?",
+  "A": "A) Rotatif - İşlek Krediler",
+  "B": "B) Aylık Eşit Taksitli Krediler",
+  "C": "C) Senet Karşılığı Avans Kredis",
+  "D": "D) İskonto- İştira Kredileri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Senet Karşılığı Avans Kredis"
+ },
+ {
+  "Question": "20. Alıcı ve satıcı arasında sürekli bir alım satım\nilişkisinin bulunduğu; sürekli mal sevk edildiği\nyenilenen kredilere ne denir?",
+  "A": "A) İskonto- İştira Kredileri",
+  "B": "B) Senet Karşılığı Avans Kredisi",
+  "C": "C) Rotatif-İşlek Krediler",
+  "D": "D) Aylık Eşit Taksitli Krediler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Rotatif-İşlek Krediler"
+ }
+]

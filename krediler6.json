@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "Gerçek kişilerin ticari olmayan amaçla satın\nalacakları yeni (sıfır km) veya 2 el taşıt alımlarının\nfinansmanı için kullandırılan bireysel kredilere ne\ndenir?",
+  "A": "A) Kredili Mevduat Hesapları",
+  "B": "B) Konut Kredileri",
+  "C": "C) Taşıt Kredileri",
+  "D": "D) Tüketici Kredileri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Taşıt Kredileri"
+ },
+ {
+  "Question": "Bir bankanın üçüncü şahısların kıymetli\nevraklarının ödenmesi konusundataahhütte\nbulunması şeklinde işleyen bir gayrinakdi kredi\nhangisidir?",
+  "A": "A) Teminat Kredileri",
+  "B": "B) Akteditif Kredi",
+  "C": "C) Otorize Kredi",
+  "D": "D) Kabul ve Aval Kredileri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kabul ve Aval Kredileri"
+ },
+ {
+  "Question": "Alman sermaye mallarının ihracatını finanse\netmek amacıyla Hermes Kreditversicherungs adlı\nİhracat Kredi Kuruluşu (ECA) tarafından\ndüzenlenen krediler hangisidir?",
+  "A": "A) Sendikasyon Kredileri",
+  "B": "B) Ülke Kredileri",
+  "C": "C) Eximbank Kredileri",
+  "D": "D) Hermes Kredileri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Hermes Kredileri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi gayrinakdi krediler\nsınıfında sayılmaz?",
+  "A": "A) Harici Sigorta Kredisi",
+  "B": "B) Otorize Kredi",
+  "C": "C) Teminat Mektubu Kredisi",
+  "D": "D) Harici Garanti Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Harici Sigorta Kredisi"
+ },
+ {
+  "Question": "Finansal kurumların hizmet sunamadıkları veya\neksik hizmet sundukları düşük gelir grubunun\ntasarruf, kredi ve sigorta gibi finansal hizmetlere\nerişimlerinin sağlanmasına ne denir?",
+  "A": "A) Makro Finansman",
+  "B": "B) Mikro Kredi",
+  "C": "C) Mikro Finansman",
+  "D": "D) Makro Kredi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Mikro Finansman"
+ },
+ {
+  "Question": "Borçlunun alacaklıya karşı üstlendiği yükümlülüğün yerine getirilmesini garanti etmek üzere banka tarafından alacaklıya verilen belgeye ne denir?",
+  "A": "A) Hesap Durumu Belgesi",
+  "B": "B) İmza Sirküleri",
+  "C": "C) Teminat Mektubu",
+  "D": "D) Ticari Sicil Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Teminat Mektubu"
+ },
+ {
+  "Question": "Aşağıdakilerin hangisinde ayrıca ihracatçı tarafından ithalatçı üzerine çekilen bir poliçe söz konusudur?",
+  "A": "A) Otorize Kredi",
+  "B": "B) Teminat Mektubu Kredisi",
+  "C": "C) Kabul ve Aval Kredisi",
+  "D": "D) İthalat Akreditifi Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kabul ve Aval Kredisi"
+ },
+ {
+  "Question": "Türk firmalarının yurt dışında iş yapmasını teminen yurt dışına verilen kontrgarantilere bankacılık uygulamalarında ne denir?",
+  "A": "A) Alınan Kontrgarantiler",
+  "B": "B) Prefinansman",
+  "C": "C) Harici Garantiler",
+  "D": "D) Post Finansman",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Harici Garantiler"
+ },
+ {
+  "Question": "Bankalarda genel müdürlük izni veya onayı ile\naçılan krediye ne denir?",
+  "A": "A) Otorize Kredi",
+  "B": "B) Kabul ve Aval Kredisi",
+  "C": "C) Vadeli Akreditif Kredisi",
+  "D": "D) Harici Garanti Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Otorize Kredi"
+ },
+ {
+  "Question": "Bir ihaleye katılmak için ihale makamına hitaben\nverilmekte olan teminat mektubu türü hangisidir?",
+  "A": "A) Avans Teminat Mektupları",
+  "B": "B) Kesin Teminat Mektupları",
+  "C": "C) Serbest Konulu Teminat Mektupları",
+  "D": "D) Geçici Teminat Mektupları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Geçici Teminat Mektupları"
+ },
+ {
+  "Question": "Bir poliçenin muhatabının poliçe tutarını vadesinde ödeyeceğine dair yazılı taahhüdüne ne denir?",
+  "A": "A) Kontrgaranti",
+  "B": "B) Kabul",
+  "C": "C) Aval",
+  "D": "D) Sözleşme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kabul"
+ },
+ {
+  "Question": "Üzerinde belirli bir geçerlilik süresi olmayan\nteminat mektuplarına ne denir?",
+  "A": "A) Kesin Teminat Mektupları",
+  "B": "B) Avans Teminat Mektupları",
+  "C": "C) Süresiz\/Vadesiz Teminat Mektupları",
+  "D": "D) Geçici Teminat Mektupları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Süresiz\/Vadesiz Teminat Mektupları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi mal bedeli belli bir vade\nsonunda ödenecek krediyi temsil eder?",
+  "A": "A) Teminat Mektubu Kredisi",
+  "B": "B) Vadeli Akreditif Kredisi",
+  "C": "C) İthalat Akreditifi Kredisi",
+  "D": "D) Otorize Kredi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Vadeli Akreditif Kredisi"
+ },
+ {
+  "Question": "Muhatap bankanın çek karşılığının var olduğunu ve ödenmesinin mümkün bulunduğunu üzerinde beyan ettiği kavram hangisidir?",
+  "A": "A) Gün İçi Kredi",
+  "B": "B) Spot Çek",
+  "C": "C) Blokeli Çek",
+  "D": "D) Avans ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Blokeli Çek"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yabancı para cinsinden\ndüzenlenmiş teminat mektubu içerir?",
+  "A": "A) Harici Garanti Kredisi",
+  "B": "B) Otorize Kredi",
+  "C": "C) ithalat Akreditifi Kredisi",
+  "D": "D) Teminat Mektubu Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Harici Garanti Kredisi"
+ },
+ {
+  "Question": "Nakit fazlası veya açığı meydana gelmeden işletmede bulundurulması gereken optimum nakit tutarını ifade eden kavram nedir?",
+  "A": "A) Nakit Yönetimi",
+  "B": "B) Gün İçi Kredi",
+  "C": "C) Blokeli Çek",
+  "D": "D) Nakit Hesap",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Nakit Yönetimi"
+ },
+ {
+  "Question": "Kullandırılan krediden güvenlik ilkesini zedelemeden bankanın maliyet yapısına göre azami gelirin sağlanması ilkesine ne denir?",
+  "A": "A) Tutarlılık",
+  "B": "B) Verimlilik",
+  "C": "C) Akışkanlık (Seyyaliyet)",
+  "D": "D) Güvenilirlik (Emniyet)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Verimlilik"
+ },
+ {
+  "Question": "Herhangi bir teminat alınmaksızın, kredi müşterisinin itibarına ve kredibilitesine güvenilerek açılan ve sadece müşterinin imzası alınmak suretiyle kullandırılan kredilere ne denir?",
+  "A": "A) Akreditif Kredi",
+  "B": "B) Açık Kredi",
+  "C": "C) Otorize Kredi",
+  "D": "D) Teminat Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Açık Kredi"
+ },
+ {
+  "Question": "Taşınır bir malın, bir borcun ödenmesi için güvence olarak verilmesine ne denir?",
+  "A": "A) Alacağın Temliki",
+  "B": "B) Ticari İşletme Rehni",
+  "C": "C)  Taşınır Rehni",
+  "D": "D) Altın Rehni",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C)  Taşınır Rehni"
+ },
+ {
+  "Question": "Bir kimsenin borcunu ödeyeceğini alacaklıya karşı\nüçüncü kimsenin taahhüt etmesine ne denir?",
+  "A": "A) Aval",
+  "B": "B) Kefalet",
+  "C": "C) Kontrgaranti",
+  "D": "D) Kabul",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kefalet"
+ }
+]

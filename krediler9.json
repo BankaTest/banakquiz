@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Gayrinakdi krediler, bankaların belirli bir getiri\nkarşılığında bankanın kendi itibarını kredi\nlehtarına kullandırması olarak da düşünülebilir.\nBu nedenle, verilen bir garantiye dayanılarak\nyapılan tazmin talebinde bankalar itibarlarını\nkorumak amacıyla söz konusu tazmin talebini yerine getirirler.\nYukarıdaki bilgilere göre aşağıdakilerden\nhangisi garanti veren bankayı ifade eder?",
+  "A": "A) Vekil",
+  "B": "B) Lehtar",
+  "C": "C) Kayyum",
+  "D": "D) Amir",
+  "E": "E) Muhatap",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Amir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi doğrudur?",
+  "A": "A) Tüketici kredisi sözleşmesinin yazılı\nolarak yapılması ve bu sözleşmenin bir\nnüshasının tüketiciye verilmesi zorunludur.",
+  "B": "B) Tüketici kredisi sözleşmesinin yazılı\nolarak yapılması gerekmez.",
+  "C": "C) Tüketici kredisi sözleşmesinin yazılı\nolarak yapılması gerekir ancak sözleşmenin bir nüshasının kredi kullanana\nverilmesi zorunlu değildir.",
+  "D": "D) üketici kredisi sözleşmesi noter\nonaylı olmak zorundadır.",
+  "E": "E) Sözleşme kredi kullandırım sonrasında da\ndüzenlenebilir.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Tüketici kredisi sözleşmesinin yazılı\nolarak yapılması ve bu sözleşmenin bir\nnüshasının tüketiciye verilmesi zorunludur."
+ },
+ {
+  "Question": "TOA hesaplarına intikal eden kredilerin\nyeniden yapılandırılması halinde hangi\ntarih, borcun hesaplanmasında başlangıç\ntarihi olarak dikkate alınır?",
+  "A": "A) İhtarname tarihi",
+  "B": "B) Temerrüt tarihi",
+  "C": "C) Ödenen son taksit tarihi",
+  "D": "D) Kredinin son ödeme tarihi",
+  "E": "E) TOA hesaplarına intikal tarihi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) TOA hesaplarına intikal tarihi"
+ },
+ {
+  "Question": "Alacaklının ister borçluya isterse kefile başvurabileceği kefalet türü aşağıdakilerden hangisidir?",
+  "A": "A) Rücua kefalet",
+  "B": "B) Kefile kefil",
+  "C": "C) Birlikte kefalet",
+  "D": "D) Müteselsil kefalet",
+  "E": "E) Adi kefalet",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Müteselsil kefalet"
+ },
+ {
+  "Question": "5411 sayılı Bankacılık Kanunu’na göre, bankalarda esas itibariyle kredi açma yetkisi kime aittir?",
+  "A": "A) Daire Başkanı",
+  "B": "B) Yönetim Kurulu",
+  "C": "C) Genel Müdür",
+  "D": "D) Kredilerden Sorumlu Genel Müdür\nYardımcısı",
+  "E": "E) Şube Müdürü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Yönetim Kurulu"
+ },
+ {
+  "Question": "Teminat mektubunun verildiği resmi daire,\nkurum, gerçek veya tüzel kişiye ne ad verilir?",
+  "A": "A) Amir",
+  "B": "B) Kefil",
+  "C": "C) Muhatap",
+  "D": "D) Garantör",
+  "E": "E) Lehdar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Muhatap"
+ },
+ {
+  "Question": "10 Mayıs 2024 tarihinde açılarak aynı gün kullandırılmış olan senet karşılığı avans kredisine hangi tarihte ilk faiz tahakkuku yapılır?",
+  "A": "A) 31 Mayıs 2024",
+  "B": "B) 30 Haziran 2024",
+  "C": "C) 31 Temmuz 2024",
+  "D": "D) 30 Eylül 2024",
+  "E": "E) 31 Aralık 2024",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) 30 Haziran 2024"
+ },
+ {
+  "Question": "İhale açan kuruluşların, ihaleyi kazanan ve ihale konusu işi yapan yükleniciye ileride doğacak alacaklarından mahsup edilmek üzere yaptığı peşin ödemeleri garanti eden teminat mektubu türüne ne ad verilir?",
+  "A": "A) Limit içi teminat mektubu",
+  "B": "B) Limit dışı teminat mektubu",
+  "C": "C) Geçici teminat mektubu",
+  "D": "D) Kat’i teminat mektubu",
+  "E": "E) Avans teminat mektubu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Avans teminat mektubu"
+ },
+ {
+  "Question": "Teminat mektuplarına ilişkin aşağıdakilerden hangisi doğru değildir?",
+  "A": "A) Teminat mektupları kıymetli evrak olup,\nciro ile devri mümkündür",
+  "B": "B) Teminat mektuplarında garanti veren taraf\nbankadır",
+  "C": "C) 2886 sayılı Devlet İhale Kanunu ve\n4734 sayılı Kamu İhale Kanunu teminat\nmektupları ile ilgili bağlı olunan\nkanunlardandır",
+  "D": "D) Teminat mektubunda taraflardan biri\nmuhataptır; teminat mektubunun ve- rildiği\ngerçek ya da tüzel kişidir",
+  "E": "E) Teminat mektupları geçici, kesin, avans ve\nserbest konulu olarak düzenlenebilir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Teminat mektupları kıymetli evrak olup,\nciro ile devri mümkündür"
+ },
+ {
+  "Question": "Onaylı bir kredinin kullanılmayan\/bloke\nedilen kısmının, diğer bir kredi türü olarak\nkullanılmasına ne ad verilir?",
+  "A": "A) Bloke",
+  "B": "B) İşlem Bazlı",
+  "C": "C) Revizyon",
+  "D": "D) Münakale",
+  "E": "E) Temlik",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Münakale"
+ },
+ {
+  "Question": "Belediyelere hangi teminat tesisi ile kredi tahsis edilir?",
+  "A": "A) Taşıt Rehni",
+  "B": "B) Ticari İşletme Rehni",
+  "C": "C) Gayrimenkul İpoteği",
+  "D": "D) Gerçek Müşteri Çek Senedi",
+  "E": "E) İller Bankası Teminat Mektubu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) İller Bankası Teminat Mektubu"
+ },
+ {
+  "Question": "Bankaların, müşterilerine ait mevcut kredi limitlerini, bu limitlerin ne kadarının kullanılmış, ne kadarının kullanılmamış olduğunu ve mevduat bilgilerini göstermek için kamu ve özel kuruluşlara hitaben\ndüzenledikleri belgeye ne ad verilir?",
+  "A": "A) Banka referans mektubu",
+  "B": "B) Banka niyet mektubu",
+  "C": "C) Banka teminat mektubu",
+  "D": "D) Muvafakatname",
+  "E": "E) Risk bildirimi belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Banka referans mektubu"
+ },
+ {
+  "Question": "Prefinansman ve Post Finansman Kredisi\nkullanacak firmalarda olması gereken ortak özellik nedir? ",
+  "A": "A)  İmalatçı firma olması",
+  "B": "B) Ortak sayısının en az 3 olması",
+  "C": "C) Sermayesinin en az 1.000.000.-TL olması",
+  "D": "D) Firmanın dış ticaret faaliyetlerinin bulunması",
+  "E": "E) Diğer bankalarda kredisinin bulunmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Firmanın dış ticaret faaliyetlerinin bulunması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Alacağın Temliki için söylenemez?",
+  "A": "A) Alacağın sözleşme ile devridir",
+  "B": "B) Alacak, mevcut (doğmuş) bir alacak\nolmalıdır",
+  "C": "C) Temlikname mutlaka yazılı olarak\nyapılmalıdır",
+  "D": "D) Alacağın temliki karşılığı krediler sadece\nGenel Müdürlük yetkisinde kullandırılabilmektedir",
+  "E": "E) Alacağın temliki sözleşmesinin notere\ntasdik edilmesine gerek yoktur",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Alacağın temliki sözleşmesinin notere\ntasdik edilmesine gerek yoktur"
+ },
+ {
+  "Question": "Teminat mektubu tarafları aşağıdakilerin\nhangisinde birlikte ve doğru olarak verilmiştir?",
+  "A": "A) Banka - muhatap",
+  "B": "B) Lehdar - noter",
+  "C": "C) Muhatap - noter",
+  "D": "D) Banka – kefil",
+  "E": "E) Kefil - muhatap",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Banka - muhatap"
+ },
+ {
+  "Question": "Peşin satış yapan firma için hangisi söylenebilir?",
+  "A": "A) Ticari alacakları düşük bakiye verir",
+  "B": "B) Alacakları ve alacak senetleri yüksek\nbakiye verir",
+  "C": "C) Stokları yüksek bakiye verir",
+  "D": "D) Satış hasılatı artar",
+  "E": "E) Karı yükselir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Ticari alacakları düşük bakiye verir"
+ },
+ {
+  "Question": "Firma bilanço aktifinde aşağıdaki bilanço hesaplarından hangisi yer alır?",
+  "A": "A) Özkaynaklar",
+  "B": "B) Alınan avanslar",
+  "C": "C) Stoklar",
+  "D": "D) Senetli borçlar",
+  "E": "E) Banka kredileri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Stoklar"
+ },
+ {
+  "Question": "Risk Santralizasyonu (Memzuç) bildirimleri hangi kuruma yapılır?",
+  "A": "A) BDDK",
+  "B": "B) TCMB",
+  "C": "C) TMSF",
+  "D": "D) Hazine Müsteşarlığı",
+  "E": "E) Türkiye Bankalar Birliği",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) TCMB"
+ },
+ {
+  "Question": "Bir firmanın bilanço verilerinde stoklar izlenmiyorsa söz konusu firma hangi sektörde faaliyet gösteriyor olabilir?",
+  "A": "A) Hizmet",
+  "B": "B) İmalat",
+  "C": "C) İnşaat - taahhüt",
+  "D": "D) Hayvancılık",
+  "E": "E) Toptan ve perakende ticaret",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Hizmet"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir firmanın özkaynaklarından biri değildir?",
+  "A": "A) Yeniden değerleme fonu",
+  "B": "B) Yedekler",
+  "C": "C) Ödenmiş sermaye",
+  "D": "D) Maddi duran varlıklar",
+  "E": "E) Dönem karı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Maddi duran varlıklar"
+ }
+]

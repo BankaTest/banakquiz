@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "I - Alacağın temliki\nII - Hazine Bonosu\nIII- Kredi Garanti Fonu Kefaleti\nIV- DTH rehni\nV- B Tipi Yatırım Fonu\nYukarıdakilerden hangisi\/hangileri 1. grup teminatlar arasında yer almaz?",
+  "A": "A) Yalnız I",
+  "B": "B)  I ve III",
+  "C": "C) I ve V",
+  "D": "D) II ve III",
+  "E": "E) III ve IV",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B)  I ve III"
+ },
+ {
+  "Question": "Bir ithalat akreditifinin, ihracatçının malı gönderdiğini gösteren akreditif şartlarına uygun vesaiki aracı bankaya ibrazı halinde akreditif bedelinin ödenmesini öngören akreditif türü hangisidir?",
+  "A": "A) Görüldüğünde ödemeli (Sight) Akreditif",
+  "B": "B) Kabul Kredili Akreditif",
+  "C": "C) Vadeli Akreditif",
+  "D": "D) Stand-by Akreditif",
+  "E": "E) Post Finansman",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Görüldüğünde ödemeli (Sight) Akreditif"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi 1.grup maddi teminattır?",
+  "A": "A)  GMÇS",
+  "B": "B) B tipi yatırım fonu",
+  "C": "C) İhracat vesaiki",
+  "D": "D) Taşıt rehni",
+  "E": "E) Ticari İşletme rehni",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) B tipi yatırım fonu"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi 1. Grup teminatlar içerisinde yer almaz?",
+  "A": "A) Devlet Tahvili",
+  "B": "B) Mevduat Rehni",
+  "C": "C) Bankamız Bonosu",
+  "D": "D) Gayrimenkul İpoteği",
+  "E": "E) Hazine Bonosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Gayrimenkul İpoteği"
+ },
+ {
+  "Question": "Aynı dereceden birden fazla kişi lehine tesis edilen ipoteklere ne ad verilir?",
+  "A": "A) Maksimal ipotek",
+  "B": "B) Resülmal ipoteği",
+  "C": "C) Anapara ipoteği",
+  "D": "D) Garame ipoteği",
+  "E": "E) Üst sınır ipoteği",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Garame ipoteği"
+ },
+ {
+  "Question": "Küçük ve Orta Ölçekli İşletme (KOBİ) tanımındaki azami işçi sayısı aşağıdakilerden hangisidir?",
+  "A": "A) 100",
+  "B": "B) 150",
+  "C": "C) 200",
+  "D": "D) 250",
+  "E": "E) 300",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 250"
+ },
+ {
+  "Question": "Görüldüğünde ödemeli (vade tarihi bulunmayan) bonoda keşideci için zaman aşımı süresi nedir?",
+  "A": "A) Keşide tarihinden itibaren 6 ay",
+  "B": "B) Keşide tarihinden itibaren 1 yıl",
+  "C": "C) Keşide tarihinden itibaren 2 yıl",
+  "D": "D) Keşide tarihinden itibaren 3 yıl",
+  "E": "E) Keşide tarihinden itibaren 4 yıl",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Keşide tarihinden itibaren 4 yıl"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinde belirtilen belgelerin tümü kambiyo senedi niteliğindeki belgelerdir?",
+  "A": "A) Bono\/fatura\/çek",
+  "B": "B) Bono\/fatura\/teminat mektubu",
+  "C": "C) Çek\/bono\/poliçe",
+  "D": "D) Poliçe\/fatura\/ihtarname",
+  "E": "E) Teminat mektubu\/ihtarname\/çek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Çek\/bono\/poliçe"
+ },
+ {
+  "Question": "Yakın İzlemedeki Krediler hangi kredi grubunda izlenmektedir?",
+  "A": "A) I.Grup",
+  "B": "B) II.Grup",
+  "C": "C) III.Grup",
+  "D": "D) IV.Grup",
+  "E": "E) V.Grup",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) II.Grup"
+ },
+ {
+  "Question": "Bankalar, I. Grup Krediler ve Diğer Alacaklarda izlenen, teminat mektupları, aval ve kefaletleri ile diğer gayrinakdi kredileri için hangi oranda genel karşılık ayırmak zorundadır?",
+  "A": "A) Yüzde bir",
+  "B": "B) Yüzde iki",
+  "C": "C) Binde bir",
+  "D": "D)  Binde iki",
+  "E": "E) On binde iki",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D)  Binde iki"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi aktif toplamını etkilemez?",
+  "A": "A) Nakden sermaye artırımı",
+  "B": "B) Nakden hammadde alımı",
+  "C": "C) Şüpheli alacaklara, karşılık gideri ayrılması",
+  "D": "D) Bankalardan kredi kullanılması",
+  "E": "E) Satıcı kredisiyle hammadde alımı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Nakden hammadde alımı"
+ },
+ {
+  "Question": "Toplam borçların aktif toplamına oranı %110 ise aşağıdakilerden hangisi doğrudur?",
+  "A": "A) Toplam borçlar aktif toplamından\nküçüktür",
+  "B": "B) Özkaynaklar aktif toplamına eşittir",
+  "C": "C) Özkaynaklar negatiftir",
+  "D": "D) Özkaynaklar pozitiftir",
+  "E": "E) Net işletme sermayesi mutlaka negatiftir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Özkaynaklar negatiftir"
+ },
+ {
+  "Question": "Hangi grup\/gruplarda izlenen kredilere özel karşılık ayrılmaz?",
+  "A": "A) Sadece I.grupta izlenen kredilere",
+  "B": "B) Sadece V.grupta izlenen kredilere",
+  "C": "C) I.ve II.grupta izlenen kredilere",
+  "D": "D) II.ve III.grupta izlenen kredilere",
+  "E": "E) IV.ve V.grupta izlenen kredilere",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) I.ve II.grupta izlenen kredilere"
+ },
+ {
+  "Question": "Kredilerin gruplandırılmasını içeren yasal düzenleme aşağıdakilerden hangisidir?",
+  "A": "A) Bankacılık Kanunu",
+  "B": "B) Karşılıklar Yönetmeliği",
+  "C": "C) İcra-İflas Kanunu",
+  "D": "D) Medeni Kanun",
+  "E": "E) Ticaret kanunu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Karşılıklar Yönetmeliği"
+ },
+ {
+  "Question": "5411 sayılı Bankacılık Kanunu’na göre,bankalarda esas itibariyle kredi açma yetkisi kime aittir?",
+  "A": "A) Daire Başkanı",
+  "B": "B) Yönetim Kurulu",
+  "C": "C) Genel Müdür",
+  "D": "D) Kredilerden Sorumlu Genel Müdür\nYardımcısı",
+  "E": "E) Şube Müdürü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Yönetim Kurulu"
+ },
+ {
+  "Question": "5411 sayılı Bankacılık Kanunu’nda risk grubu ve büyük kredi tanımlarının yapılması ve kısıtlarının konulması ile\nkredilere ilişkin aşağıdaki ilkelerden hangisi hedeflenmiştir?",
+  "A": "A) Güven",
+  "B": "B) Seyyaliyet",
+  "C": "C) Verimlilik",
+  "D": "D) Teminatlandırma",
+  "E": "E) Riskin dağıtılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Riskin dağıtılması"
+ },
+ {
+  "Question": "GKKM kapsamında değerlendirilecek maddi teminatlardan gayrimenkul ipoteğinin likit değer oranı kaçtır?",
+  "A": "A) 20",
+  "B": "B) 30",
+  "C": "C) 50 ",
+  "D": "D) 75",
+  "E": "E) 100",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 75"
+ },
+ {
+  "Question": "KOBİ segmentinde GKKM (Girişimci Krediler Karar Modeli) ile tahsis edilen krediler için aşağıdaki teminat türlerinden hangisi birinci grup teminatlar arasında yer\nalmaz?",
+  "A": "A) Devlet tahvili",
+  "B": "B) Mevduat rehni",
+  "C": "C) Banka teminat mektubu",
+  "D": "D) Hazine bonosu",
+  "E": "E) Birinci derecede gayrimenkul ipoteği",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Birinci derecede gayrimenkul ipoteği"
+ },
+ {
+  "Question": "Firmanın almış olduğu mal ve hizmet karşılığında 3.kişilere vermiş olduğu senetler hangi hesapta izlenir?",
+  "A": "A) Satıcılar",
+  "B": "B) Alıcılar",
+  "C": "C) Alacak senetleri",
+  "D": "D) Borç senetleri",
+  "E": "E) Finansman senetleri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Borç senetleri"
+ },
+ {
+  "Question": "Bir işletmenin bir hesap dönemindeki (genellikle 1 yıl) varlıklarını ve kaynaklarını tasnifli bir şekilde gösteren finansal tabloya ne denir?",
+  "A": "A) Gelir tablosu",
+  "B": "B) Bilanço",
+  "C": "C) Fon akım tablosu",
+  "D": "D) Envanter cetveli",
+  "E": "E) Satışların maliyeti tablosu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Bilanço"
+ }
+]

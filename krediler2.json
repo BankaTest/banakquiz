@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Bankamızda Özel Tüketici Kredisi riski devam eden bir müşteriye ikinci bir bireysel kredi ürünü olarak aşağıdakilerden hangisi kullandırılamaz?",
+  "A": "A) Mavi Kalem Kredisi",
+  "B": "B) Özel Tüketici Kredisi",
+  "C": "C) Konut Kredisi",
+  "D": "D) Kredi Mini",
+  "E": "E) Doğalgaz Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Özel Tüketici Kredisi"
+ },
+ {
+  "Question": "Aşağıdaki işlemlerden hangisi KKBT- Kredi Kartı Başvuru Tarama ekranından yapılamaz?",
+  "A": "A) Ek kart talebi",
+  "B": "B) Jest kart bloke açma talebi",
+  "C": "C) Farklı kredi kartı talebi",
+  "D": "D) Limit artış talebi",
+  "E": "E) Jest kart talebi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Limit artış talebi"
+ },
+ {
+  "Question": "Bireysel kredi (tüketici, konut, otomobil) taksitlerinin vadesinde ödenmemesi halinde taksit tutarlarına hangi oranda gecikme faizi uygulanır?",
+  "A": "A) Cari faiz oranının % 30 fazlası oranında",
+  "B": "B) Akdi faiz oranının % 100 fazlası oranında",
+  "C": "C) Akdi faiz oranının % 30 fazlası oranında",
+  "D": "D) Cari faiz oranının % 50 fazlası oranında",
+  "E": "E) Cari faiz oranının % 100 fazlası oranında",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Akdi faiz oranının % 30 fazlası oranında"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi konut finansmanı (mortgage) kapsamında olan bireysel destek kredisinin özelliğidir?",
+  "A": "A) Kredinin teminatına krediyi kullanan kişiye\nait bir konutun ipotek alınması",
+  "B": "B) Kredinin teminatına krediyi kullanan kişiye\nait olmayan bir konutun ipotek alınmas",
+  "C": "C) Kredinin kullanım amacının ticari\nihtiyacın karşılanmasına yönelik olması",
+  "D": "D) Kredinin teminatına konut dışı\nbir gayrimenkulün alınması",
+  "E": "E) Kullandırılan kredinin menkul kıymet\nihracı kapsamında olmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kredinin teminatına krediyi kullanan kişiye\nait bir konutun ipotek alınması"
+ },
+ {
+  "Question": "Bir bireysel müşterimizin kredi kartı kullanımının risk değerlendirilmesinde aşağıdaki durumlardan hangisi olumsuz bir özellik sayılmaz?",
+  "A": "A) Kart açılış tarihinin eski olması",
+  "B": "B) Kart açılış tarihinin yeni olması",
+  "C": "C) Toplam limitine göre risk oranının yüksek\nolması",
+  "D": "D) Toplam borcuna karşılık yaptığı ödeme\ntutarlarının düşük olması",
+  "E": "E) Ödeme performansının düzensiz olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kart açılış tarihinin eski olması"
+ },
+ {
+  "Question": "4077 sayılı Tüketicinin Korunması Hakkındaki Kanun’a göre bankalarca tüketicilere kullandırılan kredilerde\ntemerrüt faiz oranı azami kaç olabilir?",
+  "A": "A) Kullandırım faiz oranının % 50 fazlası",
+  "B": "B) Kullandırım faiz oranının % 10 fazlası",
+  "C": "C) Kullandırım faiz oranının % 20 fazlası",
+  "D": "D) Kullandırım faiz oranının % 30 fazlası",
+  "E": "E) Kullandırım faiz oranının %100 fazlası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kullandırım faiz oranının % 30 fazlası"
+ },
+ {
+  "Question": "BMIZ Bireysel Müşteri Risk İzleme ekranında hangi kriterdeki müşteriler izlenmez?",
+  "A": "A) Taksit vadesinde ödeme yapmamış bireysel\nkredi müşterileri",
+  "B": "B) Limitini aşan bireysel kredi kart müşterileri",
+  "C": "C) Limiti sıfırlanan kredili mevduat hesabı\nmüşterileri",
+  "D": "D) Yakın izlemedeki bireysel müşteriler",
+  "E": "E) Kredisi takibe alınmış bireysel müşteriler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kredisi takibe alınmış bireysel müşteriler"
+ },
+ {
+  "Question": "Personel Kredileri ile ilgili olarak aşağıdakilerden hangisi yanlıştır ?",
+  "A": "A) Bankaların kendi personeline kullandırabileceği kredilerin üst sınırı Bankacılık Yasası ile belirlenmiştir",
+  "B": "B) Bankamız personeline kullandırılabilecek\nkrediler, Personel Tüketici Kredisi ve\nPersonel Maaş Avansıdır",
+  "C": "C) Personel tüketici kredisi ve personel maaş\navansı toplamı, personelin ikramiye dahil\naylık net maaşının 5 katı ile sınırlıdır",
+  "D": "D) Personel Kredilerinde kefil zorunluluğu\nyoktur",
+  "E": "E) Personel tüketici kredisi, personel maaş\navansı ve kredi kartı limiti top lamı,\npersonelin ikramiye dahil aylık net\nmaaşının 5 katını geçemez",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Personel tüketici kredisi, personel maaş\navansı ve kredi kartı limiti top lamı,\npersonelin ikramiye dahil aylık net\nmaaşının 5 katını geçemez"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir gayrinakdi\nkredi türüdür?",
+  "A": "A) Dünya Bankası kredisi",
+  "B": "B) K.V.İşletme AET kredisi",
+  "C": "C) K.V.İşletme Rotatif kredisi",
+  "D": "D) Vadeli Akreditif",
+  "E": "E) Taşıt kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Vadeli Akreditif"
+ },
+ {
+  "Question": "BCH kredileri için hangisi doğrudur?",
+  "A": "A) Sabit faizlidir",
+  "B": "B) Revizyon vadesi 6 aydır",
+  "C": "C) Müşteri dilediği zaman para çekip yatırabilir",
+  "D": "D) Aylık eşit taksitli olarak kullandırılır",
+  "E": "E) Maddi teminatlı kullandırılmak zorundadır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Müşteri dilediği zaman para çekip yatırabilir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi işletme kredilerinin\nkullanım amaçlarından biridir?",
+  "A": "A) İşletmelerin bina alımını finanse etmek",
+  "B": "B) İşletmelerin makine-tesis ihtiyaçlarını\nkarşılamak",
+  "C": "C) İşletmelerin sabit kıymetlerini finanse\netmek",
+  "D": "D) İşletmelerin üretim faaliyetlerini finanse\netmek",
+  "E": "E) İşletmelerin arsa alımını finanse etmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) İşletmelerin üretim faaliyetlerini finanse\netmek"
+ },
+ {
+  "Question": "İşletmelerin üretim faaliyetlerini finanse\netmek ve döner sermaye ihtiyaçlarını\nkarşılamak amacı ile açılan kısa veya orta\nvadeli kredilere ne ad verilir?",
+  "A": "A) Dönüşümlü krediler",
+  "B": "B) Yatırım kredileri",
+  "C": "C) Gayri nakdi krediler",
+  "D": "D) İşletme kredileri",
+  "E": "E) Nakdi krediler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) İşletme kredileri"
+ },
+ {
+  "Question": "Bankamız mevzuatı uyarınca aşağıdakilerden hangisi “kısa vadeli kredi” tanımına girer?",
+  "A": "A) Sadece Rotatif Krediler",
+  "B": "B) Vadeleri 6 aya kadar olan krediler",
+  "C": "C) Vadeleri 1 yıla kadar olan krediler",
+  "D": "D) Vadeleri 2 yıla kadar olan krediler",
+  "E": "E) Vadeleri 3 yıla kadar olan krediler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Vadeleri 1 yıla kadar olan krediler"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi firmaların kısa vadeli kredi kullanım amaçlarından biri değildir?",
+  "A": "A) Alacakların finansmanı",
+  "B": "B) Üretim maliyetlerini karşılama",
+  "C": "C) Stok alım finansmanı",
+  "D": "D) Bina\/ fabrika yatırım",
+  "E": "E) Mevsimsel talepler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Bina\/ fabrika yatırım"
+ },
+ {
+  "Question": "Aşağıdaki kredi türlerinden hangisi nakit kredi türüdür?",
+  "A": "A) Aval kabul kredis",
+  "B": "B) Sight akreditif kredisi",
+  "C": "C) Vadeli akreditif kredisi",
+  "D": "D) Teminat mektubu kredisi",
+  "E": "E) K.V.İşletme rotatif kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) K.V.İşletme rotatif kredisi"
+ },
+ {
+  "Question": "Gerek firmaların onaylı kredi limitlerinde, gerekse Bölge Koordinatörlükleri \/Şubelere tahsis edilen nakit plasmanlarda meydana gelen aşımlara ne denir?",
+  "A": "A) Blokaj",
+  "B": "B) Depasman",
+  "C": "C) Teminat açığı",
+  "D": "D) Plasman",
+  "E": "E) Marj",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Depasman"
+ },
+ {
+  "Question": "Bir firmanın bilanço verilerinde stoklar izlenmiyorsa söz konusu firma hangi sektörde faaliyet gösteriyor olabilir?",
+  "A": "A) Hizmet",
+  "B": "B) İmalat",
+  "C": "C) İnşaat - taahhüt",
+  "D": "D) Hayvancılık",
+  "E": "E) Toptan ve perakende ticaret",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Hizmet"
+ },
+ {
+  "Question": "Kredi sözleşmesinde aksine bir hüküm bulunmadıkça Bankamız uygulamasında devre faizleri hangi periyotlarda tahakkuk ettirilir?",
+  "A": "A) Ayda bir",
+  "B": "B) İki ayda bir",
+  "C": "C) Üç ayda bir",
+  "D": "D) Altı ayda bir",
+  "E": "E) Yılda bir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Üç ayda bir"
+ },
+ {
+  "Question": "Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifi (ESKKK) kefaletiyle kullandırılan kooperatif kredilerinde vadesinde ve tanınan ek süreler sonunda tahsil edilemeyen faiz ve masrafların tahsilatında başvurulacak ilk hesap aşağıdakilerden hangisidir?",
+  "A": "A) Kooperatifin Vadesiz Mevduat Hesabı",
+  "B": "B) Bloke Sermaye Hesabı",
+  "C": "C) Risk Payı Hesabı",
+  "D": "D) Güçlendirme Fonu Hesabı",
+  "E": "E) Kooperatifin Vadeli Mevduat Hesabı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kooperatifin Vadesiz Mevduat Hesabı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi müteselsil kefillerin kredi sözleşmesinden kaynaklanan sorumluluğunun doğru bir ifadesidir?",
+  "A": "A) Asıl borçlunun ölümü halinde kefillerin\nsorumluluğu sona erer",
+  "B": "B) Kefiller sadece asıl borçtan sorumlu olup\ntemerrüt faizinden sorumlu değillerdir",
+  "C": "C) Her bir kefilin sorumluluğu tüm alacaığın\nmüteselsil kefil sayısına göre bölünmesi\nile bulunur",
+  "D": "D) Asıl alacağın kredi sözleşmesindeki tutarı\ngeçmesi halinde kefiller sadece kredi\nsözleşmesindeki tutar ile kendi\ntemerrütlerinden itibaren işleyecek temerrüt faizinden sorumlu olup bütün\nalacaktan sorumlu değillerdir",
+  "E": "E) Kefiller kredi bakiyesi ve kendi temerrütlerinden itibaren işleyecek faizden\nsorumlu olup, devre faizi, gecikme faizi\ngibi akdi faiz içeren kalemler ile\nBSMV’den hiçbir şekilde sorumlu de-\nğillerdir ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Asıl alacağın kredi sözleşmesindeki tutarı\ngeçmesi halinde kefiller sadece kredi\nsözleşmesindeki tutar ile kendi\ntemerrütlerinden itibaren işleyecek temerrüt faizinden sorumlu olup bütün\nalacaktan sorumlu değillerdir"
+ }
+]

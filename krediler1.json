@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Kredilendirme işlemi mevduat hesabının eksi bakiyeye dönmesini sağlayan bir uygulamadır. Bu durum müşterinin hesabında para olmasa bile tanınan limit kadar para çekmesine olanak sağlar.\nYukarıda ifade edilen kredi türü aşağıdakilerden hangisidir?",
+  "A": "A) İşletme kredileri",
+  "B": "B) Bireysel krediler",
+  "C": "C) Konut kredileri",
+  "D": "D) Vadeli mevduat hesabı",
+  "E": "E) Kredili mevduat hesabı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Kredili mevduat hesabı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir nakit kredi türüdür?",
+  "A": "A) Harici garantiler",
+  "B": "B) Akreditif",
+  "C": "C) Teminat mektupları",
+  "D": "D) Borçlu cari hesap kredileri",
+  "E": "E) Kabul kredileri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Borçlu cari hesap kredileri"
+ },
+ {
+  "Question": "Bankanın likidite riskini gösteren örnek aşağıdakilerden hangisidir?",
+  "A": "A) Özkaynak ile kredi kullandırmak",
+  "B": "B) 1 ay vadeli mevduat toplayıp 1 ay vadeli kredi kullandırmak",
+  "C": "C) 1 ay vadeli mevduat toplayıp 3 ay vadeli kredi kullandırmak",
+  "D": "D) 3 ay vadeli mevduat toplayıp 1 ay vadeli kredi kullandırmak",
+  "E": "E) 3 ay vadeli mevduat toplayıp 3 ay vadeli kredi kullandırmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 1 ay vadeli mevduat toplayıp 3 ay vadeli kredi kullandırmak"
+ },
+ {
+  "Question": "Borçlusu banka şubesiyle aynı belediye sınırları dâhilinde ikamet eden ve vadesi henüz dolmamış senet bedelinden vade\ntarihine kadar olan süreye karşılık gelen faiz, komisyon ve bunlar üzerinden KKDF ve BSMV gibi yasal kesintilerin\ndüşülmesinden sonra kalan bakiyenin son cirantaya ödenmesine olanak veren kısa vadeli bir nakdi kredi olarak tahsis edilen kredi aşağıdakilerden hangisidir?",
+  "A": "A) Altın kredisi",
+  "B": "B) İskonto kredisi",
+  "C": "C) İştira kredisi",
+  "D": "D) Kredili mevduat hesabı",
+  "E": "E) Rotatif kredi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İskonto kredisi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bankaların fon aktarma fonksiyonlarına bir örnektir?",
+  "A": "A) Vadesiz mevduat",
+  "B": "B) Teminat mektupları",
+  "C": "C) Hisse senedi ihracı",
+  "D": "D) Vadeli mevduat",
+  "E": "E) Nakit krediler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Nakit krediler"
+ },
+ {
+  "Question": "Kredi verilen tarafın, kredi yükümlülüğünü yerine getirememesi riskine ne ad verilir?",
+  "A": "A) Kâr",
+  "B": "B) Yasal risk",
+  "C": "C) Zarar",
+  "D": "D) Kredi riski",
+  "E": "E) Marj",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Kredi riski"
+ },
+ {
+  "Question": "Türkiye’de ihracatı geliştirmek amacıyla\nTürk menşeli malların ihracatını yapan\nfirmalara kullandırılan kredinin adı nedir?",
+  "A": "A) Exim Kredisi",
+  "B": "B) Prefinansman Kredisi",
+  "C": "C) Akreditif",
+  "D": "D) GSM Kredisi",
+  "E": "E) Hermes Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Exim Kredisi"
+ },
+ {
+  "Question": "Kredi işlemlerinde, bankanın kredi alacağını tahsil edememesi halinde, anapara, faiz ve diğer masrafları karşılayacak şekilde\nbelirlenen, ödenecek kredi miktarı ve karşılığında alınan teminat arasındaki farka ne ad verilir?",
+  "A": "A) Teminat farkı",
+  "B": "B) Mare",
+  "C": "C) Spread",
+  "D": "D) Markaj",
+  "E": "E) Marj",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Marj"
+ },
+ {
+  "Question": "Bir kuruluş yurtdışından 10.000.000 USD değişken faizli kredi kullanmıştır. Kredinin faizi 3 aylık Libor + 3 (spread) olarak\nbelirlenmiştir. Kredinin ilk faiz ödeme döneminde 3 aylık Libor 2.175 ise kredi alan kuruluşun faiz maliyeti yüzde kaçtır?",
+  "A": "A) 2,5",
+  "B": "B) 3",
+  "C": "C) 5.175",
+  "D": "D) 6",
+  "E": "E) 6.75",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 5.175"
+ },
+ {
+  "Question": "Herhangi bir döviz cinsi üzerinden düzenlenen ve edimin yerine getirilmemesi durumunda, ödemesi aynı döviz cinsinden yapılan teminat mektubu aşağıdakilerden hangisidir?",
+  "A": "A) Dövize natık teminat mektubu",
+  "B": "B) Dövize endeksli teminat mektubu",
+  "C": "C) Harici garanti",
+  "D": "D) Gümrüklere hitaben TL olarak düzenlenen\nteminat mektubu",
+  "E": "E) Altın karşılığı düzenlenen teminat\nmektub",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Dövize natık teminat mektubu"
+ },
+ {
+  "Question": "Kredi kullandırılmasında, kredi borçlusunun şahsi taahhütlerinin yanı sıra kredinin geri dönüşünü sağlamak amacıyla kredinin türüne göre ek teminatlar alınır.\nYukarıdaki bilgiye göre karşılıklar Yönetmeliği’nin dördüncü maddesine göre teminatlar kaç grup olarak sınıflandırılmıştır? ",
+  "A": "A) 4",
+  "B": "B) 5",
+  "C": "C) 3",
+  "D": "D) 6",
+  "E": "E) 2",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 4"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir gayrinakdi kredi türüdür?",
+  "A": "A) BCH Kredisi",
+  "B": "B) Senet Karşılığı Avans Kredisi",
+  "C": "C) İskonto Kredisi",
+  "D": "D) Spot Kredi",
+  "E": "E) Çek Taahhüt Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Çek Taahhüt Kredisi"
+ },
+ {
+  "Question": "Değişken faizle borçlanmış bir firma ile sabit faizli bir borca sahip başka bir firmanın, bir banka aracılığıyla bir araya gelerek faiz yükümlülüklerini karşılıklı olarak değiş tokuş etmeleriyle gerçekleşen finansal işleme ne ad verilir?",
+  "A": "A) Futures",
+  "B": "B) Hedging",
+  "C": "C) Opsiyon",
+  "D": "D) Swap",
+  "E": "E) Factoring",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Swap"
+ },
+ {
+  "Question": "Verilen bir kredi varlığının veya verilecek bir garantinin belirli bir süre sonunda iadesi gereklidir. Bu süre kredi işleminin başlangıcında tespit edilir. Vade uzadıkça risk artar. Bunun nedeni geleceğin belirsizliğidir.\nYukarıdaki bilgilerde ifade edilen kredilendirmenin temel unsuru aşağıdakilerden hangisidir?",
+  "A": "A) Güven",
+  "B": "B) Zaman",
+  "C": "C) Verim",
+  "D": "D) Risk",
+  "E": "E) Kar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Zaman"
+ },
+ {
+  "Question": "Bankaların fon toplama ve ödünç verme görevleri gereği, ödünç verdikleri taraftan elde edilen gelirlerin bir kısmını fon toplanan tarafa aktarmaktadırlar.\nYukarıdaki bilgiye göre, aşağıdakilerden hangisi bankaların fon aktarma fonksiyonlarına bir örnektir?",
+  "A": "A) Vadesiz mevduat",
+  "B": "B) Teminat mektupları",
+  "C": "C) Hisse senedi ihracı",
+  "D": "D) Nakit krediler",
+  "E": "E) Vadeli mevduat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Nakit krediler"
+ },
+ {
+  "Question": "I- Hazine bonosu\nII- Çek\nIII-Tahvil\nYukarıdaki varlıkların likiditesi yüksek olandan düşük olana doğru sıralaması, aşağıdakilerden hangisinde doğru olarak\nverilmiştir?",
+  "A": "A) III–II–I",
+  "B": "B) III–I–II",
+  "C": "C) II–III–I",
+  "D": "D) II–I–III",
+  "E": "E) I–II–III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) II–I–III"
+ },
+ {
+  "Question": "IMF kaynaklarının, dış ödeme güçlüğü çeken ülkelere, uygulayacakları istikrar programlarına bağlı olarak belirli bir süreye göre aktarılması amacıyla, IMF ile üye ülkeler arasında yapılan sözleşmelere ne ad verilir?",
+  "A": "A) Niyet Mektubu",
+  "B": "B) Özel Çekme Hakları",
+  "C": "C) Yapısal Uyum Kolaylığı",
+  "D": "D) Şartlılık İlkesi",
+  "E": "E) Standby Düzenlemesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Standby Düzenlemesi"
+ },
+ {
+  "Question": "III.Gruba aktarılan tahsil imkanı sınırlı krediler ve diğer alacaklar için hangi oranda karşılık ayrılması gerekmektedir?",
+  "A": "A) %5",
+  "B": "B) %20",
+  "C": "C) %50",
+  "D": "D) %60",
+  "E": "E) %100",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) %20"
+ },
+ {
+  "Question": "Dördüncü grup krediye dönüşen tahsili şüpheli alacaklar için, bankalar toplam olarak yüzde kaç oranında karşılık ayırmak\nzorundadır?",
+  "A": "A) 100",
+  "B": "B) 40",
+  "C": "C) 60",
+  "D": "D) 50",
+  "E": "E) 20",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 50"
+ },
+ {
+  "Question": "HERMES hangi ülkenin ve hangi malın ithalatı için geliştirilen bir ülke kredisidir? ",
+  "A": "A) İtalya’nın ve Arnavutluk’tan yapılan çelik\nithalatında",
+  "B": "B) Japonya’nın ve Çin’den yapılan oyuncak\nithalatında",
+  "C": "C) Fransa’nın ve Fransa’dan yapılan makine\nithalatında",
+  "D": "D) Rusya’nın ve Rusya’dan yapılan tanksavar\nithalatında",
+  "E": "E) Almanya’nın ve Almanya’dan yapılan\nsermaye malları ithalatında",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Almanya’nın ve Almanya’dan yapılan\nsermaye malları ithalatında"
+ }
+]

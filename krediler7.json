@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "1. Poliçenin ön kısmına yazılan şartsız ve rücu\nedilemez kefalete ne denir?",
+  "A": "A) Kabul",
+  "B": "B) Sözleşme",
+  "C": "C) Kontrgaranti",
+  "D": "D) Aval",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Aval"
+ },
+ {
+  "Question": "2. Ticaret veya esnaf ve sanatkar siciline kayıtlı bir\nticari işletme üzerinde rehin hakkı kurulmasına ne\ndenir?",
+  "A": "A) Alacağın Temliki",
+  "B": "B) Ticari İşletme Rehni",
+  "C": "C) Taşınır Rehni",
+  "D": "D) Taşınır Rehni",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ticari İşletme Rehni"
+ },
+ {
+  "Question": "3. Teminat mektubu düzenleyen bankanın\nmektubun tazmini durumunda kendi müşterisine\nyönelebilme imkanını sağlayan sözleşmeye ne\ndenir?",
+  "A": "A) Münakale",
+  "B": "B) Moratoryum",
+  "C": "C) Kontrgaranti",
+  "D": "D) Cari Hesap Sözleşmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kontrgaranti"
+ },
+ {
+  "Question": "4. Bir taşınmazın mevcut ve ileride doğması\nmuhtemel herhangi bir borca karşılık teminat\nniteliği taşıması amacıyla o taşınmaz üzerine\nkonulan hakka ne denir?",
+  "A": "A) Kontrgaranti",
+  "B": "B) İpotek",
+  "C": "C) Aval",
+  "D": "D) Kefalet",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) İpotek"
+ },
+ {
+  "Question": "5. Edinilmesi gerekli görülen herhangi bir bilgi için\nbaşvurulacak öğrenim yerine ne denir?",
+  "A": "A) Moralite",
+  "B": "B) Temerrüt",
+  "C": "C) Münakale",
+  "D": "D) stihbarat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) stihbarat"
+ },
+ {
+  "Question": "6. Aşağıdakilerden hangisi vade ve limit içinde\nkalınmak koşuluyla, bankanın kredi müşterisinin\nistediği zaman ve miktarda para çekmesine ya da\nkrediyi tamamen kapatmasına imkan veren avans\nniteliğindeki kredi türüdür?",
+  "A": "A) İskonto - İştira Kredileri",
+  "B": "B) Borçlu Cari Hesap",
+  "C": "C) Rotatif Krediler",
+  "D": "D) Senet Karşılığı Avans Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Borçlu Cari Hesap"
+ },
+ {
+  "Question": "7. Bir firmayı temsil edecek olan kimseleri, yetki\nderecelerini, kapsamını ve bu yetkileri kullanırken\ntek tek veya birlikte atacakları imzaların\nörneklerini gösteren belge hangisidir?",
+  "A": "A) İmza Sirküleri",
+  "B": "B) Hesap Durumu Belgesi",
+  "C": "C) Kredi Analizi",
+  "D": "D) Ticaret Sicil Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İmza Sirküleri"
+ },
+ {
+  "Question": "8. Firmanın talep ettiği krediyi nerede ve nasıl\nkullanacağı, projeleri ve geri ödemeyi hangi\nkaynaklardan yapacağı gibi önceden araştırılması\ngereken konulara ne denir?",
+  "A": "A) Firmanın akışkanlığı",
+  "B": "B) Firmanın tutarlılığı",
+  "C": "C) Firmanın kredibilitesi",
+  "D": "D) Firmanın verimliliği",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Firmanın kredibilitesi"
+ },
+ {
+  "Question": "9. Bir işin yapılmasını, bir malın teslimini taahhüt\neden kimselerin bu taahhütlerini kararlaştırılan\nkoşullara uygun olarak yerine getireceklerini veya\nborçlandıkları paraları vadelerinde ödeyeceklerini\ntemin etmek üzere, bankaca karşı tarafa hitaben\ntaahhütte bulunulması tarzında kullandırılan\nkredilere ne denir?",
+  "A": "A) Nakdi Krediler",
+  "B": "B)  Gayrinakdi Krediler",
+  "C": "C)  Teminat Kredileri",
+  "D": "D)Akreditif Krediler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B)  Gayrinakdi Krediler"
+ },
+ {
+  "Question": "10. Belirli bir süre sonra geri almak kaydı ile mal.\nhizmet para cinsinden satın alma gücü sağlanması\nveya mevcut satın alma gücünün belli bir zaman\nsonra geri alınmak üzere başka bir kimseye\ndevredilmesi ya da bir kişi veya kurum lehine kefil\nolunması; kabul\/aval\/ garanti verilmesi işlemine\nne denir?",
+  "A": "A) Kredi",
+  "B": "B) Vade",
+  "C": "C) Hesap",
+  "D": "D) Faiz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kredi"
+ },
+ {
+  "Question": "11. Bankanın kredi müşterisinin ticari işlemden\ndoğmuş ve henüz vadesi gelmemiş ticari\nsenetlerinin nakde çevrilmesine imkan veren\nkredi türü hangisidir?",
+  "A": "A) İskonto- İştira Kredileri",
+  "B": "B) Aylık Eşit Taksitli Krediler",
+  "C": "C) Rotatif - İşlek Krediler",
+  "D": "D) Senet Karşılığı Avans Kredisi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) İskonto- İştira Kredileri"
+ },
+ {
+  "Question": "12. Aşağıdakilerden hangisi banka kredi verimliliğini\nartırmak için yapılır?",
+  "A": "A) Kredi türlerine göre uygun teminatların\nalınması",
+  "B": "B) Özellikli kredilerin en yüksek getiriyi sağlayacak\nmüşterilere kullandırılması",
+  "C": "C) Tahsis edilen kredilerin amacına uygun\nkullandırılması",
+  "D": "D) Teminatların eksiksiz tesis edilmes",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Özellikli kredilerin en yüksek getiriyi sağlayacak\nmüşterilere kullandırılması"
+ },
+ {
+  "Question": "13. Aşağıdakilerden hangisi muhasebe sistem ve\nrakamlarının gözden geçirilmesi, hataların\nbulunup düzeltilmesi ve hataları önleyici\ntedbirlerin alınması gibi işlemleri kapsamak üzere\nkullanılması anlamına gelir?",
+  "A": "A) Münakale",
+  "B": "B) Revizyon",
+  "C": "C) Provizyon",
+  "D": "D) Memzuç",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Provizyon"
+ },
+ {
+  "Question": "14. Bankalar, açacakları krediler ve verecekleri\nkefalet ya da teminatlar için talepte\nbulunanlardan Türkiye Bankalar Birliği’nce\nsaptanan örneklere uygun olarak aşağıdakilerden\nhangisini almak zorundadırlar?",
+  "A": "A) Kredi Analizi",
+  "B": "B) Ticaret Sicil Belgesi",
+  "C": "C) İmza Sirküleri",
+  "D": "D) Hesap Durumu Belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Hesap Durumu Belgesi"
+ },
+ {
+  "Question": "15. Bir işletmenin mevcut durumu ile faaliyet\nsonucunun iş hacmine göre yeterli olup\nolmadığını tayin, tespit ve işletmenin geleceği\nhakkında tahminde bulunma olanağını sağlayacak\nnitelikte verileri elde etmeye yönelik çalışmalara\nne denir?",
+  "A": "A) Tahsis",
+  "B": "B) Moralite",
+  "C": "C) Mali Tahlil",
+  "D": "D) İstihbarat",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Mali Tahlil"
+ },
+ {
+  "Question": "16. Aşağıdakilerden hangisi kredi sınırlamasına tabi\nolmayan işlerden değildir?",
+  "A": "A) Kurulca belirlenecek esaslar dâhilinde\nbankaların kendi aralarındaki işlemler",
+  "B": "B) Kurulca belirlenecek diğer işlemler",
+  "C": "C) Sermaye artırımları dolayısıyla bedelsiz\nedinilen ortaklık payları ile ortaklık paylarının\nfon çıkışı gerektiren değer artışları",
+  "D": "D) Karşılığı nakit, nakit benzeri kıymet ve hesaplar\nile kıymetli maden olan işlemler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Karşılığı nakit, nakit benzeri kıymet ve hesaplar\nile kıymetli maden olan işlemler"
+ },
+ {
+  "Question": "17. Aşağıdakilerden hangisi Dövize Endeksli Kredi\nkullandırılmasında dikkat edilecek hususlardan\nbiridir?",
+  "A": "A) Kredi senet karşılığı kullandırıldığında, faize\nesas adat üzerinden ayrıca, yıllık %2 (yüzde iki)\noranında komisyon faiz tahakkuk\ndönemlerinde tahsil edilecektir",
+  "B": "B) Dövize endeksli kredilerde Cari Hesap\nSözleşmesi düzenlenecektir",
+  "C": "C) Vadesi azami 6 ay (dahil) olacaktır",
+  "D": "D) Kredinin kullandırılmasında ve kapatılmasında\nDAB (Döviz Alım Belgesi) veya DSB (Döviz Satış\nBelgesi) düzenlenir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kredi senet karşılığı kullandırıldığında, faize\nesas adat üzerinden ayrıca, yıllık %2 (yüzde iki)\noranında komisyon faiz tahakkuk\ndönemlerinde tahsil edilecektir"
+ },
+ {
+  "Question": "18. İhale edilen işe ilişkin sözleşme ve şartname\nhükümlerinin eksiksiz olarak yerine\ngetirilmemesinden doğacak zararları ve iş\nbaşkasına yaptırılmak zorunda kalınırsa doğacak\nfiyat farkını karşılamak amacıyla sözleşme\nyapılmasından önce alınan teminat mektubu türü\nhangisidir?",
+  "A": "A) Avans Teminat Mektupları",
+  "B": "B) Kesin Teminat Mektupları",
+  "C": "C) Geçici Teminat Mektupları",
+  "D": "D) Serbest Konulu Teminat Mektupları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Kesin Teminat Mektupları"
+ },
+ {
+  "Question": "19. Bankanın müşterisi olanlar hakkında yurt içi ve yurt dışı resmi daire, kurum ve firmalara hitaben\nverilen onaylı kredileri, bunların ne kadarının\nkullanıldığını, ne kadarının kullanıma hazır\nolduğunu ve mevduat durumunu gösteren,\nbankaca düzenlenen belgelere ne denir?",
+  "A": "A) Kesin Teminat Mektupları",
+  "B": "B) Avans Teminat Mektupları",
+  "C": "C) Referans Mektupları",
+  "D": "D) Niyet Mektupları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Referans Mektupları"
+ },
+ {
+  "Question": "20. Aşağıdakilerden hangisi banka kredilerinde\nakışkanlık ilkesi ile ilgilidir?",
+  "A": "A) Kredi türlerine göre uygun teminatların\nalınması",
+  "B": "B) Özellikli kredilerin en yüksek getiriyi sağlayacak\nmüşterilere kullandırılması",
+  "C": "C) Teminatların eksiksiz tesis edilmesi",
+  "D": "D) Taksitli kredilerin taksitlerinin zamanında\nalınması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Taksitli kredilerin taksitlerinin zamanında\nalınması"
+ }
+]
