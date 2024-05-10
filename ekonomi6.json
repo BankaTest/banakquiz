@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aşağıdakilerden hangisi 24 Ocak 1980 programında alınan tedbirlerden biri değildir?",
+  "A": "A) Enflasyonu kontrol altına almak",
+  "B": "B) Dış ticaretin serbestleştirilmesi",
+  "C": "C) Devletin ekonomiye doğrudan müdahalesini arttırmak",
+  "D": "D) Yabancı sermaye yatırımlarının teşviki",
+  "E": "E) Faiz hadlerinin serbest piyasada oluşması",
+  "Image": 1,
+  "Explaination": "24 Ocak 1980 programı devletin ekonomideki ağırlığını azaltmaya yönelik bir program olup, devlet müdahalelerini azaltma amacı taşımaktaydı.",
+  "Answer": "C) Devletin ekonomiye doğrudan müdahalesini arttırmak"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi IMF ile 1999 yılında yapılan Stand — by anlaşmasının kısa dönemde sonuç vermemesinin nedenlerindendir?\n",
+  "A": "A) Faiz oranlarının hızla artması",
+  "B": "B) Piyasanın tekelci yapısından kaynaklanan fiyat\nartışları\n",
+  "C": "C) Programa aşırı güven duyulması",
+  "D": "D) Ücret ayarlamalarının hedeflenen enflasyona göre belirlenmesi",
+  "E": "E) GSYİH I nin ön görülenden daha yavaş artması",
+  "Image": 1,
+  "Explaination": " Piyasanın tekelci yapısından kaynaklanan\nfiyat artışları nedeniyle kısa dönemde IMF ile 1999\nyılında yapılan Stand-by anlaşması sonuç vermemiştir.\n",
+  "Answer": "B) Piyasanın tekelci yapısından kaynaklanan fiyat\nartışları"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi klasik dış ticaret teorisinin varsayımlarından biri değildir?\n",
+  "A": "A) Uluslararası ticarette para kullanılmaz.",
+  "B": "B) Devlet müdahalesi yoktur ",
+  "C": "C) Ekonomi tam istihdamdadır",
+  "D": "D) iki ülke-tek mallı analiz modelidir",
+  "E": "E) Taşıma giderleri sıfırdır",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) iki ülke-tek mallı analiz modelidir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi \"ödemeler bilançosunun mal ve hizmetler hesabı içinde almaz?",
+  "A": "A) İşçi gelirleri",
+  "B": "B) Para olmayan altın nakli işlemleri",
+  "C": "C) Danışmanlık ve mühendislik hizmetleri",
+  "D": "D) Kamu personeli dış gezi harcamaları",
+  "E": "E) Askeri nitelikli ülkeler arası bağışlar",
+  "Image": 1,
+  "Explaination": "Ödemeler bilançosunun en önemli ana hesap kalemi, ülkenin iktisadi işlemlerinin çok büyük bölümünün kaydedildiği cari işlemler hesabıdır.Cari işlemler hesabı mal ticaret hesabı, ihracat ve ithalat kalemlerinden oluşur. Mal ihracatı ile mal ithalatının toplamına, mal ticaret dengesi denir. Mal ticaret dengesinin pozitif olması, ülkenin dış aleme sattığı mallarının değerinin dış alemden satın aldığı malların değerinden büyük olduğunu gösterir.\nBu hesabın ikinci önemli alt hesabı, uluslararası hizmetler hesabıdır. Hesap, mal ticareti kadar büyük değildir. Fakat dünya ticaretinde meydana gelen gelişmelere paralel olarak hizmetler ticaretinde de önemli artışlar görülmektedir. Hesabın başlıca alt kalemleri vardır. Bunlar; uluslararası ulaştırma hizmetleri, turizm, haberleşme hizmetleri, inşaat hizmetleri, sigorta hizmetleri, mali hizmetler, kişisel ve kültürel hizmetler gibi kalemlerden oluşur. Bunlar yabancılara sunulduğunda gelir, onlardan alındığında gider olur.\nHizmet kalemleri gelir ve giderleri toplamları arasındaki farka hizmetler dengesi (görünmeyen işlemler dengesi) denir. Dış ticaret dengesi ile birlikte cari işlemler hesabının en önemli kalemidir.\nGelirler hesabı; doğrudan yatırım, portföy yatırımları ve diğer yatırımlardan elde edilen faiz, hisse geliri, kar payı, gelir gibi tutarları içermektedir. Bu gelirleri yabancılardan elde ettiğimizde gelir, yabancılara ödediğimizde gider olarak yazılır.\nKarşılıksız transfer hesabı, bir ülkenin satınalma gücünün diğer ülkelere ticari amaçlar dışında karşılıksız devredilmesi durumunda ortaya çıkan ekonomik işlemleri kapsar. Bu çeşit işlemlere diğer ülkenin ödemede bulunması söz konusu değildir. Cari transferler (Karşılıksız transferler); örneğin yurtdışındaki işçilerimizin gönderdiği paralar bu kategoriye girer.\nAskeri nitelikli ülkeler arası bağışlar bu gruplar içinde yer almamaktadır.\n",
+  "Answer": "E) Askeri nitelikli ülkeler arası bağışlar"
+ },
+ {
+  "Question": "l. Bölünemez\nII. Fiyatlandırılabilir\nIII. Rekabet edilebilir\nIV. Tüketiminden mahrum edilemez\nYukarıdakilerden hangisi\/hangileri tam kamusal mal ve hizmetlerin özellikleri arasında değildir?\n",
+  "A": "A) Yalnız I ",
+  "B": "B) I ve IV",
+  "C": "C) II ve III",
+  "D": "D) III ve IV",
+  "E": "E) II, III ve IV",
+  "Image": 1,
+  "Explaination": " Kamusal mal ve hizmetlerin özelliklerini\nşöylece belirtebiliriz:\n• Kamusal malların arzının düzenlenmesi: Özel\nmalların arzını düzenleyen piyasa talebidir. Fakat\nbu durum kamusal mal ve hizmetler için geçerli bir\ndurum değildir. Çünkü bunlar, özel mallar gibi\nbölünemez ve pazarlanamazlar. Pazarlanamayan\nbir mal ya da hizmete talep doğmaz. Talep\ndoğmayınca fiyat da oluşmaz.\n• Bazı mal ve hizmetler bünyeleri gereği\nbölünebilirler; diğer bazıları ise bölünemezler.\nBölünemeyen mal ve hizmetlerin sağladıkları fayda\nbireylere ayrı ayrı dağıtılamaz. Bunlar ancak toplumun istifadesine sunulabilirler. Bu tür mal ve\nhizmetler de kamu ekonomisi tarafından üretilir.\nBunun da tipik örneği savunma hizmetleridir.\n• Tüketimde rakip olmama: Kamusal malların\nönemli bir özelliği de tüketimde rakip olmama\nhalidir. Özel mallarda olduğunun aksine, toplumsal\nmalı tüketen yani ondan faydalanan bir kimse aynı maldan diğerlerinin de aynı oranda faydalanmasına\nengel olmamaktadır.\n• Tüketimden mahrum bırakılamama: Piyasada\nüretilen özel bir malın faydasının sadece bunların\nbedelini ödeyene tahsisi mümkündür. Gerçekten\nbu mal ve hizmetlerin faydasından sadece, bedelini ödeyip bunları satın alanlar faydalanabilirler. Aynı\nanda iki aç insan ve ortada da bir dilim ekmek varsa\nbu iki kişi tüketimde  birbirinin rakibi\ndurumundadır. Çünkü ekmeği ancak biri\nyiyebilecek diğeri ise aç kalacaktır. Oysaki\ntoplumsal mal ve hizmetlerde durum böyle\ndeğildir. Örneğin ülkenin dış tehlikelere karşı savunulmasından bazılarının yararlanması\ndiğerlerinin de aynı şekilde yararlanmalarına bir\nengel teşkil etmez.\n• Tüketimin bazen zorunlu kılınması: Kamusal mal\nve hizmetlerden yararlanma bazen zorunlu olabilir.\nTüketicinin belli bir hizmetten yararlanmak\n istememesi bazen bir önem taşımaz. Örnek olarak\n ilköğretim mecburiyetini gösterebiliriz.\n Yükseköğrenim  hizmetlerinden yararlanmak\n isteyenin arzusuna bağlı olmasına rağmen\n ilköğretim bütün vatandaşlar için zorunludur.\n",
+  "Answer": "C) II ve III"
+ },
+ {
+  "Question": "Klasik Okul, Neo-KIasik Okul ve Keynesyen Okul'un temel ilgi alanları, sırasıyla aşağıdakilerden hangisidir?\n",
+  "A": "A) İstihdam, Bölüşüm, Talebin belirleyicileri",
+  "B": "B) Say Kanunu, Çarpan mekanizması, Fiyat\nkatılıkları\n",
+  "C": "C) Kaynak dağılımı, İstihdam, Bölüşüm",
+  "D": "D) işsizlik, Marjinal analiz, Bölüşüm",
+  "E": "E) Fiyat esneklikleri, Arzın belirleyicileri, Say\nKanunu\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Kaynak dağılımı, İstihdam, Bölüşüm"
+ },
+ {
+  "Question": "Üretim olanakları eğrisi üzerinde iken X malı\nüretimi 75 ve Y malı üretimi 60 birimdir. X malı\nüretimi bir birim artırıldığında Y malı üretimi 55\nbirime düşmektedir.Buna göre X malının Y malı cinsinden alternatif maliyeti kaçtır?\n",
+  "A": "A) 0",
+  "B": "B) 5",
+  "C": "C) 15",
+  "D": "D) 0,2",
+  "E": "E) 0,5",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 0,2"
+ },
+ {
+  "Question": "Tekel piyasasında fiyat farklılaştırması yapabilmenin koşulu aşağıdakilerden hangisidir?",
+  "A": "A) Malın homojen olması",
+  "B": "B) Piyasada rekabetin söz konusu olması",
+  "C": "C) Oligopolcü firmaların piyasaya girmemesi",
+  "D": "D) Malın düşük fiyatla satıldığı yerden alınıp yüksek fiyatlı olduğu yerde satılabilmesi",
+  "E": "E) Farklı talep esnekliklerine sahip alt piyasaların var olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Farklı talep esnekliklerine sahip alt piyasaların var olması"
+ },
+ {
+  "Question": "Tam rekabet piyasasında toplam maliyet fonksiyonları birbirinin aynı olan firmaları toplam (Qs 90 birim) mal üretmektedir. Bu firmaların her birinin uzun dönem toplam maliyet fonksiyonu TC:q3 6q2+24q biçimindedir.Uzun dönem piyasa denge durumunda, bu piyasada kaç firma bulunmaktadır?\n",
+  "A": "A) 3",
+  "B": "B) 10",
+  "C": "C) 15",
+  "D": "D) 30",
+  "E": "E) 90",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 30"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi oligopol piyasalarının özelliklerinden biridir?",
+  "A": "A) Çok sayıda firmanın bulunması",
+  "B": "B) Her bir firmanın üretim kararlarında, rakiplerinden büyük ölçüde etkileniyor olması",
+  "C": "C) Her bir firmanın sattığı malın fiyatını kendisinin belirlemesi",
+  "D": "D) Denge üretim düzeyinde fiyatın marjinal maliyete eşit olması",
+  "E": "E) Oligopol piyasasında genel kabul görmüş bir denge modelinin olması",
+  "Image": 1,
+  "Explaination": "Oligopol piyasalar, homojen veya farklılaştırılmış bir malı satan, birbirlerine etki edebilecek kadar az sayıda satıcının sonsuz sayıda alıcıyla karşı karşya geldiği piyasalardır. Satıcıların az sayıda olması demek, ikiden fazla ancak birbirlerinin kararlarından etkilenebilecek kadar az sayıda olmak demektir. Yani, her bir firma üretim kararlarında, rakiplerinden büyük ölçüde etkilenmektedir.",
+  "Answer": "B) Her bir firmanın üretim kararlarında, rakiplerinden büyük ölçüde etkileniyor olması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi LM eğrisinin kaymasına yol açmaz?",
+  "A": "A) Para arzının iki kat artması",
+  "B": "B) Fiyatlar genel düzeyinin yükselmesi",
+  "C": "C) Reeskont oranlarının düşürülmesi",
+  "D": "D) Halkın elindeki tahvillerin satın alınması",
+  "E": "E) Munzam karşılık oranlarının artırılması",
+  "Image": 1,
+  "Explaination": "IS\/LM sırasıyla:\nYatırım (Investment) Tasarruf (Saving) \/ Likidite Tercihi (Liquidity preference) Para arzı (Money supply) anlamına gelmektedir.\nLM eğrisini kaydıran nedenler para politikası uygulamalarıdır. Para arzının artması, reeskont oranlarının düşürülmesi, halkın elindeki tahvillerin satın alınması, munzam karşılık oranlarının artırılması gibi faktörlerdir. Ancak, fiyatlar genel düzeyi IS eğrisinin kaymasına yol açan maliye politikası aracıdır.\n",
+  "Answer": "B) Fiyatlar genel düzeyinin yükselmesi"
+ },
+ {
+  "Question": "Talep enflasyonu söz konusu olduğunda, aşağıdakilerden hangisi ortaya çıkar?",
+  "A": "A) Phillips eğrisi tümü ile sağ yukarıya kayar.",
+  "B": "B)  Phillips eğrisi tümü ile sol aşağıya kayar.",
+  "C": "C) Phillips eğrisi üzerinde aşağıya doğru bir hareket söz konusudur.",
+  "D": "D) Phillips eğrisi üzerinde herhangi bir etki yaratmaz.",
+  "E": "E) Phillips eğrisi üzerinde yukarıya doğru bir hareket söz konusudur",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Phillips eğrisi üzerinde yukarıya doğru bir hareket söz konusudur"
+ },
+ {
+  "Question": "Büyüme oranı ile işsizlik oranı arasındaki ters yönlü ilişkiyi aşağıdakilerden hangisi ifade eder?",
+  "A": "A) Okun yasası ",
+  "B": "B) Phillips Eğrisi ",
+  "C": "C) Pigou Etkisi ",
+  "D": "D) Lucas arz fonksiyonu ",
+  "E": "E) Ricardo eşdeğerlik teoremi ",
+  "Image": 1,
+  "Explaination": "Okun yasası, reel büyüme oranının yüksek olduğu yıllarda işsizlik oranının düştüğünü, reel büyüme oranının düşük olduğu hatta negatif olduğu yıllarda işsizlik oranının saptığını açıklar. Buna bağlı olarak, Okun yasası büyüme oranı ile işsizlik arasındaki ters yönlü ilişkiyi ifade eder.",
+  "Answer": "A) Okun yasası "
+ },
+ {
+  "Question": "Esnek döviz kuru sisteminde para ve maliye politikalarının etkinliği ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+  "A": "A) Maliye politikası etkin, para politikası etkin değildir.",
+  "B": "B) Maliye politikası etkin değil, para politikası etkindi",
+  "C": "C) Para ve maliye politikalarının ikisi de tam etkindir.",
+  "D": "D) Para ve maliye politikalarının hiçbiri etkin değildir.",
+  "E": "E) Para ve maliye politikaları eşit etkinliktedir",
+  "Image": 1,
+  "Explaination": "E) Para ve maliye politikaları eşit etkinliktedir.\nÇözüm: Esnek döviz kuru içsel ve dışsal şokların gerektirdiği ayarlamaları döviz kuruna yansıttığından, parasal büyüklükler yabancı sermaye hareketlerinin etkisine maruz kalmamakta ve merkez bankaları bağımsız para politikası uygulayabilmektedir. Dolayısıyla, maliye politikası etkin değil, para politikası etkindir.\n",
+  "Answer": "B) Maliye politikası etkin değil, para politikası etkindir."
+ },
+ {
+  "Question": "Keynesyen teoriye göre, işlem güdüsüyle para talebinin artmasında aşağıdakilerden hangisinin bir etkisi vardır?",
+  "A": "A) Faiz oranındaki artışın",
+  "B": "B) Gelirin elde edilişiyle harcamalar arasındaki sürenin uzamasının",
+  "C": "C) Reel gelir düzeyinin yükselmesinin",
+  "D": "D) Fiyatlar genel düzeyinin yükselmesinin",
+  "E": "E) Fiyatlar genel düzeyinin düşmesinin ",
+  "Image": 1,
+  "Explaination": "Keynesyen teoriye göre, bireyler gelirleri arttıkça daha çok harcama yaparlar ve bunun sonucunda da daha çok para tutmak isterler. Daha yüksek bir gelir düzeyi, para için daha yüksek bir işlemler talebi oluşturur. Dolayısıyla, reel gelir düzeyinin yükselmesi işlem güdüsüyle para talebinin artmasına neden olur.",
+  "Answer": "C) Reel gelir düzeyinin yükselmesinin"
+ },
+ {
+  "Question": "Ödemeler bilançosunu oluşturan ana hesap grupları aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "A": "A) Cari hesap, sermaye hesabı ve resmi rezervler hesabı",
+  "B": "B) Cari hesap, resmi rezervler hesabı ve ticari hesap",
+  "C": "C) Cari hesap ve resmi rezervler hesabı",
+  "D": "D) Ticari hesap ve sermaye hesabı",
+  "E": "E) Sermaye hesabı ve dış ticaret hesabı",
+  "Image": 1,
+  "Explaination": "Ödemeler bilançosunu oluşturan ana hesap grupları; cari hesap, sermaye hesabı, resmi rezervler hesabıdır. Ödemeler bilançosunun başlıca ana hesap kalemleri şunlardır:\n1. Cari İşlemler Hesabı\na. Mal Ticareti Hesabı\nb. Hizmet Ticareti Hesabı\nc. Gelirler Hesabı\nd. Karşılıksız Transferler Hesabı 2. Sermaye ve Finans İşlemleri Hesabı\na. Doğrudan Yatırımlar\nb. Portföy Hesabı\nc. Dış Borçlanma\nd. Diğer Hesaplar\n3. Net Hata ve Noksan Hesabı Genel Denge\n4. Resmi Rezervler Hesabı\n",
+  "Answer": "A) Cari hesap, sermaye hesabı ve resmi rezervler hesabı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir ülkenin ticaret hadlerinin bozulduğunu gösterir?",
+  "A": "A) Ülkenin ihraç malı fiyatlarının ithal malı fiyatlarına göre daha hızlı yükselmesi",
+  "B": "B) Ülkenin ithal malı fiyatlarının düşmesi, ihraç malı fiyatlarının değişmemesi",
+  "C": "C) Ülkenin ihraç malı fiyatlarının artması, ithal malı fiyatlarının değişmemesi",
+  "D": "D) Ülkenin hem ihraç hem de ithal malı fiyatlarının hızlı bir şekilde düşmesi",
+  "E": "E) Ülkenin ithal malı fiyatlarının ihraç mali fiyatlarına göre daha hızlı yükselmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Ülkenin ithal malı fiyatlarının ihraç mali fiyatlarına göre daha hızlı yükselmesi"
+ },
+ {
+  "Question": "Bir ülkenin döviz cinsinden elde ettiği gelirler ile döviz cinsinden yaptığı harcamalar arasındaki dengeyi gösteren veri aşağıdakilerden hangisidir?",
+  "A": "A) Döviz Rezervleri Dengesi",
+  "B": "B) Dış Ticaret Dengesi",
+  "C": "C) Cari İşlemler Dengesi",
+  "D": "D) Sermaye Hareketleri Dengesi",
+  "E": "E) Görünmeyen Kalemler Dengesi",
+  "Image": 1,
+  "Explaination": "Bir ülkenin döviz cinsinden elde ettiği gelirler ile döviz cinsinden yaptığı harcamalar arasındaki dengeyi gösteren veri cari işlemler dengesidir. Ülkenin cari işlemlerden elde ettiği gelirler, cari işlemlere yapılan giderlerden daha büyükse bu durum cari fazla (cari işlemler fazlası); daha küçükse cari açık (cari işlemler açığı) olarak nitelenir.",
+  "Answer": "C) Cari İşlemler Dengesi"
+ },
+ {
+  "Question": "Merkez bankalarının enflasyon konusunda kamuoyuna hedeflerini açıklaması, para politikası araçlarını enflasyonu hedefler çerçevesinde belirli bir aralıkta gerçekleştirmek için uygulaması, hedeften sapma olması durumunda sebeplerini kamuoyuna açıklaması şeklinde tanımlanan uygulama aşağıdakilerden hangisidir?",
+  "A": "A) Enflasyon Politikası ",
+  "B": "B) Enflasyon hedeflemesi ",
+  "C": "C) Enflasyon stratejisi ",
+  "D": "D) Fiyat İstikrarı ",
+  "E": "E) Fiyat Politikası ",
+  "Image": 1,
+  "Explaination": "Enflasyon hedeflemesi rejimi, fiyat istikrarına ulaşmak amacıyla uygulanan para politikası stratejilerinden bir tanesidir. Enflasyon hedeflemesi rejimi herhangi bir ara hedef kullanmaksızın, doğrudan enflasyonun kendisini hedeflemektedir. Bu rejimde merkez bankaları rakamsal bir hedef ilan ederek bu hedefe ulaşma konusunda güçlü bir taahhüt oluşturmakta ve hedefe ulaşılamaması durumunda kamuoyuna hesap vermekle yükümlü olmaktadır",
+  "Answer": "B) Enflasyon hedeflemesi "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi mikroekonominin konularından biri değildir?",
+  "A": "A) Firma davranışları ",
+  "B": "B) İşsizlik ",
+  "C": "C) Tüketici davranışları ",
+  "D": "D) Piyasa fiyatı ",
+  "E": "E) Firma Maliyetleri ",
+  "Image": 1,
+  "Explaination": "Makroekonomi, ekonomi biliminin, toplam tüketim, toplam üretim, toplam tasarruf, toplam yatırım, toplam gelir (milli gelir) ve istihdam gibi toplam büyüklüklerini inceleyen ve bunlar ile ilgili çözümleme ve çıkarımlar yapan alt dalı. Mikroekonomiden farklı olarak, ekonomiyi bir bütün olarak ele alarak, makro denge çözümlemeleri üzerinde çalışır. işsizlik, enflasyon, toplam üretim ve tüketim, gelir dağılımı makroekonominin ana konuları olarak sayılabilir.\nMikroekonomi ise birey, firma, endüstri gibi daha küçük ekonomik birimlerin iktisadi davranışlarını inceleyen bölümüdür. Fiyat oluşumu, üreticitüketici dengeleri, piyasalar, arz-talep gibi temel konular mikro iktisadın inceleme alanına giren konulardan bazılarıdır.\nİşsizlik mikroekonominin konular arasına girmez.\n",
+  "Answer": "B) İşsizlik "
+ }
+]

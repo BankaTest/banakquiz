@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Ekonomide geleneksel olarak reel gayri safi yurtiçi hasılanın (GSYİH) iki veya daha fazla çeyrek yıllık periyotta arka arkaya negatif büyüme göstermesi durumuna ne ad verilir?",
+  "A": "A) Stagflasyon ",
+  "B": "B) Devalüasyon ",
+  "C": "C) Resesyon ",
+  "D": "D) Deflasyon ",
+  "E": "E) Revaülasyon ",
+  "Image": 1,
+  "Explaination": "Resesyon, makroekonomide geleneksel olarak reel gayri safi yurtiçi hasılanın (GSYİH) iki veya daha fazla çeyrek yıllık periyotta arka arkaya negatif büyüme göstermesi durumudur. a Ekonomide durgunluk olarak da adlandırılabilir.\nUzun bir resesyon ekonomik çöküş olarak g isimlendirilir.\n",
+  "Answer": "C) Resesyon "
+ },
+ {
+  "Question": "Aşağıdakilerin hangisi G-7'ye üye ülkelerden biri değildir?",
+  "A": "A) İtalya ",
+  "B": "B) Kanada ",
+  "C": "C) Almanya ",
+  "D": "D) Avustralya ",
+  "E": "E) Japonya ",
+  "Image": 1,
+  "Explaination": "G-7 ülkeleri ABD, İngiltere, Kanada, Fransa, Almanya, İtalya ve Japonya'dan oluşuyor. Avustralya G-7 ülkeleri arasında bulunmamaktadır.",
+  "Answer": "D) Avustralya "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi hizmet sektörünün çıktılarından biri değildir?",
+  "A": "A) Bina Yapımı",
+  "B": "B) Bankacılık Ürünleri ",
+  "C": "C) Uçak Yolculuğu",
+  "D": "D) Konaklama ",
+  "E": "E) Güvenlik İşleri ",
+  "Image": 1,
+  "Explaination": "Genel bir ifade ile hizmet sektörü, insan hayatına hitap eden tüm manevi tatmini ve ihtiyacı sağlayan hizmet parçalarının bütünüdür. Bina yapımı fiziken bir ürün ortaya çıkarmakta olup hizmet sektöründe yer almaz",
+  "Answer": "A) Bina yapımı"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ekonomik durgunluğun varlığını gösteren göstergelerden biri olabilir?",
+  "A": "A) Büyüme oranında artış",
+  "B": "B) Banka kredilerinde artış",
+  "C": "C) Tüketim eğiliminde artış",
+  "D": "D) Kurulan şirket sayısında artış",
+  "E": "E) İşsizlik oranında artış",
+  "Image": 1,
+  "Explaination": "İlk dört şıkta yer alanlar tam tersine ekonomik canlanma belirtisi olup işsizlik artışı durgunluğa işaret edebilmektedir",
+  "Answer": "E) İşsizlik oranında artış"
+ },
+ {
+  "Question": "Türkiye ekonomisine en fazla katkı sağlayan sektör aşağıdakilerden hangisidir?",
+  "A": "A) İnşaat sektörü ",
+  "B": "B) İmalat ",
+  "C": "C) Hizmetler ",
+  "D": "D) Tarım ",
+  "E": "E) Madencilik ",
+  "Image": 1,
+  "Explaination": "Türkiye ekonomisine en fazla katkıyı hizmetler sektörü sağlamakta olup, sanayi ve tarım birbirine yakın düzeyde katkı vermektedir.",
+  "Answer": "C) Hizmetler "
+ },
+ {
+  "Question": "Aşağıdakilerden hanisi LM eğrisiyle ilgili\ndoğru bilgidir?\n",
+  "A": "A) Reel para arzı artarsa LM eğri sola kayar.",
+  "B": "B) Reel para arzı azalırsa LM eğri sağa kayar",
+  "C": "C) Reel para arzındaki değişim LM değil IS eğrisini\netkiler.\n",
+  "D": "D) Reel para arzı azalırsa LM eğri sola gelire bağlı olarak sağa da sola da kayabilir",
+  "E": "E) Reel para arzı azalırsa LM eğri sola kayar",
+  "Image": 1,
+  "Explaination": "Reel para arzı artarsa (fiyat düzeyi veri iken\nnominal para arzı artarsa ya da nominal para arzı\nveri iken fiyat düzeyi düşerse) LM eğri sağa kayar.\nTersine reel para arzı azalırsa (fiyat düzeyi veri iken\nnominal para arzı azalırsa ya da nominal para arzı\nveri iken fiyat düzeyi artarsa) LM eğri sola kayar.\n",
+  "Answer": "E) Reel para arzı azalırsa LM eğri sola kayar"
+ },
+ {
+  "Question": "Dış ticaret dengesinin sağlandığı bir ekonomide, nominal döviz kurundaki yükselmenin, ticaret dengesini olumlu biçimde etkilemesi için, ihracat talep esnekliği ile ithalat\ntalep esnekliği toplamının birden büyük olması gerektiğini belirten görüş aşağıdakilerden hangisidir?\n",
+  "A": "A) Leontief paradoksu ",
+  "B": "B) Tobin teoremi ",
+  "C": "C) Marshall-Lerner koşulu ",
+  "D": "D) Massetme yaklaşımı ",
+  "E": "E) Örümcek ağı teoremi ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Marshall-Lerner koşulu"
+ },
+ {
+  "Question": "Bir ailenin yıllık geliri 6000 TL' den 9000 TL'\nye çıktığında, yıllık makarna tüketimi 70 kg' dan\n50 kg' a düşmektedir. Bu ailenin makarna tüketimi\niçin gelir esnekliği nedir?\n",
+  "A": "A) 1",
+  "B": "B) 1,2",
+  "C": "C) 0,5",
+  "D": "D) 0,8",
+  "E": "E) 0,4",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 0,8"
+ },
+ {
+  "Question": "9) Aşağıdakilerden hangisi Cournot'un Duopol\nModeli varsayımlarına ilişkin doğru değildir?\n",
+  "A": "A) Birden fazla firma bulunmaktadır ve bu firmalar\nhomojen, farklılaştırılmamış ürün üretmektedirler.\n",
+  "B": "B) Firmalar arasında bir anlaşma veya işbirliği\n bulunmamaktadır, kararlar serbestçe verilmektedir.\n",
+  "C": "C) Firmalar arasındaki rekabet fiyat üzerinde\nyaşanmaktadır.\n",
+  "D": "D) Her bir firmanın üretim miktarı ile ilgili aldığı\nkarar malın fiyatını etkilemektedir\n",
+  "E": " E) Pazardaki firma sayısı sabittir.",
+  "Image": 1,
+  "Explaination": "Çözüm: Cournot Rekabet Modeli' nin belirli\nvarsayımları bulunmaktadır, bunlar;\nBirden fazla firma bulunmaktadır ve bu firmalar\nhomojen, farklılaştırılmamış ürün üretmektedirler,\nPazardaki firma sayısı sabittir,\nFirmalar arasında bir anlaşma veya işbirliği\nbulunmamaktadır, kararlar serbestçe\nverilmektedir,\nFirmalar diğer firmanın üretim miktarına göre\nkarlarını maksimize etmeye çalışmaktadırlar,\nrekabet fiyat değil miktar üzerinde yaşanmaktadır,\nHer bir firmanın üretim miktarı ile ilgili aldığı karar malın fiyatını etkilemektedir.\n",
+  "Answer": "C) Firmalar arasındaki rekabet fiyat üzerinde\nyaşanmaktadır."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi revalüasyonun sonuçlarından biridir?",
+  "A": "A) İthalat daha cazip hale gelir",
+  "B": "B) Ülke parası değer kaybeder",
+  "C": "C) İhracat revalüasyona bağlı olarak daha kazançlı hale gelir",
+  "D": "D) Para arzı artar",
+  "E": "E) Kamu açıkları azalır",
+  "Image": 1,
+  "Explaination": "Revalüasyon, bir ülkenin para biriminin yabancı para birimleri karşısında değerinin artmasıdır. Genellikle, uygulanan ekonomilerde ithalat artar, ihracat miktarında ise azalma görülür. DeğerIenen ülke para birimi, yerli malların fiyatını arttırmış, ithal malları ise yerli mallara oranla ucuz hale getirmiştir. Bu yüzden revalüasyon politikası uygulanan ekonomide ithalat daha cazip hale gelir",
+  "Answer": "A) İthalat daha cazip hale gelir"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ekonomik durgunluk dönemlerinde meydana gelen sonuçlardan biri değildir?",
+  "A": "A) GSMH' da düşüş gerçekleşir",
+  "B": "B) İşsizlik artar ",
+  "C": "C) İhracat artar",
+  "D": "D) Kapasite kullanım oranı düşer",
+  "E": "E) Vergi gelirleri azalır",
+  "Image": 1,
+  "Explaination": "Ekonomik durgunluk dönemlerinde talepte zayıflama nedeniyle üretim daralır, dolayısıyla ihracat artmaz tersine azalır.",
+  "Answer": "C) İhracat artar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi görünmez engellerin ortaya çıkış zamanına ilişkin doğrudur?",
+  "A": "A) 2. Dünya Savaşı sonrası",
+  "B": "B) 2008 küresel kriz sonrası",
+  "C": "C) 1928 ekonomik bunalım sonrası",
+  "D": "D) 1973 Dünya Enerji Krizi sonrası",
+  "E": "E) Gümrük Birliği oluşturulması sonrası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) 1973 Dünya Enerji Krizi sonrası"
+ },
+ {
+  "Question": "Bir ülkenin ihraç ettiği mal ve hizmetlerden elde ettiği gelirin, yurt dışından ithal ettiği mal ve hizmetlere yaptığı ödemelerden az olmasına ne ad verilir?",
+  "A": "A) Açığa Satış ",
+  "B": "B) Cari Açık ",
+  "C": "C) Uzun Pozisyon ",
+  "D": "D) Açık Piyasa ",
+  "E": "E) Kısa Pozisyon ",
+  "Image": 1,
+  "Explaination": "Cari açık, bir ülkenin ürettiği malların ihraç sonucu getirdiği gelirin, ülkenin yurtdışından ithal ettiği mal ve hizmetlerden az olması durumudur.",
+  "Answer": "B) Cari Açık "
+ },
+ {
+  "Question": "Yerli paranın yabancı paralar karşısında değerinin yükselmesine ne ad verilir?",
+  "A": "A) Kur Farkı ",
+  "B": "B) Devalüasyon ",
+  "C": "C) Evalüasyon ",
+  "D": "D) Revalüasyon ",
+  "E": "E) Kotasyon ",
+  "Image": 1,
+  "Explaination": "Revalüasyon, ulusal paranın yabancı paralar karşısındaki değerinin artmasını ifade eder",
+  "Answer": "D) Revalüasyon "
+ },
+ {
+  "Question": "Bir ülkenin sınırları içerisinde belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin parasal değeri aşağıdakilerden hangisidir?",
+  "A": "A) Gayri safi milli hasıla",
+  "B": "B) Safi milli hasıla",
+  "C": "C) Gayri safi yurtiçi hasıla",
+  "D": "D) Net milli hasıla",
+  "E": "E) Brüt milli hasıla",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Gayri safi yurtiçi hasıla"
+ },
+ {
+  "Question": "7 şubat 1992' de imzalanan, AET' nin AB olması yolundaki son adım olan ve aynı zamanda ekonomik ve parasal birliği de gerçekleştirme yoluna girdiği anlaşma aşağıdakilerden hangisidir?",
+  "A": "A) Berlin Anlaşması",
+  "B": "B) Brüksel Anlaşması",
+  "C": "C) Maastricht Anlaşması ",
+  "D": "D) Cenevre Sözleşmesi",
+  "E": "E) Viyana Paktı",
+  "Image": 1,
+  "Explaination": "7 Şubat 1992' de imzalanan, AET'nin AB olması yolundaki son adım olan ve aynı zamanda ekonomik ve parasal birliği de gerçekleştirme yoluna girdiği anlaşma Maastricht Anlaşması'dır.",
+  "Answer": "Maastricht Anlaşması "
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ekonomik yapısı uluslararası gelişmelere daha hassas olması nedeniyle kırılgan 5'Ii olarak adlandırılan ülkeler arasında yer alan bir ülke değildir?",
+  "A": "A) Hindistan ",
+  "B": "B) Endonezya ",
+  "C": "C) Türkiye ",
+  "D": "D) Rusya ",
+  "E": "E) Güney Afrika ",
+  "Image": 1,
+  "Explaination": "İlk defa Morgan Stanley tarafından ortaya atılan kırılgan beşli gruplandırmasına dahil olan ülkeler Hindistan, Brezilya, Endonezya, Türkiye ve Güney Afrika'dır.",
+  "Answer": "D) Rusya "
+ },
+ {
+  "Question": "Gayri Safi Yurtiçi Hasıla içindeki payı 1960 yılında %40'larda olup, günümüzde payı %8' in altına gerileyen sektör aşağıdakilerden hangisidir?",
+  "A": "A) Madencilik ",
+  "B": "B) Enerji ",
+  "C": "C) Tarım ",
+  "D": "D) Hazır giyim ",
+  "E": "E) Denizcilik ",
+  "Image": 1,
+  "Explaination": "Türkiye ekonomisindeki gelişmeler paralelinde tarımın Gayri Safi Yurtiçi Hasıla (GSYH) içindeki payı yüzde 7.5'Iere düşmüştür.",
+  "Answer": "C) Tarım"
+ },
+ {
+  "Question": "Üretim hacminde zaman zaman ortaya çıkan daralmaların yarattığı işsizlik türü aşağıdakilerden hangisidir?",
+  "A": "A) Teknolojik İşsizlik",
+  "B": "B) Yapısal İşsizlik",
+  "C": "C) Friksiyonel İşsizlik",
+  "D": "D) Konjonktürel İşsizlik",
+  "E": "E) Mevsimsel İşsizlik",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Konjonktürel İşsizlik"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Monopol (tekel) ve tam rekabet piyasaları arasındaki farklara ilişkin yanlıştır?\n",
+  "A": "A) Tam rekabette firmalar daha düşük maliyetlerde\nüretimde bulunmalarına karşın tekelde üretim maliyeti daha yüksektir.\n",
+  "B": "B) Tekelci firmaların tam rekabete oranla karları\ndaha düşüktür.\n",
+  "C": "C) Tam rekabette talep marjinal ve ortalama gelir\neğrileri aynı eğri ile temsil edildiği halde, tekelde\n",
+  "D": "D) Tam rekabette firmalar daha düşük fiyatlarda satış yaparlar.",
+  "E": "E) Tam rekabet piyasasında denge marjinal maliyetin fiyata eşit olduğu noktada, tekelde ise marjinal maliyetin marjinal gelire eşit olduğu yerde sağlanır.",
+  "Image": 1,
+  "Explaination": "Her iki piyasa türünün birbirinden ayırt edici nitelikleri şöyle sıralanabilir:\nTam rekabette firmalar daha düşük fiyatlarda satış yaparlar. Çünkü tekel piyasasının denge fiyatı uzun dönemde maliyet eğrisinin minimum noktasında olmadığı için daha yüksek düzeydedir.\n- Tam rekabette firmalar daha düşük maliyetlerde üretimde bulunmalarına karşın tekelde üretim maliyeti daha yüksektir.\n- Tam rekabette firmaların üretim miktarı tekelci firmanınkini geçer. Böylece tam rekabette firmalar daha düşük maliyetlerle daha fazla üretimde bulunurlar. Tekelci firmada atıl kapasite büyük bir sorun olabilir.\nTekelci firmada atıl kapasite sonucu, toplum açısından üretim kaynakları savurganlığı söz konusudur.\n- Tekelci firmalar tam rekabete kıyasla aşırı karlar elde ederler. Bunun sonucu gelir dağılımında eşitsizliklere yol açar.\n- Tam rekabette talep eğrisi tam esnek yani yatay bir doğru olmasına karşın, tekelde negatif eğimli piyasa talep eğrisinin aynısıdır.\nTam rekabette talep marjinal ve ortalama gelir eğrileri aynı eğri ile temsil edildiği halde, tekelde marjinal gelir eğrisi birbirinin aynısı olan talep ve ortalama gelir eğrilerinin altındadır.\n- Tam rekabet piyasasında denge marjinal maliyetin fiyata eşit olduğu noktada, tekelde ise marjinal maliyetin marjinal gelire eşit olduğu yerde sağlanır.\n",
+  "Answer": "B) Tekelci firmaların tam rekabete oranla karları\ndaha düşüktür."
+ }
+]

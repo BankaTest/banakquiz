@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Bütçe açıklarının  finansmanı dış kaynaklardan alınan borçla sağlanıyorsa, bu borcun ödenmesinde sorun olmaması için aşağıdaki koşullardan hangisi sağlanmalıdır?",
+  "A": "A) Düşük faizle borçlanılması",
+  "B": "B) Alınan borcun uzun vadeli olması",
+  "C": "C) Dış ticaret fazlası yaratılması",
+  "D": "D) Borcun geri ödenmesi aşamasında yeni dış borç alınması",
+  "E": "E) Borcun döviz cinsinden alınması",
+  "Image": 1,
+  "Explaination": "Bütçe açıklarının finansmanı dış kaynaklardan alınan borçlarla sağlanıyorsa, bu borcun ödenmesinde sorun olmaması için dış ticaret fazlası yaratılması gerekmektedir. Yani, bu ülkenin dışsatımının dışalımından fazla olması, dış ticaret dengesinin pozitif olması demektir. Eğer ülke dış ticaret açığı vermiş olsaydı, borç ödemesine ek olarak bir de dış ticaret açığını finanse etmesi gerekecek sorun daha da büyüyecektir.",
+  "Answer": "C) Dış ticaret fazlası yaratılması"
+ },
+ {
+  "Question": "Artan kamu harcamalarının dışlama etkisi yaratmaması için aşağıdakilerden hangisi alınabilecek önlemlerden biridir?",
+  "A": "A) Para arzının artırılması",
+  "B": "B) Kamu harcamasının, özel kesimden borçlanarak finanse edilmesi",
+  "C": "C) Kamu harcamalarının mal ve hizmet alımına yöneltilmesi",
+  "D": "D) Kamu harcamalarının transfer harcamalarına yöneltilmesi",
+  "E": "E) Kamu harcamalarının, ticari bankalardan borçlanarak finanse edilmesi",
+  "Image": 1,
+  "Explaination": "Dışlama etkisi, artan kamu harcamalarının bütçe açığını yükseltmesi ve bunun da iç borçlanma ile finanse edilmesiyle özel sektör yatırımlarının düşüş eğilimine girmesini ifade etmektedir. Bu etki iki şekilde ortaya çıkmaktadır.\n- Miktar etkisi olarak bilinen birinci etki, kamunun borç talebinin artmasıyla piyasadaki borç verilebilir fon miktarından özel sektöre düşen payın azalması sonucunda oluşmaktadır.\nFiyat etkisi olarak isimlendirilen ikinci etki ise, kamunun borç talebindeki artışın piyasa faiz Dolayısıyla artan kamu harcamalarının dışlama etkisi yaratmaması, para arzının artırılmasıyla mümkündür.\n",
+  "Answer": "A) Para arzının artırılması"
+ },
+ {
+  "Question": "Son on yılda tekstil ürünlerinde önemli ölçüde fiyat artışına karşın halkın her yıl satın aldığı tekstil ürünü miktarı da artmıştır. Bu durumla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Tekstil ürünleri arz eğrisi sola kaymıştır",
+  "B": "B) Tekstil ürünleri talep eğrisi sağa kaymıştır.",
+  "C": "C) Tekstil ürünleri talep eğrisi sola kaymıştır.",
+  "D": "D) Tekstil ürünlerinde talep kanunu çalışmamaktadır",
+  "E": "E) Tekstil ürünleri arz eğrisi sağa kaymıştır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Tekstil ürünleri talep eğrisi sağa kaymıştır."
+ },
+ {
+  "Question": "l. Tekelci üretimin varlığı\nII. Vergilerin söz konusu olması\nIII. Malın kamu malı niteliği taşması \nYukarıdakilerden hangileri bir malın aşırı ya da yetersiz üretimine neden olan olgulardır?\n",
+  "A": "A) Yalnız I",
+  "B": "B) I ve II",
+  "C": "C) I ve III",
+  "D": "D) II ve III ",
+  "E": "E) I, II ve III",
+  "Image": 1,
+  "Explaination": "Bir malın aşırı ya da yetersiz üretimine neden olan olgular:\n- Tekelci üretimin varlığı,\n- Vergiler,\n- Malın kamu malı niteliği taşıması\n",
+  "Answer": "E) I, II ve III"
+ },
+ {
+  "Question": "Piyasa dört adet firma tarafından eşit olarak paylaşılıyorsa HerfindahI-Hirschman indeksi kaç olur?",
+  "A": "A) 2500",
+  "B": "B) 250",
+  "C": "C) 25",
+  "D": "D) 4",
+  "E": "E) 1\/4",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) 2500"
+ },
+ {
+  "Question": "Tekelci firma, karını maksimize etmek istiyorsa, talebin fiyat esnekliğinin hangi değerine kadar üretimini arttırmalıdır?",
+  "A": "A) İnelastik ",
+  "B": "B) Esnek ",
+  "C": "C) Sıfır ",
+  "D": "D) Sonsuz ",
+  "E": "E) Birim ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Birim "
+ },
+ {
+  "Question": "Barro - Ricardo etkisine göre aşağıdakilerden hangisi doğrudur?",
+  "A": "A) Kamu bütçe açığı halkın gelir artış beklentilerini uyarır",
+  "B": "B) Kamu bütçe açığı vergi mükelleflerinin verginin etkisini dengeleme gücünü azaltır.",
+  "C": "C) Kamu bütçe açığı ile yatırım hacmi arasında pozitif ilişki vardır",
+  "D": "D) Kamu bütçe açığı reel faiz oranını etkilemez.",
+  "E": "E) Kamu bütçe açığı faiz oranını ters yönde etkiler.",
+  "Image": 1,
+  "Explaination": "Barro-Ricardo Hipotezi veya Ricardocu Denklik Hipotezi'ine göre, vergilerdeki değişiklik sonucunda oluşan bütçe açığının finanse edilmesi için yapılan borçlanmanın, gelecek yıllarda faiziyle birlikte ödenebilmesi için vergilerin artırılması gerekmektedir. Bu durumda bugün yapılan borçlanma (vergi indirimi) gelecekte vergi artışı anlamına gelmektedir. Dolayısıyla, gelecekteki yüksek vergilerin ödenebilmesi için bugün özel kesimin tasarruflarını artırması gerekmektedir. Sonuç olarak, kamu borçlarındaki artışın özel kesimin servetinde bir artışa yol açmayacağı ve dolayısıyla fiyatlar, üretim ve faiz üzerinde etkili olmayacağı ileri sürülmüştür.",
+  "Answer": "D) Kamu bütçe açığı reel faiz oranını etkilemez."
+ },
+ {
+  "Question": "Diğer koşullar sabitken, otonom tüketim harcamalarında meydana gelecek bir artış tüketim fonksiyonu üzerinde nasıl bir etki yaratır?",
+  "A": "A) Daha dik hale gelir",
+  "B": "B) Konumunda bir değişiklik olmaz.",
+  "C": "C) Yukarıya kayar.",
+  "D": "D) Daha yatık hale gelir.",
+  "E": "E) Aşağıya kayar.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Yukarıya kayar."
+ },
+ {
+  "Question": "l. İşgücü arzı\nII. Kullanılan sermaye miktarı\nIII. Reel GSYiH\nArz yönlü iktisatçılara göre yukarıdakilerden hangileri vergi indirimlerinin etkilediği değişkenlerdir?\n",
+  "A": "A) Yalnız III ",
+  "B": "B) I ve II",
+  "C": "C) I ve III",
+  "D": "D) II ve III ",
+  "E": "E) I, II ve III",
+  "Image": 1,
+  "Explaination": "Arz yönlü iktisatçılara göre;\n• Gelir vergisi oranı azaltıldığı zaman fertlerin tasarruf arzusu artar. Tasarruftaki artış, faiz oranının düşmesine ve yatırımların artmasına neden olur.\n• Kurumlar vergisinde yapılacak bir azaltma ise, yatırımın karlılığını artıracak, dolayısı ile kurumun tasarruf gücü artacaktır.\n• Gerek fertlerin ve gerekse kurumların tasarrufundaki artış likiditelerinin artmasına ve borç taleplerinin azaltmalarına neden olur. Bu ise faizi oranını düşürür. Faiz oranının düşmesi yatırım mallar talebi ile inşaat yatırımlarını artırır.\n• Yatırım \/ GSMH oranının artması verimliliği yükseltir.\n• Gelir vergisindeki bir azaltma emeğin istihdam edilme isteğini ve çalışma gayretini arttırır. Böylece emek arzı artar.\n38 | \n• Üretim kapasitesinin artması sonucu arz yetersizliğinden doğan enflasyonist baskılar hafifler ve enflasyon oranı düşer.\n• Üretim kapasitesinin artması, ayrıca mal ve hizmet ihracını arttırır.\n• Düşük gelir vergisi oranları, toplu sözleşmede istenen ücret artışlarını da azaltır. Çünkü istenen artışlar genlikle vergi sonrası gelirler olduğu için, vergi oranları düşünce işinin eline geçen ücret artacağından zam istekleri de az olur. Bu da enflasyon hızını yavaşlatır.\n• Enflasyon hızının azalması geliri, dolaylı olarak da tüketim, üretim ve istihdamı arttırır.\n",
+  "Answer": "E) I, II ve III"
+ },
+ {
+  "Question": "10) I. Yeni Klasik Model\nII. Yeni Keynesyen Model\nIII. Reel Konjonktür Modeli\nMevcut verilere göre vergilerde beklenmeyen bir değişikliğin ekonomik durgunluğa neden olduğu belirlenmiştir. Bu durum yukarıdaki konjonktür teorilerinden hangilerinin görüşlerini destekler?\n",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) Yalnız III",
+  "D": "D) I ve II",
+  "E": "E) I, II ve III",
+  "Image": 1,
+  "Explaination": "Yeni Klasik Model ve Yeni Keynesyen Model, vergilerde beklenmeyen bir değişikliğin ekonomik durgunluğa neden olduğu görüşlerini destekler",
+  "Answer": "D) I ve II"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi gelir- harcama akımından sızıntı niteliği taşıyan değişkenlerden biridir?",
+  "A": "A) Yatırım ",
+  "B": "B) Para Arzı ",
+  "C": "C) Kamu Harcamaları ",
+  "D": "D) İhracat ",
+  "E": "E) İthalat ",
+  "Image": 1,
+  "Explaination": "Sızıntılar, toplam harcamaların otonom bileşenlerini düşüren kavramlardır. Gelir-harcama akımından gerçekleşen üç tür sızıntıdan söz etmek mümkündür: Tasarruflar, vergiler ve ithalat.\nz Tasarruflar, gelirin harcanmayan kısmı olarak 2 tanımlandığına göre, hanehalkları ne kadar çok tasarruf ederlerse o kadar az harcama yapacaklardır. Bir diğer deyişle otonom tasarruflarda meydana gelecek bir artış otonom tüketim harcamalarında bir düşüş anlamına gelmektedir. Bu da denge GSMH veya gelir düzeyinin azalmasına neden olur.\nGelir-harcama akımından meydana gelebilecek bir diğer sızıntı vergilerdir. Vergiler tüketim harcamalarındaki zorunlu düşüşlerdir. Devletin aldığı vergiler ne kadar yüksek olursa otonom tüketim harcamaları da o derece düşük olacaktır. Toplam harcamaların otonom bileşenlerinden birisi olan otonom tüketimdeki bu azalma da denge GSMH düzeyinin azalmasına neden olur.\nİthalat harcamalarının artması yurtiçinde üretilen mal ve hizmetlere yapılan harcamaların azalması ile sonuçlanır. Dolayısıyla otonom ithalat harcamalarında meydana gelecek artış net ihracatı azaltırken, toplam harcamaların otonom bileşeninde ve dolayısıyla denge GSMH düzeyinde bir düşüşle sonuçlanacaktır.\n",
+  "Answer": "E) İthalat "
+ },
+ {
+  "Question": "Talep fonksiyonu Qd=125-10P şeklinde olan bir mal için Q=25 noktasında talebin fiyat esnekliği (ep) kaçtır?",
+  "A": "A) -2",
+  "B": "B) -4",
+  "C": "C) -6",
+  "D": "D) -8",
+  "E": "E) -10",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) -4"
+ },
+ {
+  "Question": "Piyasa talep fonksiyonu Qd=100-2P şeklinde olan bir piyasada, denge fiyatı 10 TL'den 5 TL'ye düşerse, tüketici rantındaki değişim (ATR) ne kadar olur?",
+  "A": "A) 300",
+  "B": "B) 400",
+  "C": "C) 425",
+  "D": "D) 450",
+  "E": "E) 500",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 425"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi arzın esnek olmadığından dolayı kazanç fazlası olarak meydana gelen rantın, emek ve sermayeye uygulanması sonucu ortaya çıkar?",
+  "A": "A) Tüketici Rantı",
+  "B": "B) Üretici Rantı",
+  "C": "C) Kıtlık Rantı",
+  "D": "D) Rant Benzeri",
+  "E": "E) Differensiyel Rant",
+  "Image": 1,
+  "Explaination": "Rant benzeri, kısa dönemde üretim faktörleri arzlarının inelastik olması nedeniyle ortaya çıkan fazla kazançtır. Bilindiği gibi çok kısa dönemde firmaların arzı inelastiktir. Kısa dönemde ise arz, belirli bir elastikiyet kazanmakla birlikte, genellikle inelastik kabul edilebilir. Bu durumda kısa dönemde herhangi bir mala olan talebin artması, inelastik arz koşulları nedeniyle, malın fiyatının önemli ölçüde artmasına yol açacaktır. Böylece bu malı üreten firmalar kendi çabaları dışında fazladan bir gelir elde edeceklerdir. Ancak bu fazladan gelir uzun dönemde ortadan kalkacaktır. Çünkü uzun dönemde piyasaya yeni firmalar girecek ve fiyatlar ortalama maliyete eşitlenecektir. Toprak rantı ile benzerlik gösteren bu rant çeşidi uzun dönemde ortadan kalkması nedeniyle devamlılık göstermemektedir. Böylece de devamlılık gösteren toprak rantından ayrılmaktadır. Bu nedenle de bu rant çeşidine rant benzeri adı verilmiştir",
+  "Answer": "D) Rant Benzeri"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ayrım gözetici bir tekelin fiyat farklılaştırması yapabilmesinin koşulları içinde yer almaz?",
+  "A": "A) Piyasanın bölünebilir olması",
+  "B": "B) Piyasalar arası engeller olmaması",
+  "C": "C) Piyasaların fiyat esnekliklerinin farklı olması",
+  "D": "D) Pazar ayrımına gidilmesinin karları olumsuz etkilememesi",
+  "E": "E) Talebin fiyat esnekliğinin fiyat artırımına imkan vermesi",
+  "Image": 1,
+  "Explaination": "Tekelde sayılabilecek en önemli koşullar eksik rekabet, fiyat esnekliği ve arbitrajdır.\nNe zaman firma, ürününü marjinal maliyetinin üstünde bir fiyata satabilirse, o zaman, firma için fiyat farklılaştırmasını uygulayabileceği ortam söz konusu olacaktır.\nEğer, bir malın satışında fiyat farklılaştırması kullanılacaksa, çeşitli fiyatın uygulanacağı malın satılacağı endüstrinin alt piyasalara ayrılması gerekmektedir.\nYüksek ve düşük fiyattan malı satın alacak tüketici sınıfları için, farklı fiyat esneklikleri, fiyat farklılaştırmasının karlı olabilmesi için gereklidir.\nEğer tekelci bir firma, aynı ürünü, talep esneklikleri birbirine eşit olmayan piyasalarda farklı fiyatlarla satabiliyorsa, bu durum firmanın karına olacaktır.\n",
+  "Answer": "E) Talebin fiyat esnekliğinin fiyat artırımına imkan vermesi"
+ },
+ {
+  "Question": "IS-LM modeline göre yatırımların faiz esnekliği artarsa IS' nin konumu nasıl değişir?",
+  "A": "A) IS sağa kayar.",
+  "B": "B) IS sola kayar",
+  "C": "C) IS' nin konumu değişmez",
+  "D": "D) IS dikleşir",
+  "E": "E) IS yatıklaşır",
+  "Image": 1,
+  "Explaination": "Hicks-Hansen IS-LM Modeline göre mal ve para piyasalarında denge, faiz oranı ve gelir düzeyinin bileşiminde tanımlanır.\nPara ve maliye politikalarının göreli etkinliği; spekülasyon güdüsüyle para talebi ve yatırım talebinin faize duyarlılığına bağlıdır.\nMal piyasasında denge IS ile ifade edilir ve planlanan harcamaları gelire eşitleyen üretim düzeyi ile faiz oranı bileşimlerini gösterir.\nModelde yatırım talebinin faiz esnekliği yüksekse veri bir faiz değişmesinin yatırıma etkisi güçlü olur. Yatırım talebinin faiz esnekliği arttıkça para politikasının etkinliği artar. Modelde yatırımların faiz oranına duyarlılığı arttıkça; IS eğrisi yatıklaşır.\n",
+  "Answer": "E) IS yatıklaşır"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi genel ekonomi teorisinde yer alan işsizlik olgusuna yönelik olarak yanlış bir anlatımdır?",
+  "A": "A) Yapısal işsizlik büyük ölçüde talepteki değişmelerden kaynaklanır",
+  "B": "B) Teknolojik işsizlik hizmetler sektöründe görülmez",
+  "C": "C) Kısmi işsizlik büyüyen ekonomilerde iş değiştirmelerden oluşur",
+  "D": "D) Makine kullanımının artması teknolojik işsizliğe yol açar",
+  "E": "E) Standart genel işsizlik mevcut ücreti kabullenip iş bulamayanları kapsar",
+  "Image": 1,
+  "Explaination": "Teknolojik İşsizlik; Teknolojik gelişme ve modernleşme sonucunda üretimde; çok zaman daha az emek kullanılmasının mümkün olduğu ve az emek kullanımının maliyetleri düşürebildiği bilinmektedir. Bu yüzden, eğer bir ülkede geliştirilen yeni teknolojiler, üretimde maliyetleri düşürürken daha az emek kullanımı gerektiriyorsa, bu ülkede teknolojik gelişmeye bağlı olarak işsizlik ortaya çıkabilir. Bu işsizlik türüne teknolojik işsizlik adı verilmektedir. Bu işsizlik türü ekonomiyi çok önemli boyutlarda etkilemektedir ve tüm sektörlerde görülebilir.",
+  "Answer": "B) Teknolojik işsizlik hizmetler sektöründe görülmez"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi 2001 yılında Güçlü Ekonomiye Geçiş Programı ile uygulanan düzenlemelerden biri değildir?\n",
+  "A": "A) Rekabetin azaltılması",
+  "B": "B) Kamuda şeffaflığın artırılması",
+  "C": "C) Kamu finansmanının güçlendirilmesi",
+  "D": "D) Sosyal dayanışmanın güçlendirilmesi",
+  "E": "E) Mali piyasaların yeniden yapılandırılması",
+  "Image": 1,
+  "Explaination": "Çözüm: Güçlü Ekonomiye Geçiş Programında\nyapılan düzenlemeler:\n• Mali sektörün yeniden yapılandırılması,\n• Devlette şeffaflığı artıracak düzenlemeler,\n• Kamu finansmanını güçlendirecek düzenlemeler,\n• Ekonomide rekabeti ve etkinliği artıracak\ndüzenlemeler,\n• Reel ekonomiye yönelik önlemler,\n• Sosyal dayanışmanın güçlendirilmesi.\n",
+  "Answer": "A) Rekabetin azaltılması"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi İzmir İktisat Kongresi'nde alınan kararlardan biri değildir?\n",
+  "A": "A) Hammaddesi yurt içinde olan endüstri kollarının\nkurulması\n",
+  "B": "B) Aşar vergisinin kaldırılması",
+  "C": "C) Yabancı sermaye girişine kesinlikle karşı çıkılması",
+  "D": "D) işçi haklarının genişletilmesi ve sendikal hakların\nverilmesi\n",
+  "E": "E) Yatırımcılara kredi sağlayacak bankaların kurulması",
+  "Image": 1,
+  "Explaination": "İzmir İktisat Kongresi'nde alınan kararlar • Ticarete katılan her ülkede üretim faktörleri\nşöyledir: miktarı ülke içinde sabittir.\n• Hammaddesi yurt içinde olan endüstri kollarının  Üretim  faktörleri uluslararası planda\nkurulması hareketsizdir.\n• Aşar vergisinin kaldırılması • Ticarete katılan ülkelerde üretim teknolojisi\n• İşçi haklarının genişletilmesi ve sendikal hakların aynıdır.\nverilmesi • Malların üretim maliyeti sabittir.\n• Yatırımcılara kredi sağlayacak bankaların kurulması  • Klasikler çoğu zaman arz analizi yapmışlar\ntalebi veri kabul etmişlerdir.\n• Taşıma giderleri sıfırdır.\n \n• Devlet müdahalesi yoktur.\n• Uluslararası ticarette para kullanılmaz.\nİki ülke-tek mallı analiz modeli değil, iki ülke, iki mal ve iki faktör varsayımı kabul edilmiştir.\n",
+  "Answer": "D) işçi haklarının genişletilmesi ve sendikal hakların\nverilmesi"
+ },
+ {
+  "Question": "Uluslararası ticareti açıklamada emek ve sermayenin yanı sıra toprak, üretim organizasyonu ve doğal kaynaklara da yer verilmesi gerektiğini söyleyen iktisatçı aşağıdakilerden hangisidir?",
+  "A": "A) Hecksher",
+  "B": "B) Ohlin",
+  "C": "C) Mill",
+  "D": "D) Leontief ",
+  "E": "E) Ricardo ",
+  "Image": 1,
+  "Explaination": "Uluslararası ticareti açıklamada emek ve sermayenin yanı sıra toprak, üretim organizasyonu ve doğal kaynaklara da yer verilmesi gerektiğini söyleyen iktisatçı Leontief'dir",
+  "Answer": "D) Leontief "
+ }
+]

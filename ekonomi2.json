@@ -1,0 +1,221 @@
+[
+ {
+  "Question": "Bir firma 9'uncu birim üretimi gerçekleştirdiğinde marjinal maliyet 20 TL, ortalama maliyet ise 15 TL' dir. Buna göre aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Marjinal ve ortalama maliyet artmaktadır",
+  "B": "B) Marjinal ve ortalama maliyet azalmaktadır",
+  "C": "C) Marjinal maliyet artmakta, ortalama maliyet azalmaktadır",
+  "D": "D) Marjinal maliyet azalmakta, ortalama maliyet artmaktadır.",
+  "E": "E) Toplam üretim miktarını bilmeden değerlendirme yapılamaz",
+  "Image": 1,
+  "Explaination": "Marjinal maliyet (MC)=20 Ortalama maliyet (AC) = 15   \nMCAC ise 20»15\nMarjinal maliyet ortalama maliyetten büyük olursa, marjinal maliyet ve ortalama toplam maliyet artar.\n",
+  "Answer": "A) Marjinal ve ortalama maliyet artmaktadır"
+ },
+ {
+  "Question": "Tam rekabet piyasasında firmanın toplam gelirinin doğrusal çizilmesinin nedeni aşağıdakilerden hangisidir?",
+  "A": "A) Değişken maliyetlerin azalması ",
+  "B": "B) Sabit maliyetlerin sıfır olması ",
+  "C": "C) Ortalama gelirin azalması",
+  "D": "D) Üretim miktarlarının artması ",
+  "E": "E) Marjinal gelirin sabit olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Marjinal gelirin sabit olması"
+ },
+ {
+  "Question": "Tam rekabet şartlarında faaliyetlerini sürdüren X firmasının kısa dönem toplam maliyet fonksiyonu, STC = q2 + 4q+ 1 olarak biliniyorsa ve söz konusu ürünün piyasa satış fiyatı 10 TL ise, X firmasına kar maksimizasyonu sağlayan arz miktarı kaç birimdir?",
+  "A": "A) 1",
+  "B": "B) 2",
+  "C": "C) 3",
+  "D": "D) 4",
+  "E": "E) 5",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) 3"
+ },
+ {
+  "Question": "Tüketicinin optimizasyon sürecinin sonuçları göz önüne alındığında aşağıdakilerden hangisi ortaya çıkmaz?",
+  "A": "A) Tüketicinin farksızlık eğrisi bütçe doğrusuna teğet olur",
+  "B": "B) Tüketici mevcut bütçe kısıtl altında en yüksek farksızlık eğrisine ulaşır",
+  "C": "C) Mallar arasındaki marjinal ikame oranı malların fiyatlarının oranına eşit olur.",
+  "D": "D) Her mala harcanan paranın marjinal faydası aynıdır.",
+  "E": "E) Tüketici bütçe doğrusu üzerindeki iki nokta arasındaki fark gözetmez",
+  "Image": 1,
+  "Explaination": "Tüketiciler hep daha fazla ve kaliteli mallar tüketmek isteseler de harcamalarını sınırlandıran bir bütçe kısıtl vardır. Ayrıca, bireyler bugünkü tüketim ile gelecekte tüketim için tasarruf etmek arasında bir tercih yapmak durumunda kaldıklarında; ortaya bütçe kısıtl çıkmaktadır.\nTüketici, toplam gelirini tüketimi arasında paylaştırırken kendisine en büyük faydayı sağlayacak olan tercihi yapacaktır. Bunu yaparken bir yandan orijinden olabildiğince uzaklaşmaya bir Tüketicinin fayda maksimizasyonunu bütçe kısıtl doğrusuna teğet olan farksızlık eğrisi üzerinde ve teğet noktasında gerçekleştirdiği dikkate alındığında, bütçe doğrusu üzerinde noktalar arasında fark gözetecektir.\n",
+  "Answer": "E) Tüketici bütçe doğrusu üzerindeki iki nokta arasındaki fark gözetmez"
+ },
+ {
+  "Question": "Bir ülkede derlenen mevcut verilere göre toplam iş gücü 40 milyon, istihdam 35 milyon, çalışma yaşındaki nüfus ise 50 milyon kişidir. Bu veriler çerçevesinde söz konusu ülkede işgücüne katılım oranı yüzde kaçtır?",
+  "A": "A) 10",
+  "B": "B) 30",
+  "C": "C) 70",
+  "D": "D) 80",
+  "E": "E) 87,5",
+  "Image": 1,
+  "Explaination": "İşgücüne katılım oranız (İşgücü \/ Yetişkin Nüfus) x 100      (40\/50)*100=80",
+  "Answer": "D) 80"
+ },
+ {
+  "Question": "Sadece ekmek ve su tüketen bir ailede baz yılı olarak kabul edilen 2024'de su için 40 TL, ekmek için 25 TL harcama yapılmıştır. Baz yılında su 4 TL, ekmek ise 5 TL' dir. 2025 yılında su fiyatı 4 TL, ekmek fiyatı ise 6 TL olarak gerçekleşmiştir. Bu verilere göre söz konusu aile için 2025 yılı enflasyon oranı yüzde kaçtır?",
+  "A": "A) 7,7",
+  "B": "B) 10",
+  "C": "C) 20",
+  "D": "D) 25",
+  "E": "E) 50",
+  "Image": 1,
+  "Explaination": "2024 için harcama: 40\/4:10 birim su 25\/5:5 birim ekmek alınmıştır.\nToplam harcama 40+25:65 TL'dir.\n2025 de yapılan harcama: 4* 10:40 TL su, TL ekmek harcaması yapılmıştır.\nToplam harcama 40+30:70 TL'dir. Fiyatlardaki\nArtış:  (%7,7)\n",
+  "Answer": "A) 7,7"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bir ülkenin tam istihdam reel üretim düzeyini belirleyebilmek için gerekli olan ekonomik değişkenlerden biri değildir?",
+  "A": "A) Reel yatırım ve tasarruf ",
+  "B": "B) İstihdam",
+  "C": "C) Reel faiz oranı",
+  "D": "D) Reel üretim miktarı",
+  "E": "E) Fiyat düzeyi",
+  "Image": 1,
+  "Explaination": "Tam istihdam reel üretim düzeyini belirleyebilmek için gerekli olan ekonomik değişkenler;\n• Reel yatırım ve tasarruf • Reel faiz oranı\n• İstihdam • Reel üretim miktarı\n• Fiyat düzeyi reel üretim düzeyinin belirlenmesinde - gerekli olan ekonomik değişkenlerden biri değildir.\n",
+  "Answer": "E) Fiyat düzeyi"
+ },
+ {
+  "Question": "Faiz oranındaki bir artışın neden olacağı ikame etkisi gelir etkisini tamamen dengeliyorsa, tasarruf eğrisinin eğimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) A) Tasarruf eğrisinin eğimi l'den büyüktür",
+  "B": "B) Tasarruf eğrisi negatif eğimlidir",
+  "C": "C) Tasarruf eğrisi yatay eksene paraleldir",
+  "D": "D) Tasarruf eğrisi pozitif eğimlidir",
+  "E": "E) Tasarruf eğrisi yatay eksene 90 derece diktir. ",
+  "Image": 1,
+  "Explaination": "Faiz oranındaki bir artışın neden olacağı ikame etkisi gelir etkisini tamamen dengeliyorsa, tasarruf eğrisinin eğimi yatay eksene 90 derece dik olur.",
+  "Answer": "E) Tasarruf eğrisi yatay eksene 90 derece diktir. "
+ },
+ {
+  "Question": "Bir varlıktan elde edilen vergi öncesi nominal getiri oranı yüzde 12, enflasyon oranı yüzde 9 ise, bu varlıktan elde edilecek vergi sonrası reel getiriyi negatife dönüştürecek minimum vergi oranı yüzde kaçtır?",
+  "A": "A)  75",
+  "B": "B) 25",
+  "C": "C) 12",
+  "D": "D) 9",
+  "E": "E) 3",
+  "Image": 1,
+  "Explaination": "Enflasyon oranı % 9 olduğuna göre, vergi sonrası reel getiriyi negatife düşürecek oranın vergi sonrası %9'dan küçük bir nominal getiri oranı olması gerekir. Reel getiriyi negatife çevirecek bu vergi oranı ise %25tir. Çünkü nominal getiri olan 0,121nin 0,25 vergi oranı üzerinden vergilendirilmesi durumunda vergi sonrası nominal getiri oranı:\nEkonomide fiilen üretilen mal ve hizmet miktarına denir. Toplam talebin belirlediği bu üretim miktarı yıldan yıla değişim gösterdiği için dalgalı çizgilerle (konjonktürel dalga) ifade edilmektedir.\nPotansiyel GSYİH; Üretim faktörlerinin tamamının istihdam edilmesi durumunda ulaşılabilecek maksimum üretim düzeyidir. Potansiyel GSYİH durumunda ekonomi tam istihdamda varsayıldığı için bu kavram Tam İstihdam GSYİH' Si, ya da işsizlik oranının doğal işsizliğe eşit olduğu durumdaki hasıla miktarı olduğu için Doğal GSYiH olarak da adlandırılır.\nGSYiH Açığı  Fiili (Reel) GSYİH - Potansiyel GSYiH\nBu şekilde hesaplanan açık mutlak değer cinsinden açığı ifade eder. GSYİH açığı yüzde cinsinden de ifade edilmektedir.\nGSYiH Açığı (Fiili GSYiH - Potansiyel GSYiH) \/ Potansiyel GSYİH)x100\n",
+  "Answer": "D) 9"
+ },
+ {
+  "Question": "Üretim açığını tanımlayan kavram aşağıdakilerden hangisidir?",
+  "A": "A) Reel ve potansiyel GSYiH arasındaki fark",
+  "B": "B) Fiili ve arzulanan reel GSYİH arasındaki fark",
+  "C": "C) Fiili ve potansiyel GSYİH arasındaki farkın enflasyondan arındırılmış hali",
+  "D": "D) Fiili ve potansiyel GSYİH arasındaki yüzde fark",
+  "E": "E) Fiili ve reel GSYİH arasındaki yüzde fark",
+  "Image": 1,
+  "Explaination": "Fiili GSYİH ile potansiyel GSYİH arasındaki z fark üretim açığı, \"GSYİH Açığı” ya da büyüme analizlerinde \"Çıktı Boşluğu” olarak adlandırılır.\n \nise gerçekleşen milli gelir potansiyel üretim seviyesinin altında yer almaktadır. Dolayısıyla gerçekleşen GSYİH seviyesindeki 11080=30 milyon $'lık açık devresel açıktır.\n",
+  "Answer": "A) Reel ve potansiyel GSYiH arasındaki fark"
+ },
+ {
+  "Question": "Dış ticaret hadleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Uluslararası ticaret yasalarının maddeleri ile ilgili bir kavramdır",
+  "B": "B) Bir ülkenin marjinal dönüşüm oranıdır.",
+  "C": "C) Gümrük Tarifeleri ve Ticaret Genel Anlaşması tarafından tespit edilmiştir",
+  "D": "D) Tıcarete konu olan malların, ticarette diğer mallarla hangi oranda değiştirilebileceğini gösterir.",
+  "E": "E) Dünya Ticaret Örgütü tarafından tespit edilmiştir.",
+  "Image": 1,
+  "Explaination": "Dış ticaret haddi, bir ülkenin ithal ve ihraç ettiği malların fiyatlarındaki değişmeler dolayısıyla dış ticaretten sağladığı kazançları ya da uğradığı zararları ölçmeye yarayan bir kavramdır. Diğer bir ifade ile bir birimlik mal ithal edebilmek için, ihraç edilmesi gereken mal miktarındaki değişimdir. Dış ticaret haddi, ihracat fiyat endeksi ile ithalat fiyat endeksi arasındaki orandır. Ticarete konu olan malların, ticarette diğer mallarla hangi oranda değiştirilebileceğini gösterir.",
+  "Answer": "D) Tıcarete konu olan malların, ticarette diğer mallarla hangi oranda değiştirilebileceğini gösterir."
+ },
+ {
+  "Question": "Bir Giffen malı için aşağıdakilerden hangisi kesinlikle doğrudur?",
+  "A": "A) Tüketicinin geliri artarsa, mala olan talep artar.",
+  "B": "B) Tüketicinin geliri azalırsa, mala olan talep değişmez.",
+  "C": "C) Fiyatı artarsa, mala olan talep artar",
+  "D": "D) Fiyatı azalırsa, mala olan talep artar",
+  "E": "E) Fiyatı azalırsa ve tüketicinin geliri artarsa mala olan talep artar",
+  "Image": 1,
+  "Explaination": "Giffen malı, bir malın fiyatının artması sonucunda talebinin de artmasıdır. Yani malların fiyatı düştükçe, talebinin azalması durumudur. Bu tür mallara düşük mallar da denebilir.\nBu çelişkiye ilk kez İrlandalı bir iktisatçı olan Robert Giffen (1837- 1910) işaret ettiği için buna O'nun adı verilmiştir. Giffen, işçiler üzerine yaptığı incelemelerde, ekmek fiyatları yükseldiğinde işçilerin ekmek tüketiminin de arttığını, tersine fiyatlar düştüğünde tüketimin de azaldığını gözlemlemiştir.\nGiffen, fiyatı artanın tüketiminin azalacağı genel kuralına aykırı bulduğu bu gözlemini bir paradoks olarak niteler. Gerçekte bu bir paradoks değildir, çünkü ekmek fiyatıyla birlikte öbür besinlerin fiyatları da artmakta ve yoksul insanlar öbür besinlerden kıstıklarını çok ekmek yiyerek tamamlamaktadırlar.\n",
+  "Answer": "C) Fiyatı artarsa, mala olan talep artar"
+ },
+ {
+  "Question": "Aşağıdaki varsayımlardan hangisi farksızlık eğrilerinin orijine göre dışbükey olmalarını sağlar?",
+  "A": "A) Malların normal mal olması",
+  "B": "B) Tüketici tercihlerinin tam olması",
+  "C": "C) Tüketici tercihlerinin geçişken olması",
+  "D": "D) Daha çok malın daha az mala tercih edilmesi",
+  "E": "E) Azalan marjinal ikame oranı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "E) Azalan marjinal ikame oranı"
+ },
+ {
+  "Question": "Bir malın arz eğrisi aşağıdaki durumların hangisinde sağa doğru kayar?",
+  "A": "A) Fiyatının artması",
+  "B": "B) Fiyatının azalması",
+  "C": "C) Üretim teknolojisinin gelişmesi",
+  "D": "D) Üretim faktörlerinin fiyatının artması",
+  "E": "E) Vergi oranlarının artması ",
+  "Explaination": "Arz eğrisindeki kaymalara neden olan değişimler fiyat dışındaki değişimlerdir. Altın Kural ilkesine göre fiyat dışındaki iyi gelişmeler eğriyi sağa, kötü gelişmeler eğriyi sola kaydırır. Arz eğrisi üretim teknolojisinin gelişmesi durumunda sağa kayar. Bir malın üretim teknolojisindeki gelişme üretim faktörlerinin verimliliğini arttırarak malın maliyetini düşürmektedir. Söz konusu malın maliyetinin düşmesine rağmen, fiyatı sabit kalırsa üretici açısından kar marjı artacağından, arzı artarak sağa kayacaktır. Bunun tersine üretim teknolojisinde bir gerileme olursa, maliyetler artacaktır. Fiyat sabit kalırsa, arz azalacak sola kayacaktır",
+  "Answer": "C) Üretim teknolojisinin gelişmesi"
+ },
+ {
+  "Question": "Tam rekabet piyasasında marjinal maliyeti 4 TL olan bir firma, fiyat 3 TL iken kısa dönemde kaç birim üretim yapar?",
+  "A": "A) 0",
+  "B": "B) 1",
+  "C": "C) 3",
+  "D": "D) 4",
+  "E": "E) 12",
+  "Image": 1,
+  "Explaination": "Tam rekabet piyasasında marjinal maliyeti 4 TL olan bir firma, fiyat 3 TL iken kısa dönemde zarar durumu söz konusu olduğundan üretim yapmaz.",
+  "Answer": "A) 0"
+ },
+ {
+  "Question": "Katı (yapışkan) ücret modeline göre aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Beklenen ve gerçekleşen reel ücret düzeyleri farklı olabilir.",
+  "B": "B) Kısa dönem toplam arz eğrisi emek piyasasındaki aksaklık nedeniyle pozitif eğimlidir",
+  "C": "C) Gerçekleşen fiyat düzeyi beklenen fiyat düzeyinden yüksek ise istihdam azalır.",
+  "D": "D) Uzun dönem arz eğrisi üzerinde beklenen ve gerçekleşen fiyat düzeyleri eşittir",
+  "E": "E) Gerçekleşen fiyat düzeyi beklenen fiyat düzeyinden yüksek ise gerçekleşen reel ücret hedeflenen düzeyden düşük olur ",
+  "Image": 1,
+  "Explaination": "Toplam arz konusunda yeni klasik yaklaşım temelde emek arzına odaklanmaktadır. Her dönemde, işçiler çalışmaya ve boş zamana ne kadar zaman ayıracaklarına karar vermek zorundadırlar.\nİşçilerin cari ya da beklenen ortalama reel ücrete ilişkin bazı fikirleri olduğu varsayılmaktadır. Buna göre emek arzı cari reel ücrete bağlıdır.\nBurada boş zaman ve çalışma arasında bir seçim söz konusudur. Eğer cari reel ücret beklenen reel ücretin üzerindeyse, işçiler gelecekte daha fazla boş zaman için bugün daha çok çalışmaya (daha az boş zamana) güdüleneceklerdir.\nTersine, cari reel ücret düzeyi beklenen reel ücret düzeyinin altındaysa, işçiler bu kez daha az çalışıp daha çok boş zamana sahip olmaya çalışacaklardır. Bundan dolayı emek arzının reel ücretlerde algılanan geçici değişimlere cevap vereceği farz edilmektedir.\nDaha açık bir ifadeyle, işçiler, çalışma ve boş zaman arasındaki getiriyi maksimum hale getirmişken ücret artarsa, öncelikle ücret artışının sürekli mi yoksa geçici mi olduğuna karar vereceklerdir. Eğer reel ücret artışlarının sürekli olduğuna karar verirlerse, emek arzlarını değiştirmezler ama reel ücret artışlarının geçici olduğunu düşünüyorlarsa, bu durumda emek arzlarını artırırlar. Gelecekte daha fazla tüketmek için boş zaman-çalışma ilişkisi değiştirilecektir. Çünkü gelecekte boş zamana kıyasla bugünkü boş zamanın fiyatı artacaktır.\nÜcret ve Fiyat Yapışkanlığının Nedenleri\n• Koordinasyon Yetersizlikleri; Para stokundaki bir artış sonucu, hasıla değişmeden fiyatlar para arzı ile aynı oranda yükselir. Eğer bir firma ürünlerinin fiyatını diğer firmalar henüz fiyatlarını artırmadan, para stokundaki artış ile aynı oranda artırırsa, müşterilerini diğer firmalara kaptırabilir. Bütün firmalar fiyatlarını aynı anda ve aynı oranda artırırlarsa, yeni denge ortaya çıkar. Fakat tüm firmalar fiyatları artırmak için koordine edilemeyeceği için her bir firma, para stokundaki artışı ürünlerine yönelik talepte bir artış olarak algıladıkça önce üretimlerini, sonra da fiyatlarını artırırlar. Bu da ekonomideki tüm fiyatların ayarlanmasının belli bir süre almasına ve kısa dönemde toplam arz eğrisinin pozitif eğimli olmasına neden olur.\n• Liste Maliyetleri ve Toplam Talep Dışsallıkları; Bir firmanın fiyatlarını değiştirmek için, tüketicilerine yeni kataloglar göndermesi, satış personeline yeni fiyat listeleri dağıtması ya da restoranlarda olduğu gibi yeni menüler bastırması gerekir. Liste, katalog ya da menü maliyetleri olarak adlandırılan bu tür fiyat ayarlamalarının maliyeti nedeni ile fiyatlar yapışkandır.\n• Etkin Ücret Teorisi; Azgelişmiş ülkelerde daha yüksek ücretler, işçilerin daha iyi beslenmelerine ve daha iyi eğitime kavuşmalarını sağlayarak verimliliğini artırır. Bu nedenle ücretler yapışkandır.\n• Sözleşmeler ve Uzun Dönem İlişkileri; Ücretlerin yapışkan olmasının nedeni işgücü piyasasında firmalar ile işçiler arasındaki ilişkilerin uzun dönemli olması ve sözleşmelerdir.\n• Fiyatların Karışık Ayarlanması; Ekonomide tüm firmalar fiyatlarını aynı zamanda ayarlamaz. Firmaların hiçbiri fiyatını ilk yükselten işletme konumunda olmak istemez. Herhangi bir firma fiyatını diğerlerinden önce yükseltirse piyasadaki payını kaybeder. Bu nedenle, fiyatlar yavaş bir şekilde ayarlanır. Fiyatlardaki bu yavaş ayarlanma pozitif eğimli bir toplam arz eğrisine neden olur.\n• içeridekiler-Dışarıdaki\/er Modeli; Firmalar, işsizleri işe alıp istihdam etmek yerine, halen çalışmakta olan işçilerini koruma eğilimindedirler. Çünkü firmalar eski işçileri işten çıkarmanın, yenilerini eğitmenin maliyeti gibi nedenlerle elemanlarını değiştirmeyi ve yenilerinin istihdamını genelde istemezler.\n• İşçilerin Yanlış Algılama Modeli; İşçiler geçici bir süre için reel ve nominal ücretleri tam olarak ayırt edemezler. işçilerin nominal ücretlerini bilmelerine karşın fiyatlar genel düzeyini tam olarak bilmedikleri varsayılır. Buna göre işçiler ne kadar çalışacaklarının kararını verirken, beklenen reel ücret düzeyini göz önünde bulundururlar\n",
+  "Answer": "C) Gerçekleşen fiyat düzeyi beklenen fiyat düzeyinden yüksek ise istihdam azalır."
+ },
+ {
+  "Question": "Toplam planlanan harcamalarla ilgili aşağıdaki ifadelerden hangisi",
+  "A": "A) Kamu transferlerindeki artış, toplam planlanan harcamaları artırır.",
+  "B": "B) Marjinal tüketim eğilimindeki artış, toplam planlanan harcamaları artırır.",
+  "C": "C) Marjinal vergi haddindeki artış, toplam planlanan harcamaları azaltır.",
+  "D": "D) Otonom vergilerdeki artış, toplam planlanan harcamaları azaltır.",
+  "E": "E) Marjinal ithalat eğilimindeki artış, toplam planlanan harcamaları artırır.",
+  "Image": 1,
+  "Explaination": "Bir ülkenin ithalatında değişik sebeplerle artış ya da azalış olabilir. Eğer bir ülkenin fiyatlarına göre uluslararası nispi fiyatlar daha düşükse, yani birçok mal ve hizmet dış ülkelerde daha düşük maliyetle üretiliyorsa, ithalatı artacaktır. Bir ülkenin ithalatındaki artış bazı mal ve hizmetlerin üretiminde uluslararası uzmanlaşmanın da sonucu olabilir. Bütün bu faktörler marjinal ithalat eğilimini arttırır. Marjinal ithalat eğilimi ne kadar yüksekse, marjinal harcama eğilimi o kadar az olacaktır ve dolayısıyla toplam planlanan harcamaları azaltacaktır.",
+  "Answer": "E) Marjinal ithalat eğilimindeki artış, toplam planlanan harcamaları artırır."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi sabit döviz kuru uygulayan bir ekonomide devalüasyon yapılmasının sonuçlarından biri değildir?",
+  "A": "A) Marshall-Lerner koşulu altında net ihracat azalır.",
+  "B": "B) Marshall-Lerner koşulu altında net ihracat artar.",
+  "C": "C) Marshall-Lerner koşulu altında toplam planlanan harcama azalır",
+  "D": "D) İhracat talebinin fiyat esnekliğine bağlı olarak ihracat miktarı azalır.",
+  "E": "E) İthalat talebinin fiyat esnekliğine bağlı olarak ithalat miktarı artar.",
+  "Image": 1,
+  "Explaination": "Döviz kuru artışlarının, ithalatı ne kadar azaltacağı ve ihracatı ne kadar arttıracağı, ithal ve ihraç edilen malların, talep ve arz esnekliğine bağlıdır.\nMarshall-Lerner koşulunda, devalüasyonun dış ticaret performansı üzerinde olumlu bir etki meydana getirebilmesi için, ithal malları ve ihraç malları talep esneklikleri mutlak değerleri toplamının, birden büyük olması gerekmektedir. Bu koşul altında net ihracatın artacağı ifadesi yanlıştır.\n",
+  "Answer": "B) Marshall-Lerner koşulu altında net ihracat artar."
+ },
+ {
+  "Question": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+  "A": "A) Keynesyen modelde, nominal ücret veri iken fiyat düzeyindeki artış toplam emek talebini artırır",
+  "B": "B) Klasik modelde, fiyat düzeyi veri iken nominal ücretteki artış toplam emek talebini artırır",
+  "C": "C) Klasik modelde, fiyat düzeyi veri iken nominal ücretteki artış toplam emek talebini azaltır",
+  "D": "D) Keynesyen modelde, fiyat düzeyi veri iken nominal ücretteki artış toplam emek talebini azaltır",
+  "E": "E) Klasik modelde, nominal ücretler esnek, firmalar ve işçiler fiyat düzeyi konusunda tam bilgiye sahiptir.",
+  "Image": 1,
+  "Explaination": "Klasik Okulun İşgücü piyasasına ilişkin varsayımları;\n- İşgücü arzı, reel ücretin artan bir fonksiyonu iken, işgücü talebi reel ücretin azalan yönlü bir fonksiyonudur.\n- İşgücü ücretleri, işgücü arzı ve talebi tarafından belirlenir. Reel ücretler tam esnek bir yapıya sahiptir. Bundan dolayı işgücü piyasası sürekli temizlenir. Yani, işgücü arzı işgücü talebini aştığında reel ücretler düşer, işgücü talebi işgücü arzını aştığında ise yükselir ve piyasa dengesi otomatik olarak sağlanır.\n- Ekonomi daima tam istihdamdadır. Bunu sağlayan da reel ücretlerin esnek olmasıdır. Ücretler, en son işsiz kişi istihdam edilinceye kadar düşer. Tam istihdamdan sapma olması yani eksik istihdam durumu geçicidir. Otomatik işleyen piyasa mekanizması tekrar tam istihdamı sağlar.\n- Ekonomide sadece iradi işsizlik (yani isteğe bağlı) söz konusudur.\nBu kapsamda, klasik modelde, fiyat düzeyi veri iken nominal ücretteki artış toplam emek talebini azaltır.\n",
+  "Answer": "B) Klasik modelde, fiyat düzeyi veri iken nominal ücretteki artış toplam emek talebini artırır"
+ },
+ {
+  "Question": "Türkiye'de genel tarım sayımı ilk kez hangi yılda yapılmıştır?",
+  "A": "A) 1924",
+  "B": "B) 1927",
+  "C": "C) 1929",
+  "D": "D) 1934",
+  "E": "E) 1946",
+  "Image": 1,
+  "Explaination": "Türkiye'de genel tarım sayımı ilk kez 1927 yılında yapılmıştır.",
+  "Answer": "B) 1927"
+ }
+]

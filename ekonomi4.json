@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Tahvil arzı eğrisinin negatif eğimli çizilebilmesi için, diğer şartlar sabitken, dikey eksende hangi değişken yer almalıdır?",
+  "A": "A) Enflasyon oranı",
+  "B": "B) Tahvil fiyatı",
+  "C": "C) Faiz oranı",
+  "D": "D) Risk",
+  "E": "E) Beklenen enflasyon oranı",
+  "Image": 1,
+  "Explaination": "Grafiğin dikey ekseninde faiz oranı yer almalıdır. Çünkü tahvil satış fiyatı ile faiz oranı arasında ters yönlü bir ilişki vardır. Faiz oranı ile tahvil fiyatı arasındaki ters yönlü ilişki nedeniyle tahvil arz eğrisi negatif eğim kazanır ve faiz oranı düştükçe satılmak istenen tahvil miktarı artmaktadır.",
+  "Answer": "C) Faiz oranı"
+ },
+ {
+  "Question": "Teknik ikame oranı aşağıdakilerden hangisidir?",
+  "A": "A) Bir girdiye ait ortalama ürünün bir başka girdiye ait ortalama ürüne oranı",
+  "B": "B) Bir girdiye ait marjinal ürünün bir diğer girdiye ait marjinal ürüne oranı",
+  "C": "C) Bir girdiye ait marjinal ürünün bu girdiye ait toplam ürüne oranı ",
+  "D": "D) Bir girdiye ait toplam ürünün diğer girdiye ait toplam ürüne oranı",
+  "E": "E) Bir girdiye ait ortalama ürünün bu girdiye ait toplam ürüne oranı",
+  "Image": 1,
+  "Explaination": "Bir girdiye ait marjinal ürünün bir diğer girdiye ait marjinal ürüne oranına teknik ikame oranı denir.",
+  "Answer": "B) Bir girdiye ait marjinal ürünün bir diğer girdiye ait marjinal ürüne oranı"
+ },
+ {
+  "Question": "Fiyatlar genel düzeyinde meydana gelen artışın neden olacağı servet etkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur? ",
+  "A": "A) Faiz oranı düşer ve bu nedenle yatırımlar artar. ",
+  "B": "B) Yerli mallara olan yabancı talep artar",
+  "C": "C) Yerli para değer kazanır ve ithalat artar. ",
+  "D": "D) Paranın değeri düşer ve bu nedenle tüketim harcamaları azalır.",
+  "E": "E) Faiz oranı artar ve bu nedenle yatırımlar azalır. ",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) Paranın değeri düşer ve bu nedenle tüketim harcamaları azalır."
+ },
+ {
+  "Question": "Farksızlık eğrilerinin sol yukarıdan sağ aşağıya inmelerinin nedeni aşağıdakilerden hangisidir?",
+  "A": "A) Tüketicinin aynı fayda düzeyinde kalabilmesi için bir malın kullanım miktarını artırdığı zaman, diğer malın kullanım miktarlarını azaltması",
+  "B": "B) Farksızlık eğrilerinin içbükey olması",
+  "C": "C) Bir malın fiyatı arttığında tüketicinin reel gelirinin artması",
+  "D": "D) Tüketicinin aynı fayda düzeyinde kalabilmesi için bir malın kullanım miktarını artırırken, diğer malın kullanım miktarını değiştirmemesi",
+  "E": "E) Bir malın fiyatı azaldığında tüketicinin reel gelirinin azalması",
+  "Image": 1,
+  "Explaination": "Farksızlık eğrilerinin sol yukarıdan sağ aşağıya inmelerinin nedeni, tüketicinin aynı fayda düzeyinde kalabilmesi için bir malın kullanım miktarını artırdığı zaman, diğer malın kullanım miktarlarını azaltmasıdır.",
+  "Answer": "A) Tüketicinin aynı fayda düzeyinde kalabilmesi için bir malın kullanım miktarını artırdığı zaman, diğer malın kullanım miktarlarını azaltması"
+ },
+ {
+  "Question": "A ve B gibi iki mal arasındaki çapraz talep esnekliğinin değeri negatif (EAB 0 ) ise, bu iki mal nasıl mallardır?",
+  "A": "A) Lüks mal",
+  "B": "B) Rakip mal ",
+  "C": "C) Tamamlayıcı mal",
+  "D": "D) Serbest mal ",
+  "E": "E) Düşük mal",
+  "Image": 1,
+  "Explaination": "Tamamlayıcı mal, birinin kullanımı diğerinin kullanımını da gerekli kılan veya birlikte kullanımından daha fazla fayda sağlanılan mallardır. Tamamlayıcı mallar, çapraz fiyat esnekliği negatif mallardır.",
+  "Answer": "C) Tamamlayıcı mal"
+ },
+ {
+  "Question": "Bir malın fiyatının yakın gelecekte artacağını düşünen tüketicilerin, söz konusu mala ilişkin taleplerini artırmaları sonucu aşağıdakilerden hangisi meydana gelir?",
+  "A": "A) Denge miktarı artar, denge fiyatı sabit kalır",
+  "B": "B) Denge fiyatı artar, denge miktarı sabit kalır",
+  "C": "C) Hem denge fiyatı hem de denge miktarı azalır",
+  "D": "D) Denge fiyatı artarken, denge miktarı azalır",
+  "E": "E) Hem denge fiyatı hem de denge miktarı artar",
+  "Image": 1,
+  "Explaination": "Bir malın fiyatının yakın gelecekte artacağını düşünen tüketicilerin, söz konusu mala ilişkin taleplerini artırmaları sonucu hem denge fiyatı, hem de denge miktarı artar.",
+  "Answer": "E) Hem denge fiyatı hem de denge miktarı artar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, bir malın talep eğrisinin yer değiştirmesine neden olmaz?",
+  "A": "A) Tüketicilerin zevk ve tercihlerindeki değişme",
+  "B": "B) Tüketicinin gelirindeki değişme",
+  "C": "C) ikame mallarının fiyatlarındaki değişme",
+  "D": "D) Alıcı sayısındaki değişme",
+  "E": "E) İlgili malın fiyatındaki değişme",
+  "Image": 1,
+  "Explaination": "Diğer koşullar sabitken, malın fiyatında meydana gelecek bir değişme aynı talep eğrisi üzerinde aşağıya veya yukarıya hareket edilmesini gerektirir.Fiyatın dışında talebi etkileyen ve sabit kabul edilen faktörlerde ortaya çıkacak bir değişme talep eğrisinin bir bütün olarak sağa veya sola kaymasına neden olur.\nİktisatta talep edilen miktardaki değişme ile talepteki değişme kavramlarını ayırt etmek gerekir. Talep miktarındaki değişme malın fiyatındaki değişme nedeniyle ortaya çıkar ve talep eğrisi üzerinde hareketlenmeye neden olur. Talepteki değişme ise talebi etkileyen ve analizde sabit kaldığı kabul edilen faktörlerdeki değişme sonucu ortaya çıkar ve talep eğrisinin bir bütün olarak yer değiştirmesine yol açar\n",
+  "Answer": "E) İlgili malın fiyatındaki değişme"
+ },
+ {
+  "Question": "Arz miktarı sabitken talep miktarlarında artış olması durumunda aşağıdakilerden hangisi gerçekleşir?",
+  "A": "A) Talep eğrisi sabit kalır, denge fiyatı değişmez",
+  "B": "B) Talep eğrisi sağa doğru kayar, denge fiyatı yükselir",
+  "C": "C) Talep eğrisi sola doğru kayar, denge fiyatı yükselir.",
+  "D": "D) Talep eğrisi sağa doğru kayar, denge fiyatı düşer.",
+  "E": "E) Talep eğrisi sola doğru kayar, denge fiyatı düşer.",
+  "Image": 1,
+  "Explaination": "Arz miktarı sabitken talep miktarlarında artış olması durumunda, talep eğrisi sağa doğru kayar ve denge fiyatı yükselir.",
+  "Answer": "B) Talep eğrisi sağa doğru kayar, denge fiyatı yükselir"
+ },
+ {
+  "Question": "Bir ülke sermaye malı üretimini arttırabilmek için tüketim malları üretimini azaltıyorsa, bu ülke ekonomisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Ekonomi, üretim imkanları eğrisi üzerinde yer almaktadır.",
+  "B": "B) Kaynaklar etkin olarak kullanılamamaktadır",
+  "C": "C) Ekonomi, üretim imkanları eğrisi dışında kalan bir noktada yer almaktadır.",
+  "D": "D) Ekonomi, üretim imkanları eğrisi içinde kalan bir noktada yer almaktadır",
+  "E": "E) Tüketim malları üretiminde kaynak israfı söz konusudur.",
+  "Image": 1,
+  "Explaination": "Bir ülke sermaye malı üretimini arttırabilmek için tüketim malları üretimini azaltıyorsa, bu ülke ekonomisi üretim imkanları eğrisi üzerinde yer alıyor demektir",
+  "Answer": "A) Ekonomi, üretim imkanları eğrisi üzerinde yer almaktadır"
+ },
+ {
+  "Question": "l. Çevre kirliliği II. Düşük ücretler\nIII. Yüksek faiz oranları\nYukarıdakilerden hangileri piyasa aksaklığı kapsamında değerlendirilir?\n",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) Yalnız III",
+  "D": "D) II ve III",
+  "E": "E) I, II ve III",
+  "Image": 1,
+  "Explaination": "Piyasa aksaklıklarının en önemli nedenlerinden birisi dışsallıklardır. Dışsallıklar negatif ve pozitif dışsallıklar olarak ikiye ayrılır. Negatif dışsallık mal veya hizmetin optimumdan fazla, pozitif dışsallık ise daha az üretilmesine neden olmaktadır. Negatif dışsallık için en önemli örnek ise çevre kirliliğidir.",
+  "Answer": "A) Yalnız I"
+ },
+ {
+  "Question": "Sağlık Bakanlığının, armut yetiştiricileri tarafından kullanılan gübrenin yetişkin ve çocuklar üzerinde kanserojen etki yarattığını açıklaması durumunda armut piyasasında nasıl bir değişiklik gözlenir?",
+  "A": "A) Denge fiyatı düşer, denge miktarı artar",
+  "B": "B) Denge fiyatı ve denge miktarı değişmez",
+  "C": "C) Denge fiyatı düşer, denge miktarı azalır",
+  "D": "D) Denge fiyatı yükselir, denge miktarı azalır",
+  "E": "E) Denge fiyatı yükselir, denge miktarı artar",
+  "Image": 1,
+  "Explaination": "Sağlık Bakanlığı'nın, armut yetiştiricileri tarafından kullanılan gübrenin yetişkin ve çocuklar üzerinde kanserojen etki yarattığını açıklaması durumunda talep düşüşü görüleceğinden, armut piyasasında denge fiyatı ve denge miktarı düşer.",
+  "Answer": "C) Denge fiyatı düşer, denge miktarı azalır."
+ },
+ {
+  "Question": "X malı çok küçük ancak pozitif bir talebin gelir esnekliği katsayısına sahipse, bu mal ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Zorunlu maldır.",
+  "B": "B) Lüks maldır.",
+  "C": "C) Düşük maldır.",
+  "D": "D) Çok sayıda ikamesi vardır.",
+  "E": "E) Çok sayıda tamamlayıcısı vardır.",
+  "Image": 1,
+  "Explaination": "Normal olarak talebin gelir elastikiyeti pozitiftir; çünkü gelir arttıkça, tüketicinin mal talebi de artar. X malı da pozitif bir talebin gelir esnekliği katsayısına sahip ise bu mal zorunlu maldır.Daha düşük önemdeki malların talebinin elastikiyeti ise negatiftir; çünkü gelir artınca tüketici bu çeşit mal talebini azaltır, kaliteli mallar ikame eder (Giffen Paradoksu).\nZorunlu malların gelir elastikiyeti düşüktür (ep 1). Tüketici gelir seviyesi ne olursa olsun bu gibi malları belirli bir miktarda almak ister.\n",
+  "Answer": "A) Zorunlu maldır."
+ },
+ {
+  "Question": "l. Tavan fiyatı uygulaması \nII. Artan marjinal maliyetin varlığı\nIII. Tekel piyasalarının varlığı\nYukarıdakilerden hangileri piyasaların etkinliğe ulaşmasının önündeki engeller arasında yer alır?\n",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) I ve II",
+  "D": "D) I ve III",
+  "E": "E) I, II ve III",
+  "Image": 1,
+  "Explaination": "Tavan fiyatı uygulaması ve tekel piyasalarının varlığı, piyasalara müdahale nitelikli işlemler olup, piyasanın kendi dengesini bulmasını dolayısıyla etkinliğini önleyici uygulamalardır",
+  "Answer": "D) I ve III"
+ },
+ {
+  "Question": "Bir malın tüketilen miktarı arttıkça, azalan marjinal faydanın söz konusu olabilmesi için toplam faydanın ne şekilde değişmesi gerekir?",
+  "A": "A) Artan oranda artması",
+  "B": "B) Azalan oranda artması",
+  "C": "C) Artan oranda azalması",
+  "D": "D) Sabit oranda azalması",
+  "E": "E) Sabit oranda artması",
+  "Image": 1,
+  "Explaination": "Toplam fayda, bir mal ya da mal demetinin tüketilmesi neticesinde elde edilen tatmindir. Marjinal fayda ise, bu mal tüketiminin bir birim daha artırılması sonucu kişinin sağladığı ek tatmin düzeyidir. Bu nedenle \"marjinal” kavramı bir bakış açısı ya da bir yaklaşım olayıdır.\nTüketici bir maldan tüketimini devamlı artırırsa sağlayacağı toplam fayda, tüketilen mal miktarı ile birlikte artmaya başlar. Tüketicinin tatminini maksimumlaştırdığı noktada toplam fayda eğrisi de maksimum olur ve azalmaya başlar. Marjinal fayda ise başlangıçtan itibaren giderek azalır ve doyma noktasında sıfır olur. Daha sonra negatif değer kazanır.\nDolayısıyla bir malın tüketilen miktarı arttıkça, azalan marjinal faydanın söz konusu olabilmesi için toplam faydanın azalan oranda artması gerekir.\n",
+  "Answer": "B) Azalan oranda artması"
+ },
+ {
+  "Question": "Bir malın değişen fiyatı karşısında talep eğrisinin tam esnek olması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Marjinal gelir fiyata eşittir.",
+  "B": "B) Marjinal gelir sıfırdır.",
+  "C": "C) Talep eğrisi yatay eksene 900 diktir",
+  "D": "D) Talep eğrisi pozitif eğimlidir.",
+  "E": "E) Marjinal maliyet sıfırdır.",
+  "Image": 1,
+  "Explaination": "Bir malın değişen fiyatı karşısında talep eğrisinin tam esnek olması, talep eğrisi yatay eksene paralel olduğu için, marjinal gelir fiyata eşittir. (MRzP)",
+  "Answer": "A) Marjinal gelir fiyata eşittir."
+ },
+ {
+  "Question": "Tam rekabet koşullarında çalışan bir firma kapatma kararı alırsa, toplam zararı aşağıdakilerden hangisine eşit olur?",
+  "A": "A) Toplam değişken maliyete",
+  "B": "B) Minimum ortalama değişken maliyete",
+  "C": "C) Ortalama toplam maliyete",
+  "D": "D) Toplam sabit maliyete",
+  "E": "E) Toplam maliyete",
+  "Image": 1,
+  "Explaination": "Tam rekabet koşullarında çalışan bir firma kapatma kararı alırsa, toplam zararı toplam sabit maliyete eşit olur.",
+  "Answer": "D) Toplam sabit maliyete"
+ },
+ {
+  "Question": "Yarı-zamanlı (part-time) olarak çalışan ancak tam zamanlı (full-time) çalışmak isteyen bir kişinin resmi işsizlik istatistiklerindeki durumu aşağıdakilerden hangisidir?",
+  "A": "A) İşsizlere dahildir.",
+  "B": "B) Yarı işsiz - yarı istihdam edilenlere dahildir.",
+  "C": "C) İşinden memnunsa istihdam edilenlere, memnun değilse işsizlere dahildir.",
+  "D": "D) İstihdama dahildir.",
+  "E": "E) Yarı işsiz olarak kabul edilir.",
+  "Image": 1,
+  "Explaination": "Yarı-zamanlı (part-time) olarak çalışan ancak tam zamanlı (full-time) çalışmak isteyen bir kişinin resmi işsizlik istatistiklerindeki durumu istihdama dahildir.",
+  "Answer": "D) İstihdama dahildir."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi toplam talep egrısının yer değiştirmesine neden olmaz?",
+  "A": "A) Kamu harcamalarında azalma",
+  "B": "B) Fiyatlar genel düzeyinde artış",
+  "C": "C) Gelecekte elde edilmesi beklenen gelirde artış",
+  "D": "D) Para arzında azalma",
+  "E": "E) Diğer ülkelerin cari gelirinde artış",
+  "Image": 1,
+  "Explaination": "Toplam talep eğrisi çeşitli faktörler\ntarafından etkilenmekte, bu faktörlerin etkisiyle aşağı veya yukarı doğru kaymaktadır. Bu faktörlerin\nbir kısmı, ekonomi politikalarını kontrol eden (hükümet veya merkez bankası) kesimlerin uyguladıkları maliye ve para politikalarıdır. Diğer kısmı ise uluslararası faktörler ve halkın beklentilerinden oluşmaktadır. Toplam talep eğrisini kaydıran bu faktörler;\n• Hükümet politikalarındaki değişmeler (maliye ve para politikaları),\n• Firma ve bireylerin beklentilerindeki değişmeler ve\n• Uluslararası faktörlerdir (yabancıların milli gelir düzeyleri, fiyat düzeyleri ve döviz kuru).\nHükümetler uyguladıkları maliye ve para politikalarıyla toplam talebi doğrudan etkileyebilirler. Mesela hükümet kamu harcamaları, transfer harcamaları ve vergileri kullanarak toplam talebi (AD) değiştirebilir. Hükümetin maliye politikası dışında Merkez Bankasının uygulayacağı para politikasıyla da (para arzı ve faiz oranları) AD (Toplam Talep) eğrisi yer değiştirebilmektedir.\nFirma ve bireylerin ekonomiyle ilgili geleceğe yönelik beklentileri onların harcamalarını doğrudan etkilemektedir. Örneğin bir firma gelecek dönemde karlarının artacağını düşünüyorsa yani gelecekle ilgili iyimser bir beklentisi varsa yatırım harcamalarını arttıracaktır. Böylece AD eğrisi sağa kayacaktır. Kötümser bir beklenti söz konusuysa AD eğrisi sola kayacaktır.\nYabancıların milli gelir düzeyleri, fiyat düzeyleri ve döviz kuru gibi uluslararası faktörler de AD eğrisinde kaymalara neden olabilmektedir. Örneğin yabancıların gelir düzeylerindeki bir artışın, Türkiye'deki mal ve hizmetlere olan talebi artırması halinde ihracat artışı yaşanacağı için AD eğrisi sağa kayacaktır.\nAncak, fiyatlar genel düzeyindeki artış arz eğrisinde (AS) değişikliğe neden olur.\n",
+  "Answer": "B) Fiyatlar genel düzeyinde artış"
+ },
+ {
+  "Question": "l. Çalışılan saat başına düşen sermaye miktarında azalma\nII. Yeni sermaye malları yatırımında azalma\nIII. Karlılık olanaklarında artış\nIV. Yatırımlarda artış\nResesyona giren bir ekonominin resesyondan çıkışına kadar olan gelişmelerinin doğru sıralanışı aşağıdakilerden hangisidir?\n",
+  "A": "A) I, II, III ve IV",
+  "B": "B) II, I, III ve IV",
+  "C": "C) II, I, IV ve III",
+  "D": "D) II, III, I ve IV",
+  "E": "E) IV, I, II ve III",
+  "Image": 1,
+  "Explaination": "Resesyona giren bir ekonominin resesyondan çıkışına kadar olan gelişmeler sırasıyla;\n• Yeni sermaye malları yatırımında azalma\n• Çalışılan saat başına düşen sermaye miktarında azalma\n• Karlılık olanaklarında artış\n• Yatırımlarda artış şeklinde gerçekleşir",
+  "Answer": "B) II, I, III ve IV"
+ },
+ {
+  "Question": "A ülkesi X malının üretiminde B ülkesine göre daha düşük bir fırsat maliyetine sahipse aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) A ve B ülkeleri dış ticaretten herhangi bir yarar elde edemezler.",
+  "B": "B) B ülkesi X malı üretiminde mutlak üstünlüğe sahiptir.",
+  "C": "C) A ülkesi X malı üretiminde mutlak üstünlüğe sahiptir.",
+  "D": "D) B ülkesi X malı üretiminde karşılaştırmalı üstünlüğe sahiptir.",
+  "E": "E) A ülkesi X malı üretiminde karşılaştırmalı üstünlüğe sahiptir.",
+  "Image": 1,
+  "Explaination": "A ülkesi X malının üretiminde B ülkesine göre daha düşük bir fırsat maliyetine sahipse, A ülkesi X malı üretiminde karşılaştırmalı üstünlüğe sahiptir",
+  "Answer": "E) A ülkesi X malı üretiminde karşılaştırmalı üstünlüğe sahiptir."
+ }
+]

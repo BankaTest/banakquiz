@@ -1,0 +1,221 @@
+[
+ {
+  "Question": "Bir Giffen malına ait Engel eğrisinin şekli nasıldır?",
+  "A": "A) Eğimi sıfır olan bir eğridir",
+  "B": "B) Pozitif eğimli bir doğrudur",
+  "C": "C) Pozitif eğimli dışbükey bir eğridir",
+  "D": "D) Pozitif eğimli içbükey bir eğridir",
+  "E": "E) Negatif eğimli bir eğridir",
+  "Image": 1,
+  "Explaination": "Giffen (düşük) mallar, gelir arttıkça talebi azalan mallar olduğu için, gelir esnekliğinin işareti ve Engel eğrisi negatif eğimlidir.",
+  "Answer": "E) Negatif eğimli bir eğridir"
+ },
+ {
+  "Question": "Kısa dönemde ortalama değişken maliyet eğrisinin U biçiminde olmasının nedeni aşağıdakilerden hangisidir?",
+  "A": "A) Ölçeğe göre artan getiri durumu",
+  "B": "B) Ölçeğe göre azalan getiri durumu",
+  "C": "C) C) Firmanın üretim teknolojisini değiştirememek gibi bir kısıtının olması",
+  "D": "D)Değişken faktörün marjinal veriminin önce artıp sonra da azalması",
+  "E": "E) Önce ölçeğe göre artan getirinin, sonra da ölçeğe göre azalan getirinin geçerli olması",
+  "Image": 1,
+  "Explaination": "Değişken faktörün marjinal verimi önce artıp sonra azaldığı için, kısa dönemde ortalama değişken maliyet eğrisi U biçiminde olur.",
+  "Answer": "D) Değişken faktörün marjinal veriminin önce artıp sonra da azalması"
+ },
+ {
+  "Question": "Homojen bir malın üretildiği Bertrand düopol piyasası denge fiyatıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Tekel fiyatına eşittir",
+  "B": "B) Tam rekabet fiyatının üzerindedir",
+  "C": "C) Cournot piyasası denge fiyatından büyüktür",
+  "D": "D) Cournot piyasası denge fiyatına eşittir",
+  "E": "E) Cournot piyasası denge fiyatından küçüktür",
+  "Image": 1,
+  "Explaination": "Bertrand düopol modelinde firmanın amacı, rakibi fiyatını sabit tutarken, kendi karını maksimize edecek olan üretim düzeyini belirlemektir. Cournot düopol modelinden farklı olarak, bu modelde denge, miktar rekabetiyle değil, fiyat rekabetiyle gerçekleşmektedir. Bu nedenle denge fiyatı Cournot piyasası denge fiyatından küçüktür.",
+  "Answer": "E) Cournot piyasası denge fiyatından küçüktür"
+ },
+ {
+  "Question": "Marjinal tasarruf eğilimi ile marjinal ithalat eğilimi arasındaki ilişki aşağıdakilerden hangisidir?",
+  "A": "A) İkisinin toplamı l'den büyüktür",
+  "B": "B) İkisinin toplamı l'den küçüktür",
+  "C": "C) İkisinin toplamı 1'e eşittir",
+  "D": "D) Marjinal tasarruf eğilimi, marjinal ithalat eğiliminden büyüktür",
+  "E": "E) Marjinal tasarruf eğilimi, marjinal ithalat eğiliminden küçüktür",
+  "Image": 1,
+  "Explaination": "Marjinal tasarruf eğilimi, harcanabilir gelirdeki birim değişikliğin tasarrufta yarattığı değişikliğin değeridir. Marjinal ithalat eğilimi ise, gelirdeki birim artışın ithalatta yaratacağı artışın ölçüsüdür. Marjinal tasarruf eğilimi ile marjinal",
+  "Answer": "E) Marjinal tasarruf eğilimi, marjinal ithalat eğiliminden küçüktür"
+ },
+ {
+  "Question": "Aynı anda artış gösteren enflasyon ve işsizlik olgusu en basit şekilde nasıl açıklanabilir?",
+  "A": "A) Toplam talep eğrisinin sola kaymasıyla",
+  "B": "B) Toplam talep eğrisinin sağa kaymasıyla",
+  "C": "C) Toplam arz eğrisinin sola kaymasıyla",
+  "D": "D) Toplam arz eğrisinin sağa kaymasıyla",
+  "E": "E) Toplam arz eğrisinin sola kayması ve toplam talep eğrisinin sağa kaymasıyla",
+  "Image": 1,
+  "Explaination": "Enflasyon ve işsizliğin aynı anda artması, toplam arz eğrisinin sola kaymasıyla açıklanabilir",
+  "Answer": "C) Toplam arz eğrisinin sola kaymasıyla"
+ },
+ {
+  "Question": "Monetarist görüşe göre, IS ve LM eğrilerine İlişkin aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) IS ve LM eğrilerinin her ikisi de oldukça diktir",
+  "B": "B) IS eğrisi oldukça dik, LM eğrisi yataydır",
+  "C": "C) IS ve LM eğrilerinin her ikisi de oldukça yataydır",
+  "D": "D) LM eğrisi oldukça dik, IS eğrisi görece yataydır",
+  "E": "E) E) LM eğrisi dik, IS eğrisi her zaman yataydır",
+  "Image": 1,
+  "Explaination": "Tam istihdam dengesindeki bir ekonomide para arzı değişmez ve herhangi bir nedenle toplam gelir düzeyi artarsa, para talebi ve faiz oranı artarken, yatırım ve toplam harcamalar azalmaktadır.",
+  "Answer": "B) IS eğrisi oldukça dik, LM eğrisi yataydır"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Keynesyen ve Klasik makroiktisat teorileri arasındaki temel farklardan biridir?",
+  "A": "A) Keynesyenler toplam arzın önemini, Klasikler ise toplam talebin önemini vurgulamıştır.",
+  "B": "B) Keynesyenler ekonominin sadece tam istihdam üretim düzeylerinde dengede olabileceğini vurgularken, Klasikler buna katılmamaktadır.",
+  "C": "C) Keynes'e göre planlanan yatırımlar, tam istihdam gelir düzeyinin hane halkı tarafından tasarruf edilmek istenen kısmına eşit olmayabilir.",
+  "D": "D) Keynes'e göre, ücretlerin ve fiyatların esnek olması nedeniyle ekonomi tam istihdam üretim seviyesine ulaşma eğilimindedir",
+  "E": "E) Klasikler toplam talep yönetimi politikalarının gerekliliğini vurgularken, Keynesyenler ekonominin tam istihdam üretim düzeylerine kendiliğinden dönme eğilimini ön plana çıkarmışlardır.",
+  "Image": 1,
+  "Explaination": "Keynes, faizin tasarruf arzı ile sermaye talebine göre değil, para arz ve talebine göre oluştuğunu kabul etmiştir.\nKeynes'e göre, yatırım ve tasarruf kararları birbirinden bağımsız olarak verildiği için, planlanan tasarruflar, planlanan yatırımlara her zaman eşit olamayacaktır. Tasarruflar, faiz oranına değil, gelir düzeyine bağlıdır. Faiz oranı ne olursa olsun, geliri yetersiz olan kimse tasarruf yapamaz.\nBu bakımdan faiz, tasarruflarla yatırımları birbirine eşitleyen bir unsur değildir. Tasarruf ve yatırım kararları birbirinden bağımsız olduğu için, tasarruflar yatırımlardan fazla olabilir.\n",
+  "Answer": "C) Keynes'e göre planlanan yatırımlar, tam istihdam gelir düzeyinin hane halkı tarafından tasarruf edilmek istenen kısmına eşit olmayabilir."
+ },
+ {
+  "Question": "Nominal GSMH'nin para stokuna bölümü aşağıdakilerden hangisini verir?",
+  "A": "A) Para çoğaltanı",
+  "B": "B) Paranın dolaşım hızı",
+  "C": "C) Paranın elde tutulma süresi",
+  "D": "D) Reel GSMH",
+  "E": "E) GSMH zımni deflatörü",
+  "Image": 1,
+  "Explaination": "Nominal GSMH \/ Para StokuzParanın Dolaşım Hızını vermektedir.",
+  "Answer": "D) Reel GSMH"
+ },
+ {
+  "Question": "Keynesyen teoriye göre elde para tutmanın fırsat maliyeti yüksekse aşağıdakilerden hangisi  söylenebilir? ",
+  "A": "A) Faiz oranları yüksektir ve spekülatif para talebi  düşer.",
+  "B": "B) Faiz oranları yüksektir ve spekülatif para talebi yükselir.",
+  "C": "C) Talep edilen tahvil miktarı azalır",
+  "D": "D) Faiz oranları düşüktür ve spekülatif para talebi düşer.",
+  "E": "E) Faiz oranları düşüktür ve spekülatif para talebi yükselir.",
+  "Image": 1,
+  "Explaination": "Keynes'e göre faiz oranı arttıkça kişilerin ellerinde işlem talebi ile gerektirdiğinden fazla para bulundurmalarının maliyeti artar. Faiz oranları ile para talebi arasında ters bir ilişki vardır. Faiz oranı ile spekülatif para talebi ilişkisi de ters yönlü olduğundan, faiz oranları yükselir ve spekülatif para talebi düşer.",
+  "Answer": "A) Faiz oranları yüksektir ve spekülatif para talebi  düşer."
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Türkiye ekonomisinde 1975-2000 dönemindeki yetersiz ve istikrarsız\nbüyümenin  temel  nedeni  olarak kabul edilmektedir?\n",
+  "A": "A) Sürekli ve yüksek oranlı enflasyon",
+  "B": "B) Dış ticaret açıkları ",
+  "C": "C) Yüksek oranlı işsizlik",
+  "D": "D) Yüksek oranlı devalüasyonlar",
+  "E": "E) Finansal kriz",
+  "Image": 1,
+  "Explaination": "Türkiye ekonomisinde 1975- 2000 dönemindeki yetersiz ve istikrarsız büyümenin temel nedeni sürekli ve yüksek oranlı enflasyon oranlarıdır. 2000 Kasım ve 2001 Şubat krizlerinden sonra uygulanan Güçlü Ekonomiye Geçiş Programı ile enflasyonu düşürme ve büyümenin önündeki yapısal engellerin kaldırılması amaçlanmıştır.",
+  "Answer": "A) Sürekli ve yüksek oranlı enflasyon"
+ },
+ {
+  "Question": "Stagflasyonla mücadelede uygulanan gelirler politikasında aşağıdaki önlemlerden hangisi  almaz? ",
+  "A": "A) Kamu gelirlerinin artırılarak enflasyonist etkilerin kontrol edilmeye çalışılması",
+  "B": "B) Mal ve üretim faktörlerindeki fiyat artışlarının  belirli ölçütlere bağlanması",
+  "C": "C) Ücret artışlarının üretkenlik artışına bağlanarak  enflasyonist artışların önlenmesi",
+  "D": "D) Artan fiyat ve ücretleri kontrol etmek amacıyla firma ve sendikaların ikna edilmesi",
+  "E": "E) Doğal tekellerin sunduğu mal ve hizmet fiyatlarının kontrol edilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Kamu gelirlerinin artırılarak enflasyonist etkilerin kontrol edilmeye çalışılması"
+ },
+ {
+  "Question": "İktisat politikalarında 1960'Iı yıllara kadar ağırlık verilen talep yönetimine ilişkin aşağıdaki önermelerden hangisi yanlıştır?",
+  "A": "A) Toplam talebin kontrol edilmesinde kullanılacak maliye ve para politikası araçları doğrudan hükûmetin elindedir.",
+  "B": "B) Veri bir iş gücü düzeyinde kısa dönem istihdamın temel, hatta tek belirleyicisi toplam talep miktarıdır",
+  "C": "C) Amaç çatışmaları olması halinde ekonomik hedeflere talep yönetimi ile ulaşmak mümkün değildir",
+  "D": "D) Normal koşullarda, yeterli analizler ve doğru  zamanlama ile düzenlenen talep yoluyla bütün  hedeflere ulaşmak mümkündür",
+  "E": "E) Toplam talep miktarının ödemeler dengesi, enflasyon ve ekonomik büyüme üzerinde önemli etkileri vardır. ",
+  "Image": 1,
+  "Explaination": "Keynesle başlayan ve daha sonra NeoKlasik Keynesyen Sentez olarak devam eden talep ağırlıklı iktisat politikalarında ekonominin gidişatı ağırlıklı olarak toplam talebe dayandırılmaktadır. Bu politikalar içinde ise amaç çatışmalarının hedeflere ulaşmada bir engel olduğuna dair bir öngörü bulunmamaktadır.",
+  "Answer": "C) Amaç çatışmaları olması halinde ekonomik hedeflere talep yönetimi ile ulaşmak mümkün değildir"
+ },
+ {
+  "Question": "Operasyonel açık nedir? ",
+  "A": "A) Kamu gelirlerinin toplam faiz ödemelerine oranı",
+  "B": "B) Faiz dışı açık ile reel faiz ödemelerinin toplamı",
+  "C": "C) Kamu kesimi borçlanma gereksinimi ile faiz ödemelerinin toplamı",
+  "D": "D) D) Faiz dışındaki kamu harcamalarının kamu gelirlerini aşan kısmı",
+  "E": "E) Yıl sonu (gerçekleşme) itibariyle kamu harcamalarının kamu gelirlerini aşan kısmı",
+  "Image": 1,
+  "Explaination": "Bütçe açığı genel olarak devletin belli bir dönemde (genellikle bir yılda) bütçe gelirleri ve giderleri arasındaki fark olarak tanımlanmaktadır. Bütçe açığı, bütçe giderlerinin gelirlerinden fazla olması anlamına gelmektedir.\nBütçe Açıklarının Farklı Tanımları\nKamu kesiminde oluşan bu açıklar çeşitli şekillerde tanımlanmaktadır. Bunlardan en yaygın olarak kullanılanları konsolide bütçe açığı, geleneksel açık (conventional deficit), birincil açık (primary deficit) ve işlemsel açıktır (operational deficit).\nAçık türleri:\n• Bütçe Açığı\nTürkiye'de kamu kuruluşları bütçe düzeni olarak iki\nşekilde örgütlenmektedir. Merkezi yönetim kuruluşları genel bütçe içinde yer alırken, yönetim giderlerinin bir kısmı ya da tamamı kendi özel gelirleri ile karşılanan, her biri ayrı tüzel kişiliğe sahip ve genel bütçenin eki şeklinde ayrı bir bütçesi olan kuruluşlar da (Üniversiteler, Karayolları Genel Müdürlüğü gibi) özel bütçe içinde yer almaktadır.\nBütçe dengesi, bütçe gelir ve harcamalarının farkı karşılaştırılarak hesaplanır. Bütçe tahmini gelirlerinin tahmini giderlere yetmemesi durumunda bütçe açığı meydana gelir.\n• Geleneksel Açık\nGeleneksel açık, borç anapara geri ödemeleri hariç (ama borçlanmanın faiz ödemeleri dahil ) bütün kamu harcamaları ile borçlanma dışındaki kamu gelirleri arasındaki farktır. Yani borçlanma ile elde edilen gelir, borç geri ödemeleri gider olarak değerlendirilmezken borç faiz ödemeleri giderlere dahil edilmektedir. Böylece geleneksel açık; merkez bankasından doğrudan borçlanma dahil net kamu borçlanması ile karşılanabilen açığı ifade\netmektedir.\n• Birincil Açık: Faiz ödemeleri bütçe giderleri içine dahil edildiği zaman ortaya çıkan bütçe açıkları, daha önceki yönetimler döneminde oluşan bütçe açıklarını da kapsamaktadır. Bunun için bütçe açıklarından faiz ödemeleri çıkarıldıktan sonra kalan \"birincil açık” hükümetin, kontrol ettiği bütçe durumunu ifade ettiği için cari yıldaki politikaların başarısını değerIendirmek için iyi bir araçtır. Ayrıca birincil açık kamu açıklarının sürdürülebilirliği açısından da önemli bir kavramdır. Bir ülkede kamu bütçesinin uzun süre birincil açık vermeye devam etmesi tehlikeli bir durumdur.\n• İşlemsel Açık (Operasyonel Açık): Bütçe açığından enflasyon etkisi ile büyüyen kısmının çıkarılması ile oluşan açığa işlemsel veya operasyonel açık denir. Bu durumda işlemsel açık, birincil açık ile faiz ödemelerinin reel toplamı olarak ifade edilebilir. Bu açığın hesaplanmasında kullanılan enflasyon oranının gerçeği ne kadar yansıttığı önemli bir konudur. Enflasyon karşısında, nominal faiz oranlarında enflasyon kadar meydana gelen bir artış enflasyonun meydana getirdiği artışı telafi eder. Ancak nominal faiz oranları enflasyondan daha fazla artıyorsa, devlet borç senetlerine sahip olanların servetinde bir artış söz konusu olmaktadır.\nDolayısı ile operasyonel açık, faiz dışı açık ile reel faiz ödemelerinin toplamına eşittir.\n",
+  "Answer": " B) Faiz dışı açık ile reel faiz ödemelerinin toplamı"
+ },
+ {
+  "Question": "J eğrisi etkisine göre, bir ülkede devalüasyon yapılması sonucunda ortaya çıkacak etkiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+  "A": "A) Çok kısa dönemde ihracatı artarken ithalatı azalır.",
+  "B": "B) Çok kısa dönemde ithalatı artarken ihracatı azalır",
+  "C": "C) Dış ticaret bilançosu üzerindeki olumlu etkisi gecikmelidir",
+  "D": "D) İstihdam düzeyinde çok kısa dönemde düşüşe neden olur",
+  "E": "E) İstihdam düzeyinde uzun dönemde düşüşe neden olur",
+  "Explaination": "J eğrisi, devalüasyonun ilk etapta dış ticaret dengesini kötüleştireceğini, ancak bu durumun belirli bir süre sonra tersine döneceğini iddia eden eğridir. Bu nedenle, dış ticaret bilançosu üzerindeki olumlu etkisi gecikmelidir.",
+  "Answer": "C) Dış ticaret bilançosu üzerindeki olumlu etkisi gecikmelidir"
+ },
+ {
+  "Question": "Hem ABD hem de Türkiye dış ticaret dengesine sahipken ABD Dolarının TL'ye göre değer kazanması sonucunda aşağıdakilerden hangisi gerçekleşir? (Diğer değişkenler sabittir.)",
+  "A": "A) ABD'de dış ticaret fazlası ortaya çıkar",
+  "B": "B) Türkiye'de dış ticaret fazlası ortaya çıkar",
+  "C": "C) Türkiye'de dış ticaret açığı ortaya çıkar. ",
+  "D": "D) Her iki ülkede de dış ticaret açığı ortaya çıkar.",
+  "E": "E) Her iki ülkede de dış ticaret fazlası ortaya çıkar",
+  "Image": 1,
+  "Explaination": "Hem ABD hem de Türkiye dış ticaret dengesine sahipken, ABD dolarının TL'ye göre değer kazanması sonucunda Türkiye'de dış ticaret fazlası ortaya çıkar. Çünkü Türkiye'de TL'nin değer kaybetmesine bağlı olarak ihracat cazip hale geleceğinden ihracatta artış yaşanacaktır. Buna karşılık ithal ürünlerin fiyatları pahalı hale geleceğinden ithal ürün tüketimi düşecek bu ise ithalatı azaltacaktır. Dolayısıyla ihracat artışı ve ithalattaki azalma dış ticaret fazlası yaratacaktır.",
+  "Answer": "B) Türkiye'de dış ticaret fazlası ortaya çıkar"
+ },
+ {
+  "Question": "Marjinal maliyetin ortalama maliyetten düşük olduğu bir üretim düzeyi için aşağıda yapılan değerIendirmelerden hangisi doğrudur?",
+  "A": "A) Ortalama sabit maliyet artmaktadır.",
+  "B": "B) Ortalama toplam maliyet azalmaktadır",
+  "C": "C) Ortalama toplam maliyet maksimumdur",
+  "D": "D) Ortalama toplam maliyet artmaktadır",
+  "E": "E) Ortalama toplam maliyet minimumdur",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Ortalama toplam maliyet maksimumdur"
+ },
+ {
+  "Question": "Fiyat değişikliklerinin gelir ve ikame etkisine ayrıştırılmasına ne ad verilir?",
+  "A": "A) Pigou eşitliği",
+  "B": "B) Veblen eşitliği",
+  "C": "C) Slutsky eşitliği",
+  "D": "D) Hicks eşitliği",
+  "E": "E) Giffen eşitliği",
+  "Image": 1,
+  "Explaination": "Fiyat değişmesinin yaratacağı toplam etkinin ne ölçüde gelir ve ne ölçüde ikame nedeniyle ortaya çıktığını Slutsky eşitliği gösterir",
+  "Answer": "C) Slutsky eşitliği"
+ },
+ {
+  "Question": "Aşağıda belirtilen eşitliklerden hangisinde talebin fiyat esnekliği değeri birimine eşittir?",
+  "A": "A) Ortalama hasılat=0",
+  "B": "B) Marjinal hasılat=0",
+  "C": "C) Marjinal Maliyet = Ortalama Maliyet ",
+  "D": "D) Marjinal Maliyet = Marjinal Hasılat ",
+  "E": "E) Marjinal Hasılat = Ortalama Hasılat ",
+  "Image": 1,
+  "Explaination": "Talep eğrileri normal olarak aşağıya doğru eğimlidirler. Fiyat artınca talep düşmekte, azalınca artmaktadır.\nBuradan hareketle, MR (marjinal getiri) + ise, TR (toplam getiri) artmaktadır. MR ise TR azalmaktadır. MR 0 ise TR sabittir. Talep esnekliği grafiğinde MR' nin, miktar eksenini kestiği noktada MR:O 'dır. Burada TR sabittir. O halde TR'nin sabit olduğu noktada, talep birim esnekliğine sahiptir. Dolayısıyla marjinal hasılat O'a eşit olduğunda talebin fiyat esnekliği değeri birimine eşit olur.\n",
+  "Answer": "Marjinal hasılat=0"
+ },
+ {
+  "Question": "Piyasa düzenleyicisi konumundaki otorite doğal tekel konumunda olan bir firmayı çok sayıda küçük firmaya bölerek piyasayı yeniden düzenlerse, üretim maliyetlerinde meydana gelecek değişiklik aşağıdakilerden hangisidir?",
+  "A": "A) Tekelcinin arz eğrisinin eğimine bağlı olarak artabilir veya azalabilir.",
+  "B": "B) Değişmez. ",
+  "C": "C) Artar.",
+  "D": "D) Azalır ",
+  "E": "E) Tekelcinin talep eğrisinin eğimine bağlı olarak artabilir veya azalabilir ",
+  "Image": 1,
+  "Explaination": "Piyasa düzenleyicisi konumundaki otorite doğal doğal tekel konumunda olan bir fırmayı çok sayıda küçük firmaya bölerek piyasayı yeniden düzenlerse, tekel durumu ortadan kalkacaktır. Ayrıca ölçek ekonomisi kullanılamayacaktır. Sonuçta üretim maliyetlerinde artış meydana gelir. ",
+  "Answer": "C) Artar."
+ },
+ {
+  "Question": "Arz edilen miktarların sabit olması durumunda vergi yükünün dağılımı aşağıdakilerden hangisinde doğru verilmiştir?",
+  "A": "A) Verginin tamamını tüketici öder",
+  "B": "B) Verginin tamamını üretici öder",
+  "C": "C)  Vergi yükü üreticiler ve tüketiciler arasında eşit olarak paylaşılır",
+  "D": "D) Verginin daha büyük kısmını tüketici öder.",
+  "E": "E) Verginin daha büyük kısmını üretici öder. ",
+  "Image": 1,
+  "Explaination": "Vergi yükünün dağılımına (vergi yansıması) ilişkin durumlar şöyledir:\n• Talep esnekliği ve arz esnekliğinin birbirine eşit olması durumunda vergi yansıması: vergi yükü tüketici ve üretici arasında eşit paylaşılır.\n• Talep esnekliğinin arz esnekliğinden küçük olması durumunda vergi yansıması: verginin daha büyük bir bölümünü tüketici öder.\n• Talep esnekliğinin 0 olması durumunda vergi yansıması: verginin tamamını tüketici öder.\n• Talep esnekliğinin sonsuz olması durumunda vergi yansıması: verginin tamamını üretici öder.\n• Arz esnekliğinin sosuz olması durumunda vergi yansıması: verginin tümünü tüketici öder.\n• Arzın sabit olması yani esnekliğin olmaması durumunda ise verginin tamamını üretici öder.\n",
+  "Answer": "B) Verginin tamamını üretici öder"
+ }
+]
